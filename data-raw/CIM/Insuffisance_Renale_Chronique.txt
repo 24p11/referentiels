@@ -1,0 +1,10 @@
+CODE	LIBELLE
+N18	insuffisance rénale chronique
+N180	insuffisance rénale terminale
+N188	autres insuffisances rénales chroniques
+N189	insuffisance rénale chronique, sans précision
+N181	Maladie rénale chronique, stade 1
+N182	Maladie rénale chronique, stade 2
+N183	Maladie rénale chronique, stade 3
+N184	Maladie rénale chronique, stade 4
+N185	Maladie rénale chronique, stade 5

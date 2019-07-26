@@ -1,0 +1,105 @@
+CODE	LIBELLE
+C150	Tumeur maligne de l'oesophage cervical
+C151	Tumeur maligne de l'oesophage thoracique
+C152	Tumeur maligne de l'oesophage abdominal
+C153	Tumeur maligne du tiers supérieur de l'oesophage
+C154	Tumeur maligne du tiers moyen de l'oesophage
+C155	Tumeur maligne du tiers inférieur de l'oesophage
+C158	Tumeur maligne à localisations contiguës de l'oesophage
+C159	Tumeur maligne de l'oesophage, sans précision
+C160	Tumeur maligne du cardia
+C161	Tumeur maligne du fundus
+C162	Tumeur maligne du corps de l'estomac
+C163	Tumeur maligne de l'antre pylorique
+C164	Tumeur maligne du pylore
+C165	Tumeur maligne de la petite courbure de l'estomac, sans précision
+C166	Tumeur maligne de la grande courbure de l'estomac, sans précision
+C168	Tumeur maligne à localisations contiguës de l'estomac
+C169	Tumeur maligne de l'estomac, sans précision
+C169+0	Tumeur maligne de l'estomac, familiale liée au gène CDH 1
+C169+8	Tumeurs malignes de l'estomac, autres et non précisées
+C170	Tumeur maligne du duodénum
+C171	Tumeur maligne du jéjunum
+C172	Tumeur maligne de l'iléon
+C173	Tumeur maligne du diverticule de Meckel
+C178	Tumeur maligne à localisations contiguës de l'intestin grêle
+C179	Tumeur maligne de l'intestin grêle, sans précision
+C180	Tumeur maligne du caecum
+C181	Tumeur maligne de l'appendice
+C182	Tumeur maligne du côlon ascendant
+C183	Tumeur maligne de l'angle droit du côlon
+C184	Tumeur maligne du côlon transverse
+C185	Tumeur maligne de l'angle gauche du côlon
+C186	Tumeur maligne du côlon descendant
+C187	Tumeur maligne du côlon sigmoïde
+C188	Tumeur maligne à localisations contiguës du côlon
+C189	Tumeur maligne du côlon, sans précision
+C189+0	Syndrome de Lynch
+C189+8	Tumeurs malignes du côlon, autres et non précisées
+C19	Tumeur maligne de la jonction recto-sigmoïdienne
+C20	Tumeur maligne du rectum
+C210	Tumeur maligne de l'anus, sans précision
+C211	Tumeur maligne du canal anal
+C212	Tumeur maligne de la zone cloacale
+C218	Tumeur maligne à localisations contiguës du rectum, de l'anus et du canal anal
+C220	Carcinome hépatocellulaire
+C221	Carcinome du canal biliaire intrahépatique
+C222	Hépatoblastome
+C223	Angiosarcome du foie
+C224	Autres sarcomes du foie
+C227	Autres carcinomes du foie précisés
+C229	Tumeur maligne du foie, sans précision
+C23	Tumeur maligne de la vésicule biliaire
+C240	Tumeur maligne du canal biliaire extra-hépatique
+C241	Tumeur maligne de l'ampoule de Vater
+C248	Tumeur maligne à localisations contiguës des voies biliaires
+C249	Tumeur maligne des voies biliaires, sans précision
+C250	Tumeur maligne de la tête du pancréas
+C251	Tumeur maligne du corps du pancréas
+C252	Tumeur maligne de la queue du pancréas
+C253	Tumeur maligne du canal pancréatique
+C254	Tumeur maligne du pancréas endocrine
+C254+0	Tumeur maligne du pancréas endocrine avec néoplasie endocrine multiple de type I [NEM 1]
+C254+8	Tumeur maligne du pancréas endocrine, autre et non précisée
+C257	Tumeur maligne d'autres parties du pancréas
+C258	Tumeur maligne à localisations contiguës du pancréas
+C259	Tumeur maligne du pancréas, sans précision
+C259+0	Tumeur maligne du pancréas, familiale
+C259+8	Tumeur maligne du pancréas, autre et non précisée
+C260	Tumeur maligne du tractus intestinal, (partie non précisée)
+C261	Tumeur maligne de la rate
+C268	Tumeur maligne à localisations contiguës de l'appareil digestif
+C269	Tumeur maligne de sièges mal définis de l'appareil digestif
+C451	Mésothéliome du péritoine
+C4671	Sarcome de Kaposi digestif
+C480	Tumeur maligne du rétropéritoine
+C481	Tumeur maligne des parties précisées du péritoine
+C482	Tumeur maligne du péritoine, sans précision
+C488	Tumeur maligne à localisations contiguës du rétropéritoine et du péritoine
+C784	Tumeur maligne secondaire de l'intestin grêle
+C785	Tumeur maligne secondaire du gros intestin et du rectum
+C786	Tumeur maligne secondaire du rétropéritoine et du péritoine
+C787	Tumeur maligne secondaire du foie et des voies biliaires intrahépatiques
+C788	Tumeur maligne secondaire des organes digestifs, autres et non précisés
+D001	Carcinome in situ de l'oesophage
+D002	Carcinome in situ de l'estomac
+D010	Carcinome in situ du côlon
+D011	Carcinome in situ de la jonction recto-sigmoïdienne
+D012	Carcinome in situ du rectum
+D013	Carcinome in situ de l'anus et du canal anal
+D014	Carcinome in situ de parties de l'intestin, autres et non précisées
+D015	Carcinome in situ du foie, de la vésicule et des voies biliaires
+D017	Carcinome in situ d'autres organes digestifs précisés
+D019	Carcinome in situ d'un organe digestif, sans précision
+D371	Tumeur à évolution imprévisible ou inconnue de l'estomac
+D372	Tumeur à évolution imprévisible ou inconnue de l'intestin grêle
+D373	Tumeur à évolution imprévisible ou inconnue de l'appendice
+D374	Tumeur à évolution imprévisible ou inconnue du côlon
+D375	Tumeur à évolution imprévisible ou inconnue du rectum
+D376	Tumeur à évolution imprévisible ou inconnue du foie, de la vésicule et des voies biliaires
+D377	Tumeur à évolution imprévisible ou inconnue d'autres organes digestifs
+D379	Tumeur à évolution imprévisible ou inconnue de l'appareil digestif, sans précision
+D483	Tumeur à évolution imprévisible et inconnue du rétropéritoine
+D4830	Tératome sacro-coccygien [dysembryome]
+D4838	Autres tumeurs à évolution imprévisible ou inconnue du rétropéritoine
+D484	Tumeur à évolution imprévisible du péritoine

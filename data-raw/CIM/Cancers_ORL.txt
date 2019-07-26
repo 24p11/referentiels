@@ -1,0 +1,88 @@
+CODE	LIBELLE
+C000	lèvre supérieure, bord libre
+C001	lèvre inférieure, bord libre
+C002	lèvre, sans précision, bord libre
+C003	lèvre supérieure, face interne
+C004	lèvre inférieure, face interne
+C005	lèvre, sans précision, face interne
+C006	commissure des lèvres
+C008	lésion à localisations contiguës de la lèvre
+C009	lèvre, sans précision
+C01	tumeur maligne de la base de la langue
+C020	face dorsale de la langue
+C021	pointe et bords latéraux de la langue
+C022	face inférieure de la langue
+C023	deux tiers antérieurs de la langue, sans précision
+C024	amygdale linguale
+C028	lésion à localisations contiguës de la langue
+C029	langue, sans précision
+C030	gencive supérieure
+C031	gencive inférieure
+C039	gencive, sans précision
+C040	plancher antérieur de la bouche
+C041	plancher latéral de la bouche
+C048	lésion à localisations contiguës du plancher de la bouche
+C049	plancher de la bouche, sans précision
+C050	voûte palatine
+C051	voile du palais
+C052	luette
+C058	lésion à localisations contiguës du palais
+C059	palais, sans précision
+C060	muqueuse de la joue
+C061	vestibule de la bouche
+C062	région rétromolaire
+C068	lésion à localisations contiguës de la bouche, parties autres et non précisées
+C069	bouche, sans précision
+C07	tumeur maligne de la glande parotide
+C080	glande sous-maxillaire
+C081	glande sublinguale
+C088	lésion à localisations contiguës des glandes salivaires principales
+C089	glande salivaire principale, sans précision
+C090	fosse amygdalienne
+C091	pilier de l'amygdale (antérieur) (postérieur)
+C098	lésion à localisations contiguës de l'amygdale
+C099	amygdale, sans précision
+C100	sillon glosso-épiglottique
+
+C101
+C102
+C103
+C104
+C108
+C109
+C110
+C111
+C112
+C113
+C118
+C119
+C12
+C130
+C131
+C132
+C138
+C139
+C140
+C142
+C148
+C300
+C301
+C310
+C311
+C312
+C313
+C318
+C319
+C320
+C321
+C322
+C323
+C328
+C329
+C462
+C4670
+C770
+D000
+D020
+D370
+D380

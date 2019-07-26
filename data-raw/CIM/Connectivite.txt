@@ -1,0 +1,16 @@
+﻿CODE	LIBELLE
+D686	Autres thrombophilies
+I730	Syndrome de Raynaud
+L940	Sclérodermie localisée [morphée]
+L941	Sclérodermie linéaire
+M061	Maladie de Still survenant chez l'adulte
+M120	Arthropathie chronique post-rhumatismale [Jaccoud]
+M310	Angéite d'hypersensibilité
+M340	Sclérose systémique progressive
+M341	Syndrome C.R.E.S.T.
+M342	Sclérose systémique due à des médicaments et des produits chimiques
+M348	Autres formes de sclérose systémique
+M349	Sclérose systémique, sans précision
+M351	Autres formes de passage des atteintes systémiques du tissu conjonctif
+M358	Autres atteintes systémiques précisées du tissu conjonctif
+M941	Polychondrite récidivante

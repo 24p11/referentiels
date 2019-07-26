@@ -1,0 +1,6 @@
+﻿CODE	LIBELLE
+D690	Purpura allergique
+M310	Angéite d'hypersensibilité
+M315	Artérite à cellules géantes avec polymyalgie rhumatismale
+M316	Autres artérites à cellules géantes
+M318	Autres vasculopathies nécrosantes précisées

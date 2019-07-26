@@ -1,0 +1,109 @@
+ACTE	LIBELLE
+HMGH003	Ablation ou changement d'endoprothèse biliaire, par un drain transcutané déjà en place avec guidage échographique et/ou radiologique
+HMGH002	Ablation ou changement d'endoprothèse biliaire, par voie transcutanée avec guidage échographique et/ou radiologique
+HMKE001	Changement d'une endoprothèse biliaire, par oeso-gastro-duodénoscopie
+HEKE001	Changement d'une endoprothèse de l'oesophage, par endoscopie
+JEKE001	Changement d'une endoprothèse de l'urètre, par endoscopie
+HNKE001	Changement d'une endoprothèse du conduit pancréatique, par oeso-gastro-duodénoscopie
+HGKE001	Changement d'une endoprothèse du duodénum, par oeso-gastro-duodénoscopie
+JCKH001	Changement d'une endoprothèse urétérale par une néphrostomie déjà en place, avec guidage radiologique
+JCKE002	Changement d'une endoprothèse urétérale, par endoscopie rétrograde
+HMKE002	Changement de plusieurs endoprothèses biliaires, par oeso-gastro-duodénoscopie
+EZMH001	Contrôle radiologique secondaire de perméabilité et/ou de position d'un dispositif d'accès vasculaire ou d'une endoprothèse vasculaire, par injection de produit de contraste
+HZMP002	Contrôle radiologique secondaire de position et/ou de fonctionnement d'une sonde digestive, d'un drain biliaire ou d'une endoprothèse biliaire avec opacification par produit de contraste
+EHCF002	Création d'un court-circuit [shunt] portosystémique intrahépatique par pose d'endoprothèse, par voie veineuse transcutanée
+EZAF002	Dilatation intraluminale d'un accès vasculaire artérioveineux d'un membre avec pose d'endoprothèse, par voie vasculaire transcutanée
+ENAF001	Dilatation intraluminale d'un pontage artériel non anatomique des membres avec pose d'endoprothèse, par voie artérielle transcutanée
+DDAF008	Dilatation intraluminale d'un vaisseau coronaire avec artériographie coronaire, avec pose d'endoprothèse, par voie artérielle transcutanée
+DDAF006	Dilatation intraluminale d'un vaisseau coronaire avec pose d'endoprothèse, par voie artérielle transcutanée
+EDAF005	Dilatation intraluminale d'une artère digestive avec pose d'endoprothèse, par voie artérielle transcutanée
+EEAF002	Dilatation intraluminale d'une artère du membre inférieur avec dilatation intraluminale de l'artère iliaque commune et/ou de l'artère iliaque externe homolatérale avec pose d'endoprothèse, par voie artérielle transcutanée
+EEAF004	Dilatation intraluminale d'une artère du membre inférieur avec pose d'endoprothèse, par voie artérielle transcutanée
+ECAF001	Dilatation intraluminale d'une artère du membre supérieur avec pose d'endoprothèse, par voie artérielle transcutanée
+DFAF003	Dilatation intraluminale d'une branche de l'artère pulmonaire avec pose d'endoprothèse, par voie veineuse transcutanée
+DGAF004	Dilatation intraluminale d'une coarctation de l'aorte thoracique avec pose d'endoprothèse, par voie artérielle transcutanée
+EHAF004	Dilatation intraluminale d'une endoprothèse vasculaire intrahépatique pour court-circuit [shunt] vasculaire portosystémique, par voie veineuse transcutanée
+EFAF001	Dilatation intraluminale d'une veine du membre supérieur avec pose d'endoprothèse, par voie veineuse transcutanée
+DDAF007	Dilatation intraluminale de 2 vaisseaux coronaires avec artériographie coronaire, avec pose d'endoprothèse, par voie artérielle transcutanée
+DDAF004	Dilatation intraluminale de 2 vaisseaux coronaires avec pose d'endoprothèse, par voie artérielle transcutanée
+DDAF009	Dilatation intraluminale de 3 vaisseaux coronaires ou plus avec artériographie coronaire, avec pose d'endoprothèse, par voie artérielle transcutanée
+DDAF003	Dilatation intraluminale de 3 vaisseaux coronaires ou plus avec pose d'endoprothèse, par voie artérielle transcutanée
+EAAF900	Dilatation intraluminale de branche de l'artère carotide interne avec pose d'endoprothèse, par voie artérielle transcutanée
+DGAF005	Dilatation intraluminale de l'aorte abdominale avec pose d'endoprothèse, par voie artérielle transcutanée
+DGAF007	Dilatation intraluminale de l'aorte thoracique avec pose d'endoprothèse, par voie artérielle transcutanée
+EBAF010	Dilatation intraluminale de l'artère carotide commune cervicale avec pose d'endoprothèse, par voie artérielle transcutanée
+EBAF006	Dilatation intraluminale de l'artère carotide externe avec pose d'endoprothèse, par voie artérielle transcutanée
+EBAF001	Dilatation intraluminale de l'artère carotide interne extracrânienne avec pose d'endoprothèse, par voie artérielle transcutanée
+EDAF003	Dilatation intraluminale de l'artère iliaque commune et/ou de l'artère iliaque externe avec pose d'endoprothèse, par voie artérielle transcutanée
+EDAF006	Dilatation intraluminale de l'artère iliaque interne avec pose d'endoprothèse, par voie artérielle transcutanée
+EBAF014	Dilatation intraluminale de l'artère vertébrale extracrânienne avec pose d'endoprothèse, par voie artérielle transcutanée
+EAAF902	Dilatation intraluminale de l'artère vertébrale intracrânienne ou de l'artère basilaire avec pose d'endoprothèse, par voie artérielle transcutanée
+EBAF011	Dilatation intraluminale de la bifurcation carotidienne avec pose d'endoprothèse, par voie artérielle transcutanée
+DHAF004	Dilatation intraluminale de la veine cave inférieure avec pose d'endoprothèse, par voie veineuse transcutanée
+DHAF001	Dilatation intraluminale de la veine cave supérieure avec pose d'endoprothèse, par voie veineuse transcutanée
+EGAF002	Dilatation intraluminale de la veine iliaque externe et/ou de la veine iliaque commune avec pose d'endoprothèse, par voie veineuse transcutanée
+EHAF001	Dilatation intraluminale de la veine porte ou d'une anastomose portocave avec pose d'endoprothèse, par voie veineuse transcutanée
+EGAF004	Dilatation intraluminale de la veine rénale avec pose d'endoprothèse, par voie veineuse transcutanée
+EEAF006	Dilatation intraluminale de plusieurs artères du membre inférieur avec pose d'endoprothèse, par voie artérielle transcutanée
+DFAF001	Dilatation intraluminale de plusieurs branches de l'artère pulmonaire avec pose d'endoprothèse, par voie veineuse transcutanée
+ECAF004	Dilatation intraluminale du tronc artériel brachiocéphalique ou de l'artère carotide commune intrathoracique avec pose d'endoprothèse, par voie artérielle transcutanée
+EAAF002	Dilatation intraluminale du tronc de l'artère carotide interne intracrânienne avec pose d'endoprothèse, par voie artérielle transcutanée
+EDAF010	Dilatation intraluminale suprasélective de l'artère rénale avec pose d'endoprothèse, par voie artérielle transcutanée
+EDAF001	Dilatation intraluminale sélective ou hypersélective de l'artère rénale avec pose d'endoprothèse, par voie artérielle transcutanée
+HMJH005	Drainage externe d'un conduit biliaire avec pose d'une endoprothèse, par voie transcutanée avec guidage échographique et/ou radiologique
+HMJH001	Drainage externe de plusieurs conduits biliaires avec pose d'endoprothèse, par voie transcutanée avec guidage échographique et/ou radiologique
+EZPF003	Désobstruction mécanique d'un accès vasculaire artérioveineux avec dilatation intraluminale et pose d'endoprothèse, par voie vasculaire transcutanée
+EZNF002	Fibrinolyse in situ d'un accès vasculaire artérioveineux d'un membre avec dilatation intraluminale et pose d'endoprothèse, par voie vasculaire transcutanée
+HMLC001	Pose d'endoprothèse biliaire par cholédochotomie, par coelioscopie
+HMLA001	Pose d'endoprothèse biliaire par cholédochotomie, par laparotomie
+DGLF002	Pose d'endoprothèse couverte aorto-uniiliaque, par voie artérielle transcutanée
+DGLF001	Pose d'endoprothèse couverte bifurquée aortobisiliaque, par voie artérielle transcutanée
+DGLF003	Pose d'endoprothèse couverte dans l'aorte thoracique, par voie artérielle transcutanée
+EDLF004	Pose d'endoprothèse couverte dans l'artère iliaque commune et/ou l'artère iliaque externe avec embolisation de l'artère iliaque interne, par voie artérielle transcutanée
+EDLF005	Pose d'endoprothèse couverte dans l'artère iliaque commune et/ou l'artère iliaque externe, par voie artérielle transcutanée
+EDLF007	Pose d'endoprothèse couverte dans l'artère iliaque interne ou une branche extradigestive de l'aorte abdominale, par voie artérielle transcutanée
+EDLF013	Pose d'endoprothèse couverte dans l'artère rénale, par voie artérielle transcutanée
+ECLF004	Pose d'endoprothèse couverte dans le tronc artériel brachiocéphalique ou l'artère carotide commune intrathoracique, par voie artérielle transcutanée
+EDLF008	Pose d'endoprothèse couverte dans plusieurs artères digestives, par voie artérielle transcutanée
+EDLF006	Pose d'endoprothèse couverte dans une artère digestive, par voie artérielle transcutanée
+EELF002	Pose d'endoprothèse couverte dans une artère du membre inférieur, par voie artérielle transcutanée
+ECLF003	Pose d'endoprothèse couverte dans une artère du membre supérieur, par voie artérielle transcutanée
+EFLF001	Pose d'endoprothèse couverte dans une veine du membre supérieur, par voie veineuse transcutanée
+DGLF005	Pose d'endoprothèse couverte rectiligne dans l'aorte abdominale infrarénale, par voie artérielle transcutanée
+DGLF012	Pose d'endoprothèse fenêtrée ou multibranche dans l'aorte abdominale pour anévrisme complexe, par voie artérielle transcutanée
+LBLD024	Pose d'une attelle portegreffon ou d'une endoprothèse, après résection mandibulaire interruptrice
+HMLE002	Pose d'une endoprothèse biliaire, par oeso-gastro-duodénoscopie
+HMLH001	Pose d'une endoprothèse biliaire, par oeso-gastro-duodénoscopie et par voie transcutanée avec guidage échographique et/ou radiologique
+HMLH003	Pose d'une endoprothèse dans un conduit biliaire préalablement drainé, avec guidage échographique et/ou radiologique
+HFLH002	Pose d'une endoprothèse de l'estomac ou du duodénum, avec guidage radiologique
+HELH001	Pose d'une endoprothèse de l'oesophage, avec guidage radiologique
+HELE002	Pose d'une endoprothèse de l'oesophage, par endoscopie
+JELE003	Pose d'une endoprothèse de l'urètre cervicoprostatique, par endoscopie
+JELE002	Pose d'une endoprothèse de l'urètre, par endoscopie
+HNLE001	Pose d'une endoprothèse du conduit pancréatique, par oeso-gastro-duodénoscopie
+HHLH001	Pose d'une endoprothèse du côlon, avec guidage radiologique
+HHLE005	Pose d'une endoprothèse du côlon, par coloscopie
+HGLE001	Pose d'une endoprothèse du duodénum, par oeso-gastro-duodénoscopie
+GELE008	Pose d'une endoprothèse trachéobronchique, par endoscopie
+JCLE002	Pose d'une endoprothèse urétérale, par endoscopie rétrograde
+JCLD001	Pose d'une endoprothèse urétérale, par une néphrostomie déjà en place
+JCLH001	Pose d'une endoprothèse urétérale, par voie transcutanée avec guidage échographique et/ou radiologique
+HMLE003	Pose de plusieurs endoprothèses biliaires, par oeso-gastro-duodénoscopie
+HMLH002	Pose de plusieurs endoprothèses dans des conduits biliaires préalablement drainés, avec guidage échographique et/ou radiologique
+DDPF002	Recanalisation d'artère coronaire avec pose d'endoprothèse, par voie artérielle transcutanée
+EDPF004	Recanalisation d'une artère digestive avec pose d'endoprothèse, par voie artérielle transcutanée
+EEPF001	Recanalisation d'une artère du membre inférieur avec pose d'endoprothèse, par voie artérielle transcutanée
+ECPF001	Recanalisation d'une artère du membre supérieur avec pose d'endoprothèse couverte, par voie artérielle transcutanée
+ECPF002	Recanalisation d'une artère du membre supérieur avec pose d'endoprothèse, par voie artérielle transcutanée
+EFPF001	Recanalisation d'une veine du membre supérieur avec pose d'endoprothèse, par voie veineuse transcutanée
+EDPF006	Recanalisation de l'artère iliaque commune et/ou de l'artère iliaque externe avec pose d'endoprothèse couverte, par voie artérielle transcutanée
+EDPF009	Recanalisation de l'artère iliaque commune et/ou de l'artère iliaque externe avec pose d'endoprothèse, par voie artérielle transcutanée
+EDPF001	Recanalisation de l'artère iliaque interne avec pose d'endoprothèse, par voie artérielle transcutanée
+EDPF005	Recanalisation de l'artère rénale avec pose d'endoprothèse, par voie artérielle transcutanée
+ECPF005	Recanalisation de l'artère subclavière en amont de l'ostium de l'artère vertébrale avec pose d'endoprothèse, par voie artérielle transcutanée
+DGPF002	Recanalisation de la bifurcation aortique avec pose d'endoprothèse, par voie artérielle transcutanée bilatérale
+DHPF002	Recanalisation de la veine cave supérieure avec pose d'endoprothèse, par voie veineuse transcutanée
+EPPF003	Recanalisation de la veine de drainage d'un accès vasculaire artérioveineux avec pose d'endoprothèse, par voie vasculaire transcutanée
+EGPF001	Recanalisation de la veine iliaque externe et/ou de la veine iliaque commune avec pose d'endoprothèse, par voie veineuse transcutanée
+EZJF001	Thromboaspiration d'un accès vasculaire artérioveineux d'un membre avec dilatation intraluminale et pose d'endoprothèse, par voie vasculaire transcutanée
+EZJF002	Thromboaspiration d'un accès vasculaire artérioveineux d'un membre avec dilatation intraluminale sans pose d'endoprothèse, par voie vasculaire transcutanée

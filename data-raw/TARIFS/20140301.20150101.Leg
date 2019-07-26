@@ -1,0 +1,14 @@
+Col	Lib	Leg
+GHS-NRO	Numéro du GHS	GHS
+CMD-COD	Numéro de la CMD	CMD
+DCS-MCO	Code de l activité de soins : M/C/O	CODE
+GHM-NRO	Le numéro de GHM	GHM
+GHS-LIB	Le libellé du GHM	LIBELLE
+SEU-BAS	Le seuil extrême bas	BB
+SEU-HAU	Le seuil extrême haut	BH
+GHS-PRI	Le tarif du GHS	TARIF
+GHS-DMS	La DMS du GHM associé	DMS
+EXB-FORFAIT	Le prix du forfait lorsque l'EXB est financé au forfait	FORF_EXB
+EXB-JOURNALIER	Le prix de la journée lorsque l'EXB est financé à la journée	TARIF_EXB
+EXH-PRI	Le prix de la journée au delà de la borne haute	TARIF_EXH
+DAT-EFFET	La date de début d'application de ces tarifs.	DATEDEB

@@ -1,0 +1,7 @@
+CODE	LIBELLE
+C24	Tumeurs malignes des voies biliaires, autres et non précisées
+C240	Tumeur maligne du canal biliaire extra-hépatique
+C241	Tumeur maligne de l'ampoule de Vater
+C248	Tumeur maligne à localisations contiguës des voies biliaires
+C249	Tumeur maligne des voies biliaires, sans précision
+D135	Tumeur bénigne des voies biliaires extra-hépatiques

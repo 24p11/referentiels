@@ -1,0 +1,22 @@
+CODE	LIBELLE
+C18	Tumeur maligne du côlon
+C180	Tumeur maligne du caecum
+C181	Tumeur maligne de l'appendice
+C182	Tumeur maligne du côlon ascendant
+C183	Tumeur maligne de l'angle droit du côlon
+C184	Tumeur maligne du côlon transverse
+C185	Tumeur maligne de l'angle gauche du côlon
+C186	Tumeur maligne du côlon descendant
+C187	Tumeur maligne du côlon sigmoïde
+C188	Tumeur maligne à localisations contiguës du côlon
+C189	Tumeur maligne du côlon, sans précision
+C189+0	Syndrome de Lynch
+C189+8	Tumeurs malignes du côlon, autres et non précisées
+D12	Tumeur bénigne du côlon, du rectum, de l'anus et du canal anal
+D120	Tumeur bénigne du caecum
+D121	Tumeur bénigne de l'appendice
+D122	Tumeur bénigne du côlon ascendant
+D123	Tumeur bénigne du côlon transverse
+D124	Tumeur bénigne du côlon descendant
+D125	Tumeur bénigne du côlon sigmoïde
+D126	Tumeur bénigne du côlon, sans précision

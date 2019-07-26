@@ -1,0 +1,544 @@
+SUP	LIB	GHS	val.deb	val.fin	V.Tarifs	TARIF
+NN1	Supplément néonatalogie		01/03/2008	01/03/2009	2009v1	306.47
+NN2	Supplément néonatologie avec soins intensifs		01/03/2008	01/03/2009	2009v1	459.71
+NN3	Supplément réanimation néonatale		01/03/2008	01/03/2009	2009v1	919.42
+PO1	Prélèvements du ou des reins et/ou du foie		01/03/2008	01/03/2009	2009v1	7283
+PO2	Prélèvements du ou des reins. du foie. du coeur. du pancréas. du /ou des poumons et/ou de l intestin. ou prélèvement d au moins 7 organes		01/03/2008	01/03/2009	2009v1	10251
+PO3	Autres prélèvements d organes		01/03/2008	01/03/2009	2009v1	8429
+PO4	Prélèvements d organes sur coeur arrêté		01/03/2008	01/03/2009	2009v1	11182
+PO5	Prélèvement de rein(s)		01/03/2008	01/03/2009	2009v1	402
+PO6	Prélèvement du foie		01/03/2008	01/03/2009	2009v1	402
+PO7	Prélèvement de poumon(s)		01/03/2008	01/03/2009	2009v1	513
+PO8	Prélèvement de coeur ou du bloc		01/03/2008	01/03/2009	2009v1	482
+PO9	Prélèvement de pancréas		01/03/2008	01/03/2009	2009v1	603
+REA	Supplément de réanimation		01/03/2008	01/03/2009	2009v1	811.18
+REP	Supplément de réanimation pédiatrie.		01/03/2008	01/03/2009	2009v1	919.42
+SRC	Supplément de surveillance continue		01/03/2008	01/03/2009	2009v1	270.39
+STF	Supplément de soins intensifs		01/03/2008	01/03/2009	2009v1	406.08
+DIALYSE		9503	01/03/2008	01/03/2009	2009v1	375.17
+REP	Supplément de réanimation pédiatrie.		01/03/2009	01/03/2010	2009v2	922.98
+REA	Supplément de réanimation.		01/03/2009	01/03/2010	2009v2	814.32
+STF	Supplément de soins intensifs.		01/03/2009	01/03/2010	2009v2	407.65
+SRC	Supplément de surveillance continue.		01/03/2009	01/03/2010	2009v2	326.12
+NN1	Supplément néonatalogie.		01/03/2009	01/03/2010	2009v2	307.66
+NN2	Supplément néonatologie avec soins intensifs.		01/03/2009	01/03/2010	2009v2	461.49
+NN3	Supplément réanimation néonatale.		01/03/2009	01/03/2010	2009v2	922.98
+D12	Forfait d'autodialyse simple.		01/03/2009	01/03/2010	2009v2	232.64
+D13	Forfait d'autodialyse assistée.		01/03/2009	01/03/2010	2009v2	238.87
+D14	Forfait d'hémodialyse à domicile.		01/03/2009	01/03/2010	2009v2	206.38
+D15	Forfait de dialyse péritonéale automatisée (DPA).		01/03/2009	01/03/2010	2009v2	700.54
+D16	Forfait de dialyse péritonéale continue ambulatoire (DPCA).		01/03/2009	01/03/2010	2009v2	544.06
+D20	Forfait d'entraînement à la dialyse péritonéale automatisée.		01/03/2009	01/03/2010	2009v2	426.62
+D21	Forfait d'entraînement à la dialyse péritonéale continue ambulatoire.		01/03/2009	01/03/2010	2009v2	399.77
+PO1	Prélèvements du ou des reins et/ou du foie.		01/03/2009	01/03/2010	2009v2	7321.15
+PO2	Prélèvements du ou des reins. du foie. du coeur. du pancréas. du /ou des poumons et/ou de l'intestin. ou prélèvement d'au moins 7 organes.		01/03/2009	01/03/2010	2009v2	10304.36
+PO3	Autres prélèvements d'organes.		01/03/2009	01/03/2010	2009v2	8472.81
+PO4	Prélèvements d'organes sur coeur arrêté.		01/03/2009	01/03/2010	2009v2	11239.83
+PO5	Prélèvement de rein(s).		01/03/2009	01/03/2010	2009v2	404.09
+PO6	Prélèvement du foie.		01/03/2009	01/03/2010	2009v2	404.09
+PO7	Prélèvement de poumon(s).		01/03/2009	01/03/2010	2009v2	515.22
+PO8	Prélèvement de coeur ou du bloc « coeur poumon ».		01/03/2009	01/03/2010	2009v2	484.91
+PO9	Prélèvement de pancréas.		01/03/2009	01/03/2010	2009v2	606.14
+DIALYSE		9605	01/03/2009	01/03/2010	2009v2	349.12
+TAPHERESE		9615	01/03/2009	01/03/2010	2009v2	1271.83
+C687	Radiothérapie forfait 0	9610	01/03/2009	01/03/2010	2009v2	512.97
+C688	Radiothérapie forfait 1	9611	01/03/2009	01/03/2010	2009v2	160.18
+C689	Radiothérapie forfait 2	9612	01/03/2009	01/03/2010	2009v2	130.96
+PROT	Protonthérapie	9619	01/03/2009	01/03/2010	2009v2	1007.34
+ICT	Irradiation corporelle totale	9620	01/03/2009	01/03/2010	2009v2	774.04
+REP	Supplément de réanimation pédiatrie.		01/01/2010	01/03/2010	2010v1	922.98
+REA	Supplément de réanimation.		01/01/2010	01/03/2010	2010v1	814.32
+STF	Supplément de soins intensifs.		01/01/2010	01/03/2010	2010v1	407.65
+SRC	Supplément de surveillance continue.		01/01/2010	01/03/2010	2010v1	326.12
+NN1	Supplément néonatalogie.		01/01/2010	01/03/2010	2010v1	307.66
+NN2	Supplément néonatologie avec soins intensifs.		01/01/2010	01/03/2010	2010v1	461.49
+NN3	Supplément réanimation néonatale.		01/01/2010	01/03/2010	2010v1	922.98
+D12	Forfait d'autodialyse simple.		01/01/2010	01/03/2010	2010v1	232.64
+D13	Forfait d'autodialyse assistée.		01/01/2010	01/03/2010	2010v1	238.87
+D14	Forfait d'hémodialyse à domicile.		01/01/2010	01/03/2010	2010v1	206.38
+D15	Forfait de dialyse péritonéale automatisée (DPA).		01/01/2010	01/03/2010	2010v1	700.54
+D16	Forfait de dialyse péritonéale continue ambulatoire (DPCA).		01/01/2010	01/03/2010	2010v1	544.06
+D20	Forfait d'entraînement à la dialyse péritonéale automatisée.		01/01/2010	01/03/2010	2010v1	426.62
+D21	Forfait d'entraînement à la dialyse péritonéale continue ambulatoire.		01/01/2010	01/03/2010	2010v1	399.77
+PO1	Prélèvements du ou des reins et/ou du foie.		01/01/2010	01/03/2010	2010v1	7321.15
+PO2	Prélèvements du ou des reins. du foie. du coeur. du pancréas. du /ou des poumons et/ou de l'intestin. ou prélèvement d'au moins 7 organes.		01/01/2010	01/03/2010	2010v1	10304.36
+PO3	Autres prélèvements d'organes.		01/01/2010	01/03/2010	2010v1	8472.81
+PO4	Prélèvements d'organes sur coeur arrêté.		01/01/2010	01/03/2010	2010v1	11239.83
+PO5	Prélèvement de rein(s).		01/01/2010	01/03/2010	2010v1	404.09
+PO6	Prélèvement du foie.		01/01/2010	01/03/2010	2010v1	404.09
+PO7	Prélèvement de poumon(s).		01/01/2010	01/03/2010	2010v1	515.22
+PO8	Prélèvement de coeur ou du bloc « coeur poumon ».		01/01/2010	01/03/2010	2010v1	484.91
+PO9	Prélèvement de pancréas.		01/01/2010	01/03/2010	2010v1	606.14
+DIALYSE		9605	01/01/2010	01/03/2010	2010v1	349.12
+TAPHERESE		9615	01/01/2010	01/03/2010	2010v1	1271.83
+C687	Radiothérapie forfait 0	9610	01/01/2010	01/03/2010	2010v1	512.97
+C688	Radiothérapie forfait 1	9611	01/01/2010	01/03/2010	2010v1	160.18
+C689	Radiothérapie forfait 2	9612	01/01/2010	01/03/2010	2010v1	130.96
+PROT	Protonthérapie	9619	01/01/2010	01/03/2010	2010v1	1007.34
+ICT	Irradiation corporelle totale	9620	01/01/2010	01/03/2010	2010v1	774.04
+REP	Supplément de réanimation pédiatrie		01/03/2010	31/12/2010	2010v2	922.98
+REA	Supplément de réanimation		01/03/2010	31/12/2010	2010v2	814.32
+STF	Supplément de soins intensifs		01/03/2010	31/12/2010	2010v2	407.65
+SRC	Supplément de surveillance continue		01/03/2010	31/12/2010	2010v2	326.12
+NN1	Supplément néonatalogie		01/03/2010	31/12/2010	2010v2	307.66
+NN2	Supplément néonatologie avec soins intensifs		01/03/2010	31/12/2010	2010v2	461.49
+NN3	Supplément réanimation néonatale		01/03/2010	31/12/2010	2010v2	922.98
+DIP	Supplément dialyse péritonéale		01/03/2010	31/12/2010	2010v2	45
+D12	Forfait d'autodialyse simple		01/03/2010	31/12/2010	2010v2	232.64
+D13	Forfait d'autodialyse assistée		01/03/2010	31/12/2010	2010v2	238.87
+D14	Forfait d'hémodialyse à domicile		01/03/2010	31/12/2010	2010v2	206.38
+D15	Forfait de dialyse péritonéale automatisée (DPA)		01/03/2010	31/12/2010	2010v2	700.54
+D16	Forfait de dialyse péritonéale continue ambulatoire (DPCA)		01/03/2010	31/12/2010	2010v2	544.06
+D20	Forfait d'entraînement à la dialyse péritonéale automatisée		01/03/2010	31/12/2010	2010v2	426.62
+D21	Forfait d'entraînement à la dialyse péritonéale continue ambulatoire		01/03/2010	31/12/2010	2010v2	399.77
+D22	Forfait de dialyse péritonéale automatisée pour une hospitalisation d'une durée comprise entre 3 et 6 jours		01/03/2010	31/12/2010	2010v2	280.22
+D23	Forfait de dialyse péritonéale continue ambulatoire pour une hospitalisation d'une durée comprise entre 3 et 6 jours		01/03/2010	31/12/2010	2010v2	217.62
+PO1	Prélèvements du ou des reins et/ou du foie		01/03/2010	31/12/2010	2010v2	7321.15
+PO2	Prélèvements du ou des reins. du foie. du coeur. du pancréas. du /ou des poumons et/ou de l'intestin. ou prélèvement d'au moins 7 organes		01/03/2010	31/12/2010	2010v2	10304.36
+PO3	Autres prélèvements d'organes		01/03/2010	31/12/2010	2010v2	8472.81
+PO4	Prélèvements d'organes sur coeur arrêté		01/03/2010	31/12/2010	2010v2	11239.83
+PO5	Prélèvement de rein(s)		01/03/2010	31/12/2010	2010v2	404.09
+PO6	Prélèvement du foie		01/03/2010	31/12/2010	2010v2	404.09
+PO7	Prélèvement de poumon(s)		01/03/2010	31/12/2010	2010v2	515.22
+PO8	Prélèvement de coeur ou du bloc « coeur poumon »		01/03/2010	31/12/2010	2010v2	484.91
+PO9	Prélèvement de pancréas		01/03/2010	31/12/2010	2010v2	606.14
+DIALYSE		9605	01/03/2010	31/12/2010	2010v2	338.75
+TAPHERESE		9615	01/03/2010	31/12/2010	2010v2	1341.61
+C687	Radiothérapie forfait 0	9610	01/03/2010	31/12/2010	2010v2	520.43
+C688	Radiothérapie forfait 1	9611	01/03/2010	31/12/2010	2010v2	153.09
+C689	Radiothérapie forfait 2	9612	01/03/2010	31/12/2010	2010v2	123.68
+PROT	Protonthérapie	9619	01/03/2010	31/12/2010	2010v2	1021.98
+ICT	Irradiation corporelle totale	9620	01/03/2010	31/12/2010	2010v2	785.29
+REP	Supplément de réanimation pédiatrie		01/01/2011	01/03/2011	2011v1	922.98
+REA	Supplément de réanimation		01/01/2011	01/03/2011	2011v1	814.32
+STF	Supplément de soins intensifs		01/01/2011	01/03/2011	2011v1	407.65
+SRC	Supplément de surveillance continue		01/01/2011	01/03/2011	2011v1	326.12
+NN1	Supplément néonatalogie		01/01/2011	01/03/2011	2011v1	307.66
+NN2	Supplément néonatologie avec soins intensifs		01/01/2011	01/03/2011	2011v1	461.49
+NN3	Supplément réanimation néonatale		01/01/2011	01/03/2011	2011v1	922.98
+DIP	Supplément dialyse péritonéale		01/01/2011	01/03/2011	2011v1	45
+D12	Forfait d'autodialyse simple		01/01/2011	01/03/2011	2011v1	232.64
+D13	Forfait d'autodialyse assistée		01/01/2011	01/03/2011	2011v1	238.87
+D14	Forfait d'hémodialyse à domicile		01/01/2011	01/03/2011	2011v1	206.38
+D15	Forfait de dialyse péritonéale automatisée (DPA)		01/01/2011	01/03/2011	2011v1	700.54
+D16	Forfait de dialyse péritonéale continue ambulatoire (DPCA)		01/01/2011	01/03/2011	2011v1	544.06
+D20	Forfait d'entraînement à la dialyse péritonéale automatisée		01/01/2011	01/03/2011	2011v1	426.62
+D21	Forfait d'entraînement à la dialyse péritonéale continue ambulatoire		01/01/2011	01/03/2011	2011v1	399.77
+D22	Forfait de dialyse péritonéale automatisée pour une hospitalisation d'une durée comprise entre 3 et 6 jours		01/01/2011	01/03/2011	2011v1	280.22
+D23	Forfait de dialyse péritonéale continue ambulatoire pour une hospitalisation d'une durée comprise entre 3 et 6 jours		01/01/2011	01/03/2011	2011v1	217.62
+PO1	Prélèvements du ou des reins et/ou du foie		01/01/2011	01/03/2011	2011v1	7321.15
+PO2	Prélèvements du ou des reins. du foie. du coeur. du pancréas. du /ou des poumons et/ou de l'intestin. ou prélèvement d'au moins 7 organes		01/01/2011	01/03/2011	2011v1	10304.36
+PO3	Autres prélèvements d'organes		01/01/2011	01/03/2011	2011v1	8472.81
+PO4	Prélèvements d'organes sur coeur arrêté		01/01/2011	01/03/2011	2011v1	11239.83
+PO5	Prélèvement de rein(s)		01/01/2011	01/03/2011	2011v1	404.09
+PO6	Prélèvement du foie		01/01/2011	01/03/2011	2011v1	404.09
+PO7	Prélèvement de poumon(s)		01/01/2011	01/03/2011	2011v1	515.22
+PO8	Prélèvement de coeur ou du bloc « coeur poumon »		01/01/2011	01/03/2011	2011v1	484.91
+PO9	Prélèvement de pancréas		01/01/2011	01/03/2011	2011v1	606.14
+DIALYSE		9605	01/01/2011	01/03/2011	2011v1	338.75
+TAPHERESE		9615	01/01/2011	01/03/2011	2011v1	1341.61
+C687	Radiothérapie forfait 0	9610	01/01/2011	01/03/2011	2011v1	520.43
+C688	Radiothérapie forfait 1	9611	01/01/2011	01/03/2011	2011v1	153.09
+C689	Radiothérapie forfait 2	9612	01/01/2011	01/03/2011	2011v1	123.68
+PROT	Protonthérapie	9619	01/01/2011	01/03/2011	2011v1	1021.98
+ICT	Irradiation corporelle totale	9620	01/01/2011	01/03/2011	2011v1	785.29
+DIALYSE		9605	01/03/2011	31/12/2011	2011v2	338.75
+TAPHERESE		9615	01/03/2011	31/12/2011	2011v2	1333.41
+NBRCMI	Radiothérapie forfait 9622	9622	01/03/2011	31/12/2011	2011v2	182.29
+SUPP9623	Radiothérapie forfait 9623	9624	01/03/2011	31/12/2011	2011v2	134.17
+SUPP9624	Radiothérapie forfait 9624	9624	01/03/2011	31/12/2011	2011v2	134.17
+SUPP9625	Radiothérapie forfait 9625	9625	01/03/2011	31/12/2011	2011v2	449.07
+SUPP9631	Radiothérapie forfait 9631	9631	01/03/2011	31/12/2011	2011v2	172.09
+SUPP9632	Radiothérapie forfait 9632	9632	01/03/2011	31/12/2011	2011v2	137.67
+SUPP9633	Radiothérapie forfait 9633	9633	01/03/2011	31/12/2011	2011v2	84.48
+REP	Supplément de réanimation pédiatrie		01/03/2011	31/12/2011	2011v2	922.98
+REA	Supplément de réanimation		01/03/2011	31/12/2011	2011v2	814.32
+STF	Supplément de soins intensifs		01/03/2011	31/12/2011	2011v2	407.65
+SRC	Supplément de surveillance continue		01/03/2011	31/12/2011	2011v2	326.12
+NN1	Supplément néonatalogie		01/03/2011	31/12/2011	2011v2	307.66
+NN2	Supplément néonatologie avec soins intensifs		01/03/2011	31/12/2011	2011v2	461.49
+NN3	Supplément réanimation néonatale		01/03/2011	31/12/2011	2011v2	922.98
+DIP	Supplément dialyse péritonéale		01/03/2011	31/12/2011	2011v2	45
+D12	Forfait d'autodialyse simple		01/03/2011	31/12/2011	2011v2	232.64
+D13	Forfait d'autodialyse assistée		01/03/2011	31/12/2011	2011v2	238.87
+D14	Forfait d'hémodialyse à domicile		01/03/2011	31/12/2011	2011v2	206.38
+D15	Forfait de dialyse péritonéale automatisée (DPA)		01/03/2011	31/12/2011	2011v2	700.54
+D16	Forfait de dialyse péritonéale continue ambulatoire (DPCA)		01/03/2011	31/12/2011	2011v2	544.06
+D20	Forfait d'entraînement à la dialyse péritonéale automatisée		01/03/2011	31/12/2011	2011v2	426.62
+D21	Forfait d'entraînement à la dialyse péritonéale continue ambulatoire		01/03/2011	31/12/2011	2011v2	399.77
+D22	Forfait de dialyse péritonéale automatisée pour une hospitalisation d'une durée comprise entre trois et six jours		01/03/2011	31/12/2011	2011v2	280.22
+D23	Forfait de dialyse péritonéale continue ambulatoire pour une hospitalisation d'une durée comprise entre trois et six jours		01/03/2011	31/12/2011	2011v2	217.62
+PO1	Prélèvements du ou des reins et/ou du foie		01/03/2011	31/12/2011	2011v2	7321.15
+PO2	Prélèvements du ou des reins. du foie. du coeur. du pancréas. du ou des poumons et/ou de l'intestin. ou prélèvement d'au moins 7 organes		01/03/2011	31/12/2011	2011v2	10304.36
+PO3	Autres prélèvements d'organes		01/03/2011	31/12/2011	2011v2	8472.81
+PO4	Prélèvements d'organes sur coeur arrêté		01/03/2011	31/12/2011	2011v2	11239.83
+PO5	Prélèvement de rein(s)		01/03/2011	31/12/2011	2011v2	404.09
+PO6	Prélèvement du foie		01/03/2011	31/12/2011	2011v2	404.09
+PO7	Prélèvement de poumon(s)		01/03/2011	31/12/2011	2011v2	515.22
+PO8	Prélèvement de coeur ou du bloc « coeur poumon »		01/03/2011	31/12/2011	2011v2	484.91
+PO9	Prélèvement de pancréas		01/03/2011	31/12/2011	2011v2	606.14
+DIALYSE		9605	01/01/2012	01/03/2012	2012v1	338.75
+TAPHERESE		9615	01/01/2012	01/03/2012	2012v1	1333.41
+NBRCMI	Radiothérapie forfait 9622	9622	01/01/2012	01/03/2012	2012v1	182.29
+SUPP9623	Radiothérapie forfait 9623	9624	01/01/2012	01/03/2012	2012v1	134.17
+SUPP9624	Radiothérapie forfait 9624	9624	01/01/2012	01/03/2012	2012v1	134.17
+SUPP9625	Radiothérapie forfait 9625	9625	01/01/2012	01/03/2012	2012v1	449.07
+SUPP9631	Radiothérapie forfait 9631	9631	01/01/2012	01/03/2012	2012v1	172.09
+SUPP9632	Radiothérapie forfait 9632	9632	01/01/2012	01/03/2012	2012v1	137.67
+SUPP9633	Radiothérapie forfait 9633	9633	01/01/2012	01/03/2012	2012v1	84.48
+REP	Supplément de réanimation pédiatrie		01/01/2012	01/03/2012	2012v1	922.98
+REA	Supplément de réanimation		01/01/2012	01/03/2012	2012v1	814.32
+STF	Supplément de soins intensifs		01/01/2012	01/03/2012	2012v1	407.65
+SRC	Supplément de surveillance continue		01/01/2012	01/03/2012	2012v1	326.12
+NN1	Supplément néonatalogie		01/01/2012	01/03/2012	2012v1	307.66
+NN2	Supplément néonatologie avec soins intensifs		01/01/2012	01/03/2012	2012v1	461.49
+NN3	Supplément réanimation néonatale		01/01/2012	01/03/2012	2012v1	922.98
+DIP	Supplément dialyse péritonéale		01/01/2012	01/03/2012	2012v1	45
+D12	Forfait d'autodialyse simple		01/01/2012	01/03/2012	2012v1	232.64
+D13	Forfait d'autodialyse assistée		01/01/2012	01/03/2012	2012v1	238.87
+D14	Forfait d'hémodialyse à domicile		01/01/2012	01/03/2012	2012v1	206.38
+D15	Forfait de dialyse péritonéale automatisée (DPA)		01/01/2012	01/03/2012	2012v1	700.54
+D16	Forfait de dialyse péritonéale continue ambulatoire (DPCA)		01/01/2012	01/03/2012	2012v1	544.06
+D20	Forfait d'entraînement à la dialyse péritonéale automatisée		01/01/2012	01/03/2012	2012v1	426.62
+D21	Forfait d'entraînement à la dialyse péritonéale continue ambulatoire		01/01/2012	01/03/2012	2012v1	399.77
+D22	Forfait de dialyse péritonéale automatisée pour une hospitalisation d'une durée comprise entre trois et six jours		01/01/2012	01/03/2012	2012v1	280.22
+D23	Forfait de dialyse péritonéale continue ambulatoire pour une hospitalisation d'une durée comprise entre trois et six jours		01/01/2012	01/03/2012	2012v1	217.62
+PO1	Prélèvements du ou des reins et/ou du foie		01/01/2012	01/03/2012	2012v1	7321.15
+PO2	Prélèvements du ou des reins. du foie. du coeur. du pancréas. du ou des poumons et/ou de l'intestin. ou prélèvement d'au moins 7 organes		01/01/2012	01/03/2012	2012v1	10304.36
+PO3	Autres prélèvements d'organes		01/01/2012	01/03/2012	2012v1	8472.81
+PO4	Prélèvements d'organes sur coeur arrêté		01/01/2012	01/03/2012	2012v1	11239.83
+PO5	Prélèvement de rein(s)		01/01/2012	01/03/2012	2012v1	404.09
+PO6	Prélèvement du foie		01/01/2012	01/03/2012	2012v1	404.09
+PO7	Prélèvement de poumon(s)		01/01/2012	01/03/2012	2012v1	515.22
+PO8	Prélèvement de coeur ou du bloc « coeur poumon »		01/01/2012	01/03/2012	2012v1	484.91
+PO9	Prélèvement de pancréas		01/01/2012	01/03/2012	2012v1	606.14
+DIALYSE		9605	01/03/2012	31/12/2012	2012v2	339.29
+TAPHERESE		9615	01/03/2012	31/12/2012	2012v2	1270.38
+NBRCMI	Radiothérapie forfait 9622	9622	01/03/2012	31/12/2012	2012v2	182.58
+SUPP9623	Radiothérapie forfait 9623	9623	01/03/2012	31/12/2012	2012v2	787.3
+SUPP9624	Radiothérapie forfait 9624	9623	01/03/2012	31/12/2012	2012v2	787.3
+SUPP9625	Radiothérapie forfait 9625	9625	01/03/2012	31/12/2012	2012v2	449.79
+SUPP9631	Radiothérapie forfait 9631	9631	01/03/2012	31/12/2012	2012v2	172.37
+SUPP9632	Radiothérapie forfait 9632	9632	01/03/2012	31/12/2012	2012v2	137.89
+SUPP9633	Radiothérapie forfait 9633	9633	01/03/2012	31/12/2012	2012v2	84.62
+REP	Supplément de réanimation pédiatrie		01/03/2012	31/12/2012	2012v2	922.98
+REA	Supplément de réanimation		01/03/2012	31/12/2012	2012v2	814.32
+STF	Supplément de soins intensifs		01/03/2012	31/12/2012	2012v2	407.65
+SRC	Supplément de surveillance continue		01/03/2012	31/12/2012	2012v2	326.12
+NN1	Supplément néonatalogie		01/03/2012	31/12/2012	2012v2	307.66
+NN2	Supplément néonatologie avec soins intensifs		01/03/2012	31/12/2012	2012v2	461.49
+NN3	Supplément réanimation néonatale		01/03/2012	31/12/2012	2012v2	922.98
+DIP	Supplément dialyse péritonéale		01/03/2012	31/12/2012	2012v2	45
+D12	Forfait d'autodialyse simple		01/03/2012	31/12/2012	2012v2	232.64
+D13	Forfait d'autodialyse assistée		01/03/2012	31/12/2012	2012v2	238.87
+D14	Forfait d'hémodialyse à domicile		01/03/2012	31/12/2012	2012v2	206.38
+D15	Forfait de dialyse péritonéale automatisée (DPA)		01/03/2012	31/12/2012	2012v2	700.54
+D16	Forfait de dialyse péritonéale continue ambulatoire (DPCA)		01/03/2012	31/12/2012	2012v2	544.06
+D20	Forfait d'entraînement à la dialyse péritonéale automatisée		01/03/2012	31/12/2012	2012v2	426.62
+D21	Forfait d'entraînement à la dialyse péritonéale continue ambulatoire		01/03/2012	31/12/2012	2012v2	399.77
+D22	Forfait de dialyse péritonéale automatisée pour une hospitalisation d'une durée comprise entre trois et six jours		01/03/2012	31/12/2012	2012v2	280.22
+D23	Forfait de dialyse péritonéale continue ambulatoire pour une hospitalisation d'une durée comprise entre trois et six jours		01/03/2012	31/12/2012	2012v2	217.62
+PO1	Prélèvements du ou des reins et/ou du foie		01/03/2012	31/12/2012	2012v2	7321.15
+PO2	Prélèvements du ou des reins. du foie. du coeur. du pancréas. du ou des poumons et/ou de l'intestin. ou prélèvement d'au moins 7 organes		01/03/2012	31/12/2012	2012v2	10304.36
+PO3	Autres prélèvements d'organes		01/03/2012	31/12/2012	2012v2	8472.81
+PO4	Prélèvements d'organes sur coeur arrêté		01/03/2012	31/12/2012	2012v2	11239.83
+PO5	Prélèvement de rein(s)		01/03/2012	31/12/2012	2012v2	404.09
+PO6	Prélèvement du foie		01/03/2012	31/12/2012	2012v2	404.09
+PO7	Prélèvement de poumon(s)		01/03/2012	31/12/2012	2012v2	515.22
+PO8	Prélèvement de coeur ou du bloc « coeur poumon »		01/03/2012	31/12/2012	2012v2	484.91
+PO9	Prélèvement de pancréas		01/03/2012	31/12/2012	2012v2	606.14
+DIALYSE	9605	01/01/2013	01/03/2013	2013v1	339.29	
+TAPHERESE		9615	01/01/2013	01/03/2013	2013v1	1270.38
+NBRCMI	Radiothérapie forfait 9622	9622	01/01/2013	01/03/2013	2013v1	182.58
+SUPP9623	Radiothérapie forfait 9623	9623	01/01/2013	01/03/2013	2013v1	787.3
+SUPP9624	Radiothérapie forfait 9624	9623	01/01/2013	01/03/2013	2013v1	787.3
+SUPP9625	Radiothérapie forfait 9625	9625	01/01/2013	01/03/2013	2013v1	449.79
+SUPP9631	Radiothérapie forfait 9631	9631	01/01/2013	01/03/2013	2013v1	172.37
+SUPP9632	Radiothérapie forfait 9632	9632	01/01/2013	01/03/2013	2013v1	137.89
+SUPP9633	Radiothérapie forfait 9633	9633	01/01/2013	01/03/2013	2013v1	84.62
+REP	Supplément de réanimation pédiatrie		01/01/2013	01/03/2013	2013v1	922.98
+REA	Supplément de réanimation		01/01/2013	01/03/2013	2013v1	814.32
+STF	Supplément de soins intensifs		01/01/2013	01/03/2013	2013v1	407.65
+SRC	Supplément de surveillance continue		01/01/2013	01/03/2013	2013v1	326.12
+NN1	Supplément néonatalogie		01/01/2013	01/03/2013	2013v1	307.66
+NN2	Supplément néonatologie avec soins intensifs		01/01/2013	01/03/2013	2013v1	461.49
+NN3	Supplément réanimation néonatale		01/01/2013	01/03/2013	2013v1	922.98
+DIP	Supplément dialyse péritonéale		01/01/2013	01/03/2013	2013v1	45
+D12	Forfait d'autodialyse simple		01/01/2013	01/03/2013	2013v1	232.64
+D13	Forfait d'autodialyse assistée		01/01/2013	01/03/2013	2013v1	238.87
+D14	Forfait d'hémodialyse à domicile		01/01/2013	01/03/2013	2013v1	206.38
+D15	Forfait de dialyse péritonéale automatisée (DPA)		01/01/2013	01/03/2013	2013v1	700.54
+D16	Forfait de dialyse péritonéale continue ambulatoire (DPCA)		01/01/2013	01/03/2013	2013v1	544.06
+D20	Forfait d'entraînement à la dialyse péritonéale automatisée		01/01/2013	01/03/2013	2013v1	426.62
+D21	Forfait d'entraînement à la dialyse péritonéale continue ambulatoire		01/01/2013	01/03/2013	2013v1	399.77
+D22	Forfait de dialyse péritonéale automatisée pour une hospitalisation d'une durée comprise entre trois et six jours		01/01/2013	01/03/2013	2013v1	280.22
+D23	Forfait de dialyse péritonéale continue ambulatoire pour une hospitalisation d'une durée comprise entre trois et six jours		01/01/2013	01/03/2013	2013v1	217.62
+PO1	Prélèvements du ou des reins et/ou du foie		01/01/2013	01/03/2013	2013v1	7321.15
+PO2	Prélèvements du ou des reins. du foie. du cœur. du pancréas. du ou des poumons et/ou de l'intestin. ou prélèvement d'au moins 7 organes		01/01/2013	01/03/2013	2013v1	10304.36
+PO3	Autres prélèvements d'organes		01/01/2013	01/03/2013	2013v1	8472.81
+PO4	Prélèvements d'organes sur cœur arrêté		01/01/2013	01/03/2013	2013v1	11239.83
+PO5	Prélèvement de rein(s)		01/01/2013	01/03/2013	2013v1	404.09
+PO6	Prélèvement du foie		01/01/2013	01/03/2013	2013v1	404.09
+PO7	Prélèvement de poumon(s)		01/01/2013	01/03/2013	2013v1	515.22
+PO8	Prélèvement de cœur ou du bloc « cœur poumon »		01/01/2013	01/03/2013	2013v1	484.91
+PO9	Prélèvement de pancréas		01/01/2013	01/03/2013	2013v1	606.14
+DIALYSE	9605	01/03/2013	31/12/2013	2013v2	339.29	
+TAPHERESE		9615	01/03/2013	31/12/2013	2013v2	1270.38
+NBRCMI	Radiothérapie forfait 9622	9622	01/03/2013	31/12/2013	2013v2	182.58
+SUPP9623	Radiothérapie forfait 9623	9623	01/03/2013	31/12/2013	2013v2	787.3
+SUPP9624	Radiothérapie forfait 9624	9623	01/03/2013	31/12/2013	2013v2	787.3
+SUPP9625	Radiothérapie forfait 9625	9625	01/03/2013	31/12/2013	2013v2	449.79
+SUPP9631	Radiothérapie forfait 9631	9631	01/03/2013	31/12/2013	2013v2	172.37
+SUPP9632	Radiothérapie forfait 9632	9632	01/03/2013	31/12/2013	2013v2	137.89
+SUPP9633	Radiothérapie forfait 9633	9633	01/03/2013	31/12/2013	2013v2	84.62
+REP	Supplément de réanimation pédiatrie		01/03/2013	31/12/2013	2013v2	922.98
+REA	Supplément de réanimation		01/03/2013	31/12/2013	2013v2	814.32
+STF	Supplément de soins intensifs		01/03/2013	31/12/2013	2013v2	407.65
+SRC	Supplément de surveillance continue		01/03/2013	31/12/2013	2013v2	326.12
+NN1	Supplément néonatalogie		01/03/2013	31/12/2013	2013v2	307.66
+NN2	Supplément néonatologie avec soins intensifs		01/03/2013	31/12/2013	2013v2	461.49
+NN3	Supplément réanimation néonatale		01/03/2013	31/12/2013	2013v2	922.98
+DIP	Supplément dialyse péritonéale		01/03/2013	31/12/2013	2013v2	45
+D12	Forfait d'autodialyse simple		01/03/2013	31/12/2013	2013v2	232.64
+D13	Forfait d'autodialyse assistée		01/03/2013	31/12/2013	2013v2	238.87
+D14	Forfait d'hémodialyse à domicile		01/03/2013	31/12/2013	2013v2	206.38
+D15	Forfait de dialyse péritonéale automatisée (DPA)		01/03/2013	31/12/2013	2013v2	700.54
+D16	Forfait de dialyse péritonéale continue ambulatoire (DPCA)		01/03/2013	31/12/2013	2013v2	544.06
+D20	Forfait d'entraînement à la dialyse péritonéale automatisée		01/03/2013	31/12/2013	2013v2	426.62
+D21	Forfait d'entraînement à la dialyse péritonéale continue ambulatoire		01/03/2013	31/12/2013	2013v2	399.77
+D22	Forfait de dialyse péritonéale automatisée pour une hospitalisation d'une durée comprise entre trois et six jours		01/03/2013	31/12/2013	2013v2	280.22
+D23	Forfait de dialyse péritonéale continue ambulatoire pour une hospitalisation d'une durée comprise entre trois et six jours		01/03/2013	31/12/2013	2013v2	217.62
+PO1	Prélèvements du ou des reins et/ou du foie		01/03/2013	31/12/2013	2013v2	7321.15
+PO2	Prélèvements du ou des reins. du foie. du cœur. du pancréas. du ou des poumons et/ou de l'intestin. ou prélèvement d'au moins 7 organes		01/03/2013	31/12/2013	2013v2	10304.36
+PO3	Autres prélèvements d'organes		01/03/2013	31/12/2013	2013v2	8472.81
+PO4	Prélèvements d'organes sur cœur arrêté		01/03/2013	31/12/2013	2013v2	11239.83
+PO5	Prélèvement de rein(s)		01/03/2013	31/12/2013	2013v2	404.09
+PO6	Prélèvement du foie		01/03/2013	31/12/2013	2013v2	404.09
+PO7	Prélèvement de poumon(s)		01/03/2013	31/12/2013	2013v2	515.22
+PO8	Prélèvement de cœur ou du bloc « cœur poumon »		01/03/2013	31/12/2013	2013v2	484.91
+PO9	Prélèvement de pancréas		01/03/2013	31/12/2013	2013v2	606.14
+DIALYSE	9605	01/01/2014	01/03/2014	2014v1	339.29	
+TAPHERESE		9615	01/01/2014	01/03/2014	2014v1	1270.38
+NBRCMI	Radiothérapie forfait 9622	9622	01/01/2014	01/03/2014	2014v1	182.58
+SUPP9623	Radiothérapie forfait 9623	9623	01/01/2014	01/03/2014	2014v1	787.3
+SUPP9624	Radiothérapie forfait 9624	9623	01/01/2014	01/03/2014	2014v1	787.3
+SUPP9625	Radiothérapie forfait 9625	9625	01/01/2014	01/03/2014	2014v1	449.79
+SUPP9631	Radiothérapie forfait 9631	9631	01/01/2014	01/03/2014	2014v1	172.37
+SUPP9632	Radiothérapie forfait 9632	9632	01/01/2014	01/03/2014	2014v1	137.89
+SUPP9633	Radiothérapie forfait 9633	9633	01/01/2014	01/03/2014	2014v1	84.62
+REP	Supplément de réanimation pédiatrie		01/01/2014	01/03/2014	2014v1	922.98
+REA	Supplément de réanimation		01/01/2014	01/03/2014	2014v1	814.32
+STF	Supplément de soins intensifs		01/01/2014	01/03/2014	2014v1	407.65
+SRC	Supplément de surveillance continue		01/01/2014	01/03/2014	2014v1	326.12
+NN1	Supplément néonatalogie		01/01/2014	01/03/2014	2014v1	307.66
+NN2	Supplément néonatologie avec soins intensifs		01/01/2014	01/03/2014	2014v1	461.49
+NN3	Supplément réanimation néonatale		01/01/2014	01/03/2014	2014v1	922.98
+DIP	Supplément dialyse péritonéale		01/01/2014	01/03/2014	2014v1	45
+D12	Forfait d'autodialyse simple		01/01/2014	01/03/2014	2014v1	232.64
+D13	Forfait d'autodialyse assistée		01/01/2014	01/03/2014	2014v1	238.87
+D14	Forfait d'hémodialyse à domicile		01/01/2014	01/03/2014	2014v1	206.38
+D15	Forfait de dialyse péritonéale automatisée (DPA)		01/01/2014	01/03/2014	2014v1	700.54
+D16	Forfait de dialyse péritonéale continue ambulatoire (DPCA)		01/01/2014	01/03/2014	2014v1	544.06
+D20	Forfait d'entraînement à la dialyse péritonéale automatisée		01/01/2014	01/03/2014	2014v1	426.62
+D21	Forfait d'entraînement à la dialyse péritonéale continue ambulatoire		01/01/2014	01/03/2014	2014v1	399.77
+D22	Forfait de dialyse péritonéale automatisée pour une hospitalisation d'une durée comprise entre trois et six jours		01/01/2014	01/03/2014	2014v1	280.22
+D23	Forfait de dialyse péritonéale continue ambulatoire pour une hospitalisation d'une durée comprise entre trois et six jours		01/01/2014	01/03/2014	2014v1	217.62
+PO1	Prélèvements du ou des reins et/ou du foie		01/01/2014	01/03/2014	2014v1	7321.15
+PO2	Prélèvements du ou des reins. du foie. du cœur. du pancréas. du ou des poumons et/ou de l'intestin. ou prélèvement d'au moins 7 organes		01/01/2014	01/03/2014	2014v1	10304.36
+PO3	Autres prélèvements d'organes		01/01/2014	01/03/2014	2014v1	8472.81
+PO4	Prélèvements d'organes sur cœur arrêté		01/01/2014	01/03/2014	2014v1	11239.83
+PO5	Prélèvement de rein(s)		01/01/2014	01/03/2014	2014v1	404.09
+PO6	Prélèvement du foie		01/01/2014	01/03/2014	2014v1	404.09
+PO7	Prélèvement de poumon(s)		01/01/2014	01/03/2014	2014v1	515.22
+PO8	Prélèvement de cœur ou du bloc « cœur poumon »		01/01/2014	01/03/2014	2014v1	484.91
+PO9	Prélèvement de pancréas		01/01/2014	01/03/2014	2014v1	606.14
+DIALYSE		9605	01/03/2014	31/12/2014	2014v2	349.59
+TAPHERESE		9615	01/03/2014	31/12/2014	2014v2	1260.89
+NBRCMI	Radiothérapie forfait 9622	9622	01/03/2014	31/12/2014	2014v2	181.15
+SUPP9623	Radiothérapie forfait 9623	9623	01/03/2014	31/12/2014	2014v2	781.13
+SUPP9624	Radiothérapie forfait 9624	9623	01/03/2014	31/12/2014	2014v2	781.13
+SUPP9625	Radiothérapie forfait 9625	9625	01/03/2014	31/12/2014	2014v2	449.79
+SUPP9631	Radiothérapie forfait 9631	9631	01/03/2014	31/12/2014	2014v2	171.02
+SUPP9632	Radiothérapie forfait 9632	9632	01/03/2014	31/12/2014	2014v2	136.81
+SUPP9633	Radiothérapie forfait 9633	9633	01/03/2014	31/12/2014	2014v2	83.95
+REP	Supplément de réanimation pédiatrie		01/03/2014	31/12/2014	2014v2	916.42
+REA	Supplément de réanimation		01/03/2014	31/12/2014	2014v2	808.53
+STF	Supplément de soins intensifs		01/03/2014	31/12/2014	2014v2	404.75
+SRC	Supplément de surveillance continue		01/03/2014	31/12/2014	2014v2	323.8
+NN1	Supplément néonatalogie		01/03/2014	31/12/2014	2014v2	305.47
+NN2	Supplément néonatologie avec soins intensifs		01/03/2014	31/12/2014	2014v2	458.2
+NN3	Supplément réanimation néonatale		01/03/2014	31/12/2014	2014v2	916.42
+DIP	Supplément dialyse péritonéale		01/03/2014	31/12/2014	2014v2	44.68
+D12	Forfait d'autodialyse simple		01/03/2014	31/12/2014	2014v2	232.64
+D13	Forfait d'autodialyse assistée		01/03/2014	31/12/2014	2014v2	238.87
+D14	Forfait d'hémodialyse à domicile		01/03/2014	31/12/2014	2014v2	206.38
+D15	Forfait de dialyse péritonéale automatisée (DPA)		01/03/2014	31/12/2014	2014v2	700.54
+D16	Forfait de dialyse péritonéale continue ambulatoire (DPCA)		01/03/2014	31/12/2014	2014v2	544.06
+D20	Forfait d'entraînement à la dialyse péritonéale automatisée		01/03/2014	31/12/2014	2014v2	426.62
+D21	Forfait d'entraînement à la dialyse péritonéale continue ambulatoire		01/03/2014	31/12/2014	2014v2	399.77
+D22	Forfait de dialyse péritonéale automatisée pour une hospitalisation d'une durée comprise entre trois et six jours		01/03/2014	31/12/2014	2014v2	280.22
+D23	Forfait de dialyse péritonéale continue ambulatoire pour une hospitalisation d'une durée comprise entre trois et six jours		01/03/2014	31/12/2014	2014v2	217.62
+PO1	Prélèvements du ou des reins et/ou du foie		01/03/2014	31/12/2014	2014v2	7321.15
+PO2	Prélèvements du ou des reins. du foie. du cœur. du pancréas. du ou des poumons et/ou de l'intestin. ou prélèvement d'au moins 7 organes		01/03/2014	31/12/2014	2014v2	10304.36
+PO3	Autres prélèvements d'organes		01/03/2014	31/12/2014	2014v2	8472.81
+PO4	Prélèvements d'organes sur cœur arrêté		01/03/2014	31/12/2014	2014v2	11239.83
+PO5	Prélèvement de rein(s)		01/03/2014	31/12/2014	2014v2	404.09
+PO6	Prélèvement du foie		01/03/2014	31/12/2014	2014v2	404.09
+PO7	Prélèvement de poumon(s)		01/03/2014	31/12/2014	2014v2	515.22
+PO8	Prélèvement de cœur ou du bloc « cœur poumon »		01/03/2014	31/12/2014	2014v2	484.91
+PO9	Prélèvement de pancréas		01/03/2014	31/12/2014	2014v2	606.14
+DIP	Supplément dialyse péritonéale		01/03/2014	31/12/2014	2014v2	44.68
+RAP	Radiothérapie forfait 1		01/03/2014	31/12/2014	2014v2	70.38
+ANT			01/03/2014	31/12/2014	2014v2	368.78
+DIALYSE		9605	01/01/2015	01/03/2015	2015v1	349.59
+TAPHERESE		9615	01/01/2015	01/03/2015	2015v1	1260.89
+NBRCMI	Radiothérapie forfait 9622	9622	01/01/2015	01/03/2015	2015v1	181.15
+SUPP9623	Radiothérapie forfait 9623	9623	01/01/2015	01/03/2015	2015v1	781.13
+SUPP9624	Radiothérapie forfait 9624	9623	01/01/2015	01/03/2015	2015v1	781.13
+SUPP9625	Radiothérapie forfait 9625	9625	01/01/2015	01/03/2015	2015v1	449.79
+SUPP9631	Radiothérapie forfait 9631	9631	01/01/2015	01/03/2015	2015v1	171.02
+SUPP9632	Radiothérapie forfait 9632	9632	01/01/2015	01/03/2015	2015v1	136.81
+SUPP9633	Radiothérapie forfait 9633	9633	01/01/2015	01/03/2015	2015v1	83.95
+REP	Supplément de réanimation pédiatrie		01/01/2015	01/03/2015	2015v1	916.42
+REA	Supplément de réanimation		01/01/2015	01/03/2015	2015v1	808.53
+STF	Supplément de soins intensifs		01/01/2015	01/03/2015	2015v1	404.75
+SRC	Supplément de surveillance continue		01/01/2015	01/03/2015	2015v1	323.8
+NN1	Supplément néonatalogie		01/01/2015	01/03/2015	2015v1	305.47
+NN2	Supplément néonatologie avec soins intensifs		01/01/2015	01/03/2015	2015v1	458.2
+NN3	Supplément réanimation néonatale		01/01/2015	01/03/2015	2015v1	916.42
+DIP	Supplément dialyse péritonéale		01/01/2015	01/03/2015	2015v1	44.68
+D12	Forfait d'autodialyse simple		01/01/2015	01/03/2015	2015v1	232.64
+D13	Forfait d'autodialyse assistée		01/01/2015	01/03/2015	2015v1	238.87
+D14	Forfait d'hémodialyse à domicile		01/01/2015	01/03/2015	2015v1	206.38
+D15	Forfait de dialyse péritonéale automatisée (DPA)		01/01/2015	01/03/2015	2015v1	700.54
+D16	Forfait de dialyse péritonéale continue ambulatoire (DPCA)		01/01/2015	01/03/2015	2015v1	544.06
+D20	Forfait d'entraînement à la dialyse péritonéale automatisée		01/01/2015	01/03/2015	2015v1	426.62
+D21	Forfait d'entraînement à la dialyse péritonéale continue ambulatoire		01/01/2015	01/03/2015	2015v1	399.77
+D22	Forfait de dialyse péritonéale automatisée pour une hospitalisation d'une durée comprise entre trois et six jours		01/01/2015	01/03/2015	2015v1	280.22
+D23	Forfait de dialyse péritonéale continue ambulatoire pour une hospitalisation d'une durée comprise entre trois et six jours		01/01/2015	01/03/2015	2015v1	217.62
+PO1	Prélèvements du ou des reins et/ou du foie		01/01/2015	01/03/2015	2015v1	7321.15
+PO2	Prélèvements du ou des reins. du foie. du cœur. du pancréas. du ou des poumons et/ou de l'intestin. ou prélèvement d'au moins 7 organes		01/01/2015	01/03/2015	2015v1	10304.36
+PO3	Autres prélèvements d'organes		01/01/2015	01/03/2015	2015v1	8472.81
+PO4	Prélèvements d'organes sur cœur arrêté		01/01/2015	01/03/2015	2015v1	11239.83
+PO5	Prélèvement de rein(s)		01/01/2015	01/03/2015	2015v1	404.09
+PO6	Prélèvement du foie		01/01/2015	01/03/2015	2015v1	404.09
+PO7	Prélèvement de poumon(s)		01/01/2015	01/03/2015	2015v1	515.22
+PO8	Prélèvement de cœur ou du bloc « cœur poumon »		01/01/2015	01/03/2015	2015v1	484.91
+PO9	Prélèvement de pancréas		01/01/2015	01/03/2015	2015v1	606.14
+DIP	Supplément dialyse péritonéale		01/01/2015	01/03/2015	2015v1	44.68
+RAP	Radiothérapie forfait 1		01/01/2015	01/03/2015	2015v1	70.38
+ANT			01/01/2015	01/03/2015	2015v1	368.78
+DIALYSE		9605	01/03/2015	31/12/2015	2015v2	347.21
+TAPHERESE		9615	01/03/2015	31/12/2015	2015v2	1252.32
+NBRCMI	Radiothérapie forfait 9622	9622	01/03/2015	31/12/2015	2015v2	179.92
+SUPP9623	Radiothérapie forfait 9623	9623	01/03/2015	31/12/2015	2015v2	775.82
+SUPP9624	Radiothérapie forfait 9624	9623	01/03/2015	31/12/2015	2015v2	775.82
+SUPP9625	Radiothérapie forfait 9625	9625	01/03/2015	31/12/2015	2015v2	443.24
+SUPP9631	Radiothérapie forfait 9631	9631	01/03/2015	31/12/2015	2015v2	169.86
+SUPP9632	Radiothérapie forfait 9632	9632	01/03/2015	31/12/2015	2015v2	135.88
+SUPP9633	Radiothérapie forfait 9633	9633	01/03/2015	31/12/2015	2015v2	83.38
+REP	Supplément de réanimation pédiatrie		01/03/2015	31/12/2015	2015v2	911,2
+REA	Supplément de réanimation		01/03/2015	31/12/2015	2015v2	803,92
+STF	Supplément de soins intensifs		01/03/2015	31/12/2015	2015v2	402,44
+SRC	Supplément de surveillance continue		01/03/2015	31/12/2015	2015v2	321,95
+NN1	Supplément néonatalogie		01/03/2015	31/12/2015	2015v2	303,73
+NN2	Supplément néonatologie avec soins intensifs		01/03/2015	31/12/2015	2015v2	455,59
+NN3	Supplément réanimation néonatale		01/03/2015	31/12/2015	2015v2	911,2
+DIP	Supplément dialyse péritonéale		01/03/2015	31/12/2015	2015v2	44,68
+D12	Forfait d'autodialyse simple		01/03/2015	31/12/2015	2015v2	0
+D13	Forfait d'autodialyse assistée		01/03/2015	31/12/2015	2015v2	0
+D14	Forfait d'hémodialyse à domicile		01/03/2015	31/12/2015	2015v2	0
+D15	Forfait de dialyse péritonéale automatisée (DPA)		01/03/2015	31/12/2015	2015v2	0
+D16	Forfait de dialyse péritonéale continue ambulatoire (DPCA)		01/03/2015	31/12/2015	2015v2	0
+D20	Forfait d'entraînement à la dialyse péritonéale automatisée		01/03/2015	31/12/2015	2015v2	0
+D21	Forfait d'entraînement à la dialyse péritonéale continue ambulatoire		01/03/2015	31/12/2015	2015v2	0
+D22	Forfait de dialyse péritonéale automatisée pour une hospitalisation d'une durée comprise entre trois et six jours		01/03/2015	31/12/2015	2015v2	0
+D23	Forfait de dialyse péritonéale continue ambulatoire pour une hospitalisation d'une durée comprise entre trois et six jours		01/03/2015	31/12/2015	2015v2	0
+PO1	Prélèvements du ou des reins et/ou du foie		01/03/2015	31/12/2015	2015v2	0
+PO2	Prélèvements du ou des reins. du foie. du cœur. du pancréas. du ou des poumons et/ou de l'intestin. ou prélèvement d'au moins 7 organes		01/03/2015	31/12/2015	2015v2	0
+PO3	Autres prélèvements d'organes		01/03/2015	31/12/2015	2015v2	0
+PO4	Prélèvements d'organes sur cœur arrêté		01/03/2015	31/12/2015	2015v2	0
+PO5	Prélèvement de rein(s)		01/03/2015	31/12/2015	2015v2	0
+PO6	Prélèvement du foie		01/03/2015	31/12/2015	2015v2	0
+PO7	Prélèvement de poumon(s)		01/03/2015	31/12/2015	2015v2	0
+PO8	Prélèvement de cœur ou du bloc « cœur poumon »		01/03/2015	31/12/2015	2015v2	0
+PO9	Prélèvement de pancréas		01/03/2015	31/12/2015	2015v2	0
+DIP	Supplément dialyse péritonéale		01/03/2015	31/12/2015	2015v2	0
+RAP	Radiothérapie forfait 1		01/03/2015	31/12/2015	2015v2	69,98
+ANT			01/03/2015	31/12/2015	2015v2	366,68
+DIALYSE		9605	01/01/2016	01/03/2016	2016v1	347.21
+TAPHERESE		9615	01/01/2016	01/03/2016	2016v1	1252.32
+NBRCMI	Radiothérapie forfait 9622	9622	01/01/2016	01/03/2016	2016v1	179.92
+SUPP9623	Radiothérapie forfait 9623	9623	01/01/2016	01/03/2016	2016v1	775.82
+SUPP9624	Radiothérapie forfait 9624	9623	01/01/2016	01/03/2016	2016v1	775.82
+SUPP9625	Radiothérapie forfait 9625	9625	01/01/2016	01/03/2016	2016v1	443.24
+SUPP9631	Radiothérapie forfait 9631	9631	01/01/2016	01/03/2016	2016v1	169.86
+SUPP9632	Radiothérapie forfait 9632	9632	01/01/2016	01/03/2016	2016v1	135.88
+SUPP9633	Radiothérapie forfait 9633	9633	01/01/2016	01/03/2016	2016v1	83.38
+REP	Supplément de réanimation pédiatrie		01/01/2016	01/03/2016	2016v1	911,2
+REA	Supplément de réanimation		01/01/2016	01/03/2016	2016v1	803,92
+STF	Supplément de soins intensifs		01/01/2016	01/03/2016	2016v1	402,44
+SRC	Supplément de surveillance continue		01/01/2016	01/03/2016	2016v1	321,95
+NN1	Supplément néonatalogie		01/01/2016	01/03/2016	2016v1	303,73
+NN2	Supplément néonatologie avec soins intensifs		01/01/2016	01/03/2016	2016v1	455,59
+NN3	Supplément réanimation néonatale		01/01/2016	01/03/2016	2016v1	911,2
+DIP	Supplément dialyse péritonéale		01/01/2016	01/03/2016	2016v1	44,68
+D12	Forfait d'autodialyse simple		01/01/2016	01/03/2016	2016v1	0
+D13	Forfait d'autodialyse assistée		01/01/2016	01/03/2016	2016v1	0
+D14	Forfait d'hémodialyse à domicile		01/01/2016	01/03/2016	2016v1	0
+D15	Forfait de dialyse péritonéale automatisée (DPA)		01/01/2016	01/03/2016	2016v1	0
+D16	Forfait de dialyse péritonéale continue ambulatoire (DPCA)		01/01/2016	01/03/2016	2016v1	0
+D20	Forfait d'entraînement à la dialyse péritonéale automatisée		01/01/2016	01/03/2016	2016v1	0
+D21	Forfait d'entraînement à la dialyse péritonéale continue ambulatoire		01/01/2016	01/03/2016	2016v1	0
+D22	Forfait de dialyse péritonéale automatisée pour une hospitalisation d'une durée comprise entre trois et six jours		01/01/2016	01/03/2016	2016v1	0
+D23	Forfait de dialyse péritonéale continue ambulatoire pour une hospitalisation d'une durée comprise entre trois et six jours		01/01/2016	01/03/2016	2016v1	0
+PO1	Prélèvements du ou des reins et/ou du foie		01/01/2016	01/03/2016	2016v1	0
+PO2	Prélèvements du ou des reins. du foie. du cœur. du pancréas. du ou des poumons et/ou de l'intestin. ou prélèvement d'au moins 7 organes		01/01/2016	01/03/2016	2016v1	0
+PO3	Autres prélèvements d'organes		01/01/2016	01/03/2016	2016v1	0
+PO4	Prélèvements d'organes sur cœur arrêté		01/01/2016	01/03/2016	2016v1	0
+PO5	Prélèvement de rein(s)		01/01/2016	01/03/2016	2016v1	0
+PO6	Prélèvement du foie		01/01/2016	01/03/2016	2016v1	0
+PO7	Prélèvement de poumon(s)		01/01/2016	01/03/2016	2016v1	0
+PO8	Prélèvement de cœur ou du bloc « cœur poumon »		01/01/2016	01/03/2016	2016v1	0
+PO9	Prélèvement de pancréas		01/01/2016	01/03/2016	2016v1	0
+DIP	Supplément dialyse péritonéale		01/01/2016	01/03/2016	2016v1	0
+RAP	Radiothérapie forfait 1		01/01/2016	01/03/2016	2016v1	69,98
+ANT			01/01/2016	01/03/2016	2016v1	366,68
+DIALYSE		9605	01/03/2015	31/12/20145	2015v2	347.21
+TAPHERESE		9615	01/01/2016	01/03/2016	2016v1	1252.32
+NBRCMI	Radiothérapie forfait 9622	9622	01/01/2016	01/03/2016	2016v1	179.92
+SUPP9623	Radiothérapie forfait 9623	9623	01/01/2016	01/03/2016	2016v1	775.82
+SUPP9624	Radiothérapie forfait 9624	9623	01/01/2016	01/03/2016	2016v1	775.82
+SUPP9625	Radiothérapie forfait 9625	9625	01/01/2016	01/03/2016	2016v1	443.24
+SUPP9631	Radiothérapie forfait 9631	9631	01/01/2016	01/03/2016	2016v1	169.86
+SUPP9632	Radiothérapie forfait 9632	9632	01/01/2016	01/03/2016	2016v1	135.88
+SUPP9633	Radiothérapie forfait 9633	9633	01/01/2016	01/03/2016	2016v1	83.38
+REP	Supplément de réanimation pédiatrie		01/01/2016	01/03/2016	2016v1	911,2
+REA	Supplément de réanimation		01/01/2016	01/03/2016	2016v1	803,92
+STF	Supplément de soins intensifs		01/01/2016	01/03/2016	2016v1	402,44
+SRC	Supplément de surveillance continue		01/01/2016	01/03/2016	2016v1	321,95
+NN1	Supplément néonatalogie		01/01/2016	01/03/2016	2016v1	303,73
+NN2	Supplément néonatologie avec soins intensifs		01/01/2016	01/03/2016	2016v1	455,59
+NN3	Supplément réanimation néonatale		01/01/2016	01/03/2016	2016v1	911,2
+DIP	Supplément dialyse péritonéale		01/01/2016	01/03/2016	2016v1	44,68
+D12	Forfait d'autodialyse simple		01/01/2016	01/03/2016	2016v1	0
+D13	Forfait d'autodialyse assistée		01/01/2016	01/03/2016	2016v1	0
+D14	Forfait d'hémodialyse à domicile		01/01/2016	01/03/2016	2016v1	0
+D15	Forfait de dialyse péritonéale automatisée (DPA)		01/01/2016	01/03/2016	2016v1	0
+D16	Forfait de dialyse péritonéale continue ambulatoire (DPCA)		01/01/2016	01/03/2016	2016v1	0
+D20	Forfait d'entraînement à la dialyse péritonéale automatisée		01/01/2016	01/03/2016	2016v1	0
+D21	Forfait d'entraînement à la dialyse péritonéale continue ambulatoire		01/01/2016	01/03/2016	2016v1	0
+D22	Forfait de dialyse péritonéale automatisée pour une hospitalisation d'une durée comprise entre trois et six jours		01/01/2016	01/03/2016	2016v1	0
+D23	Forfait de dialyse péritonéale continue ambulatoire pour une hospitalisation d'une durée comprise entre trois et six jours		01/01/2016	01/03/2016	2016v1	0
+PO1	Prélèvements du ou des reins et/ou du foie		01/01/2016	01/03/2016	2016v1	0
+PO2	Prélèvements du ou des reins. du foie. du cœur. du pancréas. du ou des poumons et/ou de l'intestin. ou prélèvement d'au moins 7 organes		01/01/2016	01/03/2016	2016v1	0
+PO3	Autres prélèvements d'organes		01/01/2016	01/03/2016	2016v1	0
+PO4	Prélèvements d'organes sur cœur arrêté		01/01/2016	01/03/2016	2016v1	0
+PO5	Prélèvement de rein(s)		01/01/2016	01/03/2016	2016v1	0
+PO6	Prélèvement du foie		01/01/2016	01/03/2016	2016v1	0
+PO7	Prélèvement de poumon(s)		01/01/2016	01/03/2016	2016v1	0
+PO8	Prélèvement de cœur ou du bloc « cœur poumon »		01/01/2016	01/03/2016	2016v1	0
+PO9	Prélèvement de pancréas		01/01/2016	01/03/2016	2016v1	0
+DIP	Supplément dialyse péritonéale		01/01/2016	01/03/2016	2016v1	0
+RAP	Radiothérapie forfait 1		01/01/2016	01/03/2016	2016v1	69,98
+ANT			01/01/2016	01/03/2016	2016v1	366,68

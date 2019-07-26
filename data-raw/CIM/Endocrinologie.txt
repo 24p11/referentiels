@@ -1,0 +1,54 @@
+DIAG	LIBELLE
+E102	Diabete
+E103	Diabete
+E104	Diabete
+E105	Diabete
+E106	Diabete
+E107	Diabete
+E109	Diabete
+E1120	Diabete
+E1128	Diabete
+E1130	Diabete
+E1138	Diabete
+E1140	Diabete
+E1148	Diabete
+E1150	Diabete
+E1158	Diabete
+E1160	Diabete
+E1168	Diabete
+E1170	Diabete
+E1178	Diabete
+E1190	Diabete
+E1198	Diabete
+E063	Thyroide
+E069	Thyroide
+D34	Thyroide
+E039	Thyroide
+E042	Thyroide
+E210	Parathyroide
+E213	Parathyroide
+E214	Parathyroide
+D442	Parathyroide
+E6600	Obsite
+E6690	Obsite
+E6691	Obsite
+E6699	Obsite
+E281	Anomlies hormones sexuelles (dont hyperandrogenie)
+E282	Anomlies hormones sexuelles (dont hyperandrogenie)
+E290	Anomlies hormones sexuelles (dont hyperandrogenie)
+D352	Autres anomalies hormonales
+D443	Autres anomalies hormonales
+D4440	Autres anomalies hormonales
+E220	Autres anomalies hormonales
+E221	Autres anomalies hormonales
+E228	Autres anomalies hormonales
+E229	Autres anomalies hormonales
+E230	Autres anomalies hormonales
+E236	Autres anomalies hormonales
+E831	Autres anomalies hormonales
+E259	Autres anomalies hormonales
+E271	Autres anomalies hormonales
+E273	Autres anomalies hormonales
+E274	Autres anomalies hormonales
+E275	Autres anomalies hormonales
+E278	Autres anomalies hormonales

@@ -1,0 +1,55 @@
+CODE	LIBELLE
+C480	rétropéritoine
+C600	prépuce
+C601	gland
+C602	corps de la verge
+C608	lésion à localisations contiguës de la verge
+C609	verge, sans précision
+C61	tumeur maligne de la prostate
+C620	cryptorchidie
+C621	testicule descendu
+C629	testicule, sans précision
+C630	épididyme
+C631	cordon spermatique
+C632	scrotum
+C637	autres organes génitaux de l'homme précisés
+C638	lésion à localisations contiguës des organes génitaux de l'homme
+C64	tumeur maligne du rein, à l'exception du bassinet
+C65	tumeur maligne du bassinet
+C66	tumeur maligne de l'uretère
+C670	trigone de la vessie
+C671	dôme de la vessie
+C672	paroi latérale de la vessie
+C673	paroi antérieure de la vessie
+C674	paroi postérieure de la vessie
+C675	col vésical
+C676	orifice urétéral
+C677	ouraque
+C678	lésion à localisations contiguës de la vessie
+C679	vessie, sans précision
+C680	urètre
+C681	glande urétrale
+C688	lésion à localisations contiguës des organes urinaires
+C689	organe urinaire, sans précision
+C740	cortex de la surrénale
+C741	médullosurrénale
+C749	surrénale, sans précision
+C790	tumeur maligne secondaire du rein et du bassinet
+C791	tumeur maligne secondaire de la vessie et des organes urinaires, autres et non précisés
+C797	tumeur maligne secondaire de la glande surrénale
+D074	verge
+D075	prostate
+D090
+D400
+D401
+D407
+D409
+D410
+D411
+D412
+D413
+D414
+D417
+D441
+D483
+D4838

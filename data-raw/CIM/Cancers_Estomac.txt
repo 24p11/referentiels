@@ -1,0 +1,14 @@
+CODE	LIBELLE
+C160	cardia
+C161	fundus
+C162	corps de l'estomac
+C163	antre pylorique
+C164	pylore
+C165	petite courbure de l'estomac, sans précision
+C166	grande courbure de l'estomac, sans précision
+C168	lésion à localisations contiguës de l'estomac
+C169	estomac, sans précision
+D002	estomac
+D371	estomac
+C169+0	Estomac, tumeur maligne familiale liée au gène CDH 1
+C169+8	Estomac, tumeurs malignes autres et non précisées

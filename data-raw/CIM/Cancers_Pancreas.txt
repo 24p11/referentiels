@@ -1,0 +1,16 @@
+CODE	LIBELLE
+C250	tête du pancréas
+C251	corps du pancréas
+C252	queue du pancréas
+C253	canal pancréatique
+C254	pancréas endocrine
+C257	autres parties du pancréas
+C258	lésion à localisations contiguës du pancréas
+C259	pancréas, sans précision
+D017	autres organes digestifs précisés
+C254+0	Pancréas endocrine, tumeurs malignes autres et non précisées
+C254+8	Pancréas, tumeur maligne familiale
+C259+0	Pancréas, tumeurs malignes autres et non précisées
+C259+8	Pancréas, tumeurs malignes autres et non précisées
+D136	Tumeur bénigne du pancréas
+D137	Tumeur bénigne du pancréas endocrine

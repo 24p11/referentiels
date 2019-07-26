@@ -1,0 +1,13 @@
+CODE	LIBELLE
+C220	carcinome hépatocellulaire
+C221	carcinome du canal biliaire intrahépatique
+C222	hépatoblastome
+C223	angiosarcome du foie
+C224	autres sarcomes du foie
+C227	autres carcinomes du foie précisés
+C229	foie, sans précision
+C23	tumeur maligne de la vésicule biliaire
+C240	canal biliaire extra-hépatique
+C241	ampoule de Vater
+C248	lésion à localisations contiguës des voies biliaires
+C249	voies biliaires, sans précision

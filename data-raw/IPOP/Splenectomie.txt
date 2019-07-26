@@ -1,0 +1,8 @@
+TYPE
+Splénectomie partielle, coelioscopie
+Splénectomie partielle, laparotomie
+Splénectomie totale, coelioscopie
+Splénectomie totale, laparotomie
+
+
+

@@ -1,0 +1,6 @@
+CODE	LIBELLE
+A43	nocardiose
+A430	nocardiose pulmonaire
+A431	nocardiose cutanée
+A438	autres formes de nocardiose
+A439	nocardiose, sans précision

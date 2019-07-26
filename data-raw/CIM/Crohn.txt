@@ -1,0 +1,8 @@
+CODE	LIBELLE
+K50	maladie de Crohn [entérite régionale]
+K500	maladie de Crohn de l'intestin grêle
+K501	maladie de Crohn du gros intestin
+K508	autres formes de la maladie de Crohn
+K509	maladie de Crohn, sans précision
+
+

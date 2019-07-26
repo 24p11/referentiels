@@ -1,0 +1,6 @@
+ACTE	LIBELLE
+KEFC002	Surrénalectomie partielle ou totale, par cœlioscopie ou par rétropéritonéoscopie
+KEFA002	Surrénalectomie partielle ou totale, par abord direct
+KEFC001	Surrénalectomie totale pour phéochromocytome, par cœlioscopie ou par rétropéritonéoscopie
+KEFA001	Surrénalectomie totale pour phéochromocytome, par abord direct
+

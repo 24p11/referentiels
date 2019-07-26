@@ -1,0 +1,4 @@
+CODE	LIBELLE
+P700	Syndrome de l'enfant dont la mère a un diabète de la grossesse
+P701	Syndrome de l'enfant de mère diabétique
+P704	Autres hypoglycémies néonatales

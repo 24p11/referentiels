@@ -1,0 +1,74 @@
+CODE	LIBELLE
+I20	angine de poitrine
+I200	angine de poitrine instable
+I201	angine de poitrine avec spasme coronaire vérifié
+I208	autres formes d'angine de poitrine
+I209	angine de poitrine, sans précision
+I21	infarctus aigu du myocarde
+I210	infarctus transmural aigu du myocarde, de la paroi antérieure
+I211	infarctus transmural aigu du myocarde, de la paroi inférieure
+I212	infarctus transmural aigu du myocarde d'autres localisations
+I213	infarctus transmural aigu du myocarde, de localisation non précisée
+I214	infarctus sous-endocardique aigu du myocarde
+I219	infarctus aigu du myocarde, sans précision
+I22	infarctus du myocarde à répétition
+I220	infarctus du myocarde à répétition, de la paroi antérieure
+I221	infarctus du myocarde à répétition, de la paroi inférieure
+I228	infarctus du myocarde à répétition d'autres localisations
+I229	infarctus du myocarde à répétition, de localisation non précisée
+I23	certaines complications récentes d'un infarctus aigu du myocarde
+I230	hémopéricarde comme complication récente d'un infarctus aigu du myocarde
+I231	communication interauriculaire comme complication récente d'un infarctus aigu du myocarde
+I232	communication interventriculaire comme complication récente d'un infarctus aigu du myocarde
+I233	rupture de la paroi cardiaque sans hémopéricarde comme complication récente d'un infarctus aigu du myocarde
+I234	rupture des cordages tendineux comme complication récente d'un infarctus aigu du myocarde
+I235	rupture du muscle papillaire comme complication récente d'un infarctus aigu du myocarde
+I236	thrombose de l'oreillette, de l'auricule et du ventricule comme complication récente d'un infarctus aigu du myocarde
+I238	autres complications récentes d'un infarctus aigu du myocarde
+I24	autres cardiopathies ischémiques aiguës
+I240	thrombose coronaire n'entraînant pas un infarctus du myocarde
+I241	syndrome de Dressler
+I248	autres formes de cardiopathies ischémiques aiguës
+I249	cardiopathie ischémique aiguë, sans précision
+I25	cardiopathie ischémique chronique
+I250	athérosclérose cardio-vasculaire, décrite ainsi
+I251	cardiopathie artérioscléreuse
+I252	infarctus du myocarde, ancien
+I253	anévrisme du coeur
+I254	anévrisme d'une artère coronaire
+I255	myocardiopathie ischémique
+I256	ischémie myocardique asymptomatique
+I258	autres formes de cardiopathie ischémique chronique
+I259	cardiopathie ischémique chronique, sans précision
+I200+0	Angine de poitrine [angor] instable avec élévation des marqueurs biochimiques [enzymes] myocardiques
+I2100	Infarctus (transmural aigu) du myocarde (de la paroi) antérieure, prise en charge initiale
+I21000	Infarctus (transmural aigu) du myocarde (de la paroi) antérieure, prise en charge initiale, infarctus de 24 heures ou moins
+I2108	Infarctus (transmural aigu) du myocarde (de la paroi) antérieure, autres prises en charge
+I2110	Infarctus (transmural aigu) du myocarde (de la paroi) inférieure, prise en charge initiale
+I21100	Infarctus (transmural aigu) du myocarde (de la paroi) inférieure, prise en charge initiale, infarctus de 24 heures ou moins
+I2118	Infarctus (transmural aigu) du myocarde (de la paroi) inférieure, autres prises en charge
+I2120	Infarctus (transmural aigu) du myocarde d'autres localisations, prise en charge initiale
+I21200	Infarctus (transmural aigu) du myocarde d'autres localisations, prise en charge initiale, infarctus de 24 heures ou moins
+I2128	Infarctus (transmural aigu) du myocarde d'autres localisations, autres prises en charge
+I2130	Infarctus (transmural aigu) du myocarde de localisation non précisée, prise en charge initiale
+I21300	Infarctus (transmural aigu) du myocarde de localisation non précisée, prise en charge initiale, infarctus de 24 heures ou moins
+I2138	Infarctus (transmural aigu) du myocarde de localisation non précisée, autres prises en charge
+I2140	Infarctus sous-endocardique (aigu du myocarde), prise en charge initiale
+I21400	Infarctus sous-endocardique (aigu du myocarde), prise en charge initiale, infarctus de 24 heures ou moins
+I2148	Infarctus sous-endocardique (aigu du myocarde), autres prises en charge
+I2190	Infarctus (aigu) du myocarde sans précision, prise en charge initiale
+I21900	Infarctus (aigu) du myocarde sans précision, prise en charge initiale, infarctus de 24 heures ou moins
+I2198	Infarctus (aigu) du myocarde sans précision, autres prises en charge
+I2200	Infarctus du myocarde à répétition (de la paroi) antérieure, prise en charge initiale
+I22000	Infarctus du myocarde à répétition (de la paroi) antérieure, prise en charge initiale, infarctus de 24 heures ou moins
+I2208	Infarctus du myocarde à répétition (de la paroi) antérieure, autres prises en charge
+I2210	Infarctus du myocarde à répétition (de la paroi) inférieure, prise en charge initiale
+I22100	Infarctus du myocarde à répétition (de la paroi) inférieure, prise en charge initiale, infarctus de 24 heures ou moins
+I2218	Infarctus du myocarde à répétition (de la paroi) inférieure, autres prises en charge
+I2280	Infarctus du myocarde à répétition d'autres localisations, prise en charge initiale
+I22800	Infarctus du myocarde à répétition d'autres localisations, prise en charge initiale, infarctus de 24 heures ou moins
+I2288	Infarctus du myocarde à répétition d'autres localisations, autres prises en charge
+I2290	Infarctus du myocarde à répétition de localisation non précisée, prise en charge initiale
+I22900	Infarctus du myocarde à répétition de localisation non précisée, prise en charge initiale, infarctus de 24 heures ou moins
+I2298	Infarctus du myocarde à répétition de localisation non précisée, autres prises en charge
+

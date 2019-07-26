@@ -1,0 +1,32 @@
+CODE	LIBELLE
+C510	Tumeur maligne de la grande lèvre
+C511	Tumeur maligne de la petite lèvre
+C512	Tumeur maligne du clitoris
+C518	Tumeur maligne à localisations contiguës de la vulve
+C519	Tumeur maligne de la vulve, sans précision
+C52	Tumeur maligne du vagin
+C530	Tumeur maligne de l'endocol
+C531	Tumeur maligne de l'exocol
+C538	Tumeur maligne à localisations contiguës du col de l'utérus
+C539	Tumeur maligne du col de l'utérus, sans précision
+C540	Tumeur maligne de l'isthme de l'utérus
+C541	Tumeur maligne de l'endomètre
+C542	Tumeur maligne du myomètre
+C543	Tumeur maligne du fond de l'utérus
+C548	Tumeur maligne à localisations contiguës du corps de l'utérus
+C549	Tumeur maligne du corps de l'utérus, sans précision
+C55	Tumeur maligne de l'utérus, partie non précisée
+C56	Tumeur maligne de l'ovaire
+C570	Tumeur maligne d'une trompe de Fallope
+C571	Tumeur maligne d'un ligament large
+C572	Tumeur maligne d'un ligament rond
+C573	Tumeur maligne d'un paramètre
+C574	Tumeur maligne des annexes de l'utérus, sans précision
+C577	Tumeur maligne d'autres organes génitaux de la femme précisés
+C578	Tumeur maligne à localisations contiguës des organes génitaux de la femme
+C58	Tumeur maligne du placenta
+C796	Tumeur maligne secondaire de l'ovaire
+D390	Tumeur à évolution imprévisible ou inconnue de l'utérus
+D391	Tumeur à évolution imprévisible ou inconnue de l'ovaire
+D392	Tumeur à évolution imprévisible ou inconnue du placenta
+D397	Tumeur à évolution imprévisible ou inconnue d'autres organes génitaux de la femme

@@ -1,0 +1,6 @@
+CODE	LIBELLE
+C210	Tumeur maligne de l'anus, sans précision
+C211	Tumeur maligne du canal anal
+C212	Tumeur maligne de la zone cloacale
+C218	Tumeur maligne à localisations contiguës du rectum, de l'anus et du canal anal
+D129	Tumeur bénigne de l'anus et du canal anal

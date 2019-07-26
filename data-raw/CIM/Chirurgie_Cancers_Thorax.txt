@@ -1,0 +1,40 @@
+C150	Tumeur maligne de l'oesophage cervical
+C151	Tumeur maligne de l'oesophage thoracique
+C152	Tumeur maligne de l'oesophage abdominal
+C153	Tumeur maligne du tiers supérieur de l'oesophage
+C154	Tumeur maligne du tiers moyen de l'oesophage
+C155	Tumeur maligne du tiers inférieur de l'oesophage
+C158	Tumeur maligne à localisations contiguës de l'oesophage
+C159	Tumeur maligne de l'oesophage, sans précision
+C33	Tumeur maligne de la trachée
+C340	Tumeur maligne de la bronche souche
+C341	Tumeur maligne du lobe supérieur, bronches ou poumon
+C342	Tumeur maligne du lobe moyen, bronches ou poumon
+C343	Tumeur maligne du lobe inférieur, bronches ou poumon
+C348	Tumeur maligne à localisations contiguës des bronches et du poumon
+C349	Tumeur maligne de bronche ou du poumon, sans précision
+C37	Tumeur maligne du thymus
+C380	Tumeur maligne du coeur
+C381	Tumeur maligne du médiastin antérieur
+C382	Tumeur maligne du médiastin postérieur
+C383	Tumeur maligne du médiastin, partie non précisée
+C384	Tumeur maligne de la plèvre
+C388	Tumeur maligne à localisations contiguës du coeur, du médiastin et de la plèvre
+C398	Tumeur maligne à localisations contiguës des organes respiratoires et intrathoraciques
+C450	Mésothéliome de la plèvre
+C452	Mésothéliome du péricarde
+C4672	Sarcome de Kaposi pulmonaire
+C771	Tumeur maligne secondaire et non précisée des ganglions lymphatiques intrathoraciques
+C780	Tumeur maligne secondaire du poumon
+C781	Tumeur maligne secondaire du médiastin
+C782	Tumeur maligne secondaire de la plèvre
+C783	Tumeur maligne secondaire des organes respiratoires, autres et non précisés
+D001	Carcinome in situ de l'oesophage
+D021	Carcinome in situ de la trachée
+D022	Carcinome in situ des bronches et du poumon
+D023	Carcinome in situ d'autres parties de l'appareil respiratoire
+D381	Tumeur à évolution imprévisible ou inconnue de la trachée, des bronches et du poumon
+D382	Tumeur à évolution imprévisible ou inconnue de la plèvre
+D383	Tumeur à évolution imprévisible ou inconnue du médiastin
+D384	Tumeur à évolution imprévisible ou inconnue du thymus
+D385	Tumeur à évolution imprévisible ou inconnue d'autres organes respiratoires

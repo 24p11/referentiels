@@ -1,0 +1,227 @@
+﻿ACTE	CCAM_LIBELLE
+ADPC001	Vagotomie tronculaire, par coelioscopie 
+ADPC002	Vagotomie suprasélective, par coelioscopie 
+ADPC003	Vagotomie tronculaire postérieure avec séromyotomie oesogastrique antérieure, par coelioscopie
+AJFC001	Sympathectomie lombale, par coelioscopie ou par rétropéritonéoscopie
+AJNC001	Destruction chimique unilatérale ou bilatérale de la chaîne splanchnique, par coelioscopie 
+EDCC015	Suture de plaie d'artère digestive, par coelioscopie 
+EGFC001	Résection ou ligature de la veine testiculaire, par coelioscopie 
+ELSC001	Ligature ou section du pédicule testiculaire [spermatique] pour cryptorchidie, par coelioscopie 
+FCFC001	Curage lymphonodal [ganglionnaire] iliaque, par coelioscopie ou par rétropéritonéoscopie 
+FCFC003	Curage lymphonodal [ganglionnaire] pelvien, par cœlioscopie ou par rétropéritonéoscopie
+FCFC004	Curage lymphonodal [ganglionnaire] lomboaortique avec curage iliaque unilatéral ou bilatéral, par cœlioscopie ou par rétropéritonéoscopie
+FCFC005	Curage lymphonodal [ganglionnaire] lomboaortique, par cœlioscopie ou par rétropéritonéoscopie
+FFFC001	Splénectomie totale, par cœlioscopie
+FFJC001	Évacuation de collection de la rate, par cœlioscopie
+HEFA003	Œsophagectomie avec œsophagogastroplastie, par thoracotomie et par cœlioscopie
+HEFA018	Œsophagectomie avec œsophagogastroplastie, par cervicotomie, thoracotomie et cœlioscopie
+HEPC002	Œso-cardio-myotomie extramuqueuse sans réalisation de procédé antireflux, par cœlioscopie
+HEPC003	Œso-cardio-myotomie extramuqueuse avec réalisation de procédé antireflux, par cœlioscopie
+HFCC001	Suture de plaie ou de perforation de l'estomac ou du duodénum, par cœlioscopie
+HFCC002	Gastrostomie cutanée, par cœlioscopie
+HFCC003	Court-circuit [Bypass] gastrique pour obésité morbide, par coelioscopie 
+HFCC022	Gastrojéjunostomie de dérivation [Gastro-entéro-anastomose sans résection gastrique], par cœlioscopie
+HFDC001	Gastropexie chez l'enfant, par coelioscopie 
+HFDC002	Gastropexie postérieure [Cardiopexie], par cœlioscopie
+HFFC001	Résection partielle atypique de la paroi de l'estomac n'interrompant pas la continuité, par cœlioscopie
+HFFC002	Gastrectomie partielle inférieure avec anastomose gastrojéjunale, par coelioscopie 
+HFFC003	Résection de duplication gastrique, par coelioscopie 
+HFFC004	Gastrectomie avec court-circuit biliopancréatique ou intestinal pour obésité morbide, par cœlioscopie
+HFFC012	Gastrectomie partielle inférieure avec anastomose gastroduodénale, par coelioscopie 
+HFFC017	Gastrectomie totale avec rétablissement de la continuité, par cœlioscopie
+HFFC018	Gastrectomie longitudinale [Sleeve gastrectomy] pour obésité morbide, par coelioscopie
+HFGC900	Ablation d'une sonde de stimulation pariétale gastrique pour obésité morbide, par coelioscopie 
+HFKC001	Changement d'un anneau ajustable périgastrique pour obésité morbide, par coelioscopie 
+HFLC900	Implantation souscutanée d'un stimulateur gastrique avec pose d'une sonde pariétale gastrique pour obésité morbide, par coelioscopie 
+HFMC001	Confection d'une valve tubérositaire avec libération de la grande courbure gastrique, par cœlioscopie
+HFMC003	Pyloroplastie ou duodénoplastie, par coelioscopie 
+HFMC004	Confection d'une valve tubérositaire sans libération de la grande courbure gastrique, par cœlioscopie
+HFMC006	Gastroplastie verticale calibrée pour obésité morbide, par coelioscopie 
+HFMC007	Gastroplastie par pose d'anneau ajustable périgastrique pour obésité morbide, par coelioscopie
+HFMC008	Repositionnement ou ablation d'un anneau ajustable périgastrique, par cœlioscopie
+HFPC001	Pylorotomie extramuqueuse [Pyloromyotomie extramuqueuse], par coelioscopie 
+HGAC010	Plastie d'élargissement unique ou multiple de l'intestin grêle, par cœlioscopie
+HGCC003	Entéroentérostomie de dérivation, par cœlioscopie
+HGCC015	Iléocolostomie de dérivation [Anastomose iléocolique sans exérèse intestinale], par cœlioscopie
+HGCC026	Entérostomie cutanée, par cœlioscopie
+HGCC027	Court-circuit biliopancréatique ou intestinal pour obésité morbide, par coelioscopie 
+HGEC001	Détorsion intestinale ou section de bride péritonéale pour vice de rotation de l'anse intestinale primitive [mesenterium commune], par cœlioscopie
+HGEC009	Réduction d'invagination intestinale aigüe, par coelioscopie 
+HGFC001	Exérèse de duplication de l'intestin grêle sans résection intestinale, par coelioscopie 
+HGFC002	Résection du diverticule iléal [de Meckel], par cœlioscopie
+HGFC014	Résection segmentaire unique de l'intestin grêle sans rétablissement de la continuité, en dehors de l'occlusion, par cœlioscopie
+HGFC016	Résection segmentaire multiple de l'intestin grêle, par cœlioscopie
+HGFC021	Résection segmentaire unique de l'intestin grêle avec rétablissement de la continuité, en dehors de l'occlusion, par cœlioscopie
+HGPC005	Ablation d'un cathéter de dialyse péritonéale, par cœlioscopie
+HGPC006	Ablation d'un cathéter de dialyse péritonéale, par coelioscopie 
+HGPC015	Libération étendue de l'intestin grêle [Entérolyse étendue] pour occlusion aigüe, par cœlioscopie
+HHCC001	Suture de plaie ou de perforation du côlon, par cœlioscopie
+HHCC007	Colostomie cutanée, par cœlioscopie
+HHCC011	Colocolostomie de dérivation [Anastomose colocolique sans exérèse colique], par cœlioscopie
+HHFA002	Colectomie gauche avec libération de l'angle colique gauche, avec rétablissement de la continuité, par cœlioscopie ou par laparotomie avec préparation par cœlioscopie
+HHFA004	Colectomie totale avec conservation du rectum, avec anastomose iléorectale, par coelioscopie ou par laparotomie avec préparation par coelioscopie
+HHFA005	Colectomie totale avec conservation du rectum, sans rétablissement de la continuité, par cœlioscopie ou par laparotomie avec préparation par cœlioscopie
+HHFA008	Colectomie droite avec rétablissement de la continuité, par cœlioscopie ou par laparotomie avec préparation par cœlioscopie
+HHFA010	Colectomie gauche sans libération de l'angle colique gauche, avec rétablissement de la continuité, par cœlioscopie ou par laparotomie avec préparation par cœlioscopie
+HHFA016	Appendicectomie, par cœlioscopie ou par laparotomie avec préparation par cœlioscopie
+HHFA023	Colectomie transverse, par coelioscopie ou par laparotomie avec préparation par coelioscopie 
+HHFA025	Appendicectomie avec toilette péritonéale pour péritonite aigüe généralisée, par coelioscopie ou par laparotomie avec préparation par coelioscopie 
+HHFA028	Coloproctectomie totale avec anastomose iléoanale, par cœlioscopie ou par laparotomie avec préparation par cœlioscopie
+HHFA029	Coloproctectomie totale sans rétablissement de la continuité, par coelioscopie ou par laparotomie avec préparation par coelioscopie 
+HHFC001	Exérèse de polype du côlon par coloscopie, avec contrôle coelioscopique 
+HHMC001	Rétablissement secondaire de la continuité digestive après colectomie, par cœlioscopie
+HHMC005	Réfection de stomie cutanée intestinale, par coelioscopie 
+HHPC001	Colotomie exploratrice, par cœlioscopie
+HHPC002	Colotomie à visée thérapeutique, par cœlioscopie
+HJCC001	Suture de plaie ou de perforation intrapéritonéale du rectum, par cœlioscopie
+HJDC001	Rectopexie, par cœlioscopie
+HJFA004	Résection rectosigmoïdienne avec anastomose colorectale infrapéritonéale, par cœlioscopie ou par laparotomie avec préparation par cœlioscopie
+HJFA017	Résection rectosigmoïdienne par cœlioscopie ou par laparotomie avec préparation par cœlioscopie, avec anastomose coloanale par voie anale
+HJFA019	Amputation du rectum, par cœlioscopie ou par laparotomie avec préparation par cœlioscopie et par abord périnéal
+HJFC001	Résection rectocolique subtotale pour aganglionose congénitale par coelioscopie, avec rétablissement de la continuité par voie anale 
+HJFC002	Résection rectosigmoïdienne pour aganglionose congénitale par coelioscopie, avec rétablissement de la continuité par voie anale
+HJFC003	Résection rectocolique totale pour aganglionose congénitale par coelioscopie, avec rétablissement de la continuité par voie anale 
+HJFC023	Proctectomie secondaire par coelioscopie avec anastomose iléoanale par voie transanale, après colectomie totale initiale 
+HJFC031	Résection rectosigmoïdienne dépassant le cul-de-sac de Douglas, sans rétablissement de la continuité, par cœlioscopie
+HLCC001	Fenestration de kystes biliaires hépatiques, par cœlioscopie
+HLCC002	Lobectomie hépatique gauche, par coelioscopie 
+HLCC003	Résection atypique du foie, par coelioscopie 
+HLFC003	Résection atypique du foie, par cœlioscopie
+HLFC004	Unisegmentectomie hépatique, par coelioscopie 
+HLFC027	Bisegmentectomie hépatique, par coelioscopie 
+HLFC032	Trisegmentectomie hépatique, par coelioscopie 
+HLFC037	Hépatectomie gauche, par coelioscopie 
+HLJC001	Évacuation de collection hépatique, par cœlioscopie
+HLJC003	Destruction de tumeur hépatique avec courant de radiofréquence, par coelioscopie 
+HLSC012	Hémostase de lésion du foie, par cœlioscopie
+HMCC001	Cholédochojéjunostomie, par coelioscopie 
+HMCC002	Cholédochoduodénostomie, par coelioscopie 
+HMCC003	Cholécystogastrostomie ou cholécystoduodénostomie, par cœlioscopie
+HMCC013	Cholédochoduodénostomie avec gastrojéjunostomie, par coelioscopie 
+HMFA003	Cholécystectomie par cœlioscopie, avec ablation de calcul de la voie biliaire principale par cholédochotomie, par laparotomie
+HMFA005	Cholécystectomie par coelioscopie, avec cholédochojéjunostomie par laparotomie 
+HMFA006	Cholécystectomie par coelioscopie, avec cholédochoduodénostomie par laparotomie 
+HMFC001	Cholécystectomie avec ablation transcystique de calcul de la voie biliaire principale, par cœlioscopie
+HMFC002	Cholécystectomie avec ablation de calcul de la voie biliaire principale par cholédochotomie, par cœlioscopie
+HMFC003	Cholécystectomie avec cholédochogastrostomie ou cholédochoduodénostomie, par coelioscopie 
+HMFC004	Cholécystectomie, par cœlioscopie
+HMFC005	Cholécystectomie avec cholédochojéjunostomie, par coelioscopie 
+HMGC001	Ablation de calcul de la voie biliaire principale par cholédochotomie, par coelioscopie 
+HMLC001	Pose d'endoprothèse biliaire par cholédochotomie, par coelioscopie 
+HNCC021	Anastomose entre un faux kyste du pancréas et l'estomac [Kystogastrostomie], par coelioscopie 
+HNCC033	Anastomose entre un faux kyste du pancréas et le jéjunum [Kystojéjunostomie], par coelioscopie 
+HNFC001	Exérèse de tumeur du pancréas, par cœlioscopie
+HNFC002	Pancréatectomie gauche avec splénectomie [Splénopancréatectomie gauche], par cœlioscopie
+HNFC027	Nécrosectomie pancréatique, par coelioscopie 
+HNFC028	Pancréatectomie gauche avec conservation de la rate, par cœlioscopie
+HNJC001	Drainage externe de collection pancréatique, par cœlioscopie
+HPFC001	Exérèse de lésion d'un repli péritonéal [méso] sans résection intestinale, par cœlioscopie
+HPFC002	Résection du grand omentum [grand épiploon] [Omentectomie], par cœlioscopie
+HPFC007	Résection ou cloisonnement du cul-de-sac recto-utérin [de Douglas], par cœlioscopie
+HPKC014	Changement d'un cathéter de dialyse péritonéale, par coelioscopie 
+HPLC035	Pose ou repositionnement d'un cathéter intrapéritonéal pour dialyse péritonéale, par coelioscopie 
+HPNC001	Destruction et/ou exérèse de lésion endométriosique superficielle du péritoine, par cœlioscopie
+HPNC001	Destruction et/ou exérèse de lésion endométriosique superficielle du péritoine, par coelioscopie 
+HPPC001	Libération d'adhérences [Adhésiolyse] ni étendues ni serrées du péritoine pelvien pour stérilité chez la femme, par cœlioscopie
+HPPC002	Libération d'adhérences [Adhésiolyse] étendues et/ou serrées du péritoine pelvien pour stérilité chez la femme, par cœlioscopie
+HPPC003	Section de bride et/ou d'adhérences péritonéales pour occlusion intestinale aigüe, par cœlioscopie
+HPPC004	Libération de l'extrémité distale du cathéter d'un système diffuseur implanté pour insulinothérapie intrapéritonéale, par coelioscopie 
+HPQC001	Exploration du petit bassin [pelvis] féminin, par pélycoscopie [culdoscopie] [coelioscopie transvaginale] 
+HPSC001	Ligature du processus vaginal du péritoine [canal péritonéovaginal], par coelioscopie 
+JAFC001	Néphro-urétérectomie totale, par cœlioscopie ou par rétropéritonéoscopie
+JAFC002	Héminéphrectomie avec urétérectomie partielle, par coelioscopie ou par rétropéritonéoscopie 
+JAFC003	Prélèvement d'un rein sur un donneur vivant, par cœlioscopie ou par rétropéritonéoscopie
+JAFC004	Binéphrectomie, par cœlioscopie ou par rétropéritonéoscopie
+JAFC005	Néphrectomie partielle, par cœlioscopie ou par rétropéritonéoscopie
+JAFC006	Néphrectomie totale unilatérale, par cœlioscopie ou par rétropéritonéoscopie
+JAFC007	Héminéphrectomie avec urétérectomie totale, par coelioscopie ou par rétropéritonéoscopie 
+JAFC008	Résection de kyste non parasitaire du rein, par cœlioscopie ou par rétropéritonéoscopie
+JAFC010	Néphrectomie totale élargie à la loge rénale avec surrénalectomie, par cœlioscopie ou rétropéritonéoscopie
+JAFC019	Néphrectomie totale élargie à la loge rénale, par cœlioscopie ou rétropéritonéoscopie
+JAHC001	Biopsie du rein, par coelioscopie ou par rétropéritonéoscopie 
+JAHC018	Section de l'isthme d'un rein en fer à cheval, par coelioscopie 
+JBFC001	Résection-anastomose du bassinet et de la jonction pyélo-urétérale, par cœlioscopie ou par rétropéritonéoscopie
+JBMC001	Plastie du bassinet et de la jonction pyélo-urétérale, par cœlioscopie ou par rétropéritonéoscopie
+JCCC001	Urétérostomie cutanée, par coelioscopie ou par rétropéritonéoscopie 
+JCCC002	Urétérostomie cutanée transintestinale par anse non détubulée, par cœlioscopie ou par rétropéritonéoscopie
+JCCC003	Suture de plaie ou de rupture de l'uretère, par coelioscopie ou par rétropéritonéoscopie 
+JCCC006	Réimplantation urétérovésicale unilatérale avec création de montage antireflux, par coelioscopie 
+JCCC011	Réimplantation urétérovésicale bilatérale avec création de montage antireflux, par coelioscopie 
+JCEC006	Réimplantation urétérovésicale unilatérale avec création de montage antireflux, par cœlioscopie
+JCFC001	Urétérectomie totale, par coelioscopie ou par rétropéritonéoscopie 
+JCGC001	Ablation de calcul de l'uretère pelvien, par coelioscopie ou par rétropéritonéoscopie 
+JCGC002	Ablation de calcul de l'uretère iliaque, par cœlioscopie ou par rétropéritonéoscopie
+JCGC003	Ablation de calcul de l'uretère lombal, par cœlioscopie ou par rétropéritonéoscopie
+JCPC001	Libération de l'uretère avec intrapéritonisation ou lambeau péritonéal, par cœlioscopie ou par rétropéritonéoscopie
+JCPC002	Libération de l'uretère sans intrapéritonisation, par cœlioscopie ou par rétropéritonéoscopie
+JDCC016	Suture de plaie ou de rupture de vessie, par cœlioscopie
+JDDC002	Cervicocystopexie indirecte au ligament pectinéal [de Cooper], par cœlioscopie
+JDFC001	Exérèse de diverticule de la vessie, par coelioscopie 
+JDFC023	Cystectomie partielle, par cœlioscopie
+JDSC024	Fermeture de fistule vésicovaginale acquise, par coelioscopie 
+JFFC001	Exérèse de lésion endométriosique de la cloison rectovaginale, par cœlioscopie
+JFFC002	Exérèse de lésion de l'espace rétropéritonéal, par cœlioscopie ou par rétropéritonéoscopie
+JFJC001	Évacuation de collection périrénale, par cœlioscopie ou par rétropéritonéoscopie
+JGFC001	Vésiculoprostatectomie totale, par cœlioscopie
+JGFC045	Exérèse des vésicules séminales, par cœlioscopie
+JHEA004	Abaissement et fixation d'un testicule ectopique non palpable, par cœlioscopie et par abord inguinoscrotal
+JHFC001	Orchidectomie pour cryptorchidie abdominale, par cœlioscopie
+JJCC001	Salpingonéostomie ou fimbrioplastie, par cœlioscopie
+JJCC002	Microperforations unilatérales ou bilatérales de l'ovaire, par pélycoscopie [culdoscopie] [coelioscopie transvaginale] 
+JJCC003	Microperforations unilatérales ou bilatérales de l'ovaire, par cœlioscopie
+JJCC004	Anastomose tubotubaire unilatérale ou bilatérale, par cœlioscopie
+JJEC001	Détorsion de l'annexe, par cœlioscopie
+JJEC002	Transposition bilatérale de l'ovaire, par cœlioscopie
+JJEC003	Transposition unilatérale de l'ovaire, par cœlioscopie
+JJFA010	Kystectomie ovarienne transpariétale, par laparotomie avec préparation par cœlioscopie
+JJFC001	Salpingectomie partielle ou totale pour grossesse extra-utérine, par cœlioscopie
+JJFC002	Exérèse de reliquat embryonnaire du ligament large, par cœlioscopie
+JJFC003	Kystectomie ovarienne intrapéritonéale, par cœlioscopie
+JJFC004	Résection partielle de l'ovaire, par cœlioscopie
+JJFC006	Salpingectomie totale, par cœlioscopie
+JJFC008	Ovariectomie unilatérale, par cœlioscopie
+JJFC009	Ovariectomie bilatérale, par cœlioscopie
+JJFC010	Salpingoovariectomie [Annexectomie], par cœlioscopie
+JJFC011	Prélèvement d'ovocytes sur un ou deux ovaires, par coelioscopie 
+JJJC001	Évacuation de collection de l'annexe ou du ligament large, par cœlioscopie
+JJJC002	Expression tubaire pour évacuation tuboabdominale de grossesse extra-utérine, par cœlioscopie
+JJPC001	Salpingotomie avec aspiration de grossesse extra-utérine, par cœlioscopie
+JJPC002	Ovariotomie exploratrice, par cœlioscopie
+JJPC003	Interruption unilatérale ou bilatérale de la perméabilité des trompes utérines, par cœlioscopie
+JJPC004	Interruption unilatérale ou bilatérale de la perméabilité des trompes utérines, par pélycoscopie [culdoscopie] [coelioscopie transvaginale] 
+JJQC001	Exploration antérograde unilatérale ou bilatérale de la trompe utérine [Salpingoscopie gynécologique], par cœlioscopie
+JKDC001	Hystéropexie postérieure [Promontofixation], par cœlioscopie
+JKDC015	Hystéropexie antérieure, par coelioscopie
+JKFA006	Hystérectomie totale avec annexectomie unilatérale ou bilatérale, par cœlioscopie et par abord vaginal
+JKFA018	Hystérectomie totale, par cœlioscopie et par abord vaginal
+JKFA020	Colpohystérectomie totale élargie aux paramètres, par cœlioscopie et par abord vaginal
+JKFC001	Myomectomie de l'utérus avec hystérotomie, par cœlioscopie
+JKFC002	Hystérectomie subtotale, par cœlioscopie
+JKFC003	Hystérectomie totale avec annexectomie unilatérale ou bilatérale, par cœlioscopie
+JKFC004	Myomectomie de l'utérus sans hystérotomie, par cœlioscopie
+JKFC005	Hystérectomie totale, par cœlioscopie
+JKFC006	Hystérectomie subtotale avec annexectomie unilatérale ou bilatérale, par cœlioscopie
+JKGC001	Ablation d'un dispositif intra-utérin, par cœlioscopie
+JKPC001	Section et/ou destruction de synéchies de l'utérus, par hystéroscopie avec guidage cœlioscopique
+JLDC015	Suspension du dôme du vagin [Promontofixation du dôme vaginal], par cœlioscopie
+JLMA003	Création d'un néovagin par clivage intervésicorectal, par coelioscopie et par abord périnéal 
+JLMC001	Création d'un néovagin par pose de dispositif de traction progressive, par coelioscopie 
+JRGA004	Ablation totale d'une bandelette synthétique infra-urétrale, par coelioscopie et par abord vaginal 
+JRGC001	Ablation partielle d'une bandelette synthétique infra-urétrale, par coelioscopie
+JSEC001	Transfert intratubaire d'embryon, par coelioscopie 
+KEFC001	Surrénalectomie totale pour phéochromocytome, par cœlioscopie ou par rétropéritonéoscopie
+KEFC002	Surrénalectomie partielle ou totale, par cœlioscopie ou par rétropéritonéoscopie
+KZFC001	Exérèse de tumeur endocrinienne intraabdominale ectopique, par cœlioscopie
+LFCC001	Ostéosynthèse et/ou arthrodèse antérieure de la colonne vertébrale, par cœlioscopie ou par rétropéritonéoscopie
+LFFA014	Corporectomie vertébrale partielle ou totale, par abord direct avec préparation par coelioscopie ou par rétropéritonéoscopie 
+LFHC001	Biopsie osseuse et/ou discale de la colonne vertébrale, par coelioscopie ou par rétropéritonéoscopie 
+LLCC003	Suture de plaie ou de rupture récente de la coupole du diaphragme, par coelioscopie 
+LLMC001	Cure d'une hernie rétrocostoxiphoïdienne, par cœlioscopie
+LLMC004	Cure d'une hernie hiatale sans pose de prothèse, par cœlioscopie
+LLMC019	Plastie d'une coupole du diaphragme pour éventration, par coelioscopie 
+LMMC015	Cure d'éventration postopératoire de la paroi abdominale antérieure avec pose de prothèse, par cœlioscopie
+LMMC020	Cure de hernie de la paroi abdominale antérieure après l'âge de 16 ans avec pose de prothèse, par cœlioscopie
+ZCJC001	Évacuation de collection intraabdominale, par cœlioscopie ou par rétropéritonéoscopie
+ZCQC001	Exploration de la cavité abdominale par cœlioscopie, avec hystéroscopie
+ZCQC002	Exploration de la cavité abdominale, par cœlioscopie [Cœlioscopie exploratrice]
+

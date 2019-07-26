@@ -1,0 +1,8 @@
+ACTE	LIBELLE
+GLLD001	Oxygénothérapie hyperbare avec utilisation de ventilation mécanique et d'agent pharmacologique vaso-actif
+GLQP015	Surveillance continue de la saturation jugulaire en oxygène par dispositif intraveineux, par 24 heures
+GLLP004	Ventilation barométrique ou volumétrique non invasive au masque facial pendant au moins 2 heures cumulées au cours des 12 heures, pour insuffisance respiratoire aigüe
+GLLD007	Ventilation mécanique à poumons séparés, par 24 heures
+GLLD011	Ventilation à fréquence supérieure à 80 par minute [Ventilation à haute fréquence] [VHF], par 24 heures
+GLLD009	Ventilation par oscillations à haute fréquence, par 24 heures
+GLLD010	Ventilation liquide, par 24 heures

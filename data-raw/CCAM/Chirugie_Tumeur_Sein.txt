@@ -1,0 +1,15 @@
+ACTE	LIBELLE
+QEFA004	Tumorectomie du sein
+QEFA001	Tumorectomie du sein avec curage lymphonodal axillaire
+QEFA017	Mastectomie partielle
+QEFA008	Mastectomie partielle avec curage lymphonodal axillaire
+QEFA016	Exérèse de conduit lactifère [Exérèse de canal galactophore] [Pyramidectomie mammaire]
+QEFA007	Mastectomie souscutanée avec exérèse de la plaque aréolomamelonnaire
+QEFA019	Mastectomie totale
+QEFA020	Mastectomie totale avec conservation des pectoraux et curage lymphonodal axillaire, Mastectomie radicale modifiée selon Patey
+QEFA005	Mastectomie totale avec exérèse des pectoraux et curage lymphonodal axillaire, Mastectomie radicale selon Halsted
+QEFA010	Mastectomie totale avec curages lymphonodaux axillaire et supraclaviculaire
+QEFA003	Mastectomie totale avec curages lymphonodaux axillaire et parasternal [mammaire interne]
+QEFA012	Mastectomie totale élargie en surface, avec autogreffe cutanée
+QEFA013	Mastectomie totale élargie en surface, avec lambeau pédiculé de muscle grand dorsal ou lambeau parascapulaire
+QEFA015	Mastectomie totale élargie en surface, avec lambeau libre musculocutané

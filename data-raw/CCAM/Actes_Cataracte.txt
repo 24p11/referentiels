@@ -1,0 +1,13 @@
+ACTE	LIBELLE
+BFGA003	Extraction extracapsulaire manuelle du cristallin, sans implantation de cristallin artificiel
+BFGA002	Extraction extracapsulaire manuelle du cristallin, avec implantation de cristallin artificiel dans la chambre postérieure de l'œil
+BFGA008	Extraction extracapsulaire du cristallin par phakoémulsification, sans implantation de cristallin artificiel
+BFGA004	Extraction extracapsulaire du cristallin par phakoémulsification, avec implantation de cristallin artificiel dans la chambre postérieure de l'œil
+BFGA009	Extraction intracapsulaire du cristallin, sans implantation de cristallin artificiel
+BFGA006	Extraction intracapsulaire ou extracapsulaire du cristallin, avec implantation de cristallin artificiel dans la chambre antérieure de l'œil en cas d'impossibilité d'implantation dans la chambre postérieure
+BFGA010	Extraction du cristallin par sclérotomie postérieure [pars plana] [Phakophagie]
+BFGA007	Extraction de cristallin subluxé ou ectopique
+BFGA001	Extraction de cristallin luxé
+BFPA002	Capsulotomie ou exérèse partielle ou totale de reliquats de la capsule du cristallin, par kératotomie
+BFPP001	Capsulotomie du cristallin pour cataracte secondaire, avec laser
+BFGA005	Ablation de matériel implanté dans le segment antérieur de l'œil

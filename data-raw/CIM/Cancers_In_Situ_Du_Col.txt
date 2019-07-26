@@ -1,0 +1,6 @@
+CODE	LIBELLE
+D060	endocol
+D061	exocol
+D067	autres parties du col de l'utérus
+D069	col de l'utérus, sans précision
+

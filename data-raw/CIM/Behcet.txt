@@ -1,0 +1,2 @@
+﻿CODE	LIBELLE
+M352	Syndrome de Behçet

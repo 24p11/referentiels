@@ -1,0 +1,44 @@
+DIAG	LIBELLE	TYPE
+E854	Amylose AA	Amylose AA
+		Arthrite juvénile inflammatoire (AJI)
+M320 	LEAD médicamenteux	Lupus erythémateux systémique
+M321|J991	LEAD avec atteinte pulmonaire	Lupus erythémateux systémique
+M321|N085	LEAD avec glomérulopathie	Lupus erythémateux systémique
+M321|N164	LEAD avec néphropathie tubulo-interstitielle	Lupus erythémateux systémique
+M321|I398	LEAD avec maladie de Libman-Sacks SAI	Lupus erythémateux systémique
+M321|I328	LEAD avec péricardite lupique	Lupus erythémateux systémique
+M321	LEAD avec autre atteinte d’organe	Lupus erythémateux systémique
+M329	LEAD SAI	Lupus erythémateux systémique
+M120	Rhumatisme de Jaccoud	Lupus erythémateux systémique
+L930	Lupus discoïde	Lupus erythémateux systémique
+L931	Lupus cutané subaigu	Lupus erythémateux systémique
+L932	Panniculite lupique	Lupus erythémateux systémique
+	FMF	Maladies auto-inflammatoires héréditaires
+	Déficit  recepteur interleukine (TRAPS)	Maladies auto-inflammatoires héréditaires
+M352	Maladie de Behçet	Maladies auto-inflammatoires non génétique
+M061	Maladie de Still de l’adulte	Maladies auto-inflammatoires non génétique
+M332	Polymyosite primitive idiopathique	Myosites 
+M331	Dermatomyosite {sauf myosite juvénile}	Myosites 
+M339	Dermatopolymyosite SAI	Myosites 
+G737	Myopathie au cours d’une affection auto-immune ou inflammatoire	Myosites 
+M633|D868	Myosite au cours de la sarcoïdose	Myosites 
+M360	Myosite associée à une néoplasie	Myosites 
+M330	Myosite juvénile [Dermatomyosite aiguë]	Myosites 
+M608	Myosite à inclusions	Myosites 
+M608	Myofasciite à macrophage	Myosites 
+D688	Syndrome primaire des anti-phospholipides	SAPL  
+D688	Syndrome secondaire des anti-phospholipides	SAPL  
+M340	Sclérodermie systémique	Sclérodermie systémique  
+M34	Sclérodermie CREST	Sclérodermie systémique  
+M342	Sclérodermie systémique secondaire à une exposition professionnelle	Sclérodermie systémique  
+M342	Sclérodermie systémique médicamenteuse	Sclérodermie systémique  
+M348|J991	Sclérodermie systémique avec atteinte pulmonaire	Sclérodermie systémique  
+M348	Sclérodermie systémique avec atteinte d’autres organes {sauf pulmonaire, myopathie}	Sclérodermie systémique  
+L943	Sclérodactylie	Sclérodermie systémique  
+L940	Sclérodermie localisée	Sclérodermie systémique  
+M316	Artérite à cellules géantes isolée [Maladie de Horton]	Vascularites petits, moyens, gros vaisseaux  
+M315	Artérite à cellules géantes avec pseudopolyarthrite rhizomélique	Vascularites petits, moyens, gros vaisseaux  
+M314	Maladie de Takayashu	Vascularites petits, moyens, gros vaisseaux  
+M302	Périartérite noueuse juvénile	Vascularites petits, moyens, gros vaisseaux  
+M300	Périartérite noueuse essentielle	Vascularites petits, moyens, gros vaisseaux  
+M303	Maladie de Kawasaki	Vascularites petits, moyens, gros vaisseaux  

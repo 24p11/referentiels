@@ -1,0 +1,413 @@
+CODE	LIBELLE
+A020	entérite à Salmonella
+A030	shigellose à Shigella dysenteriae
+A047	entérocolite à Clostridium difficile
+A051	botulisme
+A052	intoxication alimentaire à Clostridium perfringens [Clostridium welchii]
+A064	abcès amibien du foie
+A159	tuberculose de l'appareil respiratoire sans précision, avec confirmation bactériologique et histologique
+A40	septicémie à streptocoques
+A400	septicémie à streptocoques, groupe A
+A401	septicémie à streptocoques, groupe B
+A402	septicémie à streptocoques, groupe D
+A403	septicémie à Streptococcus pneumoniae
+A408	autres septicémies à streptocoques
+A409	septicémie à streptocoques, sans précision
+A41	autres septicémies
+A410	septicémie à staphylocoques dorés
+A411	septicémie à d'autres staphylocoques précisés
+A412	septicémie à staphylocoques non précisés
+A413	septicémie à Haemophilus influenzae
+A414	septicémie à micro-organismes anaérobies
+A415	septicémie à d'autres micro-organismes Gram négatif
+A418	autres septicémies précisées
+A419	septicémie, sans précision
+A46	érysipèle
+A480	gangrène gazeuse
+A481	maladie des légionnaires
+A482	maladie des légionnaires, sans signes pulmonaires [fièvre de Pontiac]
+A483	syndrome du choc toxique
+A81	infections virales atypiques, du système nerveux central
+A810	maladie de Creutzfeldt-Jakob
+A811	panencéphalite sclérosante subaiguë
+A812	leucoencéphalopathie multifocale progressive
+A818	autres infections virales atypiques, du système nerveux central
+A819	infection virales atypiques, du système nerveux central, sans précision
+A85	autres encéphalites virales, non classées ailleurs
+A850	encéphalite à entérovirus
+A851	encéphalite à adénovirus
+A852	encéphalite virale transmise par des arthropodes, sans précision
+A858	autres encéphalites virales précisées
+A86	encéphalite virale, sans précision
+A87	méningite virale
+A870	méningite à entérovirus
+A871	méningite à adénovirus
+A872	chorioméningite lymphocytaire
+A878	autres méningites virales
+A879	méningite virale, sans précision
+A89	infection virale du système nerveux central, sans précision
+B00	infections par le virus de l'herpès [herpes simplex]
+B000	eczéma herpétique
+B001	dermite vésiculaire due au virus de l'herpès
+B002	gingivo-stomatite et pharyngo-amygdalite due au virus de l'herpès
+B003	méningite due au virus de l'herpès
+B004	encéphalite due au virus de l'herpès
+B005	affections oculaires dues au virus de l'herpès
+B007	maladie disséminée due au virus de l'herpès
+B008	autres formes d'infection due au virus de l'herpès
+B009	infection due au virus de l'herpès, sans précision
+B01	varicelle
+B010	méningite varicelleuse
+B011	encéphalite varicelleuse
+B012	pneumopathie varicelleuse
+B018	varicelle avec autres complications
+B019	varicelle sans complication
+B02	zona [herpes zoster]
+B020	encéphalite zostérienne
+B021	méningite zostérienne
+B022	zona accompagné d'autres manifestations neurologiques
+B023	zona ophtalmique
+B027	zona disséminé
+B028	zona avec autres complications
+B029	zona sans complication
+B06	rubéole
+B060	rubéole avec complications neurologiques
+B068	rubéole avec autres complications
+B069	rubéole sans complication
+B08	autres infections virales caractérisées par des lésions cutanéo-muqueuses, non classées ailleurs
+B080	autres infections à orthopoxvirus
+B081	molluscum contagiosum
+B082	exanthème subit [sixième maladie] [roséole infantile]
+B083	érythème infectieux [cinquième maladie] [mégalérythème épidémique]
+B084	stomatite vésiculaire avec exanthème, due à un entérovirus
+B085	pharyngite vésiculaire due à un entérovirus
+B088	autres infections virales précisées, caractérisées par des lésions cutanéo-muqueuses
+B09	infection virale caractérisée par des lésions cutanéo-muqueuses, sans précision
+B15	hépatite aiguë A
+B150	hépatite A avec coma hépatique
+B159	hépatite A sans coma hépatique
+B16	hépatite aiguë B
+B160	hépatite aiguë B avec agent delta, avec coma hépatique
+B161	hépatite aiguë B avec agent delta, sans coma hépatique
+B162	hépatite aiguë B sans agent delta, avec coma hépatique
+B169	hépatite aiguë B, sans agent delta et sans coma hépatique
+B17	autres hépatites virales aiguës
+B170	(sur)infection aiguë par agent delta d'un sujet porteur de l'hépatite B
+B171	hépatite aiguë C
+B172	hépatite aiguë E
+B178	autres hépatites virales aiguës précisées
+B18	hépatite virale chronique
+B180	hépatite virale chronique B avec agent delta
+B181	hépatite virale chronique B sans agent delta
+B182	hépatite virale chronique C
+B188	autres hépatites virales chroniques
+B189	hépatite virale chronique, sans précision
+B19	hépatite virale, sans précision
+B190	hépatite virale, sans précision, avec coma
+B199	hépatite virale, sans précision, sans coma
+B25	maladie à cytomégalovirus
+B250	pneumopathie à cytomégalovirus
+B251	hépatite à cytomégalovirus
+B252	pancréatite à cytomégalovirus
+B258	autres maladies à cytomégalovirus
+B259	maladie à cytomégalovirus, sans précision
+B26	oreillons
+B260	orchite ourlienne
+B261	méningite ourlienne
+B262	encéphalite ourlienne
+B263	pancréatite ourlienne
+B268	oreillons avec autres complications
+B269	oreillons sans complication
+B27	mononucléose infectieuse
+B270	mononucléose due à herpèsvirus gamma
+B271	mononucléose à cytomégalovirus
+B278	autres mononucléoses infectieuses
+B279	mononucléose infectieuse, sans précision
+B30	conjonctivite virale
+B300	kératoconjonctivite due à un adénovirus
+B301	conjonctivite due à un adénovirus
+B302	pharyngo-conjonctivite virale
+B303	conjonctivite hémorragique aiguë épidémique (entérovirale)
+B308	autres conjonctivites virales
+B309	conjonctivite virale, sans précision
+B33	autres maladies à virus, non classées ailleurs
+B330	myalgie épidémique
+B331	maladie de la Ross River
+B332	cardite virale
+B333	infections à rétrovirus, non classées ailleurs
+B338	autres maladies à virus précisées
+B34	infection virale, siège non précisé
+B340	infection adénovirale, sans précision
+B341	infection entérovirale, sans précision
+B342	infection coronavirale, sans précision
+B343	infection parvovirale, sans précision
+B344	infection papovavirale, sans précision
+B348	autres infections virales, siège non précisé
+B349	infection virale, sans précision
+B35	dermatophytose
+B350	teigne de la barbe et du cuir chevelu
+B351	teigne de l'ongle
+B352	teigne de la main
+B353	teigne du pied
+B354	teigne de la peau glabre
+B355	teigne imbriquée
+B356	teigne du membre inférieur
+B358	autres dermatophytoses
+B359	dermatophytose, sans précision
+B36	autres mycoses superficielles
+B360	pityriasis versicolor
+B361	tinea nigra
+B362	piedra blanche
+B363	piedra noire
+B368	autres mycoses superficielles précisées
+B369	mycose superficielle, sans précision
+B37	candidose
+B370	stomatite à Candida
+B371	candidose pulmonaire
+B372	candidose de la peau et des ongles
+B373	candidose de la vulve et du vagin
+B374	candidose d'autres localisations uro-génitales
+B375	méningite à Candida
+B376	endocardite à Candida
+B377	septicémie à Candida
+B378	autres localisations de candidose
+B379	candidose, sans précision
+B44	aspergillose
+B440	aspergillose pulmonaire invasive
+B441	autres aspergilloses pulmonaires
+B442	aspergillose amygdalienne
+B447	aspergillose disséminée
+B448	autres formes d'aspergillose
+B449	aspergillose, sans précision
+B45	cryptococcose
+B450	cryptococcose pulmonaire
+B451	cryptococcose cérébrale
+B452	cryptococcose cutanée
+B453	cryptococcose osseuse
+B457	cryptococcose disséminée
+B458	autres formes de cryptococcose
+B459	cryptococcose, sans précision
+B46	zygomycose
+B460	mucormycose pulmonaire
+B461	mucormycose rhinocérébrale
+B462	mucormycose gastro-intestinale
+B463	mucormycose cutanée
+B464	mucormycose disséminée
+B465	mucormycose, sans précision
+B468	autres zygomycoses
+B469	zygomycose, sans précision
+B47	mycétome
+B470	eumycétome
+B471	actinomycétome
+B479	mycétome, sans précision
+B48	autres mycoses, non classées ailleurs
+B480	lobomycose
+B481	rhinosporidose
+B482	allescheriase
+B483	géotrichose
+B484	pénicilliose
+B487	mycoses opportunistes
+B488	autres mycoses précisées
+B49	mycose, sans précision
+B58	toxoplasmose
+B580	oculopathie à Toxoplasma
+B581	hépatite à Toxoplasma
+B582	méningo-encéphalite à Toxoplasma
+B583	toxoplasmose pulmonaire
+B588	toxoplasmose avec atteinte d'autres organes
+B589	toxoplasmose, sans précision
+B59	pneumocystose
+B85	pédiculose et phtiriase
+B850	pédiculose due à Pediculus humanus capitis
+B851	pédiculose due à Pediculus humanus corporis
+B852	pédiculose, sans précision
+B853	phtiriase
+B854	infestation mixte, pédiculose et phtiriase
+B86	gale
+B879	myiase, sans précision
+B95	streptocoques et staphylocoques, cause de maladies classées dans d'autres chapitres
+B950	streptocoques, groupe A, cause de maladies classées dans d'autres chapitres
+B951	streptocoques, groupe B, cause de maladies classées dans d'autres chapitres
+B952	streptocoques, groupe D, cause de maladies classées dans d'autres chapitres
+B953	streptococcus pneumoniae, cause de maladies classées dans d'autres chapitres
+B954	autres streptocoques, cause de maladies classées dans d'autres chapitres
+B955	streptocoques non précisés, cause de maladies classées dans d'autres chapitres
+B956	staphylococcus aureus, cause de maladies classées dans d'autres chapitres
+B957	autres staphylocoques, cause de maladies classées dans d'autres chapitres
+B958	staphylocoque non précisé, cause de maladies classées dans d'autres chapitres
+B96	autres agents bactériens, cause de maladies classées dans d'autres chapitres
+B960	mycoplasma pneumoniae, cause de maladies classées dans d'autres chapitres
+B961	klebsiella pneumoniae [subsp. pneumoniae], cause de maladies classées dans d'autres chapitres
+B962	escherichia coli, cause de maladies classées dans d'autres chapitres
+B963	Haemophilus influenzae, cause de maladies classées dans d'autres chapitres
+B964	proteus (P. mirabilis) (P. morganii), cause de maladies classées dans d'autres chapitres
+B965	pseudomonas (P. aeruginosa) (P. mallei) (P. pseudomallei), cause de maladies classées dans d'autres chapitres
+B966	bacillus fragilis, cause de maladies classées dans d'autres chapitres
+B967	clostridium perfringens, cause de maladies classées dans d'autres chapitres
+B968	autres agents bactériens précisés, cause de maladies classées dans d'autres chapitres
+K578	diverticulose de l'intestin, siège non précisé, avec perforation et abcès
+K579	diverticulose du côlon et de l'intestin, siège non précisé, sans perforation ni
+K610	abcès anal
+K611	abcès rectal
+K659	péritonite, sans précision
+K750	abcès du foie
+K770	atteintes hépatiques au cours de maladies infectieuses et parasitaires classées ailleurs
+K800	calcul de la vésicule biliaire avec cholécystite aiguë
+K803	calcul des canaux biliaires avec angiocholite
+K804	calcul des canaux biliaires avec cholécystite
+K810	cholécystite aiguë
+K819	cholécystite, sans précision
+K832	perforation des voies biliaires
+K833	fistule des voies biliaires
+L020	abcès cutané, furoncle et anthrax de la face
+L021	abcès cutané, furoncle et anthrax du cou
+L022	abcès cutané, furoncle et anthrax du tronc
+L023	abcès cutané, furoncle et anthrax de la fesse
+L024	abcès cutané, furoncle et anthrax d'un membre
+L028	abcès cutané, furoncle et anthrax d'autres localisations
+L029	abcès cutané, furoncle et anthrax, sans précision
+L030	phlegmon des doigts et des orteils
+L031	phlegmon d'autres parties d'un membre
+L032	phlegmon de la face
+L033	phlegmon du tronc
+L038	phlegmon d'autres localisations
+L039	phlegmon, sans précision
+L049	lymphadénite aiguë, sans précision
+L080	pyodermite
+G000	méningite à Haemophilus
+G001	méningite à pneumocoques
+G002	méningite à streptocoques
+G003	méningite à staphylocoques
+G008	autres méningites bactériennes
+G009	méningite bactérienne, sans précision
+G060	abcès et granulome intracrâniens
+G061	abcès et granulome intrarachidiens
+G062	abcès extra-dural et sous-dural, sans précision
+I891	lymphangite
+J10	grippe, à autre virus grippal identifié
+J100	grippe avec pneumopathie, autre virus grippal identifié
+J101	grippe avec d'autres manifestations respiratoires, autre virus grippal identifié
+J108	grippe avec d'autres manifestations, autre virus grippal identifié
+J11	grippe, virus non identifié
+J110	grippe avec pneumopathie, virus non identifié
+J111	grippe avec d'autres manifestations respiratoires, virus non identifié
+J118	grippe avec d'autres manifestations, virus non identifié
+J12	pneumopathies virales, non classées ailleurs
+J120	pneumopathie adénovirale
+J121	pneumopathie due au virus respiratoire syncytial [VRS]
+J122	pneumopathie due aux virus paragrippaux
+J128	autres pneumopathies virales
+J129	pneumopathie virale, sans précision
+J13	pneumonie due à Streptococcus pneumoniae
+J14	pneumopathie due à Haemophilus influenzae
+J15	pneumopathies bactériennes, non classées ailleurs
+J150	pneumopathie due à Klebsiella pneumoniae
+J151	pneumopathie due à Pseudomonas
+J152	pneumopathie due à des staphylocoques
+J153	pneumopathie due à des streptocoques, groupe B
+J154	pneumopathie due à d'autres streptocoques
+J155	pneumopathie due à Escherichia coli
+J156	pneumopathie due à d'autres bactéries aérobies à Gram négatif
+J157	pneumopathie due à Mycoplasma pneumoniae
+J158	autres pneumopathies bactériennes
+J159	pneumopathie bactérienne, sans précision
+J16	pneumopathie due à d'autres micro-organismes infectieux, non classée ailleurs
+J160	pneumopathie due à Chlamydia
+J168	pneumopathie due à d'autres micro-organismes infectieux
+J17	pneumopathie au cours de maladies classées ailleurs
+J170	pneumopathie au cours de maladies bactériennes classées ailleurs
+J171	pneumopathie au cours de maladies virales classées ailleurs
+J172	pneumopathie au cours de mycoses
+J173	pneumopathie au cours de maladies parasitaires
+J178	pneumopathie au cours d'autres maladies classées ailleurs
+J18	pneumopathie à micro-organisme non précisé
+J180	bronchopneumopathie, sans précision
+J181	pneumopathie lobaire, sans précision
+J182	pneumopathie hypostatique, sans précision
+J188	autres pneumopathies, micro-organisme non précisé
+J189	pneumopathie, sans précision
+J200	bronchite aiguë due à Mycoplasma pneumoniae
+J201	bronchite aiguë due à Haemophilus influenzae
+J202	bronchite aiguë due à des streptocoques
+J208	bronchite aiguë due à d'autres micro-organismes précisés
+J209	bronchite aiguë, sans précision
+J411	bronchite chronique mucopurulente
+J440	maladie pulmonaire obstructive chronique avec infection aiguë des voies respiratoires inférieures
+J690	pneumopathie due à des aliments et des vomissements
+J850	gangrène et nécrose du poumon
+J851	abcès du poumon avec pneumopathie
+J852	abcès du poumon sans pneumopathie
+J853	abcès du médiastin
+J860	pyothorax avec fistule
+J869	pyothorax sans fistule
+J90	épanchement pleural, non classé ailleurs
+J958	autres troubles respiratoires après un acte à visée diagnostique et thérapeutique, non classés ailleurs
+J985	maladies du médiastin, non classées ailleurs
+K20	oesophagite
+K316	fistule de l'estomac et du duodénum
+L97	ulcère du membre inférieur, non classé ailleurs
+M000	arthrite et polyarthrite à staphylocoques
+M001	arthrite et polyarthrite à pneumocoques
+M002	autres arthrites et polyarthrites à streptocoques
+M008	arthrite et polyarthrite dues à d'autres bactéries précisées
+M009	arthrite à bactéries pyogènes, sans précision
+M010	arthrite méningococcique
+M013	arthrite au cours d'autres maladies bactériennes classées ailleurs
+M016	arthrite au cours de mycoses
+M492	spondylite entérobactérienne
+M493	spondylopathie au cours d'autres maladies infectieuses et parasitaires classées ailleurs
+M600	myosite infectieuse
+M631	myosite au cours d'infections parasitaires et à protozoaires classées ailleurs
+M632	myosite au cours d'autres maladies infectieuses classées ailleurs
+M860	ostéomyélite hématogène aiguë
+M863	ostéomyélite chronique multiple
+M864	ostéomyélite chronique avec fistule de drainage
+M869	ostéomyélite, sans précision
+N10	néphrite tubulo-interstitielle aiguë
+N136	pyonéphrose
+N151	abcès rénal et périrénal
+N300	cystite aiguë
+N308	autres cystites
+N340	abcès urétral
+N341	urétrite non spécifique
+N410	prostatite aiguë
+N411	prostatite chronique
+N412	abcès de la prostate
+N413	prostato-cystite
+N450	orchite, épididymite et épididymo-orchite, avec abcès
+N459	orchite, épididymite et épididymo-orchite, sans abcès
+N61	affections inflammatoires du sein
+N709	salpingite et ovarite, sans précision
+N719	affection inflammatoire de l'utérus, sans précision
+N732	paramétrite et phlegmon pelvien, sans précision
+N735	pelvipéritonite chez la femme, sans précision
+N829	fistule de l'appareil génital de la femme, sans précision
+T802	infections consécutives à une injection thérapeutique, une perfusion et une transfusion
+T814	infection après un acte à visée diagnostique et thérapeutique, non classée ailleurs
+T826	infection et réaction inflammatoire dues à une prothèse valvulaire cardiaque
+T827	infection et réaction inflammatoire dues à d'autres prothèses, implants et greffes cardiaques et vasculaires
+T835	infection et réaction inflammatoire dues à une prothèse, un implant et une greffe de l'appareil urinaire
+T836	infection et réaction inflammatoire dues à une prothèse, un implant et une greffe de l'appareil génital
+T845	infection et réaction inflammatoire dues à une prothèse articulaire interne
+T846	infection et réaction inflammatoire dues à un appareil de fixation interne [toute localisation]
+T847	infection et réaction inflammatoire dues à d'autres prothèses, implants et greffes orthopédiques internes
+T857	infection et réaction inflammatoire dues à d'autres prothèses, implants et greffes internes
+T874	infection d'un moignon d'amputation
+T875	nécrose d'un moignon d'amputation
+J09	grippe, à virus aviaire identifié
+B179	Hépatite virale aigüe, sans précision
+B334	Syndrome (cardio-)pulmonaire à virus Hanta [hantavirus] [SPH] [SCPH] (J17.1*)
+J123	Pneumonie due à métapneumovirus humain
+K352	Appendicite aigüe avec péritonite généralisée
+K353	Appendicite aigüe avec péritonite localisée
+K859	Pancréatite aiguë, sans précision
+L890	Zone de pression et ulcère de décubitus de stade I
+L891	Ulcère de décubitus de stade II
+L892	Ulcère de décubitus de stade III
+L893	Ulcère de décubitus de stade IV
+R572	Choc septique
+R650	Syndrome de réponse inflammatoire systémique d'origine infectieuse sans défaillance d'organe
+R651	Syndrome de réponse inflammatoire systémique d'origine infectieuse avec défaillance d'organe
+K2380	Oesophagite herpétique (B00.8)
+K2381	sophagite à candida (B37.8)
+K2388	Atteintes de l'Oesophage au cours de maladies classées ailleurs, autres

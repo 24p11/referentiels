@@ -1,0 +1,4 @@
+﻿ACTE	LIBELLE
+HCFA005	Parotidectomie totale avec exérèse du prolongement [processus] parapharyngien, par abord cervicofacial
+HCFA008	Parotidectomie partielle avec dissection et conservation du nerf facial
+HCFA009	Parotidectomie totale avec dissection et conservation du nerf facial

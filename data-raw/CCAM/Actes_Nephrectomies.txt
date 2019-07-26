@@ -1,0 +1,9 @@
+ACTE	LIBELLE
+JAFA008	Néphrectomie partielle avec dissection du pédicule vasculaire, par lombotomie ou par abord lombal postérieur
+JAFA024	Néphrectomie partielle sans dissection du pédicule vasculaire, par lombotomie ou par abord lombal vertical
+JAFC005	Néphrectomie partielle, par cœlioscopie ou par rétropéritonéoscopie
+JAFA029	Néphrectomie totale élargie à la loge rénale avec surrénalectomie, par laparotomie ou par abord lomboabdominal
+JAFA014	Néphrectomie totale élargie à la loge rénale avec thrombectomie par cavotomie, par laparotomie ou par abord lomboabdominal
+JAFA009	Néphrectomie totale élargie à la loge rénale, par laparotomie ou par abord lomboabdominal
+JAFA005	Néphrectomie totale élargie à la loge rénale avec résection latérale de la veine cave inférieure, par abord direct
+

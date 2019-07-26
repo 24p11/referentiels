@@ -1,0 +1,607 @@
+CODE	APPAREIL	ORGANE
+C000	VADS	Levre
+C001	VADS	Levre
+C002	VADS	Levre
+C003	VADS	Levre
+C004	VADS	Levre
+C005	VADS	Levre
+C006	VADS	Levre
+C008	VADS	Levre
+C009	VADS	Levre
+C01	VADS	Pharynx
+C020	VADS	Langue
+C021	VADS	Langue
+C022	VADS	Langue
+C023	VADS	Langue
+C024	VADS	Langue
+C028	VADS	Langue
+C029	VADS	Langue
+C030	VADS	Gencive
+C031	VADS	Gencive
+C039	VADS	Gencive
+C040	VADS	Plancher de la bouche
+C041	VADS	Plancher de la bouche
+C048	VADS	Plancher de la bouche
+C049	VADS	Plancher de la bouche
+C050	VADS	Palais
+C051	VADS	Pharynx
+C052	VADS	Pharynx
+C058	VADS	Palais
+C059	VADS	Palais
+C060	VADS	Bouche SAI
+C061	VADS	Bouche SAI
+C062	VADS	Bouche SAI
+C068	VADS	Bouche SAI
+C069	VADS	Bouche SAI
+C07	VADS	Glandes salivaires
+C080	VADS	Glandes salivaires
+C081	VADS	Glandes salivaires
+C088	VADS	Glandes salivaires
+C089	VADS	Glandes salivaires
+C090	VADS	Pharynx
+C091	VADS	Pharynx
+C098	VADS	Pharynx
+C099	VADS	Pharynx
+C100	VADS	Pharynx
+C101	VADS	Pharynx
+C102	VADS	Pharynx
+C103	VADS	Pharynx
+C104	VADS	Pharynx
+C108	VADS	Pharynx
+C109	VADS	Pharynx
+C110	VADS	Pharynx
+C111	VADS	Pharynx
+C112	VADS	Pharynx
+C113	VADS	Pharynx
+C118	VADS	Pharynx
+C119	VADS	Pharynx
+C12	VADS	Pharynx
+C130	VADS	Pharynx
+C131	VADS	Pharynx
+C132	VADS	Pharynx
+C138	VADS	Pharynx
+C139	VADS	Pharynx
+C140	VADS	Pharynx
+C142	VADS	Autres localisations des VADS
+C148	VADS	Autres localisations des VADS
+C150	APPAREIL DIGESTIF	Oesophage
+C151	APPAREIL DIGESTIF	Oesophage
+C152	APPAREIL DIGESTIF	Oesophage
+C153	APPAREIL DIGESTIF	Oesophage
+C154	APPAREIL DIGESTIF	Oesophage
+C155	APPAREIL DIGESTIF	Oesophage
+C158	APPAREIL DIGESTIF	Oesophage
+C159	APPAREIL DIGESTIF	Oesophage
+C160	APPAREIL DIGESTIF	Estomac
+C161	APPAREIL DIGESTIF	Estomac
+C162	APPAREIL DIGESTIF	Estomac
+C163	APPAREIL DIGESTIF	Estomac
+C164	APPAREIL DIGESTIF	Estomac
+C165	APPAREIL DIGESTIF	Estomac
+C166	APPAREIL DIGESTIF	Estomac
+C168	APPAREIL DIGESTIF	Estomac
+C169	APPAREIL DIGESTIF	Estomac
+C169+0	APPAREIL DIGESTIF	Estomac
+C169+8	APPAREIL DIGESTIF	Estomac
+C170	APPAREIL DIGESTIF	Intestin Grele
+C171	APPAREIL DIGESTIF	Intestin Grele
+C172	APPAREIL DIGESTIF	Intestin Grele
+C173	APPAREIL DIGESTIF	Intestin Grele
+C178	APPAREIL DIGESTIF	Intestin Grele
+C179	APPAREIL DIGESTIF	Intestin Grele
+C180	APPAREIL DIGESTIF	Colon - Rectum
+C181	APPAREIL DIGESTIF	Colon - Rectum
+C182	APPAREIL DIGESTIF	Colon - Rectum
+C183	APPAREIL DIGESTIF	Colon - Rectum
+C184	APPAREIL DIGESTIF	Colon - Rectum
+C185	APPAREIL DIGESTIF	Colon - Rectum
+C186	APPAREIL DIGESTIF	Colon - Rectum
+C187	APPAREIL DIGESTIF	Colon - Rectum
+C188	APPAREIL DIGESTIF	Colon - Rectum
+C189	APPAREIL DIGESTIF	Colon - Rectum
+C189+0	APPAREIL DIGESTIF	Colon - Rectum
+C189+8	APPAREIL DIGESTIF	Colon - Rectum
+C19	APPAREIL DIGESTIF	Colon - Rectum
+C20	APPAREIL DIGESTIF	Colon - Rectum
+C210	APPAREIL DIGESTIF	Canal anal
+C211	APPAREIL DIGESTIF	Canal anal
+C212	APPAREIL DIGESTIF	Canal anal
+C218	APPAREIL DIGESTIF	Colon - Rectum
+C220	APPAREIL DIGESTIF	Foie
+C221	APPAREIL DIGESTIF	Foie
+C222	APPAREIL DIGESTIF	Foie
+C223	APPAREIL DIGESTIF	Foie
+C224	APPAREIL DIGESTIF	Foie
+C227	APPAREIL DIGESTIF	Foie
+C229	APPAREIL DIGESTIF	Foie
+C23	APPAREIL DIGESTIF	Vesicule biliaire et voies biliaires extra hepatiques
+C240	APPAREIL DIGESTIF	Vesicule biliaire et voies biliaires extra hepatiques
+C241	APPAREIL DIGESTIF	Vesicule biliaire et voies biliaires extra hepatiques
+C248	APPAREIL DIGESTIF	Vesicule biliaire et voies biliaires extra hepatiques
+C249	APPAREIL DIGESTIF	Vesicule biliaire et voies biliaires extra hepatiques
+C250	APPAREIL DIGESTIF	Pancreas
+C251	APPAREIL DIGESTIF	Pancreas
+C252	APPAREIL DIGESTIF	Pancreas
+C253	APPAREIL DIGESTIF	Pancreas
+C254	APPAREIL DIGESTIF	Pancreas
+C254+0	APPAREIL DIGESTIF	Pancreas
+C254+8	APPAREIL DIGESTIF	Pancreas
+C257	APPAREIL DIGESTIF	Pancreas
+C258	APPAREIL DIGESTIF	Pancreas
+C259	APPAREIL DIGESTIF	Pancreas
+C259+0	APPAREIL DIGESTIF	Pancreas
+C259+8	APPAREIL DIGESTIF	Pancreas
+C260	APPAREIL DIGESTIF	Autres localisations de l'appareil digestif
+C261	APPAREIL DIGESTIF	Autres localisations de l'appareil digestif
+C268	APPAREIL DIGESTIF	Autres localisations de l'appareil digestif
+C269	APPAREIL DIGESTIF	Autres localisations de l'appareil digestif
+C300	VADS	Fosses nasales, Oreille moyenne , interne
+C301	VADS	Fosses nasales, Oreille moyenne , interne
+C310	VADS	Sinus de la face
+C311	VADS	Sinus de la face
+C312	VADS	Sinus de la face
+C313	VADS	Sinus de la face
+C318	VADS	Sinus de la face
+C319	VADS	Sinus de la face
+C320	VADS	Larynx
+C321	VADS	Larynx
+C322	VADS	Larynx
+C323	VADS	Larynx
+C328	VADS	Larynx
+C329	VADS	Larynx
+C33	APPAREIL RESPIRATOIRE ET AUTRES THORAX	Trachee, Bronches, Poumon
+C340	APPAREIL RESPIRATOIRE ET AUTRES THORAX	Trachee, Bronches, Poumon
+C341	APPAREIL RESPIRATOIRE ET AUTRES THORAX	Trachee, Bronches, Poumon
+C342	APPAREIL RESPIRATOIRE ET AUTRES THORAX	Trachee, Bronches, Poumon
+C343	APPAREIL RESPIRATOIRE ET AUTRES THORAX	Trachee, Bronches, Poumon
+C348	APPAREIL RESPIRATOIRE ET AUTRES THORAX	Trachee, Bronches, Poumon
+C349	APPAREIL RESPIRATOIRE ET AUTRES THORAX	Trachee, Bronches, Poumon
+C37	APPAREIL RESPIRATOIRE ET AUTRES THORAX	Thymus, coeur, Mediastin
+C380	APPAREIL RESPIRATOIRE ET AUTRES THORAX	Thymus, coeur, Mediastin
+C381	APPAREIL RESPIRATOIRE ET AUTRES THORAX	Thymus, coeur, Mediastin
+C382	APPAREIL RESPIRATOIRE ET AUTRES THORAX	Thymus, coeur, Mediastin
+C383	APPAREIL RESPIRATOIRE ET AUTRES THORAX	Thymus, coeur, Mediastin
+C384	APPAREIL RESPIRATOIRE ET AUTRES THORAX	Plevre
+C388	APPAREIL RESPIRATOIRE ET AUTRES THORAX	Autres localisations de l'appareil respiratoire
+C390	APPAREIL RESPIRATOIRE ET AUTRES THORAX	Autres localisations de l'appareil respiratoire
+C398	APPAREIL RESPIRATOIRE ET AUTRES THORAX	Autres localisations de l'appareil respiratoire
+C399	APPAREIL RESPIRATOIRE ET AUTRES THORAX	Autres localisations de l'appareil respiratoire
+C400	OS	Os
+C401	OS	Os
+C402	OS	Os
+C403	OS	Os
+C408	OS	Os
+C409	OS	Os
+C410	OS	Os
+C411	OS	Os
+C412	OS	Os
+C413	OS	Os
+C414	OS	Os
+C418	OS	Os
+C419	OS	Os
+C430	PEAU	Melanome
+C431	PEAU	Melanome
+C432	PEAU	Melanome
+C433	PEAU	Melanome
+C434	PEAU	Melanome
+C435	PEAU	Melanome
+C436	PEAU	Melanome
+C437	PEAU	Melanome
+C438	PEAU	Melanome
+C439	PEAU	Melanome
+C440	PEAU	Autres tumeurs malignes de la peau
+C441	PEAU	Autres tumeurs malignes de la peau
+C442	PEAU	Autres tumeurs malignes de la peau
+C443	PEAU	Autres tumeurs malignes de la peau
+C444	PEAU	Autres tumeurs malignes de la peau
+C445	PEAU	Autres tumeurs malignes de la peau
+C446	PEAU	Autres tumeurs malignes de la peau
+C447	PEAU	Autres tumeurs malignes de la peau
+C448	PEAU	Autres tumeurs malignes de la peau
+C449	PEAU	Autres tumeurs malignes de la peau
+C450	APPAREIL RESPIRATOIRE ET AUTRES THORAX	Plevre
+C451	APPAREIL DIGESTIF	Peritoine
+C452	APPAREIL RESPIRATOIRE ET AUTRES THORAX	Thymus, coeur, Mediastin
+C457	T.M. SECONDAIRES, SIEGES MAL DEFINIS ET AUTRES LOCALISATIONS	T.M. secondaires, sieges mal definis et autres localisations
+C459	T.M. SECONDAIRES, SIEGES MAL DEFINIS ET AUTRES LOCALISATIONS	T.M. secondaires, sieges mal definis et autres localisations
+C460	TISSUS MOUS	Sarcome de Kaposi
+C461	TISSUS MOUS	Sarcome de Kaposi
+C462	TISSUS MOUS	Sarcome de Kaposi
+C463	TISSUS MOUS	Sarcome de Kaposi
+C467	TISSUS MOUS	Sarcome de Kaposi
+C4670	TISSUS MOUS	Sarcome de Kaposi
+C4671	TISSUS MOUS	Sarcome de Kaposi
+C4672	TISSUS MOUS	Sarcome de Kaposi
+C4678	TISSUS MOUS	Sarcome de Kaposi
+C468	TISSUS MOUS	Sarcome de Kaposi
+C469	TISSUS MOUS	Sarcome de Kaposi
+C470	TISSUS MOUS	Nerfs preripheriques, Systeme nerveux autonome 
+C471	TISSUS MOUS	Nerfs preripheriques, Systeme nerveux autonome 
+C472	TISSUS MOUS	Nerfs preripheriques, Systeme nerveux autonome 
+C473	TISSUS MOUS	Nerfs preripheriques, Systeme nerveux autonome 
+C474	TISSUS MOUS	Nerfs preripheriques, Systeme nerveux autonome 
+C475	TISSUS MOUS	Nerfs preripheriques, Systeme nerveux autonome 
+C476	TISSUS MOUS	Nerfs preripheriques, Systeme nerveux autonome 
+C478	TISSUS MOUS	Nerfs preripheriques, Systeme nerveux autonome 
+C479	TISSUS MOUS	Nerfs preripheriques, Systeme nerveux autonome 
+C480	APPAREIL DIGESTIF	Peritoine
+C481	APPAREIL DIGESTIF	Peritoine
+C482	APPAREIL DIGESTIF	Peritoine
+C488	APPAREIL DIGESTIF	Peritoine
+C490	TISSUS MOUS	Tissus conjonctif
+C491	TISSUS MOUS	Tissus conjonctif
+C492	TISSUS MOUS	Tissus conjonctif
+C493	TISSUS MOUS	Tissus conjonctif
+C4930	TISSUS MOUS	Tissus conjonctif
+C4938	TISSUS MOUS	Tissus conjonctif
+C494	TISSUS MOUS	Tissus conjonctif
+C4940	TISSUS MOUS	Tissus conjonctif
+C4948	TISSUS MOUS	Tissus conjonctif
+C495	TISSUS MOUS	Tissus conjonctif
+C4950	TISSUS MOUS	Tissus conjonctif
+C4958	TISSUS MOUS	Tissus conjonctif
+C496	TISSUS MOUS	Tissus conjonctif
+C498	TISSUS MOUS	Tissus conjonctif
+C499	TISSUS MOUS	Tissus conjonctif 
+C500	SEIN	Sein
+C501	SEIN	Sein
+C502	SEIN	Sein
+C503	SEIN	Sein
+C504	SEIN	Sein
+C505	SEIN	Sein
+C506	SEIN	Sein
+C508	SEIN	Sein
+C509	SEIN	Sein
+C510	ORGANES GENITAUX FEMININS	Vulve
+C511	ORGANES GENITAUX FEMININS	Vulve
+C512	ORGANES GENITAUX FEMININS	Vulve
+C518	ORGANES GENITAUX FEMININS	Vulve
+C519	ORGANES GENITAUX FEMININS	Vulve
+C52	ORGANES GENITAUX FEMININS	Vagin
+C530	ORGANES GENITAUX FEMININS	Col uterin
+C531	ORGANES GENITAUX FEMININS	Col uterin
+C538	ORGANES GENITAUX FEMININS	Col uterin
+C539	ORGANES GENITAUX FEMININS	Col uterin
+C540	ORGANES GENITAUX FEMININS	Corps uterin
+C541	ORGANES GENITAUX FEMININS	Corps uterin
+C542	ORGANES GENITAUX FEMININS	Corps uterin
+C543	ORGANES GENITAUX FEMININS	Corps uterin
+C548	ORGANES GENITAUX FEMININS	Corps uterin
+C549	ORGANES GENITAUX FEMININS	Corps uterin
+C55	ORGANES GENITAUX FEMININS	Corps uterin
+C56	ORGANES GENITAUX FEMININS	Ovaire
+C570	ORGANES GENITAUX FEMININS	Autres localisations des organes genitaux feminins
+C571	ORGANES GENITAUX FEMININS	Autres localisations des organes genitaux feminins
+C572	ORGANES GENITAUX FEMININS	Autres localisations des organes genitaux feminins
+C573	ORGANES GENITAUX FEMININS	Autres localisations des organes genitaux feminins
+C574	ORGANES GENITAUX FEMININS	Autres localisations des organes genitaux feminins
+C577	ORGANES GENITAUX FEMININS	Autres localisations des organes genitaux feminins
+C578	ORGANES GENITAUX FEMININS	Autres localisations des organes genitaux feminins
+C579	ORGANES GENITAUX FEMININS	Autres localisations des organes genitaux feminins
+C58	ORGANES GENITAUX FEMININS	Placenta
+C600	ORGANES GENITAUX MASCULINS	Verge
+C601	ORGANES GENITAUX MASCULINS	Verge
+C602	ORGANES GENITAUX MASCULINS	Verge
+C608	ORGANES GENITAUX MASCULINS	Verge
+C609	ORGANES GENITAUX MASCULINS	Verge
+C61	ORGANES GENITAUX MASCULINS	Prostate
+C620	ORGANES GENITAUX MASCULINS	Testicule
+C621	ORGANES GENITAUX MASCULINS	Testicule
+C629	ORGANES GENITAUX MASCULINS	Testicule
+C630	ORGANES GENITAUX MASCULINS	Autres localisations des organes genitaux masculins
+C631	ORGANES GENITAUX MASCULINS	Autres localisations des organes genitaux masculins
+C632	ORGANES GENITAUX MASCULINS	Autres localisations des organes genitaux masculins
+C637	ORGANES GENITAUX MASCULINS	Autres localisations des organes genitaux masculins
+C638	ORGANES GENITAUX MASCULINS	Autres localisations des organes genitaux masculins
+C639	ORGANES GENITAUX MASCULINS	Autres localisations des organes genitaux masculins
+C64	VOIES URINAIRES	Rein
+C65	VOIES URINAIRES	Rein
+C66	VOIES URINAIRES	Autres localisations des organes urinaires
+C670	VOIES URINAIRES	Vessie
+C671	VOIES URINAIRES	Vessie
+C672	VOIES URINAIRES	Vessie
+C673	VOIES URINAIRES	Vessie
+C674	VOIES URINAIRES	Vessie
+C675	VOIES URINAIRES	Vessie
+C676	VOIES URINAIRES	Vessie
+C677	VOIES URINAIRES	Vessie
+C678	VOIES URINAIRES	Vessie
+C679	VOIES URINAIRES	Vessie
+C680	VOIES URINAIRES	Autres localisations des organes urinaires
+C681	VOIES URINAIRES	Autres localisations des organes urinaires
+C688	VOIES URINAIRES	Autres localisations des organes urinaires
+C689	VOIES URINAIRES	Autres localisations des organes urinaires
+C690	OEIL	OEIL
+C691	OEIL	OEIL
+C692	OEIL	OEIL
+C693	OEIL	OEIL
+C694	OEIL	OEIL
+C695	OEIL	OEIL
+C696	OEIL	OEIL
+C698	OEIL	OEIL
+C699	OEIL	OEIL
+C700	SN CENTRAL	Meninges
+C701	SN CENTRAL	Meninges
+C709	SN CENTRAL	Meninges
+C710	SN CENTRAL	Cerveau
+C711	SN CENTRAL	Cerveau
+C712	SN CENTRAL	Cerveau
+C713	SN CENTRAL	Cerveau
+C714	SN CENTRAL	Cerveau
+C715	SN CENTRAL	Cerveau
+C716	SN CENTRAL	Cerveau
+C717	SN CENTRAL	Cerveau
+C718	SN CENTRAL	Cerveau
+C719	SN CENTRAL	Cerveau
+C720	SN CENTRAL	Moelle epiniere, nerfs craniens
+C721	SN CENTRAL	Moelle epiniere, nerfs craniens
+C722	SN CENTRAL	Moelle epiniere, nerfs craniens
+C723	SN CENTRAL	Moelle epiniere, nerfs craniens
+C724	SN CENTRAL	Moelle epiniere, nerfs craniens
+C725	SN CENTRAL	Moelle epiniere, nerfs craniens
+C728	SN CENTRAL	Autres localisations du systeme nerveux central
+C729	SN CENTRAL	Autres localisations du systeme nerveux central
+C73	THYROIDE / GLANDES ENDOCRINES	Thyroide
+C740	THYROIDE / GLANDES ENDOCRINES	Surrenale
+C741	THYROIDE / GLANDES ENDOCRINES	Surrenale
+C749	THYROIDE / GLANDES ENDOCRINES	Surrenale
+C750	THYROIDE / GLANDES ENDOCRINES	Autres glandes endocrines
+C751	THYROIDE / GLANDES ENDOCRINES	Autres glandes endocrines
+C752	THYROIDE / GLANDES ENDOCRINES	Autres glandes endocrines
+C753	THYROIDE / GLANDES ENDOCRINES	Autres glandes endocrines
+C754	THYROIDE / GLANDES ENDOCRINES	Autres glandes endocrines
+C755	THYROIDE / GLANDES ENDOCRINES	Autres glandes endocrines
+C758	THYROIDE / GLANDES ENDOCRINES	Autres glandes endocrines
+C759	THYROIDE / GLANDES ENDOCRINES	Autres glandes endocrines
+C760	T.M. SECONDAIRES, SIEGES MAL DEFINIS ET AUTRES LOCALISATIONS	Sieges mal definis / Origine inconnue
+C761	T.M. SECONDAIRES, SIEGES MAL DEFINIS ET AUTRES LOCALISATIONS	Sieges mal definis / Origine inconnue
+C762	T.M. SECONDAIRES, SIEGES MAL DEFINIS ET AUTRES LOCALISATIONS	Sieges mal definis / Origine inconnue
+C763	T.M. SECONDAIRES, SIEGES MAL DEFINIS ET AUTRES LOCALISATIONS	Sieges mal definis / Origine inconnue
+C764	T.M. SECONDAIRES, SIEGES MAL DEFINIS ET AUTRES LOCALISATIONS	Sieges mal definis / Origine inconnue
+C765	T.M. SECONDAIRES, SIEGES MAL DEFINIS ET AUTRES LOCALISATIONS	Sieges mal definis / Origine inconnue
+C767	T.M. SECONDAIRES, SIEGES MAL DEFINIS ET AUTRES LOCALISATIONS	Sieges mal definis / Origine inconnue
+C768	T.M. SECONDAIRES, SIEGES MAL DEFINIS ET AUTRES LOCALISATIONS	Sieges mal definis / Origine inconnue
+C770	VADS	Autres localisations des VADS
+C771	T.M. SECONDAIRES, SIEGES MAL DEFINIS ET AUTRES LOCALISATIONS	Metastases ganglionnaires
+C772	T.M. SECONDAIRES, SIEGES MAL DEFINIS ET AUTRES LOCALISATIONS	Metastases ganglionnaires
+C773	SEIN	Sein
+C774	T.M. SECONDAIRES, SIEGES MAL DEFINIS ET AUTRES LOCALISATIONS	Metastases ganglionnaires
+C775	T.M. SECONDAIRES, SIEGES MAL DEFINIS ET AUTRES LOCALISATIONS	Metastases ganglionnaires
+C778	T.M. SECONDAIRES, SIEGES MAL DEFINIS ET AUTRES LOCALISATIONS	Metastases ganglionnaires
+C779	T.M. SECONDAIRES, SIEGES MAL DEFINIS ET AUTRES LOCALISATIONS	Metastases ganglionnaires
+C780	T.M. SECONDAIRES, SIEGES MAL DEFINIS ET AUTRES LOCALISATIONS	Metastases appareil respiratoire
+C781	T.M. SECONDAIRES, SIEGES MAL DEFINIS ET AUTRES LOCALISATIONS	Metastases appareil respiratoire
+C782	T.M. SECONDAIRES, SIEGES MAL DEFINIS ET AUTRES LOCALISATIONS	Metastases appareil respiratoire
+C783	T.M. SECONDAIRES, SIEGES MAL DEFINIS ET AUTRES LOCALISATIONS	Metastases appareil respiratoire
+C784	T.M. SECONDAIRES, SIEGES MAL DEFINIS ET AUTRES LOCALISATIONS	Metastases appareil digestif
+C785	T.M. SECONDAIRES, SIEGES MAL DEFINIS ET AUTRES LOCALISATIONS	Metastases appareil digestif
+C786	T.M. SECONDAIRES, SIEGES MAL DEFINIS ET AUTRES LOCALISATIONS	Metastases appareil digestif
+C787	T.M. SECONDAIRES, SIEGES MAL DEFINIS ET AUTRES LOCALISATIONS	Metastases appareil digestif
+C788	T.M. SECONDAIRES, SIEGES MAL DEFINIS ET AUTRES LOCALISATIONS	Metastases appareil digestif
+C790	T.M. SECONDAIRES, SIEGES MAL DEFINIS ET AUTRES LOCALISATIONS	Metastases appareil urinaire
+C791	T.M. SECONDAIRES, SIEGES MAL DEFINIS ET AUTRES LOCALISATIONS	Metastases appareil urinaire
+C792	T.M. SECONDAIRES, SIEGES MAL DEFINIS ET AUTRES LOCALISATIONS	Metastases cutanees
+C793	T.M. SECONDAIRES, SIEGES MAL DEFINIS ET AUTRES LOCALISATIONS	Metastases systeme nerveux
+C794	T.M. SECONDAIRES, SIEGES MAL DEFINIS ET AUTRES LOCALISATIONS	Metastases systeme nerveux
+C795	T.M. SECONDAIRES, SIEGES MAL DEFINIS ET AUTRES LOCALISATIONS	Metastases osseuses
+C796	T.M. SECONDAIRES, SIEGES MAL DEFINIS ET AUTRES LOCALISATIONS	Metastases autres
+C797	T.M. SECONDAIRES, SIEGES MAL DEFINIS ET AUTRES LOCALISATIONS	Metastases autres
+C798	T.M. SECONDAIRES, SIEGES MAL DEFINIS ET AUTRES LOCALISATIONS	Metastases autres
+C80	T.M. SECONDAIRES, SIEGES MAL DEFINIS ET AUTRES LOCALISATIONS	Sieges mal definis / Origine inconnue
+C80+0	T.M. SECONDAIRES, SIEGES MAL DEFINIS ET AUTRES LOCALISATIONS	Autres localisations
+C810	HEMATOLOGIE	Lymphome hodgkinien
+C811	HEMATOLOGIE	Lymphome hodgkinien
+C812	HEMATOLOGIE	Lymphome hodgkinien
+C813	HEMATOLOGIE	Lymphome hodgkinien
+C817	HEMATOLOGIE	Lymphome hodgkinien
+C819	HEMATOLOGIE	Lymphome hodgkinien
+C820	HEMATOLOGIE	Lymphomes non Hodgkinien
+C821	HEMATOLOGIE	Lymphomes non Hodgkinien
+C822	HEMATOLOGIE	Lymphomes non Hodgkinien
+C827	HEMATOLOGIE	Lymphomes non Hodgkinien
+C829	HEMATOLOGIE	Lymphomes non Hodgkinien
+C830	HEMATOLOGIE	Lymphomes non Hodgkinien
+C831	HEMATOLOGIE	Lymphomes non Hodgkinien
+C832	HEMATOLOGIE	Lymphomes non Hodgkinien
+C833	HEMATOLOGIE	Lymphomes non Hodgkinien
+C834	HEMATOLOGIE	Lymphomes non Hodgkinien
+C835	HEMATOLOGIE	Lymphomes non Hodgkinien
+C836	HEMATOLOGIE	Lymphomes non Hodgkinien
+C837	HEMATOLOGIE	Lymphomes non Hodgkinien
+C838	HEMATOLOGIE	Lymphomes non Hodgkinien
+C839	HEMATOLOGIE	Lymphomes non Hodgkinien
+C840	HEMATOLOGIE	Lymphomes non Hodgkinien
+C841	HEMATOLOGIE	Lymphomes non Hodgkinien
+C842	HEMATOLOGIE	Lymphomes non Hodgkinien
+C843	HEMATOLOGIE	Lymphomes non Hodgkinien
+C844	HEMATOLOGIE	Lymphomes non Hodgkinien
+C845	HEMATOLOGIE	Lymphomes non Hodgkinien
+C850	HEMATOLOGIE	Lymphomes non Hodgkinien
+C851	HEMATOLOGIE	Lymphomes non Hodgkinien
+C857	HEMATOLOGIE	Lymphomes non Hodgkinien
+C859	HEMATOLOGIE	Lymphomes non Hodgkinien
+C880	HEMATOLOGIE	Maladies immunoproliferatives
+C881	HEMATOLOGIE	Maladies immunoproliferatives
+C882	HEMATOLOGIE	Maladies immunoproliferatives
+C883	HEMATOLOGIE	Maladies immunoproliferatives
+C887	HEMATOLOGIE	Maladies immunoproliferatives
+C889	HEMATOLOGIE	Maladies immunoproliferatives
+C900	HEMATOLOGIE	Myelomes
+C901	HEMATOLOGIE	Myelomes
+C902	HEMATOLOGIE	Myelomes
+C910	HEMATOLOGIE	Leucemies lymphoides aigues
+C911	HEMATOLOGIE	Leucemies lymphoides chroniques
+C912	HEMATOLOGIE	Leucemies lymphoides aigues
+C913	HEMATOLOGIE	Leucemies lymphoides chroniques
+C914	HEMATOLOGIE	Leucemies lymphoides chroniques
+C915	HEMATOLOGIE	Leucemies lymphoides chroniques
+C917	HEMATOLOGIE	Leucemies lymphoides chroniques
+C919	HEMATOLOGIE	Leucemies lymphoides chroniques
+C920	HEMATOLOGIE	Leucemies myeloides aigues
+C921	HEMATOLOGIE	Leucemies myeloides chroniques
+C922	HEMATOLOGIE	Leucemies myeloides aigues
+C923	HEMATOLOGIE	Leucemies myeloides chroniques
+C924	HEMATOLOGIE	Leucemies myeloides aigues
+C925	HEMATOLOGIE	Leucemies myeloides aigues
+C927	HEMATOLOGIE	Leucemies myeloides chroniques
+C929	HEMATOLOGIE	Leucemies myeloides chroniques
+C930	HEMATOLOGIE	Leucemies monocytaires aigues
+C931	HEMATOLOGIE	Leucemies monocytaires chroniques
+C932	HEMATOLOGIE	Leucemies monocytaires aigues
+C937	HEMATOLOGIE	Leucemies monocytaires chroniques
+C939	HEMATOLOGIE	Leucemies monocytaires chroniques
+C940	HEMATOLOGIE	Autres leucemies aigues
+C941	HEMATOLOGIE	Autres leucemies chroniques
+C942	HEMATOLOGIE	Autres leucemies aigues
+C943	HEMATOLOGIE	Autres leucemies chroniques
+C944	HEMATOLOGIE	Autres leucemies aigues
+C945	HEMATOLOGIE	Autres leucemies aigues
+C947	HEMATOLOGIE	Autres leucemies chroniques
+C950	HEMATOLOGIE	Autres leucemies aigues
+C951	HEMATOLOGIE	Autres leucemies chroniques
+C952	HEMATOLOGIE	Autres leucemies aigues
+C957	HEMATOLOGIE	Autres leucemies chroniques
+C959	HEMATOLOGIE	Autres leucemies chroniques
+C960	HEMATOLOGIE	Autres tumeurs des tissus lymphoides
+C961	HEMATOLOGIE	Autres tumeurs des tissus lymphoides
+C962	HEMATOLOGIE	Autres tumeurs des tissus lymphoides
+C963	HEMATOLOGIE	Autres tumeurs des tissus lymphoides
+C967	HEMATOLOGIE	Autres tumeurs des tissus lymphoides
+C969	HEMATOLOGIE	Autres tumeurs des tissus lymphoides
+C97	T.M. SECONDAIRES, SIEGES MAL DEFINIS ET AUTRES LOCALISATIONS	Autres localisations
+D000	VADS	Autres localisations des VADS
+D001	APPAREIL DIGESTIF	Oesophage
+D002	APPAREIL DIGESTIF	Estomac
+D010	APPAREIL DIGESTIF	Colon - Rectum
+D011	APPAREIL DIGESTIF	Jonction recto-sigmoidienne
+D012	APPAREIL DIGESTIF	Colon - Rectum
+D013	APPAREIL DIGESTIF	Canal anal
+D014	APPAREIL DIGESTIF	Intestin Grele
+D015	APPAREIL DIGESTIF	Vesicule biliaire et voies biliaires extra hepatiques
+D017	APPAREIL DIGESTIF	Autres localisations de l'appareil digestif
+D019	APPAREIL DIGESTIF	Autres localisations de l'appareil digestif
+D020	VADS	Larynx
+D021	APPAREIL RESPIRATOIRE ET AUTRES THORAX	Trachee, Bronches, Poumon
+D022	APPAREIL RESPIRATOIRE ET AUTRES THORAX	Trachee, Bronches, Poumon
+D023	APPAREIL RESPIRATOIRE ET AUTRES THORAX	Autres localisations de l'appareil respiratoire
+D024	APPAREIL RESPIRATOIRE ET AUTRES THORAX	Autres localisations de l'appareil respiratoire
+D030	PEAU	Melanome
+D031	PEAU	Melanome
+D032	PEAU	Melanome
+D033	PEAU	Melanome
+D034	PEAU	Melanome
+D035	PEAU	Melanome
+D036	PEAU	Melanome
+D037	PEAU	Melanome
+D038	PEAU	Melanome
+D039	PEAU	Melanome
+D040	PEAU	Autres tumeurs malignes de la peau
+D041	PEAU	Autres tumeurs malignes de la peau
+D042	PEAU	Autres tumeurs malignes de la peau
+D043	PEAU	Autres tumeurs malignes de la peau
+D044	PEAU	Autres tumeurs malignes de la peau
+D045	PEAU	Autres tumeurs malignes de la peau
+D046	PEAU	Autres tumeurs malignes de la peau
+D047	PEAU	Autres tumeurs malignes de la peau
+D048	PEAU	Autres tumeurs malignes de la peau
+D049	PEAU	Autres tumeurs malignes de la peau
+D050	SEIN	Sein
+D051	SEIN	Sein
+D057	SEIN	Sein
+D059	SEIN	Sein
+D060	ORGANES GENITAUX FEMININS	Col uterin
+D061	ORGANES GENITAUX FEMININS	Col uterin
+D067	ORGANES GENITAUX FEMININS	Col uterin
+D069	ORGANES GENITAUX FEMININS	Col uterin
+D070	ORGANES GENITAUX FEMININS	Corps uterin
+D071	ORGANES GENITAUX FEMININS	Vulve
+D072	ORGANES GENITAUX FEMININS	Vagin
+D073	ORGANES GENITAUX FEMININS	Autres localisations des organes genitaux feminins
+D074	ORGANES GENITAUX MASCULINS	Verge
+D075	ORGANES GENITAUX MASCULINS	Prostate
+D076	ORGANES GENITAUX MASCULINS	Autres localisations des organes genitaux masculins
+D090	VOIES URINAIRES	Vessie
+D091	VOIES URINAIRES	Autres localisations des organes urinaires
+D092	OEIL 	OEIL 
+D093	THYROIDE / GLANDES ENDOCRINES	Thyroide
+D097	T.M. SECONDAIRES, SIEGES MAL DEFINIS ET AUTRES LOCALISATIONS	Autres localisations
+D099	T.M. SECONDAIRES, SIEGES MAL DEFINIS ET AUTRES LOCALISATIONS	Autres localisations
+D370	VADS	Autres localisations des VADS
+D371	APPAREIL DIGESTIF	Estomac
+D372	APPAREIL DIGESTIF	Intestin Grele
+D373	APPAREIL DIGESTIF	Colon - Rectum
+D374	APPAREIL DIGESTIF	Colon - Rectum
+D375	APPAREIL DIGESTIF	Colon - Rectum
+D376	APPAREIL DIGESTIF	Vesicule biliaire et voies biliaires extra hepatiques
+D377	APPAREIL DIGESTIF	Autres localisations de l'appareil digestif
+D379	APPAREIL DIGESTIF	Autres localisations de l'appareil digestif
+D380	VADS	Larynx
+D381	APPAREIL RESPIRATOIRE ET AUTRES THORAX	Trachee, Bronches, Poumon
+D382	APPAREIL RESPIRATOIRE ET AUTRES THORAX	Plevre
+D383	APPAREIL RESPIRATOIRE ET AUTRES THORAX	Thymus, coeur, Mediastin
+D384	APPAREIL RESPIRATOIRE ET AUTRES THORAX	Thymus, coeur, Mediastin
+D385	APPAREIL RESPIRATOIRE ET AUTRES THORAX	Autres localisations de l'appareil respiratoire
+D386	APPAREIL RESPIRATOIRE ET AUTRES THORAX	Autres localisations de l'appareil respiratoire
+D390	ORGANES GENITAUX FEMININS	Autres localisations des organes genitaux feminins
+D391	ORGANES GENITAUX FEMININS	Ovaire
+D392	ORGANES GENITAUX FEMININS	Placenta
+D397	ORGANES GENITAUX FEMININS	Autres localisations des organes genitaux feminins
+D399	ORGANES GENITAUX FEMININS	Autres localisations des organes genitaux feminins
+D400	ORGANES GENITAUX MASCULINS	Prostate
+D401	ORGANES GENITAUX MASCULINS	Testicule
+D407	ORGANES GENITAUX MASCULINS	Autres localisations des organes genitaux masculins
+D409	ORGANES GENITAUX MASCULINS	Autres localisations des organes genitaux masculins
+D410	VOIES URINAIRES	Rein
+D411	VOIES URINAIRES	Rein
+D412	VOIES URINAIRES	Autres localisations des organes urinaires
+D413	VOIES URINAIRES	Autres localisations des organes urinaires
+D414	VOIES URINAIRES	Vessie
+D417	VOIES URINAIRES	Autres localisations des organes urinaires
+D419	VOIES URINAIRES	Autres localisations des organes urinaires
+D420	SN CENTRAL	Meninges
+D421	SN CENTRAL	Meninges
+D429	SN CENTRAL	Meninges
+D430	SN CENTRAL	Cerveau
+D431	SN CENTRAL	Cerveau
+D432	SN CENTRAL	Cerveau
+D433	SN CENTRAL	Moelle epiniere, nerfs craniens
+D434	SN CENTRAL	Moelle epiniere, nerfs craniens
+D437	SN CENTRAL	Autres localisations du systeme nerveux central
+D439	SN CENTRAL	Autres localisations du systeme nerveux central
+D440	THYROIDE / GLANDES ENDOCRINES	Thyroide
+D441	THYROIDE / GLANDES ENDOCRINES	Surrenale
+D442	THYROIDE / GLANDES ENDOCRINES	Autres glandes endocrines
+D443	THYROIDE / GLANDES ENDOCRINES	Autres glandes endocrines
+D444	THYROIDE / GLANDES ENDOCRINES	Autres glandes endocrines
+D4440	THYROIDE / GLANDES ENDOCRINES	Autres glandes endocrines
+D4448	THYROIDE / GLANDES ENDOCRINES	Autres glandes endocrines
+D445	THYROIDE / GLANDES ENDOCRINES	Autres glandes endocrines
+D446	THYROIDE / GLANDES ENDOCRINES	Autres glandes endocrines
+D447	THYROIDE / GLANDES ENDOCRINES	Autres glandes endocrines
+D448	THYROIDE / GLANDES ENDOCRINES	Autres glandes endocrines
+D449	THYROIDE / GLANDES ENDOCRINES	Autres glandes endocrines
+D45	HEMATOLOGIE	Maladies myeloproliferatives et syndromes myelodysplasiques
+D460	HEMATOLOGIE	Maladies myeloproliferatives et syndromes myelodysplasiques
+D461	HEMATOLOGIE	Maladies myeloproliferatives et syndromes myelodysplasiques
+D462	HEMATOLOGIE	Maladies myeloproliferatives et syndromes myelodysplasiques
+D463	HEMATOLOGIE	Maladies myeloproliferatives et syndromes myelodysplasiques
+D464	HEMATOLOGIE	Maladies myeloproliferatives et syndromes myelodysplasiques
+D467	HEMATOLOGIE	Maladies myeloproliferatives et syndromes myelodysplasiques
+D469	HEMATOLOGIE	Maladies myeloproliferatives et syndromes myelodysplasiques
+D470	HEMATOLOGIE	Maladies myeloproliferatives et syndromes myelodysplasiques
+D471	HEMATOLOGIE	Maladies myeloproliferatives et syndromes myelodysplasiques
+D472	HEMATOLOGIE	Maladies myeloproliferatives et syndromes myelodysplasiques
+D473	HEMATOLOGIE	Maladies myeloproliferatives et syndromes myelodysplasiques
+D477	HEMATOLOGIE	Maladies myeloproliferatives et syndromes myelodysplasiques
+D479	HEMATOLOGIE	Maladies myeloproliferatives et syndromes myelodysplasiques
+D480	OS	Os
+D481	TISSUS MOUS	Tissus conjonctif
+D482	TISSUS MOUS	Nerfs preripheriques, Systeme nerveux autonome
+D483	APPAREIL DIGESTIF	Peritoine
+D4830	APPAREIL DIGESTIF	Peritoine
+D4838	APPAREIL DIGESTIF	Peritoine
+D484	APPAREIL DIGESTIF	Peritoine
+D485	PEAU	Autres tumeurs malignes de la peau
+D486	SEIN	Sein
+D487	T.M. SECONDAIRES, SIEGES MAL DEFINIS ET AUTRES LOCALISATIONS	Autres localisations
+D489	T.M. SECONDAIRES, SIEGES MAL DEFINIS ET AUTRES LOCALISATIONS	Autres localisations

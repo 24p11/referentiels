@@ -1,0 +1,36 @@
+CODE	LIBELLE
+B200	Maladie par VIH à l'origine d'une infection mycobactérienne
+B201	Maladie par VIH à l'origine d'autres infections bactériennes
+B202	Maladie par VIH à l'origine d'infections à cytomégalovirus
+B203	Maladie par VIH à l'origine d'autres infections virales
+B204	Maladie par VIH à l'origine de candidose
+B205	Maladie par VIH à l'origine d'autres mycoses
+B206	Maladie par VIH à l'origine de pneumopathie à Pneumocystis
+B207	Maladie par VIH à l'origine d'infections multiples
+B208	Maladie par VIH à l'origine d'autres maladies infectieuses et parasitaires
+B209	Maladie par VIH à l'origine d'une maladie infectieuse ou parasitaire non précisée
+B210	Maladie par VIH à l'origine d'un sarcome de Kaposi
+B211	Maladie par VIH à l'origine d'un lymphome de Burkitt
+B212	Maladie par VIH à l'origine d'autres lymphomes non hodgkiniens
+B213	Maladie par VIH à l'origine d'autres tumeurs malignes des tissus lymphoïde, hématopoïétique et apparentés
+B217	Maladie par VIH à l'origine de tumeurs malignes multiples
+B218	Maladie par VIH à l'origine d'autres tumeurs malignes
+B219	Maladie par VIH à l'origine d'une tumeur maligne, sans précision
+B220	Maladie par VIH à l'origine d'une encéphalopathie
+B221	Maladie par VIH à l'origine d'une pneumopathie lymphoïde interstitielle
+B222	Maladie par VIH à l'origine d'un syndrome cachectique
+B227	Maladie par VIH à l'origine de maladies multiples classées ailleurs
+B230	Primo-Infection VIH
+B231	Maladie par VIH à l'origine d'adénopathies généralisées (persistantes)
+B232	Maladie par VIH à l'origine d'anomalies hématologiques et immunologiques, non classées ailleurs
+B238	Maladie par VIH à l'origine d'autres états précisés
+B24	Immunodéficience humaine virale [VIH], sans précision
+B24+0	Pré-SIDA (A.R.C.) sans précision
+B24+1	SIDA avéré sans précision
+B24+9	Infection par le V.I.H., sans précision
+F024	Démence de la maladie due au virus de l'immunodéficience humaine [VIH] (B22.0)
+O987	Maladie due au virus de l'immunodéficience humaine [VIH], compliquant la grossesse, l'accouchement et la puerpéralité
+R75	Mise en évidence par des examens de laboratoire du virus de l'immunodéficience humaine [VIH]
+Z114	Infection asymptomatique par le virus de l'immunodéficience humaine [VIH]
+Z21	Infection asymptomatique par le virus de l'immunodéficience humaine [VIH]
+Z717	Conseil à propos du virus de l'immunodéficience humaine [VIH]

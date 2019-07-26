@@ -1,0 +1,16 @@
+TYPE
+Mastectomie
+Mastectomie + curage axillaire
+Mastectomie + ganglion sentinelle
+Mastectomie avec curage
+Mastectomie avec ganglion sentinelle
+Mastectomie élargie + greffe cutanée
+Mastectomie élargie + lambeau de grand dorsal
+Mastectomie élargie + lambeau libre
+Mastectomie sans curage
+Mastectomie simple
+Mastectomie-curage selon Halstedt
+Mastectomie-curage selon Patey
+Mastectomie, reconstruction immédiate par lambeau de grand dorsal
+Mastectomie, reconstruction immédiate par prothése
+Mastectomie+ ganglion sentinelle

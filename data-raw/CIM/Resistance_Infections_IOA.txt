@@ -1,0 +1,8 @@
+CODE	LIBELLE	TYPE
+U82100	Staphylococcus aureus résistant à la méthicilline [SARM], situation d'infection	Staphylocoques résistants
+U82180	Staphylocoques, autres et non précisés, résistants à la méthicilline, situation d'infection	Staphylocoques résistants
+U822+0	Résistance par bétalactamases à spectre étendu [BLSE], situation d'infection	BLSE
+U830+0	Résistance à la vancomycine, situation d'infection	Résistances Vancomycine et quinolones
+U832+0	Résistance aux quinolones, situation d'infection	Résistances Vancomycine et quinolones
+U83700	Bactérie hautement résistante émergente [BHRe], situation d'infection	BHRe + Autres BMR
+U83710	Bactérie multirésistante [BMR], situation d'infection	BHRe + Autres BMR

@@ -1,0 +1,8 @@
+﻿ACTE	LIBELLE
+QEMA006	Reconstruction du sein par pose d'implant prothétique
+QEMA020	Reconstruction du sein par lambeau cutanéograisseux libre à pédicule perforant de l'abdomen [lambeau DIEP [deep inferior epigastric perforator]] avec anastomoses vasculaires 
+QEMA001	Reconstruction du sein par lambeau unipédiculé de muscle droit de l'abdomen
+QEMA014	Reconstruction du sein par lambeau bipédiculé de muscle droit de l'abdomen
+QEMA002	Reconstruction du sein par lambeau musculocutané libre de muscle droit de l'abdomen, avec anastomoses vasculaires
+QEMA008	Reconstruction du sein par lambeau musculocutané pédiculé autre que du muscle droit de l'abdomen
+QEMA011	Reconstruction du sein par dédoublement du sein restant

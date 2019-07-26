@@ -1,0 +1,5 @@
+ACTE	LIBELLE
+FCFC003	Curage lymphonodal [ganglionnaire] pelvien, par cœlioscopie ou par rétropéritonéoscopie
+
+
+

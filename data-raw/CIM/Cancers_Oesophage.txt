@@ -1,0 +1,10 @@
+CODE	LIBELLE
+C150	oesophage cervical
+C151	oesophage thoracique
+C152	oesophage abdominal
+C153	tiers supérieur de l'oesophage
+C154	tiers moyen de l'oesophage
+C155	tiers inférieur de l'oesophage
+C158	lésion à localisations contiguës de l'oesophage
+C159	oesophage, sans précision
+D001	benin oesophage

@@ -1,0 +1,9 @@
+CODE	LIBELLE
+C46	sarcome de Kaposi
+C46.0	sarcome de Kaposi de la peau
+C46.1	sarcome de Kaposi des tissus mous
+C46.2	sarcome de Kaposi du palais
+C46.3	sarcome de Kaposi des ganglions lymphatiques
+C46.7	sarcome de Kaposi d'autres sièges
+C46.8	sarcome de Kaposi d'organes multiples
+C46.9	sarcome de Kaposi, sans précision

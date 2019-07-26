@@ -1,0 +1,4 @@
+CODE	LIBELLE
+JVRP004	Séance d'entraînement à l'hémodialyse
+JVRP007	Séance d'entraînement à la dialyse péritonéale automatisée
+JVRP008	Séance d'entraînement à la dialyse péritonéale continue ambulatoire

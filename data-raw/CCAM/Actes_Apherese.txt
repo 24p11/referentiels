@@ -1,0 +1,15 @@
+ACTE	LIBELLE
+FEPF003	Séance d'érythraphérèse thérapeutique avec transfusion de globules rouges [échange érythrocytaire]
+FEPF005	Séance d'érythraphérèse thérapeutique avec perfusion [hémodilution normovolémique intentionnelle]
+FEPF002	Séance de thrombocytaphérèse thérapeutique
+FEPF001	Séance programmée de leucaphérèse thérapeutique pour affection chronique
+FEPF004	Séance non programmée de leucaphérèse thérapeutique pour affection aigüe
+FEJF004	Séance programmée de soustraction thérapeutique de plasma avec perfusion de produit de substitution [échange plasmatique] pour affection chronique
+FEJF002	Séance non programmée de soustraction thérapeutique de plasma avec perfusion de produit de substitution [échange plasmatique] pour affection aigüe
+FERP001	Photochimiothérapie extracorporelle des cellules sanguines mononucléées
+FEJF005	Séance d'épuration chimique des lipoprotéines [LDLaphérèse] à partir du plasma ou du sang total
+FEJF007	Séance d'épuration immunologique de substance plasmatique [immunoadsorption]
+FEJF001	Séance d'épuration semisélective de substance plasmatique par double filtration [épuration en cascade]
+FEJF009	Séance d'ultrafiltration plasmatique
+FEFF001	Prélèvement de cellules mononucléées par cytaphérèse, pour thérapie cellulaire
+FEFF002	Prélèvement de cellules souches hématopoïétiques sanguines par cytaphérèse, pour thérapie cellulaire

@@ -1,0 +1,36 @@
+CODE	LIBELLE
+C510	grande lèvre
+C511	petite lèvre
+C512	clitoris
+C518	lésion à localisations contiguës de la vulve
+C519	vulve, sans précision
+C52	tumeur maligne du vagin
+C530	endocol
+C531	exocol
+C538	lésion à localisations contiguës du col de l'utérus
+C539	col de l'utérus, sans précision
+C540	isthme de l'utérus
+C541	endomètre
+C542	myomètre
+C543	fond de l'utérus
+C548	lésion à localisations contiguës du corps de l'utérus
+C549	corps de l'utérus, sans précision
+C55	tumeur maligne de l'utérus, partie non précisée
+C56	tumeur maligne de l'ovaire
+C570	trompe de Fallope
+C571	ligament large
+C572	ligament rond
+C573	paramètre
+C574	annexes de l'utérus, sans précision
+C577	autres organes génitaux de la femme précisés
+C578	lésion à localisations contiguës des organes génitaux de la femme
+C58	tumeur maligne du placenta
+C796	tumeur maligne secondaire de l'ovaire
+D060	endocol
+D061	exocol
+D067	autres parties du col de l'utérus
+D069	col de l'utérus, sans précision
+D390	utérus
+D391	ovaire
+D392	placenta
+D397	autres organes génitaux de la femme

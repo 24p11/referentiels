@@ -1,0 +1,27 @@
+ACTE	LIBELLE
+LCFA011	Exérèse d'une lipomatose cervicale [de Launois-Bensaude]
+MJFA008	Exérèse de lésion fasciale et/ou sousfasciale des tissus mous de la paume de la main
+NJFA002	Exérèse de lésion fasciale et/ou sousfasciale des tissus mous de la plante du pied
+PDFA001	Exérèse de lésion fasciale et/ou sousfasciale des tissus mous, sans dissection d'un gros tronc vasculaire ou nerveux
+PDFA002	Exérèse de lésion fasciale et/ou sousfasciale des tissus mous, avec dissection de gros tronc vasculaire et/ou nerveux
+PDFA003	Exérèse de lésion fasciale et/ou sousfasciale des tissus mous de la racine d'un membre, du pli du coude ou du creux poplité
+QZFA001	Exérèse de 2 à 5 lésions souscutanées susfasciales de moins de 3 cm de grand axe
+QZFA002	Exérèse d'une lésion souscutanée susfasciale de moins de 3 cm de grand axe
+QZFA003	Exérèse de lésion superficielle de la peau par excision de 6 zones cutanées ou plus de moins de 5 cm²
+QZFA004	Exérèse de lésion superficielle de la peau par excision d'une zone cutanée de 5 cm² à 10 cm²
+QZFA005	Exérèse de 6 lésions souscutanées susfasciales ou plus de moins de 3 cm de grand axe
+QZFA007	Exérèse de lésion souscutanée susfasciale de 3 cm à 10 cm de grand axe
+QZFA008	Exérèse de lésion superficielle de la peau par excision d'une zone cutanée de moins de 5 cm², par technique chimiochirurgicale [technique de Mohs]
+QZFA010	Exérèse tangentielle de 1 à 20 molluscum contagiosum
+QZFA011	Exérèse de lésion superficielle de la peau par excision d'une zone cutanée de 10 cm² à 50 cm²
+QZFA013	Exérèse de 1 à 5 lésions cutanées, par curetage
+QZFA015	Exérèse tangentielle de 21 molluscum contagiosum ou plus
+QZFA021	Exérèse tangentielle de 6 lésions cutanées ou plus
+QZFA022	Exérèse de 6 lésions cutanées ou plus, par curetage
+QZFA024	Exérèse de lésion souscutanée susfasciale de plus de 10 cm de grand axe
+QZFA026	Exérèse de lésion superficielle de la peau par excision d'une zone cutanée de plus de 10 cm², par technique chimiochirurgicale [technique de Mohs]
+QZFA028	Exérèse tangentielle de 1 à 5 lésions cutanées
+QZFA030	Exérèse de lésion superficielle de la peau par excision d'une zone cutanée de plus de 200 cm²
+QZFA031	Exérèse de lésion superficielle de la peau par excision de 2 à 5 zones cutanées de moins de 5 cm²
+QZFA033	Exérèse de lésion superficielle de la peau par excision d'une zone cutanée de 5 cm² à 10 cm², par technique chimiochirurgicale [technique de Mohs]
+QZFA035	Exérèse de lésion superficielle de la peau par excision d'une zone cutanée de 50 cm² à 200 cm²

@@ -1,0 +1,8 @@
+ACTE	LIBELLE
+ZZLP025		Anesthésie générale ou locorégionale complémentaire niveau 1
+ZZLP030		Anesthésie générale ou locorégionale complémentaire niveau 2
+ZZLP054		Anesthésie générale ou locorégionale complémentaire niveau 3
+ZZLP042		Anesthésie générale ou locorégionale complémentaire niveau 4
+ZZLP008		Anesthésie générale ou locorégionale complémentaire niveau 5
+ZZLP012		Anesthésie générale ou locorégionale complémentaire niveau 6
+AFLB010		Anesthésie rachidienne au cours d'un accouchement par voie basse

@@ -1,0 +1,8 @@
+CODE	LIBELLE
+B440	Aspergillose pulmonaire invasive 
+B441	Autres aspergilloses pulmonaires
+B441	Autres aspergilloses pulmonaires
+B442	Aspergillose amygdalienne 
+B447	Aspergillose disséminée 
+B448	Autres formes d'aspergillose
+B449	Aspergillose, sans précision

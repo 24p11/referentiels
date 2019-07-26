@@ -1,0 +1,345 @@
+﻿CODE	LIBELLE
+A180	Tuberculose des os et des articulations
+A666	Lésions ostéo-articulaires pianiques
+B453	Cryptococcose osseuse
+B672	Infection osseuse à Echinococcus granulosus
+M000	Arthrite et polyarthrite à staphylocoques
+M0000	Arthrite et polyarthrite à staphylocoques - Sièges multiples
+M0001	Arthrite et polyarthrite à staphylocoques - Articulations acromio-claviculaire, scapulo-humérale, et sterno-claviculaire
+M0002	Arthrite et polyarthrite à staphylocoques - Articulation du coude
+M0003	Arthrite et polyarthrite à staphylocoques - Articulation du poignet
+M0004	Arthrite et polyarthrite à staphylocoques - Articulations de la main
+M0005	Arthrite et polyarthrite à staphylocoques - Articulations de la hanche et sacro-iliaque
+M0006	Arthrite et polyarthrite à staphylocoques - Articulation du genou
+M0007	Arthrite et polyarthrite à staphylocoques - Articulations de la cheville et du pied
+M0008	Arthrite et polyarthrite à staphylocoques - Autres articulations
+M0009	Arthrite et polyarthrite à staphylocoques - Siège non précisé
+M001	Arthrite et polyarthrite à pneumocoques
+M0010	Arthrite et polyarthrite à pneumocoques - Sièges multiples
+M0011	Arthrite et polyarthrite à pneumocoques - Articulations acromio-claviculaire, scapulo-humérale, et sterno-claviculaire
+M0012	Arthrite et polyarthrite à pneumocoques - Articulation du coude
+M0013	Arthrite et polyarthrite à pneumocoques - Articulation du poignet
+M0014	Arthrite et polyarthrite à pneumocoques - Articulations de la main
+M0015	Arthrite et polyarthrite à pneumocoques - Articulations de la hanche et sacro-iliaque
+M0016	Arthrite et polyarthrite à pneumocoques - Articulation du genou
+M0017	Arthrite et polyarthrite à pneumocoques - Articulations de la cheville et du pied
+M0018	Arthrite et polyarthrite à pneumocoques - Autres articulations
+M0019	Arthrite et polyarthrite à pneumocoques - Siège non précisé
+M002	Autres arthrites et polyarthrites à streptocoques
+M0020	Autres arthrites et polyarthrites à streptocoques - Sièges multiples
+M0021	Autres arthrites et polyarthrites à streptocoques - Articulations acromio-claviculaire, scapulo-humérale, et sterno-claviculaire
+M0022	Autres arthrites et polyarthrites à streptocoques - Articulation du coude
+M0023	Autres arthrites et polyarthrites à streptocoques - Articulation du poignet
+M0024	Autres arthrites et polyarthrites à streptocoques - Articulations de la main
+M0025	Autres arthrites et polyarthrites à streptocoques - Articulations de la hanche et sacro-iliaque
+M0026	Autres arthrites et polyarthrites à streptocoques - Articulation du genou
+M0027	Autres arthrites et polyarthrites à streptocoques - Articulations de la cheville et du pied
+M0028	Autres arthrites et polyarthrites à streptocoques - Autres articulations
+M0029	Autres arthrites et polyarthrites à streptocoques - Siège non précisé
+M008	Arthrite et polyarthrite dues à d'autres bactéries précisées
+M0080	Arthrite et polyarthrite dues à d'autres bactéries précisées - Sièges multiples
+M0081	Arthrite et polyarthrite dues à d'autres bactéries précisées - Articulations acromio-claviculaire, scapulo-humérale, et sterno-claviculaire
+M0082	Arthrite et polyarthrite dues à d'autres bactéries précisées - Articulation du coude
+M0083	Arthrite et polyarthrite dues à d'autres bactéries précisées - Articulation du poignet
+M0084	Arthrite et polyarthrite dues à d'autres bactéries précisées - Articulations de la main
+M0085	Arthrite et polyarthrite dues à d'autres bactéries précisées - Articulations de la hanche et sacro-iliaque
+M0086	Arthrite et polyarthrite dues à d'autres bactéries précisées - Articulation du genou
+M0087	Arthrite et polyarthrite dues à d'autres bactéries précisées - Articulations de la cheville et du pied
+M0088	Arthrite et polyarthrite dues à d'autres bactéries précisées - Autres articulations
+M0089	Arthrite et polyarthrite dues à d'autres bactéries précisées - Siège non précisé
+M009	Arthrite à bactéries pyogènes, sans précision
+M0090	Arthrite à bactéries pyogènes, sans précision - Sièges multiples
+M0091	Arthrite à bactéries pyogènes, sans précision - Articulations acromio-claviculaire, scapulo-humérale, et sterno-claviculaire
+M0092	Arthrite à bactéries pyogènes, sans précision - Articulation du coude
+M0093	Arthrite à bactéries pyogènes, sans précision - Articulation du poignet
+M0094	Arthrite à bactéries pyogènes, sans précision - Articulations de la main
+M0095	Arthrite à bactéries pyogènes, sans précision - Articulations de la hanche et sacro-iliaque
+M0096	Arthrite à bactéries pyogènes, sans précision - Articulation du genou
+M0097	Arthrite à bactéries pyogènes, sans précision - Articulations de la cheville et du pied
+M0098	Arthrite à bactéries pyogènes, sans précision - Autres articulations
+M0099	Arthrite à bactéries pyogènes, sans précision - Siège non précisé
+M010	Arthrite méningococcique (A39.8)
+M0100	Arthrite méningococcique (A39.8) - Sièges multiples
+M0101	Arthrite méningococcique (A39.8) - Articulations acromio-claviculaire, scapulo-humérale, et sterno-claviculaire
+M0102	Arthrite méningococcique (A39.8) - Articulation du coude
+M0103	Arthrite méningococcique (A39.8) - Articulation du poignet
+M0104	Arthrite méningococcique (A39.8) - Articulations de la main
+M0105	Arthrite méningococcique (A39.8) - Articulations de la hanche et sacro-iliaque
+M0106	Arthrite méningococcique (A39.8) - Articulation du genou
+M0107	Arthrite méningococcique (A39.8) - Articulations de la cheville et du pied
+M0108	Arthrite méningococcique (A39.8) - Autres articulations
+M0109	Arthrite méningococcique (A39.8) - Siège non précisé
+M011	Arthrite tuberculeuse (A18.0)
+M0110	Arthrite tuberculeuse (A18.0) - Sièges multiples
+M0111	Arthrite tuberculeuse (A18.0) - Articulations acromio-claviculaire, scapulo-humérale, et sterno-claviculaire
+M0112	Arthrite tuberculeuse (A18.0) - Articulation du coude
+M0113	Arthrite tuberculeuse (A18.0) - Articulation du poignet
+M0114	Arthrite tuberculeuse (A18.0) - Articulations de la main
+M0115	Arthrite tuberculeuse (A18.0) - Articulations de la hanche et sacro-iliaque
+M0116	Arthrite tuberculeuse (A18.0) - Articulation du genou
+M0117	Arthrite tuberculeuse (A18.0) - Articulations de la cheville et du pied
+M0118	Arthrite tuberculeuse (A18.0) - Autres articulations
+M0119	Arthrite tuberculeuse (A18.0) - Siège non précisé
+M012	Arthrite au cours de la maladie de Lyme (A69.2)
+M0120	Arthrite au cours de la maladie de Lyme (A69.2) - Sièges multiples
+M0121	Arthrite au cours de la maladie de Lyme (A69.2) - Articulations acromio-claviculaire, scapulo-humérale, et sterno-claviculaire
+M0122	Arthrite au cours de la maladie de Lyme (A69.2) - Articulation du coude
+M0123	Arthrite au cours de la maladie de Lyme (A69.2) - Articulation du poignet
+M0124	Arthrite au cours de la maladie de Lyme (A69.2) - Articulations de la main
+M0125	Arthrite au cours de la maladie de Lyme (A69.2) - Articulations de la hanche et sacro-iliaque
+M0126	Arthrite au cours de la maladie de Lyme (A69.2) - Articulation du genou
+M0127	Arthrite au cours de la maladie de Lyme (A69.2) - Articulations de la cheville et du pied
+M0128	Arthrite au cours de la maladie de Lyme (A69.2) - Autres articulations
+M0129	Arthrite au cours de la maladie de Lyme (A69.2) - Siège non précisé
+M013	Arthrite au cours d'autres maladies bactériennes classées ailleurs
+M0130	Arthrite au cours d'autres maladies bactériennes classées ailleurs - Sièges multiples
+M0131	Arthrite au cours d'autres maladies bactériennes classées ailleurs - Articulations acromio-claviculaire, scapulo-humérale, et sterno-claviculaire
+M0132	Arthrite au cours d'autres maladies bactériennes classées ailleurs - Articulation du coude
+M0133	Arthrite au cours d'autres maladies bactériennes classées ailleurs - Articulation du poignet
+M0134	Arthrite au cours d'autres maladies bactériennes classées ailleurs - Articulations de la main
+M0135	Arthrite au cours d'autres maladies bactériennes classées ailleurs - Articulations de la hanche et sacro-iliaque
+M0136	Arthrite au cours d'autres maladies bactériennes classées ailleurs - Articulation du genou
+M0137	Arthrite au cours d'autres maladies bactériennes classées ailleurs - Articulations de la cheville et du pied
+M0138	Arthrite au cours d'autres maladies bactériennes classées ailleurs - Autres articulations
+M0139	Arthrite au cours d'autres maladies bactériennes classées ailleurs - Siège non précisé
+M016	Arthrite au cours de mycoses (B35-B49)
+M0160	Arthrite au cours de mycoses (B35-B49) - Sièges multiples
+M0161	Arthrite au cours de mycoses (B35-B49) - Articulations acromio-claviculaire, scapulo-humérale, et sterno-claviculaire
+M0162	Arthrite au cours de mycoses (B35-B49) - Articulation du coude
+M0163	Arthrite au cours de mycoses (B35-B49) - Articulation du poignet
+M0164	Arthrite au cours de mycoses (B35-B49) - Articulations de la main
+M0165	Arthrite au cours de mycoses (B35-B49) - Articulations de la hanche et sacro-iliaque
+M0166	Arthrite au cours de mycoses (B35-B49) - Articulation du genou
+M0167	Arthrite au cours de mycoses (B35-B49) - Articulations de la cheville et du pied
+M0168	Arthrite au cours de mycoses (B35-B49) - Autres articulations
+M0169	Arthrite au cours de mycoses (B35-B49) - Siège non précisé
+M018	Arthrite au cours d'autres maladies infectieuses et parasitaires classées ailleurs
+M0180	Arthrite au cours d'autres maladies infectieuses et parasitaires classées ailleurs - Sièges multiples
+M0181	Arthrite au cours d'autres maladies infectieuses et parasitaires classées ailleurs - Articulations acromio-claviculaire, scapulo-humérale, et sterno-claviculaire
+M0182	Arthrite au cours d'autres maladies infectieuses et parasitaires classées ailleurs - Articulation du coude
+M0183	Arthrite au cours d'autres maladies infectieuses et parasitaires classées ailleurs - Articulation du poignet
+M0184	Arthrite au cours d'autres maladies infectieuses et parasitaires classées ailleurs - Articulations de la main
+M0185	Arthrite au cours d'autres maladies infectieuses et parasitaires classées ailleurs - Articulations de la hanche et sacro-iliaque
+M0186	Arthrite au cours d'autres maladies infectieuses et parasitaires classées ailleurs - Articulation du genou
+M0187	Arthrite au cours d'autres maladies infectieuses et parasitaires classées ailleurs - Articulations de la cheville et du pied
+M0188	Arthrite au cours d'autres maladies infectieuses et parasitaires classées ailleurs - Autres articulations
+M0189	Arthrite au cours d'autres maladies infectieuses et parasitaires classées ailleurs - Siège non précisé
+M461	Sacro-iliite, non classée ailleurs
+M4618	Sacro-iliite, non classée ailleurs - Région sacrée et sacro-coccygienne
+M462	Ostéomyélite vertébrale
+M4620	Ostéomyélite vertébrale - Localisations vertébrales multiples
+M4621	Ostéomyélite vertébrale - Région occipito-atloïdo-axoïdienne
+M4622	Ostéomyélite vertébrale - Région cervicale
+M4623	Ostéomyélite vertébrale - Région cervico-dorsale
+M4624	Ostéomyélite vertébrale - Région dorsale
+M4625	Ostéomyélite vertébrale - Région dorso-lombaire
+M4626	Ostéomyélite vertébrale - Région lombaire
+M4627	Ostéomyélite vertébrale - Région lombo-sacrée
+M4628	Ostéomyélite vertébrale - Région sacrée et sacro-coccygienne
+M4629	Ostéomyélite vertébrale - Localisation vertébrale non précisée
+M463	Infection (pyogène) d'un disque intervertébral
+M4630	Infection (pyogène) d'un disque intervertébral - Localisations vertébrales multiples
+M4632	Infection (pyogène) d'un disque intervertébral - Région cervicale
+M4633	Infection (pyogène) d'un disque intervertébral - Région cervico-dorsale
+M4634	Infection (pyogène) d'un disque intervertébral - Région dorsale
+M4635	Infection (pyogène) d'un disque intervertébral - Région dorso-lombaire
+M4636	Infection (pyogène) d'un disque intervertébral - Région lombaire
+M4637	Infection (pyogène) d'un disque intervertébral - Région lombo-sacrée
+M4639	Infection (pyogène) d'un disque intervertébral - Localisation vertébrale non précisée
+M464	Discite, sans précision
+M4640	Discite, sans précision - Localisations vertébrales multiples
+M4642	Discite, sans précision - Région cervicale
+M4643	Discite, sans précision - Région cervico-dorsale
+M4644	Discite, sans précision - Région dorsale
+M4645	Discite, sans précision - Région dorso-lombaire
+M4646	Discite, sans précision - Région lombaire
+M4647	Discite, sans précision - Région lombo-sacrée
+M4649	Discite, sans précision - Localisation vertébrale non précisée
+M465	Autres spondylopathies infectieuses
+M4650	Autres spondylopathies infectieuses - Localisations vertébrales multiples
+M4651	Autres spondylopathies infectieuses - Région occipito-atloïdo-axoïdienne
+M4652	Autres spondylopathies infectieuses - Région cervicale
+M4653	Autres spondylopathies infectieuses - Région cervico-dorsale
+M4654	Autres spondylopathies infectieuses - Région dorsale
+M4655	Autres spondylopathies infectieuses - Région dorso-lombaire
+M4656	Autres spondylopathies infectieuses - Région lombaire
+M4657	Autres spondylopathies infectieuses - Région lombo-sacrée
+M4658	Autres spondylopathies infectieuses - Région sacrée et sacro-coccygienne
+M4659	Autres spondylopathies infectieuses - Localisation vertébrale non précisée
+M490	Tuberculose vertébrale (A18.0)
+M4900	Tuberculose vertébrale (A18.0) - Localisations vertébrales multiples
+M4901	Tuberculose vertébrale (A18.0) - Région occipito-atloïdo-axoïdienne
+M4902	Tuberculose vertébrale (A18.0) - Région cervicale
+M4903	Tuberculose vertébrale (A18.0) - Région cervico-dorsale
+M4904	Tuberculose vertébrale (A18.0) - Région dorsale
+M4905	Tuberculose vertébrale (A18.0) - Région dorso-lombaire
+M4906	Tuberculose vertébrale (A18.0) - Région lombaire
+M4907	Tuberculose vertébrale (A18.0) - Région lombo-sacrée
+M4908	Tuberculose vertébrale (A18.0) - Région sacrée et sacro-coccygienne
+M4909	Tuberculose vertébrale (A18.0) - Localisation vertébrale non précisée
+M491	Spondylite au cours de brucellose (A23.-)
+M4910	Spondylite au cours de brucellose (A23.-) - Localisations vertébrales multiples
+M4911	Spondylite au cours de brucellose (A23.-) - Région occipito-atloïdo-axoïdienne
+M4912	Spondylite au cours de brucellose (A23.-) - Région cervicale
+M4913	Spondylite au cours de brucellose (A23.-) - Région cervico-dorsale
+M4914	Spondylite au cours de brucellose (A23.-) - Région dorsale
+M4915	Spondylite au cours de brucellose (A23.-) - Région dorso-lombaire
+M4916	Spondylite au cours de brucellose (A23.-) - Région lombaire
+M4917	Spondylite au cours de brucellose (A23.-) - Région lombo-sacrée
+M4918	Spondylite au cours de brucellose (A23.-) - Région sacrée et sacro-coccygienne
+M4919	Spondylite au cours de brucellose (A23.-) - Localisation vertébrale non précisée
+M492	Spondylite entérobactérienne (A01-A04)
+M4920	Spondylite entérobactérienne (A01-A04) - Localisations vertébrales multiples
+M4921	Spondylite entérobactérienne (A01-A04) - Région occipito-atloïdo-axoïdienne
+M4922	Spondylite entérobactérienne (A01-A04) - Région cervicale
+M4923	Spondylite entérobactérienne (A01-A04) - Région cervico-dorsale
+M4924	Spondylite entérobactérienne (A01-A04) - Région dorsale
+M4925	Spondylite entérobactérienne (A01-A04) - Région dorso-lombaire
+M4926	Spondylite entérobactérienne (A01-A04) - Région lombaire
+M4927	Spondylite entérobactérienne (A01-A04) - Région lombo-sacrée
+M4928	Spondylite entérobactérienne (A01-A04) - Région sacrée et sacro-coccygienne
+M4929	Spondylite entérobactérienne (A01-A04) - Localisation vertébrale non précisée
+M493	Spondylopathie au cours d'autres maladies infectieuses et parasitaires classées ailleurs
+M4930	Spondylopathie au cours d'autres maladies infectieuses et parasitaires classées ailleurs - Localisations vertébrales multiples
+M4931	Spondylopathie au cours d'autres maladies infectieuses et parasitaires classées ailleurs - Région occipito-atloïdo-axoïdienne
+M4932	Spondylopathie au cours d'autres maladies infectieuses et parasitaires classées ailleurs - Région cervicale
+M4933	Spondylopathie au cours d'autres maladies infectieuses et parasitaires classées ailleurs - Région cervico-dorsale
+M4934	Spondylopathie au cours d'autres maladies infectieuses et parasitaires classées ailleurs - Région dorsale
+M4935	Spondylopathie au cours d'autres maladies infectieuses et parasitaires classées ailleurs - Région dorso-lombaire
+M4936	Spondylopathie au cours d'autres maladies infectieuses et parasitaires classées ailleurs - Région lombaire
+M4937	Spondylopathie au cours d'autres maladies infectieuses et parasitaires classées ailleurs - Région lombo-sacrée
+M4938	Spondylopathie au cours d'autres maladies infectieuses et parasitaires classées ailleurs - Région sacrée et sacro-coccygienne
+M4939	Spondylopathie au cours d'autres maladies infectieuses et parasitaires classées ailleurs - Localisation vertébrale non précisée
+M680	Synovite et ténosynovite au cours de maladies bactériennes classées ailleurs
+M860	Ostéomyélite hématogène aiguë
+M8600	Ostéomyélite hématogène aiguë - Sièges multiples
+M8601	Ostéomyélite hématogène aiguë - Région scapulaire
+M8602	Ostéomyélite hématogène aiguë - Bras
+M8603	Ostéomyélite hématogène aiguë - Avant-bras
+M8604	Ostéomyélite hématogène aiguë - Main
+M8605	Ostéomyélite hématogène aiguë - Région pelvienne et cuisse
+M8606	Ostéomyélite hématogène aiguë - Jambe
+M8607	Ostéomyélite hématogène aiguë - Cheville et pied
+M8608	Ostéomyélite hématogène aiguë - Autres localisations
+M8609	Ostéomyélite hématogène aiguë - Siège non précisé
+M861	Autres ostéomyélites aiguës
+M8610	Autres ostéomyélites aiguës - Sièges multiples
+M8611	Autres ostéomyélites aiguës - Région scapulaire
+M8612	Autres ostéomyélites aiguës - Bras
+M8613	Autres ostéomyélites aiguës - Avant-bras
+M8614	Autres ostéomyélites aiguës - Main
+M8615	Autres ostéomyélites aiguës - Région pelvienne et cuisse
+M8616	Autres ostéomyélites aiguës - Jambe
+M8617	Autres ostéomyélites aiguës - Cheville et pied
+M8618	Autres ostéomyélites aiguës - Autres localisations
+M8619	Autres ostéomyélites aiguës - Siège non précisé
+M862	Ostéomyélite subaiguë
+M8620	Ostéomyélite subaiguë - Sièges multiples
+M8621	Ostéomyélite subaiguë - Région scapulaire
+M8622	Ostéomyélite subaiguë - Bras
+M8623	Ostéomyélite subaiguë - Avant-bras
+M8624	Ostéomyélite subaiguë - Main
+M8625	Ostéomyélite subaiguë - Région pelvienne et cuisse
+M8626	Ostéomyélite subaiguë - Jambe
+M8627	Ostéomyélite subaiguë - Cheville et pied
+M8628	Ostéomyélite subaiguë - Autres localisations
+M8629	Ostéomyélite subaiguë - Siège non précisé
+M863	Ostéomyélite chronique multiple
+M8630	Ostéomyélite chronique multiple - Sièges multiples
+M8631	Ostéomyélite chronique multiple - Région scapulaire
+M8632	Ostéomyélite chronique multiple - Bras
+M8633	Ostéomyélite chronique multiple - Avant-bras
+M8634	Ostéomyélite chronique multiple - Main
+M8635	Ostéomyélite chronique multiple - Région pelvienne et cuisse
+M8636	Ostéomyélite chronique multiple - Jambe
+M8637	Ostéomyélite chronique multiple - Cheville et pied
+M8638	Ostéomyélite chronique multiple - Autres localisations
+M8639	Ostéomyélite chronique multiple - Siège non précisé
+M864	Ostéomyélite chronique avec fistule de drainage
+M8640	Ostéomyélite chronique avec fistule de drainage - Sièges multiples
+M8641	Ostéomyélite chronique avec fistule de drainage - Région scapulaire
+M8642	Ostéomyélite chronique avec fistule de drainage - Bras
+M8643	Ostéomyélite chronique avec fistule de drainage - Avant-bras
+M8644	Ostéomyélite chronique avec fistule de drainage - Main
+M8645	Ostéomyélite chronique avec fistule de drainage - Région pelvienne et cuisse
+M8646	Ostéomyélite chronique avec fistule de drainage - Jambe
+M8647	Ostéomyélite chronique avec fistule de drainage - Cheville et pied
+M8648	Ostéomyélite chronique avec fistule de drainage - Autres localisations
+M8649	Ostéomyélite chronique avec fistule de drainage - Siège non précisé
+M865	Autres ostéomyélites hématogènes chroniques
+M8650	Autres ostéomyélites hématogènes chroniques - Sièges multiples
+M8651	Autres ostéomyélites hématogènes chroniques - Région scapulaire
+M8652	Autres ostéomyélites hématogènes chroniques - Bras
+M8653	Autres ostéomyélites hématogènes chroniques - Avant-bras
+M8654	Autres ostéomyélites hématogènes chroniques - Main
+M8655	Autres ostéomyélites hématogènes chroniques - Région pelvienne et cuisse
+M8656	Autres ostéomyélites hématogènes chroniques - Jambe
+M8657	Autres ostéomyélites hématogènes chroniques - Cheville et pied
+M8658	Autres ostéomyélites hématogènes chroniques - Autres localisations
+M8659	Autres ostéomyélites hématogènes chroniques - Siège non précisé
+M866	Autres ostéomyélites chroniques
+M8660	Autres ostéomyélites chroniques - Sièges multiples
+M8661	Autres ostéomyélites chroniques - Région scapulaire
+M8662	Autres ostéomyélites chroniques - Bras
+M8663	Autres ostéomyélites chroniques - Avant-bras
+M8664	Autres ostéomyélites chroniques - Main
+M8665	Autres ostéomyélites chroniques - Région pelvienne et cuisse
+M8666	Autres ostéomyélites chroniques - Jambe
+M8667	Autres ostéomyélites chroniques - Cheville et pied
+M8668	Autres ostéomyélites chroniques - Autres localisations
+M8669	Autres ostéomyélites chroniques - Siège non précisé
+M868	Autres ostéomyélites
+M8680	Autres ostéomyélites - Sièges multiples
+M8681	Autres ostéomyélites - Région scapulaire
+M8682	Autres ostéomyélites - Bras
+M8683	Autres ostéomyélites - Avant-bras
+M8684	Autres ostéomyélites - Main
+M8685	Autres ostéomyélites - Région pelvienne et cuisse
+M8686	Autres ostéomyélites - Jambe
+M8687	Autres ostéomyélites - Cheville et pied
+M8688	Autres ostéomyélites - Autres localisations
+M8689	Autres ostéomyélites - Siège non précisé
+M869	Ostéomyélite, sans précision
+M8690	Ostéomyélite, sans précision - Sièges multiples
+M8691	Ostéomyélite, sans précision - Région scapulaire
+M8692	Ostéomyélite, sans précision - Bras
+M8693	Ostéomyélite, sans précision - Avant-bras
+M8694	Ostéomyélite, sans précision - Main
+M8695	Ostéomyélite, sans précision - Région pelvienne et cuisse
+M8696	Ostéomyélite, sans précision - Jambe
+M8697	Ostéomyélite, sans précision - Cheville et pied
+M8698	Ostéomyélite, sans précision - Autres localisations
+M8699	Ostéomyélite, sans précision - Siège non précisé
+M900	Tuberculose osseuse (A18.0)
+M9000	Tuberculose osseuse (A18.0) - Sièges multiples
+M9001	Tuberculose osseuse (A18.0) - Région scapulaire
+M9002	Tuberculose osseuse (A18.0) - Bras
+M9003	Tuberculose osseuse (A18.0) - Avant-bras
+M9004	Tuberculose osseuse (A18.0) - Main
+M9005	Tuberculose osseuse (A18.0) - Région pelvienne et cuisse
+M9006	Tuberculose osseuse (A18.0) - Jambe
+M9007	Tuberculose osseuse (A18.0) - Cheville et pied
+M9008	Tuberculose osseuse (A18.0) - Autres localisations
+M9009	Tuberculose osseuse (A18.0) - Siège non précisé
+M901	Périostite au cours d'autres maladies infectieuses classées ailleurs
+M9010	Périostite au cours d'autres maladies infectieuses classées ailleurs - Sièges multiples
+M9011	Périostite au cours d'autres maladies infectieuses classées ailleurs - Région scapulaire
+M9012	Périostite au cours d'autres maladies infectieuses classées ailleurs - Bras
+M9013	Périostite au cours d'autres maladies infectieuses classées ailleurs - Avant-bras
+M9014	Périostite au cours d'autres maladies infectieuses classées ailleurs - Main
+M9015	Périostite au cours d'autres maladies infectieuses classées ailleurs - Région pelvienne et cuisse
+M9016	Périostite au cours d'autres maladies infectieuses classées ailleurs - Jambe
+M9017	Périostite au cours d'autres maladies infectieuses classées ailleurs - Cheville et pied
+M9018	Périostite au cours d'autres maladies infectieuses classées ailleurs - Autres localisations
+M9019	Périostite au cours d'autres maladies infectieuses classées ailleurs - Siège non précisé
+M902	Ostéopathie au cours d'autres maladies infectieuses classées ailleurs
+M9020	Ostéopathie au cours d'autres maladies infectieuses classées ailleurs - Sièges multiples
+M9021	Ostéopathie au cours d'autres maladies infectieuses classées ailleurs - Région scapulaire
+M9022	Ostéopathie au cours d'autres maladies infectieuses classées ailleurs - Bras
+M9023	Ostéopathie au cours d'autres maladies infectieuses classées ailleurs - Avant-bras
+M9024	Ostéopathie au cours d'autres maladies infectieuses classées ailleurs - Main
+M9025	Ostéopathie au cours d'autres maladies infectieuses classées ailleurs - Région pelvienne et cuisse
+M9026	Ostéopathie au cours d'autres maladies infectieuses classées ailleurs - Jambe
+M9027	Ostéopathie au cours d'autres maladies infectieuses classées ailleurs - Cheville et pied
+M9028	Ostéopathie au cours d'autres maladies infectieuses classées ailleurs - Autres localisations
+M9029	Ostéopathie au cours d'autres maladies infectieuses classées ailleurs - Siège non précisé

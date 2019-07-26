@@ -1,0 +1,55 @@
+ORGANE	GHM	LIBELLE
+Cornee	02C091	Allogreffes de cornée, niveau 1
+Cornee	02C092	Allogreffes de cornée, niveau 2
+Cornee	02C093	Allogreffes de cornée, niveau 3
+Cornee	02C094	Allogreffes de cornée, niveau 4
+Cornee	02C09J	Allogreffes de cornée, en ambulatoire
+Peau	08C201	Greffes de peau pour maladie de l'appareil musculosquelettique ou du tissu conjonctif, niveau 1
+Peau	08C202	Greffes de peau pour maladie de l'appareil musculosquelettique ou du tissu conjonctif, niveau 2
+Peau	08C203	Greffes de peau pour maladie de l'appareil musculosquelettique ou du tissu conjonctif, niveau 3
+Peau	08C204	Greffes de peau pour maladie de l'appareil musculosquelettique ou du tissu conjonctif, niveau 4
+Peau	08C20J	Greffes de peau pour maladie de l'appareil musculosquelettique ou du tissu conjonctif, en ambulatoire
+Peau	09C021	Greffes de peau et/ou parages de plaie pour ulcère cutané ou cellulite, niveau 1
+Peau	09C022	Greffes de peau et/ou parages de plaie pour ulcère cutané ou cellulite, niveau 2
+Peau	09C023	Greffes de peau et/ou parages de plaie pour ulcère cutané ou cellulite, niveau 3
+Peau	09C024	Greffes de peau et/ou parages de plaie pour ulcère cutané ou cellulite, niveau 4
+Peau	09C02J	Greffes de peau et/ou parages de plaie pour ulcère cutané ou cellulite, en ambulatoire
+Peau	09C031	Greffes de peau et/ou parages de plaie à l'exception des ulcères cutanés et cellulites, niveau 1
+Peau	09C032	Greffes de peau et/ou parages de plaie à l'exception des ulcères cutanés et cellulites, niveau 2
+Peau	09C033	Greffes de peau et/ou parages de plaie à l'exception des ulcères cutanés et cellulites, niveau 3
+Peau	09C034	Greffes de peau et/ou parages de plaie à l'exception des ulcères cutanés et cellulites, niveau 4
+Peau	09C03J	Greffes de peau et/ou parages de plaie à l'exception des ulcères cutanés et cellulites, en ambulatoire
+Peau	22C021	Brûlures non étendues avec greffe cutanée, niveau 1
+Peau	22C022	Brûlures non étendues avec greffe cutanée, niveau 2
+Peau	22C023	Brûlures non étendues avec greffe cutanée, niveau 3
+Peau	22C024	Brûlures non étendues avec greffe cutanée, niveau 4
+Poumon	27C041	Transplantations pulmonaires, niveau 1
+Poumon	27C042	Transplantations pulmonaires, niveau 2
+Poumon	27C043	Transplantations pulmonaires, niveau 3
+Poumon	27C044	Transplantations pulmonaires, niveau 4
+Coeur	27C051	Transplantations cardiaques, niveau 1
+Coeur	27C052	Transplantations cardiaques, niveau 2
+Coeur	27C053	Transplantations cardiaques, niveau 3
+Coeur	27C054	Transplantations cardiaques, niveau 4
+Rein	27C061	Transplantations rénales, niveau 1
+Rein	27C062	Transplantations rénales, niveau 2
+Rein	27C063	Transplantations rénales, niveau 3
+Rein	27C064	Transplantations rénales, niveau 4
+Pancreas	27C031	Transplantations pancréatiques, niveau 1
+Pancreas	27C032	Transplantations pancréatiques, niveau 2
+Pancreas	27C033	Transplantations pancréatiques, niveau 3
+Pancreas	27C034	Transplantations pancréatiques, niveau 4
+Foie	27C021	Transplantations hépatiques, niveau 1
+Foie	27C022	Transplantations hépatiques, niveau 2
+Foie	27C023	Transplantations hépatiques, niveau 3
+Foie	27C024	Transplantations hépatiques, niveau 4
+Autre	27C071	Autres transplantations, niveau 1
+Autre	27C072	Autres transplantations, niveau 2
+Autre	27C073	Autres transplantations, niveau 3
+Autre	27C074	Autres transplantations, niveau 4
+AllogreffeCellulesSouches	27Z021	Allogreffes de cellules souches hématopoïétiques, niveau 1
+AllogreffeCellulesSouches	27Z022	Allogreffes de cellules souches hématopoïétiques, niveau 2
+AllogreffeCellulesSouches	27Z023	Allogreffes de cellules souches hématopoïétiques, niveau 3
+AllogreffeCellulesSouches	27Z024	Allogreffes de cellules souches hématopoïétiques, niveau 4
+AutreGreffeHemato	27Z04J	Greffes de cellules souches hématopoïétiques, en ambulatoire
+AutoGreffeCellulesSouches	27Z03Z	Autogreffes de cellules souches hématopoïétiques

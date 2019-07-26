@@ -1,0 +1,9 @@
+CODE	LIBELLE
+L100	Pemphigus vulgaire
+L101	Pemphigus végétant
+L102	Pemphigus foliacé
+L103	Pemphigus brésilien [fogo selvagem]
+L104	Pemphigus érythémateux
+L105	Pemphigus médicamenteux
+L108	Autres formes de pemphigus
+L109	Pemphigus, sans précision

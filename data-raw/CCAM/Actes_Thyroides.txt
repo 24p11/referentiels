@@ -1,0 +1,24 @@
+ACTE	LIBELLE
+KCGA001	Énucléation de nodule de la glande thyroïde, par cervicotomie
+KCFA004	Isthmectomie de la glande thyroïde, par cervicotomie
+KCFA001	Lobectomie unilatérale de la glande thyroïde, par cervicotomie
+KCFA008	Lobo-isthmectomie unilatérale de la glande thyroïde, par cervicotomie
+KCFA010	Thyroïdectomie subtotale, par cervicotomie
+KCFA009	Thyroïdectomie subtotale, par cervicothoracotomie
+KCFA005	Thyroïdectomie totale, par cervicotomie
+KCFA007	Thyroïdectomie totale, par cervicothoracotomie
+KCFA002	Thyroïdectomie totale avec résection partielle de cartilage du larynx, par cervicotomie
+KCFA003	Thyroïdectomie totale avec résection non interruptrice de la trachée, par cervicotomie
+KCFA006	Thyroïdectomie totale avec résection interruptrice et anastomose de la trachée, par cervicotomie
+KCMA001	Totalisation secondaire de thyroïdectomie, par cervicotomie
+KCNL003	Irradiation interne de la glande thyroïde par administration d'iode 131 à une dose inférieure ou égale à 1 gigabecquerel [GBq]
+KCNL004	Irradiation interne de la glande thyroïde par administration d'iode 131 à une dose supérieure à 1 gigabecquerel [GBq]
+KDQC900	Exploration des sites parathyroïdiens cervicaux, par cervicoscopie
+KDQA001	Exploration des sites parathyroïdiens cervicaux, par cervicotomie
+KDQA003	Exploration des sites parathyroïdiens cervicaux et médiastinaux, par cervicothoracotomie
+KDQC002	Exploration des sites parathyroïdiens médiastinaux, par vidéochirurgie
+KDQA002	Exploration des sites parathyroïdiens médiastinaux, par thoracotomie
+KDFC001	Parathyroïdectomie unique sans exploration des autres sites parathyroïdiens, par cervicoscopie
+KDFA002	Parathyroïdectomie unique sans exploration des autres sites parathyroïdiens, par cervicotomie
+KDFA001	Parathyroïdectomie totale avec réimplantation immédiate de parathyroïde
+KDFA003	Exérèse de tissu parathyroïdien préalablement transplanté

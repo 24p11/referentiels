@@ -1,0 +1,12 @@
+﻿ACTE	LIBELLE
+QEFA019	Mastectomie totale
+QEFA020	Mastectomie totale avec conservation des pectoraux et curage lymphonodal axillaire
+QEFA005	Mastectomie totale avec exérèse des pectoraux et curage lymphonodal axillaire
+QEFA010	Mastectomie totale avec curages lymphonodaux axillaire et supraclaviculaire
+QEFA003	Mastectomie totale avec curages lymphonodaux axillaire et parasternal [mammaire interne]
+QEFA012	Mastectomie totale élargie en surface, avec autogreffe cutanée
+QEFA013	Mastectomie totale élargie en surface, avec lambeau pédiculé de muscle grand dorsal ou lambeau parascapulaire
+QEFA015	Mastectomie totale élargie en surface, avec lambeau libre musculocutané
+QEFA017	Mastectomie partielle
+QEFA008	Mastectomie partielle avec curage lymphonodal axillaire
+QEFA007	Mastectomie souscutanée avec exérèse de la plaque aréolomamelonnaire

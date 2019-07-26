@@ -1,0 +1,16 @@
+CODE	LIBELLE
+C400	omoplate et os longs du membre supérieur
+C401	os courts du membre supérieur
+C402	os longs du membre inférieur
+C403	os courts du membre inférieur
+C408	lésion à localisations contiguës des os et du cartilage articulaire des membres
+C409	os et cartilage articulaire d'un membre, sans précision
+C410	os du crâne et de la face
+C411	mandibule
+C412	rachis
+C413	côtes, sternum et clavicule
+C414	pelvis, sacrum et coccyx
+C418	lésion à localisations contiguës des os et du cartilage articulaire
+C419	os et cartilage articulaire, sans précision
+D480	os et cartilage articulaire
+

@@ -1,0 +1,4 @@
+ACTE	LIBELLE
+LMMC015	Cure d'éventration postopératoire de la paroi abdominale antérieure avec pose de prothèse, par cœlioscopie
+LMMA010	Cure d'éventration postopératoire de la paroi abdominale antérieure sans pose de prothèse, par abord direct
+LMMA004	Cure d'éventration postopératoire de la paroi abdominale antérieure avec pose de prothèse, par abord direct

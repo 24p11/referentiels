@@ -1,0 +1,14 @@
+CODE	LIBELLE
+(D60-D64) 	aplasies médullaires et autres anémies
+D60	aplasie médullaire acquise pure [érythroblastopénie]
+D600	aplasie médullaire acquise pure, chronique
+D601	aplasie médullaire acquise pure, transitoire
+D608	autres aplasies médullaires acquises pures
+D609	aplasie médullaire acquise pure, sans précision
+D61	autres aplasies médullaires
+D610	aplasie médullaire constitutionnelle
+D611	aplasie médullaire médicamenteuse
+D612	aplasie médullaire due à d'autres agents externes
+D613	aplasie médullaire idiopathique
+D618	autres aplasies médullaires précisées
+D619	aplasie médullaire, sans précision

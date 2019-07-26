@@ -1,0 +1,15 @@
+﻿CODE	LIBELLE
+A400	Sepsis à streptocoques, groupe A
+A401	Sepsis à streptocoques, groupe B
+A402	Sepsis à streptocoques, groupe D
+A403	Sepsis à Streptococcus pneumoniae
+A408	Autres sepsis à streptocoques
+A409	Sepsis à streptocoques, sans précision
+A410	Sepsis à staphylocoques dorés
+A411	Sepsis à d'autres staphylocoques précisés
+A412	Sepsis à staphylocoques non précisés
+A413	Sepsis à Haemophilus influenzae
+A414	Sepsis à microorganismes anaérobies
+A415	Sepsis à d'autres microorganismes Gram négatif
+A418	Autres sepsis précisés
+A419	Sepsis, sans précision

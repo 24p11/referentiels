@@ -1,0 +1,689 @@
+ACTES	LIBELLE
+BKGA007	Exentération de l orbite
+BKGA006	Exentération de l orbite étendue aux structures musculaires adjacentes et/ou aux parois osseuses, sans comblement
+BKGA004	Exentération de l orbite étendue aux structures musculaires adjacentes et/ou aux parois osseuses, avec comblement par autogreffe cutanée et lambeau musculaire temporal
+BKGA001	Ablation d un implant intraorbitaire, après énucléation ou éviscération du bulbe [globe] oculaire
+BKMA003	Reconstruction partielle de la cavité orbitaire par autogreffe
+BKMA001	Reconstruction totale de la cavité orbitaire par autogreffe
+BKMA002	Reconstruction orbitopalpébrale par matériau inerte et/ou autogreffe, après exentération de l orbite
+BKMA004	Restauration du volume orbitaire par matériau inerte et/ou autogreffe
+BKMP001	Moulage de la cavité de l orbite pour fabrication de conformateur ou de prothèse d expansion orbitaire, sous anesthésie générale ou locorégionale
+CAFA006	Excision de chondrite de l auricule
+CAFA009	Exérèse de lésion osseuse oblitérante du méat acoustique externe
+CAFA011	Exérèse partielle du méat acoustique externe
+CAFA002	Exérèse partielle non transfixiante de l auricule
+CAFA005	Exérèse partielle transfixiante de l auricule
+CAFA003	Exérèse totale de l auricule, sans exérèse du cartilage du méat acoustique externe
+CAFA007	Exérèse totale de l auricule et du cartilage du méat acoustique externe
+CAFA004	Exérèse de l oreille externe élargie à l oreille moyenne
+CAFA010	Exérèse de l oreille externe élargie à la glande parotide et à la fosse infratemporale
+CAFA001	Exérèse de l oreille externe élargie au rocher
+CAFA008	Exérèse de l oreille externe élargie au rocher, à la glande parotide et à la fosse infratemporale
+FCFA012	Exérèse de n oeud [ganglion] lymphatique du cou à visée diagnostique, par cervicotomie
+FCFA021	Exérèse de n oeud [ganglion] lymphatique des membres à visée diagnostique, par abord direct
+FCFA028	Exérèse de n oeud [ganglion] lymphatique du cou à visée thérapeutique, par cervicotomie
+FCFA016	Curage lymphonodal [ganglionnaire] cervical partiel unilatéral, par cervicotomie
+FCFA020	Curage lymphonodal [ganglionnaire] cervical partiel bilatéral, par cervicotomie
+FCFA008	Curage lymphonodal [ganglionnaire] cervical complet unilatéral, par cervicotomie
+FCFA027	Curage lymphonodal [ganglionnaire] cervical complet unilatéral, élargi aux muscles profonds et/ou aux nerfs du cou, à l artère carotide externe, à la glande parotide, par cervicotomie
+FCFA025	Curage lymphonodal [ganglionnaire] cervical complet unilatéral avec curage partiel controlatéral, par cervicotomie
+FCFA013	Curage lymphonodal [ganglionnaire] cervical complet bilatéral, par cervicotomie
+FCFA005	Curage lymphonodal [ganglionnaire] cervical complet et médiastinorécurrentiel unilatéral, par cervicotomie
+FCFA009	Curage lymphonodal [ganglionnaire] cervical complet et médiastinorécurrentiel bilatéral, par cervicotomie
+FCFA003	Exérèse de lymphangiome cervical avec extension médiastinale, par cervicotomie
+FCFA026	Exérèse de lymphangiome cervicofacial sans dissection du nerf facial
+FCFA015	Exérèse de lymphangiome cervicoparotidien
+FCFA014	Exérèse de lymphangiome cervicoparotidien avec extension buccopharyngée
+FCFA023	Exérèse de lymphangiome cervicoparotidien avec extension buccopharyngée et médiastinale, par cervicotomie
+FCFC002	Exérèse de n oeud [ganglion] lymphatique du médiastin, par thoracoscopie ou par médiastinoscopie
+FCFA002	Curage lymphonodal [ganglionnaire] médiastinal supérieur, par cervicotomie
+FCFA004	Curage lymphonodal [ganglionnaire] médiastinal unilatéral ou bilatéral, par thoracotomie
+FCFC003	Curage lymphonodal [ganglionnaire] pelvien, par c oelioscopie ou par rétropéritonéoscopie
+FCFA006	Curage lymphonodal [ganglionnaire] pelvien, par laparotomie
+FCFC001	Curage lymphonodal [ganglionnaire] iliaque, par c oelioscopie ou par rétropéritonéoscopie
+FCFA019	Curage lymphonodal [ganglionnaire] iliaque unilatéral ou bilatéral, par laparotomie
+FCFC005	Curage lymphonodal [ganglionnaire] lomboaortique, par c oelioscopie ou par rétropéritonéoscopie
+FCFA010	Curage lymphonodal [ganglionnaire] lomboaortique, par laparotomie
+FCFC004	Curage lymphonodal [ganglionnaire] lomboaortique avec curage iliaque unilatéral ou bilatéral, par c oelioscopie ou par rétropéritonéoscopie
+FCFA022	Curage lymphonodal [ganglionnaire] lomboaortique avec curage iliaque unilatéral ou bilatéral, par laparotomie
+FCFA018	Exérèse de n oeud [ganglion] lymphatique des membres à visée thérapeutique, par abord direct
+FCFA029	Curage lymphonodal [ganglionnaire] axillaire, par abord direct
+FCFA011	Curage lymphonodal [ganglionnaire] inguinal, par abord direct
+FCFA007	Lymphangectomie partielle ou totale d un membre, par abord direct
+GAMA019	Réparation de perte de substance du nez par autogreffe composée d auricule
+GAMA018	Réparation de perte de substance du nez par lambeau local
+GAMA012	Réparation de perte de substance du nez par lambeau régional
+GAMA002	Réparation de perte de substance du nez par lambeau frontal à pédicule inférieur
+GAMA014	Réparation de perte de substance du nez par lambeau scalpant
+GAMA006	Réparation de perte de substance du nez par lambeau scalpant doublé par lambeau en charnière, lambeau frontal, et/ou autogreffe
+GAMA023	Réparation de perte de substance du nez par lambeau brachial ou antébrachial à pédicule transitoire
+GAMA021	Reconstruction du nez, de lhéminez ou de la pointe de nez avec armature ostéochondrale, lambeau de couverture cutanée et lambeau de doublure muqueuse
+GAMA008	Rhinoplastie primitive de la pointe
+GAMA003	Rhinoplastie sans ostéotomie, avec autogreffe de cartilage de septum nasal
+GAMA024	Rhinoplastie avec ostéotomie, sans autogreffe de cartilage
+GAMA013	Rhinoplastie avec ostéotomie et autogreffe de cartilage de septum nasal
+GAMA001	Rhinoseptoplastie sans ostéotomie, sans autogreffe de cartilage
+GAMA020	Rhinoseptoplastie sans ostéotomie, avec autogreffe de cartilage de septum nasal
+GAMA004	Rhinoseptoplastie avec ostéotomie, sans autogreffe de cartilage
+GAMA016	Rhinoseptoplastie avec ostéotomie et autogreffe de cartilage de septum nasal
+GAMA010	Rhinoseptoplastie avec autogreffe osseuse et cartilagineuse
+GAMA005	Plastie ostéo-cutanéo-cartilagineuse pour sténose narinaire
+GAMA015	Plastie narinaire pour collapsus de la valve nasale interne
+GAMA009	Plastie narinaire pour collapsus de la valve nasale interne, avec septoplastie
+GAMA022	Correction secondaire du résultat esthétique d une rhinoplastie ou d une rhinoseptoplastie
+GAME001	Turbinoplastie ou turbinectomie inférieure et/ou moyenne unilatérale ou bilatérale, par endoscopie
+GBBA002	Comblement préimplantaire sousmuqueux du sinus maxillaire
+GBBA001	Exclusion unilatérale ou bilatérale du sinus frontal par résection de la paroi postérieure [Cranialisation du sinus frontal]
+GBPE003	Méatotomie nasale inférieure bilatérale, par endoscopie
+GBPE001	Méatotomie nasale moyenne, par endoscopie
+GBPA004	Sinusotomie maxillaire, par abord de la fosse canine [abord vestibulaire]
+GBPA002	Sinusotomie maxillaire, par abord de la fosse canine [abord vestibulaire] et par voie méatale moyenne
+GBPA001	Sinusotomie maxillaire par abord de la fosse canine [abord vestibulaire], avec sinusotomie ethmoïdale et/ou sphénoïdale
+GBPA003	Sinusotomie frontale unilatérale ou bilatérale avec résection du septum et du plancher nasaux, par endoscopie nasale ou par abord direct
+GBPE002	Marsupialisation de mucocèle du sinus ethmoïdal et/ou du sinus frontal, par endoscopie
+GCFD001	Exérèse de lésion du rhinopharynx, par voie nasale et/ou par voie buccale sans laser
+GCFD002	Exérèse de lésion du rhinopharynx, par voie nasale et/ou par voie buccale avec laser
+GCFA005	Exérèse de lésion du rhinopharynx, par abord transpalatin sans laser
+GCFA003	Exérèse de lésion du rhinopharynx, par abord transpalatin avec laser
+GCFA007	Exérèse de lésion du rhinopharynx et/ou de la fosse infratemporale, par abord transmaxillaire
+GCFA004	Exérèse de lésion du rhinopharynx et/ou de la fosse infratemporale, par abord transmandibulaire
+GCFA006	Exérèse de lésion du rhinopharynx et/ou de la fosse infratemporale, par abord transmaxillaire et par abord transmandibulaire
+GCFA001	Exérèse de lésion du rhinopharynx et/ou de la fosse infratemporale, par abord préauriculaire et/ou par abord transzygomatique
+GCFA002	Exérèse de lésion du rhinopharynx et/ou de la fosse infratemporale, par abord transpétreux antérieur
+HAFA008	Exérèse non transfixiante de lésion de lèvre
+HAFA020	Exérèse transfixiante de lésion de lèvre, ou exérèse d une commissure labiale
+HAFA031	Exérèse d une lèvre débordant sur une ou plusieurs unités adjacentes
+HAFA014	Vermillonectomie avec reconstruction de lèvre par lambeau muqueux rétrolabial
+HAFA028	Résection de cicatrice de lèvre
+HAFA030	Résection de lèvre, pour traitement palliatif de la paralysie faciale
+HAFA015	Exérèse de lésion de la muqueuse de la bouche ou de l oropharynx de moins de 2 cm de grand axe, par abord intrabuccal
+HAFA032	Exérèse de lésion de la muqueuse de la bouche ou de l oropharynx de 2 cm à 4 cm de grand axe, par abord intrabuccal
+HAFA019	Exérèse de lésion de la muqueuse de la bouche ou de l oropharynx de plus de 4 cm de grand axe, par abord intrabuccal
+HAFA021	Exérèse non transfixiante de lésion infiltrante de la joue, par abord intrabuccal
+HAFA022	Exérèse transfixiante de lésion de la joue, par abord facial
+HAFA034	Exérèse de kyste du plancher de la bouche, par abord intrabuccal
+HAFA009	Exérèse de kyste du plancher de la bouche, par abord intrabuccal et par abord facial
+HAFA023	Glossectomie partielle de langue mobile, par abord intrabuccal
+HAFA001	Glossectomie partielle de base, par cervicotomie
+HAFA005	Exérèse partielle de la base de la langue et/ou du sillon amygdaloglosse, par abord intrabuccal
+HAFA013	Glossectomie totale de langue mobile, par abord intrabuccal
+HAFA003	Glossectomie totale de langue mobile, par abord cervicofacial
+HAFA012	Glossectomie totale de base
+HAFA029	Glossectomie totale de base de langue et de langue mobile
+HAFA016	Glossectomie totale avec pharyngolaryngectomie totale
+HAFA007	Pelvectomie orale partielle, par abord intrabuccal
+HAFA006	Pelviglossectomie de langue mobile, par abord intrabuccal
+HAFA027	Pelviglossectomie de langue mobile, par abord cervicofacial
+HAFA033	Pelvimandibulectomie non interruptrice, par abord intrabuccal
+HAFA024	Pelvimandibulectomie non interruptrice, par abord cervicofacial
+HAFA004	Pelvimandibulectomie interruptrice, par abord cervicofacial
+HAFA002	Pelvi-glosso-mandibulectomie non interruptrice, par abord intrabuccal
+HAFA026	Pelvi-glosso-mandibulectomie non interruptrice, par abord cervicofacial
+HAFA017	Pelvi-glosso-mandibulectomie interruptrice, par abord cervicofacial
+HAFA011	Exérèse de kyste de lèvre
+HCFA007	Exérèse de petite glande salivaire [glande salivaire accessoire]
+HCFA003	Exérèse de glande sublinguale, par abord direct
+HCFA011	Exérèse de glande submandibulaire [Submandibulectomie] [Sousmaxillectomie], par abord cervicofacial
+HCFA001	Exérèse de glande submandibulaire [Submandibulectomie] [Sousmaxillectomie] élargie à sa loge, par abord cervicofacial
+HCFA004	Parotidectomie partielle sans dissection du nerf facial
+HCFA008	Parotidectomie partielle avec dissection et conservation du nerf facial
+HCFA009	Parotidectomie totale avec dissection et conservation du nerf facial
+HCFA002	Parotidectomie totale avec résection du nerf facial
+HCFA010	Parotidectomie totale avec résection du nerf facial et réparation immédiate par suture ou greffe
+HCFA006	Parotidectomie totale élargie au méat acoustique externe [conduit auditif externe] et/ou à la mandibule
+HCFA005	Parotidectomie totale avec exérèse du prolongement [processus] parapharyngien, par abord cervicofacial
+HCFA013	Parotidectomie totale par abord cervicofacial, avec exérèse du prolongement [processus] parapharyngien par abord pharyngé
+HCFA012	Exérèse de récidive de tumeur de la glande parotide avec dissection et conservation du nerf facial
+HDFA020	Uvulectomie
+HDFA022	Uvulovélectomie
+HDFA021	Uvulovélectomie avec palatectomie partielle
+HDFE002	Exérèse de lésion de l hypopharynx, par endoscopie
+HDFA018	Exérèse de lésion du pharynx, par pharyngotomie
+HDFE003	Résection et/ou dilatation de sténose du pharynx, par endoscopie sans laser
+HDFE001	Résection et/ou dilatation de sténose du pharynx, par endoscopie avec laser
+HDFA015	Résection de diverticule pharyngo oesophagien avec myotomie extramuqueuse, par cervicotomie
+HDFA014	Résection de récidive de diverticule pharyngo oesophagien, par cervicotomie
+HDFA002	Oropharyngectomie latérale avec amygdalectomie, par abord intrabuccal
+HDFA008	Oropharyngectomie latérale, par cervicotomie
+HDFA009	Oropharyngectomie postérieure, par abord intrabuccal
+HDFA017	Oropharyngectomie postérieure, par cervicotomie
+HDFA019	Oropharyngectomie par mandibulotomie
+HDFA007	Oropharyngectomie par mandibulotomie avec pharyngolaryngectomie totale
+HDFA004	Oropharyngectomie avec mandibulectomie partielle non interruptrice, par abord direct
+HDFA011	Oropharyngectomie avec mandibulectomie partielle interruptrice, par abord cervicofacial
+HDFA013	Oropharyngectomie avec mandibulectomie partielle interruptrice et pharyngolaryngectomie totale
+HDFA016	Pharyngectomie latérale, par cervicotomie
+HDFA012	Pharyngectomie postérieure, par cervicotomie
+HDFA005	Pharyngolaryngectomie totale
+HDFA003	Pharyngolaryngectomie totale étendue à la base de langue
+HDFA010	Pharyngolaryngectomie totale circulaire
+HDFA001	Pharyngolaryngectomie totale circulaire avec rétablissement de continuité par transplant libre de jéjunum
+HDFA006	Pharyngolaryngectomie totale circulaire avec rétablissement de continuité par coloplastie rétrosternale
+HFFC001	Résection partielle atypique de la paroi de l estomac n interrompant pas la continuité, par c oelioscopie
+HFFA009	Résection partielle atypique de la paroi de l estomac n interrompant pas la continuité, par laparotomie
+HFFA003	Gastrectomie partielle supérieure [polaire supérieure] avec rétablissement de la continuité, par laparotomie
+HFFC012	Gastrectomie partielle inférieure avec anastomose gastroduodénale, par c oelioscopie
+HFFA002	Gastrectomie partielle inférieure avec anastomose gastroduodénale, par laparotomie
+HFFC002	Gastrectomie partielle inférieure avec anastomose gastrojéjunale, par c oelioscopie
+HFFA006	Gastrectomie partielle inférieure avec anastomose gastrojéjunale, par laparotomie
+HFFC017	Gastrectomie totale avec rétablissement de la continuité, par c oelioscopie
+HFFA005	Gastrectomie totale avec rétablissement de la continuité, par laparotomie
+HFFA008	Dégastrogastrectomie partielle avec rétablissement de la continuité, par laparotomie
+HFFC003	Résection de duplication gastrique, par c oelioscopie
+HFFA010	Résection de duplication gastrique, par laparotomie
+HFFA007	Résection de duplication gastroduodénale sans dérivation du conduit biliaire commun, par laparotomie
+HFFA004	Résection de duplication gastroduodénale avec dérivation du conduit biliaire commun, par laparotomie
+HGFE005	Exérèse de la papille duodénale majeure, par  oeso-gastro-duodénoscopie
+HGFA014	Exérèse de la papille duodénale majeure, par laparotomie
+HGFE004	Exérèse de 1 à 3 polypes de moins de 1cm de diamètre de l intestin grêle, par jéjunoscopie
+HGFE002	Exérèse de 1 à 3 polypes de moins de 1cm de diamètre de l intestin grêle, par iléoscopie
+HGFE003	Exérèse d un polype de plus de 1cm de diamètre ou de 4 polypes ou plus de l intestin grêle, par jéjunoscopie
+HGFE001	Exérèse d un polype de plus de 1cm de diamètre ou de 4 polypes ou plus de l intestin grêle, par iléoscopie
+HGFA001	Résection de l angle duodénojéjunal avec rétablissement de la continuité, par laparotomie
+HGFA005	Résection segmentaire unique de l intestin grêle pour occlusion, par laparotomie
+HGFC014	Résection segmentaire unique de l intestin grêle sans rétablissement de la continuité, en dehors de l occlusion, par c oelioscopie
+HGFA003	Résection segmentaire unique de l intestin grêle sans rétablissement de la continuité, en dehors de l occlusion, par laparotomie
+HGFC021	Résection segmentaire unique de l intestin grêle avec rétablissement de la continuité, en dehors de l occlusion, par c oelioscopie
+HGFA007	Résection segmentaire unique de l intestin grêle avec rétablissement de la continuité, en dehors de l occlusion, par laparotomie
+HGFC016	Résection segmentaire multiple de l intestin grêle, par c oelioscopie
+HGFA004	Résection segmentaire multiple de l intestin grêle, par laparotomie
+HGFA013	Résection totale de l intestin grêle, par laparotomie
+HGFA012	Résection de l intestin grêle et/ou du côlon pour péritonite néonatale, par laparotomie
+HGFC001	Exérèse de duplication de l intestin grêle sans résection intestinale, par c oelioscopie
+HGFA010	Exérèse de duplication de l intestin grêle sans résection intestinale, par laparotomie
+HGFA011	Exérèse de duplication de l intestin grêle avec résection intestinale, par laparotomie
+HGFA008	Résection segmentaire d une atrésie unique de l intestin grêle avec rétablissement de la continuité, par laparotomie
+HGFA009	Résection segmentaire d une atrésie étagée de l intestin grêle avec rétablissement de la continuité, par laparotomie
+HGFC002	Résection du diverticule iléal [de Meckel], par c oelioscopie
+HGFA006	Résection du diverticule iléal [de Meckel], par laparotomie
+HGPA005	Duodénotomie exploratrice, par laparotomie
+HGPA003	Entérotomie exploratrice, par laparotomie
+HGPC006	Entérotomie à visée thérapeutique, par c oelioscopie
+HGPA002	Entérotomie à visée thérapeutique, par laparotomie
+HGPH001	Désobstruction de l intestin grêle par lavement intestinal pour iléus méconial, avec contrôle radiologique
+HGPA006	Désobstruction de l intestin grêle pour iléus méconial, par laparotomie
+HGPC005	Ablation d un cathéter de dialyse péritonéale, par c oelioscopie
+HGPC015	Libération étendue de l intestin grêle [Entérolyse étendue] pour occlusion aigüe, par c oelioscopie
+HGPA004	Libération étendue de l intestin grêle [Entérolyse étendue] pour occlusion aigüe, par laparotomie
+HHFE001	Exérèse de 1 à 3 polypes de moins de 1cm de diamètre du côlon et/ou du rectum, par rectosigmoïdoscopie ou par coloscopie partielle
+HHFE002	Exérèse de 1 à 3 polypes de moins de 1cm de diamètre du côlon et/ou du rectum, par coloscopie totale
+HHFE005	Exérèse d un polype de plus de 1cm de diamètre ou de 4 polypes ou plus du côlon et/ou du rectum, par rectosigmoïdoscopie ou par coloscopie partielle
+HHFE004	Exérèse d un polype de plus de 1cm de diamètre ou de 4 polypes ou plus du côlon et/ou du rectum, par coloscopie totale
+HHFC001	Exérèse de polype du côlon par coloscopie, avec contrôle c oelioscopique
+HHFE006	Séance de mucosectomie rectocolique, par endoscopie
+HHFA026	Colectomie droite sans rétablissement de la continuité, par laparotomie
+HHFA009	Colectomie droite avec rétablissement de la continuité, par laparotomie
+HHFA008	Colectomie droite avec rétablissement de la continuité, par c oelioscopie ou par laparotomie avec préparation par c oelioscopie
+HHFA018	Colectomie transverse, par laparotomie
+HHFA023	Colectomie transverse, par c oelioscopie ou par laparotomie avec préparation par c oelioscopie
+HHFA014	Colectomie gauche sans libération de l angle colique gauche, sans rétablissement de la continuité, par laparotomie
+HHFA017	Colectomie gauche sans libération de l angle colique gauche, avec rétablissement de la continuité, par laparotomie
+HHFA010	Colectomie gauche sans libération de l angle colique gauche, avec rétablissement de la continuité, par c oelioscopie ou par laparotomie avec préparation par c oelioscopie
+HHFA024	Colectomie gauche avec libération de l angle colique gauche, sans rétablissement de la continuité, par laparotomie
+HHFA006	Colectomie gauche avec libération de l angle colique gauche, avec rétablissement de la continuité, par laparotomie
+HHFA002	Colectomie gauche avec libération de l angle colique gauche, avec rétablissement de la continuité, par c oelioscopie ou par laparotomie avec préparation par c oelioscopie
+HHFA021	Colectomie totale avec conservation du rectum, sans rétablissement de la continuité, par laparotomie
+HHFA005	Colectomie totale avec conservation du rectum, sans rétablissement de la continuité, par c oelioscopie ou par laparotomie avec préparation par c oelioscopie
+HHFA022	Colectomie totale avec conservation du rectum, avec anastomose iléorectale, par laparotomie
+HHFA004	Colectomie totale avec conservation du rectum, avec anastomose iléorectale, par c oelioscopie ou par laparotomie avec préparation par c oelioscopie
+HHFA030	Coloproctectomie totale sans rétablissement de la continuité, par laparotomie
+HHFA029	Coloproctectomie totale sans rétablissement de la continuité, par c oelioscopie ou par laparotomie avec préparation par c oelioscopie
+HHFA031	Coloproctectomie totale avec anastomose iléoanale, par laparotomie
+HHFA028	Coloproctectomie totale avec anastomose iléoanale, par c oelioscopie ou par laparotomie avec préparation par c oelioscopie
+HHFA003	Résection du côlon pour malformation congénitale avec rétablissement de la continuité, par laparotomie
+HHFA027	Résection complète d un prolapsus colorectal extériorisé, avec anastomose coloanale et myorraphie du plancher pelvien
+HHPC001	Colotomie exploratrice, par c oelioscopie
+HHPA002	Colotomie exploratrice, par laparotomie
+HHPC002	Colotomie à visée thérapeutique, par c oelioscopie
+HHPA001	Colotomie à visée thérapeutique, par laparotomie
+HJFD002	Exérèse de tumeur du rectum, par voie anale
+HJFA003	Exérèse de tumeur du rectum, par abord transsphinctérien
+HJFA018	Exérèse de tumeur du rectum, par abord transsacrococcygien [de Kraske]
+HJFA013	Résection d une fistule rectovaginale acquise, avec fermeture en un temps par suture musculaire et lambeau d avancement, par abord périnéal
+HJFC031	Résection rectosigmoïdienne dépassant le cul-de-sac de Douglas, sans rétablissement de la continuité, par c oelioscopie
+HJFA011	Résection rectosigmoïdienne dépassant le cul-de-sac de Douglas, sans rétablissement de la continuité, par laparotomie
+HJFA002	Résection rectosigmoïdienne avec anastomose colorectale infrapéritonéale, par laparotomie
+HJFA004	Résection rectosigmoïdienne avec anastomose colorectale infrapéritonéale, par c oelioscopie ou par laparotomie avec préparation par c oelioscopie
+HJFA006	Résection rectosigmoïdienne par laparotomie, avec anastomose coloanale par voie anale ou par abord transsphinctérien
+HJFA017	Résection rectosigmoïdienne par c oelioscopie ou par laparotomie avec préparation par c oelioscopie, avec anastomose coloanale par voie anale
+HJFA001	Résection rectocolique avec abaissement colique rétrorectal par laparotomie, avec anastomose colorectale par voie anale
+HJFA005	Amputation du rectum, par abord périnéal
+HJFA007	Amputation du rectum, par laparotomie et par abord périnéal
+HJFA019	Amputation du rectum, par c oelioscopie ou par laparotomie avec préparation par c oelioscopie et par abord périnéal
+HJFA014	Exérèse de moignon rectal résiduel, par abord périnéal
+HJFC023	Proctectomie secondaire par c oelioscopie avec anastomose iléoanale par voie transanale, après colectomie totale initiale
+HJFA012	Proctectomie secondaire par laparotomie avec anastomose iléoanale par voie transanale, après colectomie totale initiale
+HJFA008	Résection circonférentielle de la muqueuse d un prolapsus rectal et plicature de la musculeuse, par abord périnéal
+HJFA009	Résection circonférentielle de la muqueuse d un prolapsus rectal et plicature de la musculeuse, avec réduction d hédrocèle par abord périnéal
+HJFD004	Résection de la muqueuse rectale avec plicature hémicirconférentielle antérieure de la musculeuse, par voie anale
+HJFD001	Résection de la muqueuse rectale avec plicature hémicirconférentielle antérieure de la musculeuse par voie anale, avec anoplastie muqueuse postérieure
+HJFD005	Résection de la muqueuse rectale avec plicature hémicirconférentielle antérieure de la musculeuse par voie anale, avec hémorroïdectomie pédiculaire
+HJFC002	Résection rectosigmoïdienne pour aganglionose congénitale par c oelioscopie, avec rétablissement de la continuité par voie anale
+HJFA020	Résection rectosigmoïdienne pour aganglionose congénitale par laparotomie, avec rétablissement de la continuité par voie anale
+HJFD003	Résection rectosigmoïdienne pour aganglionose congénitale avec rétablissement de la continuité, par voie anale
+HJFC001	Résection rectocolique subtotale pour aganglionose congénitale par c oelioscopie, avec rétablissement de la continuité par voie anale
+HJFA016	Résection rectocolique subtotale pour aganglionose congénitale par laparotomie, avec rétablissement de la continuité par laparotomie ou par voie anale
+HJFC003	Résection rectocolique totale pour aganglionose congénitale par c oelioscopie, avec rétablissement de la continuité par voie anale
+HJFA015	Résection rectocolique totale pour aganglionose congénitale par laparotomie, avec rétablissement de la continuité par laparotomie ou par voie anale
+HJFA010	Exérèse de duplication du rectum, par abord transsacrococcygien [de Kraske]
+HLFA014	Séquestrectomie hépatique, par laparotomie
+HLFA012	Kystectomie ou périkystectomie hépatique, par laparotomie
+HLFA002	Résection du dôme saillant de kyste hydatique du foie, par laparotomie
+HLFC003	Résection atypique du foie, par c oelioscopie
+HLFA019	Résection atypique du foie, par laparotomie
+HLFC004	Unisegmentectomie hépatique, par c oelioscopie
+HLFA020	Unisegmentectomie hépatique, par laparotomie
+HLFA003	Résection du lobe caudé [de Spigel] [segment I] du foie, par laparotomie
+HLFC027	Bisegmentectomie hépatique, par c oelioscopie
+HLFA009	Bisegmentectomie hépatique, par laparotomie
+HLFC032	Trisegmentectomie hépatique, par c oelioscopie
+HLFA006	Trisegmentectomie hépatique, par laparotomie
+HLFC002	Lobectomie hépatique gauche, par c oelioscopie
+HLFA011	Lobectomie hépatique gauche, par laparotomie
+HLFC037	Hépatectomie gauche, par c oelioscopie
+HLFA018	Hépatectomie gauche, par laparotomie
+HLFA007	Hépatectomie gauche élargie au lobe caudé [de Spigel] [segment I], par laparotomie
+HLFA017	Hépatectomie droite, par laparotomie
+HLFA004	Hépatectomie droite élargie au lobe caudé [de Spigel] [segment I], par laparotomie
+HLFA005	Lobectomie hépatique droite [Hépatectomie droite élargie au segment IV], par laparotomie
+HLFA010	Hépatectomie centrale, par laparotomie
+HPMP002	Contrôle radiologique secondaire de position et/ou de fonctionnement d un drain péritonéal, d un cathéter de dialyse péritonéale ou d une dérivation péritonéojugulaire, avec opacification par produit de contraste
+HPML001	Contrôle radio-isotopique d un cathéter intrapéritonéal
+HMFC004	Cholécystectomie, par c oelioscopie
+HMFA007	Cholécystectomie, par laparotomie
+HMFC001	Cholécystectomie avec ablation transcystique de calcul de la voie biliaire principale, par c oelioscopie
+HMFA004	Cholécystectomie avec ablation transcystique de calcul de la voie biliaire principale, par laparotomie
+HMFC002	Cholécystectomie avec ablation de calcul de la voie biliaire principale par cholédochotomie, par c oelioscopie
+HMFA003	Cholécystectomie par c oelioscopie, avec ablation de calcul de la voie biliaire principale par cholédochotomie, par laparotomie
+HMFA008	Cholécystectomie avec ablation de calcul de la voie biliaire principale par cholédochotomie, par laparotomie
+HMFC003	Cholécystectomie avec cholédochogastrostomie ou cholédochoduodénostomie, par c oelioscopie
+HMFA006	Cholécystectomie par c oelioscopie, avec cholédochoduodénostomie par laparotomie
+HMFA002	Cholécystectomie avec cholédochogastrostomie ou cholédochoduodénostomie, par laparotomie
+HMFC005	Cholécystectomie avec cholédochojéjunostomie, par c oelioscopie
+HMFA005	Cholécystectomie par c oelioscopie, avec cholédochojéjunostomie par laparotomie
+HMFA001	Cholécystectomie avec cholédochojéjunostomie, par laparotomie
+HMFA009	Résection de la voie biliaire principale pédiculaire avec anastomose biliodigestive, par laparotomie
+HMFA010	Résection de la voie biliaire principale pédiculaire et intrapancréatique avec anastomose biliodigestive, par laparotomie
+HNFC027	Nécrosectomie pancréatique, par c oelioscopie
+HNFA012	Nécrosectomie pancréatique, par laparotomie
+HNFC001	Exérèse de tumeur du pancréas, par c oelioscopie
+HNFA005	Exérèse de tumeur du pancréas, par laparotomie
+HNFC028	Pancréatectomie gauche avec conservation de la rate, par c oelioscopie
+HNFA008	Pancréatectomie gauche avec conservation de la rate, par laparotomie
+HNFA002	Pancréatectomie gauche avec conservation de la rate, avec anastomose pancréatojéjunale ou pancréaticojéjunale, par laparotomie
+HNFC002	Pancréatectomie gauche avec splénectomie [Splénopancréatectomie gauche], par c oelioscopie
+HNFA013	Pancréatectomie gauche avec splénectomie [Splénopancréatectomie gauche], par laparotomie
+HNFA010	Pancréatectomie gauche avec splénectomie [Splénopancréatectomie gauche] avec anastomose pancréatojéjunale ou pancréaticojéjunale, par laparotomie
+HNFA001	Isthmectomie pancréatique avec rétablissement de continuité du conduit pancréatique, par laparotomie
+HNFA011	Pancréatectomie totale ou subtotale avec conservation du duodénum, sans splénectomie, par laparotomie
+HNFA006	Pancréatectomie totale ou subtotale avec conservation du duodénum et splénectomie, par laparotomie
+HNFA007	Duodénopancréatectomie céphalique, par laparotomie
+HNFA004	Duodénopancréatectomie totale avec splénectomie [Splénopancréatectomie totale], par laparotomie
+HNFA009	Prélèvement d un greffon pancréatique, chez un sujet en état de mort encéphalique
+HPMB001	Création d un pneumopéritoine à visée thérapeutique, par voie transcutanée
+HPFC001	Exérèse de lésion d un repli péritonéal [méso] sans résection intestinale, par c oelioscopie
+HPFA003	Exérèse de lésion d un repli péritonéal [méso] sans résection intestinale, par laparotomie
+HPFC002	Résection du grand omentum [grand épiploon] [Omentectomie], par c oelioscopie
+HPFA004	Résection du grand omentum [grand épiploon] [Omentectomie], par laparotomie
+HPBA001	Réduction de volume tumoral d une maladie gélatineuse du péritoine, par laparotomie
+HPFC007	Résection ou cloisonnement du cul-de-sac recto-utérin [de Douglas], par c oelioscopie
+HPFA001	Résection ou cloisonnement du cul-de-sac recto-utérin [de Douglas], par laparotomie
+HPMA003	Réparation de perte de substance par lambeau pédiculé de grand omentum [épiploon], en situation extraabdominale
+HPMA002	Réparation de perte de substance par lambeau libre de grand omentum [épiploon], avec anastomoses vasculaires
+HPBA002	Interposition ou apposition de grand omentum [grand épiploon], au cours d une intervention intrathoracique
+HPMA001	Épiploplastie intraabdominale par libération de la grande courbure gastrique avec pédiculisation sur un pédicule gastroépiploïque, au cours d une intervention par laparotomie
+JAFC008	Résection de kyste non parasitaire du rein, par c oelioscopie ou par rétropéritonéoscopie
+JAFA007	Résection de kyste non parasitaire du rein, par lombotomie
+JAFA004	Résection de kyste parasitaire du rein, par lombotomie
+JAFC005	Néphrectomie partielle, par c oelioscopie ou par rétropéritonéoscopie
+JAFA030	Néphrectomie partielle sans dissection du pédicule vasculaire, par laparotomie
+JAFA024	Néphrectomie partielle sans dissection du pédicule vasculaire, par lombotomie ou par abord lombal vertical
+JAFA019	Néphrectomie partielle avec dissection du pédicule vasculaire, par laparotomie
+JAFA008	Néphrectomie partielle avec dissection du pédicule vasculaire, par lombotomie ou par abord lombal postérieur
+JAFA006	Néphrectomie partielle ex situ avec autotransplantation du rein, par abord direct
+JAFC002	Héminéphrectomie avec urétérectomie partielle, par c oelioscopie ou par rétropéritonéoscopie
+JAFA001	Héminéphrectomie avec urétérectomie partielle, par abord direct
+JAFC007	Héminéphrectomie avec urétérectomie totale, par c oelioscopie ou par rétropéritonéoscopie
+JAFA003	Héminéphrectomie avec urétérectomie totale, par abord direct
+JAFA026	Héminéphrectomie pour fusion rénale, par abord direct
+JAFC006	Néphrectomie totale unilatérale, par c oelioscopie ou par rétropéritonéoscopie
+JAFA023	Néphrectomie totale unilatérale, par laparotomie
+JAFA010	Néphrectomie totale unilatérale, par abord lombal vertical
+JAFA002	Néphrectomie totale, par lombotomie
+JAFA012	Néphrectomie totale par laparotomie, avec extraction endoscopique rétrograde de l uretère [stripping de l uretère]
+JAFC001	Néphro-urétérectomie totale, par c oelioscopie ou par rétropéritonéoscopie
+JAFA032	Néphro-urétérectomie totale, par abord direct
+JAFC004	Binéphrectomie, par c oelioscopie ou par rétropéritonéoscopie
+JAFA016	Binéphrectomie, par laparotomie
+JAFA027	Binéphrectomie, par abords lombaux verticaux
+JAFA031	Néphrectomie totale élargie à la loge rénale, par thoraco-phréno-laparotomie
+JAFC019	Néphrectomie totale élargie à la loge rénale, par c oelioscopie ou rétropéritonéoscopie
+JAFA009	Néphrectomie totale élargie à la loge rénale, par laparotomie ou par abord lomboabdominal
+JAFA022	Néphrectomie totale élargie à la loge rénale avec thrombectomie par cavotomie, par thoraco-phréno-laparotomie
+JAFA014	Néphrectomie totale élargie à la loge rénale avec thrombectomie par cavotomie, par laparotomie ou par abord lomboabdominal
+JAFA021	Néphrectomie totale élargie à la loge rénale avec surrénalectomie, par thoraco-phréno-laparotomie
+JAFC010	Néphrectomie totale élargie à la loge rénale avec surrénalectomie, par c oelioscopie ou rétropéritonéoscopie
+JAFA029	Néphrectomie totale élargie à la loge rénale avec surrénalectomie, par laparotomie ou par abord lomboabdominal
+JAFA025	Néphrectomie totale élargie à la loge rénale avec surrénalectomie et thrombectomie par cavotomie, par thoraco-phréno-laparotomie
+JAFA028	Néphrectomie totale élargie à la loge rénale avec surrénalectomie et thrombectomie par cavotomie, par laparotomie ou par abord lomboabdominal
+JAFA011	Néphrectomie totale élargie à la loge rénale avec thrombectomie par cavotomie et contrôle intraatrial cardiaque, par thoraco-phréno-laparotomie
+JAFA005	Néphrectomie totale élargie à la loge rénale avec résection latérale de la veine cave inférieure, par abord direct
+JCFD001	Exérèse de tumeur de l uretère lombal, par une néphrostomie déjà en place
+JCFF001	Exérèse de tumeur de l uretère lombal, par voie transcutanée
+JCFE001	Exérèse de tumeur de l uretère lombal, par urétéroscopie rétrograde
+JCFE003	Exérèse de tumeur de l uretère iliaque, par urétéroscopie rétrograde
+JCFE002	Exérèse de tumeur de l uretère pelvien, par urétéroscopie rétrograde
+JCFA002	Urétérectomie segmentaire lombo-iliaque avec rétablissement de la continuité de l uretère, par abord direct
+JCFA003	Urétérectomie segmentaire pelvienne avec rétablissement de la continuité de l uretère, par abord direct
+JCFA009	Urétérectomie segmentaire pelvienne avec réimplantation urétérovésicale, par abord direct
+JCFA008	Urétérectomie segmentaire pelvienne avec réimplantation urétérovésicale et montage antireflux, par abord direct
+JCFA010	Urétérectomie segmentaire pelvienne avec réimplantation urétérovésicale et plastie de la vessie par mobilisation [vessie psoïque] ou allongement par lambeau pédiculé, par abord direct
+JCPA003	Section-anastomose d un uretère rétrocave, par abord direct
+JCFA005	Résection longitudinale modelante dun méga-uretère avec réimplantation urétérovésicale et montage antireflux, par abord direct
+JCFA007	Exérèse d une urétérocèle avec réimplantation urétérovésicale homolatérale, par abord direct
+JCFA004	Exérèse d une urétérocèle avec réimplantation urétérovésicale, héminéphrectomie et urétérectomie totale homolatérales, par abord direct
+JCFA006	Exérèse unilatérale d une urétérocèle avec réimplantation urétérovésicale bilatérale, par abord direct
+JCFC001	Urétérectomie totale, par c oelioscopie ou par rétropéritonéoscopie
+JCFA001	Urétérectomie totale, par abord direct
+JCPD001	Reperméation de l uretère par forage intraluminal
+JCPC002	Libération de l uretère sans intrapéritonisation, par c oelioscopie ou par rétropéritonéoscopie
+JCPA002	Libération de l uretère sans intrapéritonisation, par abord direct
+JCPC001	Libération de l uretère avec intrapéritonisation ou lambeau péritonéal, par c oelioscopie ou par rétropéritonéoscopie
+JCPA001	Libération de l uretère avec intrapéritonisation ou lambeau péritonéal, par abord direct
+JCPE002	Incision du méat urétéral, par endoscopie
+JCPE001	Incision d une urétérocèle, par endoscopie
+JDFE002	Résection de 1 à 3 tumeurs de la vessie, par endoscopie
+JDFE001	Résection de 4 tumeurs de la vessie ou plus, par endoscopie
+JDFC001	Exérèse de diverticule de la vessie, par c oelioscopie
+JDFA002	Exérèse de diverticule de la vessie, par laparotomie
+JDFC023	Cystectomie partielle, par c oelioscopie
+JDFA011	Cystectomie partielle, par laparotomie
+JDFA014	Cystectomie partielle avec implantation de matériel pour irradiation interstitielle de la vessie, par laparotomie
+JDFA017	Cystectomie partielle avec réimplantation urétérovésicale, par laparotomie
+JDFA004	Cystectomie supratrigonale avec entérocystoplastie détubulée d agrandissement, par laparotomie
+JDFA015	Cystectomie supratrigonale avec entérocystoplastie détubulée d agrandissement et réimplantation urétérovésicale, par laparotomie
+JDFA005	Cystectomie totale, par laparotomie
+JDFA001	Cystectomie totale avec urétérostomie cutanée, par laparotomie
+JDFA008	Cystectomie totale avec urétérostomie cutanée transintestinale par anse non détubulée, par laparotomie
+JDFA003	Cystectomie totale avec urétérostomie cutanée transintestinale par anse détubulée continente, par laparotomie
+JDFA009	Cystectomie totale avec anastomose urétérocolique directe, par laparotomie
+JDFA006	Cystectomie totale avec anastomose urétérocolique et confection d un réservoir détubulé rectosigmoïdien ou iléo-recto-sigmoïdien, par laparotomie
+JDFA016	Cystectomie totale avec entérocystoplastie de remplacement [néovessie] orthotopique par anse détubulée, par laparotomie
+JDFA007	Résection d un kyste ou d une fistule du ligament ombilical médian [ouraque]
+JDFA012	Exérèse de la plaque d une exstrophie vésicale avec dérivation urinaire, sans ostéotomie du bassin
+JDFA013	Exérèse de la plaque d une exstrophie vésicale avec dérivation urinaire et cure unilatérale ou bilatérale de hernie de l aine, sans ostéotomie du bassin
+JDFA010	Exérèse de la plaque d une exstrophie vésicale avec dérivation urinaire, avec ostéotomie du bassin
+JDFE003	Résection du col de la vessie, par endoscopie
+JDFA018	Résection ou incision du col de la vessie, par abord direct
+JDFA024	Vésiculo-prostato-cystectomie totale, par laparotomie
+JDFA023	Vésiculo-prostato-cystectomie totale avec urétérostomie cutanée, par laparotomie
+JDFA025	Vésiculo-prostato-cystectomie totale avec urétérostomie cutanée transintestinale par anse non détubulée, par laparotomie
+JDFA020	Vésiculo-prostato-cystectomie totale avec urétérostomie cutanée transintestinale par anse détubulée continente, par laparotomie
+JDFA019	Vésiculo-prostato-cystectomie totale avec anastomose urétérocolique directe, par laparotomie
+JDFA022	Vésiculo-prostato-cystectomie totale avec anastomose urétérocolique et confection d un réservoir détubulé rectosigmoïdien ou iléo-recto-sigmoïdien, par laparotomie
+JDFA021	Vésiculo-prostato-cystectomie totale avec entérocystoplastie de remplacement [néovessie] orthotopique par anse détubulée, par laparotomie
+JKFE001	Exérèse de polype de l utérus, par hystéroscopie
+JKFE002	Résection de myome de l utérus, par hystéroscopie
+JKFC004	Myomectomie de l utérus sans hystérotomie, par c oelioscopie
+JKFC001	Myomectomie de l utérus avec hystérotomie, par c oelioscopie
+JKFA033	Myomectomie de l utérus, par abord vaginal
+JKFA016	Myomectomie unique de l utérus, par laparotomie
+JKFA022	Myomectomie multiple de l utérus, par laparotomie
+JKFD001	Exérèse de lésion pédiculée de l utérus accouchée par le col, par voie vaginale
+JKFD002	Exérèse de lésion du col de l utérus, par voie vaginale
+JKFE003	Exérèse de lésion du col de l utérus, par colposcopie
+JKFA031	Conisation du col de l utérus
+JKFA008	Trachélectomie [Cervicectomie] [Amputation du col de l utérus], par abord vaginal
+JKFA011	Trachélectomie sur col restant de l utérus, par abord vaginal
+JKFA009	Trachélectomie sur col restant de l utérus, par laparotomie
+JKFA030	Colpotrachélectomie [Colpocervicectomie] élargie aux paramètres, par abord vaginal
+JKFA019	Colpotrachélectomie [Colpocervicectomie] élargie aux paramètres, par laparotomie
+JKFA003	Exérèse d un hémiutérus malformé [Hémihystérectomie], par laparotomie
+JKFC002	Hystérectomie subtotale, par c oelioscopie
+JKFA024	Hystérectomie subtotale, par laparotomie
+JKFA014	Hystérectomie subtotale avec suspension postérieure du col de l utérus [colposuspension], par laparotomie
+JKFA012	Hystérectomie subtotale avec suspension postérieure du col de l utérus [colposuspension] et cervicocystopexie indirecte au ligament pectinéal [de Cooper], par laparotomie
+JKFC006	Hystérectomie subtotale avec annexectomie unilatérale ou bilatérale, par c oelioscopie
+JKFA032	Hystérectomie subtotale avec annexectomie unilatérale ou bilatérale, par laparotomie
+JKFA001	Hystérectomie subtotale avec annexectomie unilatérale ou bilatérale et suspension postérieure du col de l utérus [colposuspension], par laparotomie
+JKFA029	Hystérectomie subtotale avec annexectomie unilatérale ou bilatérale, suspension postérieure du col de l utérus [colposuspension] et cervicocystopexie indirecte au ligament pectinéal [de Cooper], par laparotomie
+JKFC005	Hystérectomie totale, par c oelioscopie
+JKFA018	Hystérectomie totale, par c oelioscopie et par abord vaginal
+JKFA026	Hystérectomie totale, par abord vaginal
+JKFA015	Hystérectomie totale, par laparotomie
+JKFA025	Hystérectomie totale avec colpopérinéorraphie antérieure ou postérieure, par abord vaginal
+JKFA002	Hystérectomie totale avec colpopérinéorraphies antérieure et postérieure, par abord vaginal
+JKFA013	Hystérectomie totale avec suspension postérieure du dôme du vagin, par laparotomie
+JKFC003	Hystérectomie totale avec annexectomie unilatérale ou bilatérale, par c oelioscopie
+JKFA006	Hystérectomie totale avec annexectomie unilatérale ou bilatérale, par c oelioscopie et par abord vaginal
+JKFA005	Hystérectomie totale avec annexectomie unilatérale ou bilatérale, par abord vaginal
+JKFA028	Hystérectomie totale avec annexectomie unilatérale ou bilatérale, par laparotomie
+JKFA021	Hystérectomie totale avec annexectomie unilatérale ou bilatérale et colpopérinéorraphie antérieure ou postérieure, par abord vaginal
+JKFA007	Hystérectomie totale avec annexectomie unilatérale ou bilatérale et colpopérinéorraphies antérieure et postérieure, par abord vaginal
+JKFA004	Hystérectomie totale avec annexectomie unilatérale ou bilatérale et suspension postérieure du dôme du vagin, par laparotomie
+JKFA020	Colpohystérectomie totale élargie aux paramètres, par c oelioscopie et par abord vaginal
+JKFA023	Colpohystérectomie totale élargie aux paramètres, par abord vaginal
+JKFA027	Colpohystérectomie totale élargie aux paramètres, par laparotomie
+JFFA006	Exérèse de lésion de l espace rétropéritonéal sans dissection des gros vaisseaux, par thoraco-phréno-laparotomie
+JFFC002	Exérèse de lésion de l espace rétropéritonéal, par c oelioscopie ou par rétropéritonéoscopie
+JFFA010	Exérèse de lésion de l espace rétropéritonéal sans dissection des gros vaisseaux, par laparotomie ou par lombotomie
+JFFA021	Exérèse de lésion de l espace rétropéritonéal avec dissection des gros vaisseaux, par abord direct
+JFFC001	Exérèse de lésion endométriosique de la cloison rectovaginale, par c oelioscopie
+JFFA012	Exérèse de lésion endométriosique de la cloison rectovaginale, par abord vaginal
+JFFA014	Exérèse de lésion endométriosique de la cloison rectovaginale, par laparotomie
+JFFA007	Exérèse d une lipomatose pelvienne, par laparotomie
+JFFA020	Exérèse d un tératome sacrococcygien de moins de 10 cm de diamètre, par abord transsacrococcygien [de Kraske]
+JFFA017	Exérèse d un tératome sacrococcygien de plus de 10 cm de diamètre, par abord transsacrococcygien [de Kraske]
+JFFA015	Exérèse d un tératome sacrococcygien, par laparotomie et par abord transsacrococcygien [de Kraske]
+JFFA018	Pelvectomie antérieure, par laparotomie
+JFFA001	Pelvectomie antérieure avec urétérostomie cutanée, par laparotomie
+JFFA003	Pelvectomie antérieure avec urétérostomie cutanée transintestinale par anse non détubulée, par laparotomie
+JFFA016	Pelvectomie antérieure avec urétérostomie cutanée transintestinale par anse détubulée continente, par laparotomie
+JFFA009	Pelvectomie antérieure avec anastomose urétérocolique directe, par laparotomie
+JFFA019	Pelvectomie antérieure avec anastomose urétérocolique et confection d un réservoir détubulé rectosigmoïdien ou iléo-recto-sigmoïdien, par laparotomie
+JFFA022	Pelvectomie antérieure avec entérocystoplastie de remplacement [néovessie] orthotopique par anse détubulée, par laparotomie
+JFFA005	Pelvectomie postérieure sans rétablissement de la continuité digestive, par laparotomie
+JFFA004	Pelvectomie postérieure sans rétablissement de la continuité digestive, par laparotomie et par abord périnéal
+JFFA002	Pelvectomie postérieure avec rétablissement de la continuité digestive, par laparotomie
+JFFA008	Pelvectomie totale avec urétérostomie cutanée, par laparotomie et par abord périnéal
+JFFA011	Pelvectomie totale avec urétérostomie cutanée transintestinale par anse non détubulée, par laparotomie et par abord périnéal
+JFFA013	Pelvectomie totale avec urétérostomie cutanée transintestinale par anse détubulée continente, par laparotomie et par abord périnéal
+LBMP003	Réalisation de moulage d étude des arcades dentaires
+LBMP001	Simulation des objectifs thérapeutiques sur moulages des arcades dentaires et/ou sur logiciel
+LBMP002	Montage directeur sur moulage d étude des arcades dentaires
+LBGD001	Ablation de moyen de contention maxillaire et/ou mandibulaire intrabuccal
+LBPA028	Ostéotomie maxillaire de type Le Fort I pour séquelle d une fente orofaciale, par abord intrabuccal
+LBPA024	Ostéotomie d un segment du maxillaire pour correction d une malposition fragmentaire séquellaire d une fente orofaciale, par abord intrabuccal
+LBPA027	Ostéotomie maxillaire totale basse préimplantaire ou préprothétique avec interposition, par abord intrabuccal
+LBPA029	Ostéotomie maxillaire type Le Fort I non segmentée avec avancée, par abord intrabuccal
+LBPA015	Ostéotomie maxillaire type Le Fort I non segmentée avec recul ou déplacement vertical, par abord intrabuccal
+LBPA035	Ostéotomie maxillaire type Le Fort I segmentée en 2 fragments, par abord intrabuccal
+LBPA006	Ostéotomie maxillaire type Le Fort I segmentée en 3 fragments ou plus, par abord intrabuccal
+LBPA022	Ostéotomie maxillaire type hémi-Le Fort I, par abord intrabuccal
+LBPA017	Ostéotomie maxillaire d élévation sans mobilisation du palais, par abord intrabuccal
+LBPA031	Ostéotomie maxillaire segmentaire antérieure, par abord intrabuccal
+LBPA009	Ostéotomie maxillaire segmentaire postérieure unilatérale, par abord intrabuccal
+LBPA008	Ostéotomie maxillaire segmentaire postérieure bilatérale, par abord intrabuccal
+LBPA012	Ostéotomie maxillaire interalvéolaire [Corticotomie alvéolodentaire] unique ou multiple, par abord intrabuccal
+LBPA032	Ostéotomie sagittale intermaxillaire sans pose d un disjoncteur fixe, par abord intrabuccal
+LBPA043	Ostéotomie sagittale intermaxillaire avec pose d un disjoncteur fixe, par abord intrabuccal
+LBPA010	Ostéotomie maxillozygomatique sans mobilisation de la pyramide nasale, par abord direct
+LBPA038	Ostéotomie maxillonasale type Le Fort II, par abord direct
+LBFA006	Maxillectomie supérieure sans reconstruction
+LBFA011	Maxillectomie supérieure, avec reconstruction du plancher de l orbite par lambeau de septum nasal
+LBFA033	Maxillectomie moyenne
+LBFA024	Maxillectomie inférieure
+LBFA005	Maxillectomie totale sans reconstruction
+LBFA007	Maxillectomie totale, avec reconstruction du plancher de l orbite par lambeau de septum nasal
+LBFA023	Exérèse de lésion de l os maxillaire et/ou du corps de la mandibule de moins de 2 cm de grand axe, par abord intrabuccal
+LBFA030	Exérèse de lésion de l os maxillaire et/ou du corps de la mandibule de 2 cm à 4 cm de grand axe, par abord intrabuccal
+LBFA002	Exérèse de lésion de l os maxillaire et/ou du corps de la mandibule de plus de 4 cm de grand axe, par abord intrabuccal
+LBFA028	Exérèse d un quadrant de la voûte palatine, par abord direct
+LBFA014	Exérèse d une hémivoûte palatine, par abord direct
+LBFA001	Exérèse de la totalité de la voûte palatine, par abord direct
+LBPA034	Ostéotomie segmentaire antérieure préimplantaire ou préprothétique de la mandibule avec interposition, par abord intrabuccal
+LBPA030	Ostéotomie verticale rétrolingulaire [rétrospigienne] du ramus de la mandibule, par abord intrabuccal
+LBPA007	Ostéotomie verticale rétrolingulaire [rétrospigienne] du ramus de la mandibule, par abord facial
+LBPA021	Ostéotomie sagittale unilatérale du ramus de la mandibule [supralingulaire et préangulaire], par abord intrabuccal
+LBPA042	Ostéotomie sagittale bilatérale du ramus de la mandibule [supralingulaire et préangulaire], par abord intrabuccal
+LBPA004	Ostéotomie sagittale bilatérale du ramus de la mandibule [supralingulaire et préangulaire], avec ostéotomie maxillaire d avancée type Le Fort I non segmentée, par abord intrabuccal
+LBPA040	Ostéotomie sagittale bilatérale du ramus de la mandibule [supralingulaire et préangulaire], avec ostéotomie maxillaire d avancée type Le Fort I non segmentée et ostéotomie de transposition du menton osseux, par abord intrabuccal
+LBPA023	Ostéotomie sagittale bilatérale du ramus de la mandibule [supralingulaire et préangulaire], avec ostéotomie maxillaire type Le Fort I segmentée en 2 fragments, par abord intrabuccal
+LBPA011	Ostéotomie sagittale bilatérale du ramus de la mandibule [supralingulaire et préangulaire], avec ostéotomie maxillaire type Le Fort I segmentée en 2 fragments et transposition du menton osseux, par abord intrabuccal
+LBPA020	Ostéotomie sagittale bilatérale du ramus de la mandibule [supralingulaire et préangulaire], avec ostéotomie maxillaire type Le Fort I segmentée en 3 fragments ou plus, par abord intrabuccal
+LBPA033	Ostéotomie sagittale bilatérale du ramus de la mandibule [supralingulaire et préangulaire], avec ostéotomie maxillaire type Le Fort I segmentée en 3 fragments ou plus et transposition du menton osseux, par abord intrabuccal
+LBPA019	Ostéotomie sagittale bilatérale du ramus de la mandibule [supralingulaire et préangulaire], avec ostéotomie segmentaire alvéolaire de la mandibule en avant des trous mentonniers, par abord intrabuccal
+LBPA041	Ostéotomie angulaire ou préangulaire de la mandibule, par abord facial
+LBPA014	Ostéotomie interruptrice du corps de la mandibule, en arrière du trou mentonnier, par abord intrabuccal
+LBPA005	Ostéotomie interruptrice du corps de la mandibule, en avant du trou mentonnier, par abord intrabuccal
+LBPA037	Ostéotomie interruptrice de la symphyse mandibulaire, par abord intrabuccal
+LBPA002	Ostéotomie sagittale du corps de la mandibule, par abord intrabuccal
+LBPA016	Ostéotomie segmentaire alvéolaire de la mandibule en arrière du trou mentonnier, par abord intrabuccal
+LBPA026	Ostéotomie segmentaire alvéolaire de la mandibule en avant des trous mentonniers, par abord intrabuccal
+LBPA039	Ostéotomie segmentaire alvéolaire de la mandibule en avant des trous mentonniers, avec ostéotomie de transposition du menton osseux, par abord intrabuccal
+LBPA036	Ostéotomie segmentaire alvéolaire de la mandibule en avant des trous mentonniers, avec ostéotomie maxillaire segmentaire antérieure, par abord intrabuccal
+LBPA018	Ostéotomie sousalvéolaire totale de la mandibule, par abord intrabuccal
+LBPA013	Ostéotomie de transposition du menton osseux, par abord intrabuccal
+LBPA001	Ostéotomie d antépositionnement des épines mentonnières [apophyses geni] de la mandibule, par abord intrabuccal
+LBPA025	Ostéotomie de la mandibule pour cal vicieux, par abord direct
+LBGA005	Évidement de la mandibule, par abord intrabuccal
+LBFA015	Exérèse de lésion du ramus de la mandibule, par abord intrabuccal
+LBFA018	Résection modelante de la mandibule, par abord intrabuccal
+LBFA010	Résection modelante du menton, par abord intrabuccal
+LBFA008	Résection non interruptrice extracondylaire de la mandibule, par abord direct
+LBFA029	Résection interruptrice segmentaire antérieure du corps de la mandibule par abord direct, sans pose de dispositif intrafocal de contention ni comblement
+LBFA020	Résection interruptrice segmentaire antérieure du corps de la mandibule par abord direct, avec pose de dispositif intrafocal de contention, sans comblement
+LBFA009	Résection interruptrice segmentaire antérieure du corps de la mandibule avec comblement, par abord direct
+LBFA004	Résection de la mandibule pour pseudarthrose avec comblement par autogreffe osseuse, par abord direct
+LBFA036	Résection interruptrice extracondylaire segmentaire latérale de la mandibule par abord direct, sans pose de dispositif intrafocal de contention ni comblement
+LBFA027	Résection interruptrice extracondylaire segmentaire latérale de la mandibule par abord direct, avec pose de dispositif intrafocal de contention, sans comblement
+LBFA017	Résection interruptrice extracondylaire segmentaire latérale de la mandibule avec comblement, par abord direct
+LBFA034	Résection interruptrice latéroterminale de la mandibule par abord direct, sans pose de dispositif latéroterminal ni comblement
+LBFA037	Résection interruptrice latéroterminale de la mandibule par abord direct, avec pose de dispositif latéroterminal de contention, sans comblement
+LBFA039	Résection interruptrice latéroterminale de la mandibule par abord direct, avec comblement par autogreffe chondrocostale
+LBFA026	Résection interruptrice du processus condylaire de la mandibule par abord direct, sans pose de dispositif terminal ni comblement
+LBFA022	Résection interruptrice du processus condylaire de la mandibule par abord direct, avec pose de dispositif terminal, sans comblement
+LBFA038	Résection interruptrice du processus condylaire de la mandibule par abord direct, avec comblement par autogreffe chondrocostale
+LBPA003	Décortication de la mandibule, par abord intrabuccal
+LBMA002	Reconstruction du ramus de la mandibule par autogreffe ostéochondrale pour syndrome malformatif, par abord direct
+LBGA004	Ablation d un implant intraosseux intrabuccal avec résection osseuse
+LBGA003	Ablation de 2 implants intraosseux intrabuccaux ou d un implant-lame avec résection osseuse
+LBGA002	Ablation de 3 implants intraosseux intrabuccaux avec résection osseuse
+LBGA006	Ablation de 4 implants intraosseux intrabuccaux avec résection osseuse
+LBGA007	Ablation de 5 implants intraosseux intrabuccaux avec résection osseuse
+LBGA008	Ablation de 6 implants intraosseux intrabuccaux avec résection osseuse
+LBGA009	Ablation de 7 implants intraosseux intrabuccaux ou plus, avec résection osseuse
+LBFA031	Résection d hypertrophie osseuse intrabuccale
+LBFA032	Éminencectomie [Condyloplastie temporale] ou création de butée temporomandibulaire
+LBFA025	Coronoïdectomie mandibulaire, par abord intrabuccal
+LBFA003	Résection partielle de la tête du condyle de la mandibule, par abord facial
+LBMA006	Condyloplastie mandibulaire, par arthrotomie
+LBMA001	Reconstruction de l articulation temporomandibulaire par prothèse
+LBMA004	Reconstruction du condyle de la mandibule par greffe ostéochondrale
+LBFA013	Discectomie temporomandibulaire, par arthrotomie
+LBMA003	Reconstruction discale temporomandibulaire, par arthrotomie
+LBFA019	Résection de bloc d ankylose temporomandibulaire latérale, par abord direct
+LBFA035	Résection d un bloc d ankylose temporomandibulaire complète, par abord direct
+LBFA016	Résection d un bloc d ankylose temporomandibulaire complète avec reconstruction de l articulation par prothèse, par abord direct
+LBFA012	Résection d un bloc d ankylose temporomandibulaire complète avec reconstruction du condyle de la mandibule par greffe ostéochondrale, par abord direct
+LCPA001	Libération d une rétraction des tissus mous de la région masticatrice, par abord direct
+LMFA003	Exérèse d un bourgeon ombilical
+LMFA001	Exérèse de tumeur de la paroi abdominale antérieure avec fermeture par suture, par abord direct
+LMFA002	Exérèse de tumeur de la paroi abdominale antérieure avec fermeture par prothèse, par abord direct
+QZFA038	Excision de lésion infectieuse diffuse de la peau et des tissus mous sur moins de 50 cm²
+QZFA023	Excision de lésion infectieuse diffuse de la peau et des tissus mous sur 50 cm² à 200 cm²
+QZFA028	Exérèse tangentielle de 1 à 5 lésions cutanées
+QZFA021	Exérèse tangentielle de 6 lésions cutanées ou plus
+QZFA010	Exérèse tangentielle de 1 à 20 molluscum contagiosum
+QZFA015	Exérèse tangentielle de 21 molluscum contagiosum ou plus
+QZFA013	Exérèse de 1 à 5 lésions cutanées, par curetage
+QZFA022	Exérèse de 6 lésions cutanées ou plus, par curetage
+QZFA036	Exérèse de lésion superficielle de la peau par excision d une zone cutanée de moins de 5 cm²
+QZFA031	Exérèse de lésion superficielle de la peau par excision de 2 à 5 zones cutanées de moins de 5 cm²
+QZFA003	Exérèse de lésion superficielle de la peau par excision de 6 zones cutanées ou plus de moins de 5 cm²
+QZFA004	Exérèse de lésion superficielle de la peau par excision d une zone cutanée de 5 cm² à 10 cm²
+QZFA011	Exérèse de lésion superficielle de la peau par excision d une zone cutanée de 10 cm² à 50 cm²
+QZFA035	Exérèse de lésion superficielle de la peau par excision d une zone cutanée de 50 cm² à 200 cm²
+QZFA030	Exérèse de lésion superficielle de la peau par excision d une zone cutanée de plus de 200 cm²
+QZFA008	Exérèse de lésion superficielle de la peau par excision d une zone cutanée de moins de 5 cm², par technique chimiochirurgicale [technique de Mohs]
+QZFA033	Exérèse de lésion superficielle de la peau par excision d une zone cutanée de 5 cm² à 10 cm², par technique chimiochirurgicale [technique de Mohs]
+QZFA026	Exérèse de lésion superficielle de la peau par excision d une zone cutanée de plus de 10 cm², par technique chimiochirurgicale [technique de Mohs]
+QZFA002	Exérèse d une lésion souscutanée susfasciale de moins de 3 cm de grand axe
+QZFA001	Exérèse de 2 à 5 lésions souscutanées susfasciales de moins de 3 cm de grand axe
+QZFA005	Exérèse de 6 lésions souscutanées susfasciales ou plus de moins de 3 cm de grand axe
+QZFA007	Exérèse de lésion souscutanée susfasciale de 3 cm à 10 cm de grand axe
+QZFA024	Exérèse de lésion souscutanée susfasciale de plus de 10 cm de grand axe
+QZMA004	Réparation de perte de substance par lambeau local ou régional cutané, fascial, fasciocutané, septocutané, musculaire ou musculocutané, à pédicule vasculaire ou vasculonerveux anatomique, en dehors de l extrémité céphalique
+QZMA005	Réparation de perte de substance par lambeau local ou régional cutané, fasciocutané ou ostéocutané, à pédicule vasculaire ou vasculonerveux anatomique, disséqué en îlot
+QZMA007	Réparation de perte de substance par lambeau local ou régional musculaire ou musculocutané, à pédicule vasculaire ou vasculonerveux anatomique, disséqué en îlot
+QZMA003	Réparation de perte de substance par lambeau à distance cutané, fasciocutané ou musculocutané, à pédicule transitoire
+QZMA009	Réparation de perte de substance par lambeau à distance cutané, fasciocutané, musculaire, musculocutané ou ostéo-musculo-cutané, à pédicule définitif
+QAMA015	Réparation de perte de substance du cuir chevelu par lambeau pédiculé
+QAMA003	Réparation de perte de substance de l extrémité céphalique par lambeau frontal à pédicule inférieur
+QAMA008	Réparation de perte de substance de l extrémité céphalique par lambeau scalpant
+QAMA005	Réparation de perte de substance de l extrémité céphalique par lambeau de fascia temporal
+QAMA004	Réparation de perte de substance de l extrémité céphalique par lambeau de fascia temporal avec autogreffe de peau
+QAMA013	Réparation de perte de substance de l extrémité céphalique par lambeau musculaire ou musculocutané
+QAMA012	Réparation de perte de substance de l extrémité céphalique par lambeau de muscle temporal avec autogreffe de peau
+QZPA008	Autonomisation d un lambeau
+QZPA004	Section du pédicule dun lambeau à distance
+QZMA006	Modelage secondaire d un lambeau
+QZMA002	Révision dun lambeau libre pour ischémie, sans réfection des anastomoses vasculaires
+QZMA010	Réfection des anastomoses vasculaires dun lambeau libre pour ischémie
+QZFA014	Dermolipectomie des membres
+QZMP002	Confection d un conformateur de pressothérapie d une cicatrice vicieuse et/ou chéloïde
+QZMP001	Couverture du lit de l ongle par reposition de la tablette ou pose de prothèse provisoire
+QZFA020	Exérèse partielle ou totale de la tablette d un ongle
+QZFA039	Exérèse partielle de l appareil unguéal
+QZFA029	Exérèse totale de l appareil unguéal
+QZFA032	Exérèse de l appareil unguéal, avec réparation par autogreffe de peau totale
+QZFA009	Exérèse de l appareil unguéal, avec réparation par lambeau pédiculé unguéomatriciel
+QZPA002	Escarrotomie de décharge sur 1 site
+QZPA001	Escarrotomie de décharge sur 2 sites
+QZPA005	Escarrotomie de décharge sur 3 sites
+QZPA007	Escarrotomie de décharge sur 4 sites
+QZPA006	Escarrotomie de décharge sur 5 sites
+QZPA003	Escarrotomie de décharge sur 6 sites
+QEFA004	Tumorectomie du sein
+QEFA001	Tumorectomie du sein avec curage lymphonodal axillaire
+QEFA017	Mastectomie partielle
+QEFA008	Mastectomie partielle avec curage lymphonodal axillaire
+QEFA016	Exérèse de conduit lactifère [Exérèse de canal galactophore] [Pyramidectomie mammaire]
+QEFA007	Mastectomie souscutanée avec exérèse de la plaque aréolomamelonnaire
+QEFA006	Exérèse de tissu mammaire ectopique ou de glande mammaire aberrante [sein surnuméraire]
+QEFA011	Exérèse unilatérale de gynécomastie
+QEFA002	Exérèse bilatérale de gynécomastie
+QEFA019	Mastectomie totale
+QEFA020	Mastectomie totale avec conservation des pectoraux et curage lymphonodal axillaire
+QEFA005	Mastectomie totale avec exérèse des pectoraux et curage lymphonodal axillaire
+QEFA010	Mastectomie totale avec curages lymphonodaux axillaire et supraclaviculaire
+QEFA003	Mastectomie totale avec curages lymphonodaux axillaire et parasternal [mammaire interne]
+QEFA012	Mastectomie totale élargie en surface, avec autogreffe cutanée
+QEFA013	Mastectomie totale élargie en surface, avec lambeau pédiculé de muscle grand dorsal ou lambeau parascapulaire
+QEFA015	Mastectomie totale élargie en surface, avec lambeau libre musculocutané
+QEFA009	Exérèse du mamelon
+QEFA014	Exérèse de mamelon surnuméraire
+QEFA018	Exérèse de la plaque aréolomamelonnaire
+DHPA001	Désobstruction de la veine cave supérieure, par thoracotomie
+LJFA002	Résection de la première côte, par abord supraclaviculaire ou par abord axillaire
+LJFA003	Résection d une côte cervicale, par abord supraclaviculaire
+LJFA004	Résection de la paroi thoracique, sans prothèse
+LJFA006	Résection d une côte
+LJFA007	Résection de la première côte et d une côte cervicale, par abord supraclaviculaire
+LJFA008	Résection de la paroi thoracique, avec prothèse
+LJFA009	Résection du sternum
+LJFA010	Exérèse partielle de côte et/ou de sternum, par abord direct
+LDFA009	Corporectomie vertébrale partielle, par cervicotomie antérieure ou antérolatérale
+LDFA012	Corporectomie vertébrale totale, par cervicotomie antérieure ou antérolatérale
+LHFA031	Exérèse totale de l arc vertébral, par abord postérieur
+LEFA004	Corporectomie vertébrale totale, par thoraco-phréno-laparotomie
+LEFA006	Corporectomie vertébrale totale, par thoracotomie
+LEFA007	Corporectomie vertébrale partielle, par thoraco-phréno-laparotomie
+LEFA010	Corporectomie vertébrale partielle, par thoracotomie
+LEFA014	Corporectomie vertébrale partielle ou totale, par thoracoscopie ou par thoracotomie avec préparation par thoracoscopie
+LFFA009	Corporectomie vertébrale partielle, par laparotomie ou par lombotomie
+LFFA013	Corporectomie vertébrale totale, par laparotomie ou par lombotomie
+LFFA014	Corporectomie vertébrale partielle ou totale, par abord direct avec préparation par c oelioscopie ou par rétropéritonéoscopie
+LHFA016	Laminectomie vertébrale sans exploration du contenu intradural, par abord postérieur ou postérolatéral
+LHFA019	Laminectomie vertébrale avec exploration du contenu intradural et plastie de la dure-mère, par abord postérieur ou postérolatéral
+LHFA024	Laminectomie vertébrale avec exploration du contenu intradural sans plastie de la dure-mère, par abord postérieur ou postérolatéral

@@ -1,0 +1,71 @@
+DIAG	LIBELLE
+B91	Séquelles de poliomyélite
+B92	Séquelles de lèpre
+B940	Séquelles du trachome
+E6600	Obésité due à un excès calorique, avec indice de masse corporelle inférieur à 40kg/m²
+E6609	Obésité due à un excès calorique, indice de masse corporelle non précisé
+E6691	Obésité, sans précision, avec indice de masse corporelle égal ou supérieur à 40 kg/m²
+F640	Transsexualisme
+F641	Travestisme bivalent
+G560	Syndrome du canal carpien
+G562	Lésion du nerf cubital
+G576	Lésion du nerf plantaire
+G579	Mononévrite du membre inférieur, sans précision
+G600	Neuropathie héréditaire motrice et sensorielle
+G64	Autres affections du système nerveux périphérique
+G700	Myasthénie
+G819	Hémiplégie, sans précision
+G820	Paraplégie flasque
+G822	Paraplégie, sans précision
+G825	Tétraplégie, sans précision
+H024	Ptosis de la paupière
+H025	Autres troubles affectant la fonction palpébrale
+H029	Affection des paupières, sans précision
+H049	Affection de l'appareil lacrymal, sans précision
+J343	Hypertrophie des cornets du nez
+K402	Hernie inguinale bilatérale, (sans occlusion ni gangrène)
+K413	Hernie crurale, (unilatérale ou) sans précision, avec occlusion, sans gangrène
+K419	Hernie crurale, (unilatérale ou) sans précision, (sans occlusion ni gangrène)
+K429	Hernie ombilicale, (sans occlusion ni gangrène)
+K439	Autres hernies de la paroi abdominale antérieure, (sans occlusion ni gangrène)
+K460	Hernie abdominale non précisée, avec occlusion, sans gangrène
+K469	Hernie abdominale non précisée, (sans occlusion ni gangrène)
+K604	Fistule rectale
+L980	Granulome pyogénique
+L988	Autres affections précisées de la peau et du tissu cellulaire sous-cutané
+L998	Autres affections précisées de la peau et du tissu cellulaire sous-cutané au cours de maladies classées ailleurs
+M653	Doigt à ressort
+M720	Fibromatose de l'aponévrose palmaire [Dupuytren]
+M966	Fracture osseuse après mise en place d'un implant, d'une prothèse articulaire ou d'une plaque d'ostéosynthèse
+N47	Hypertrophie du prépuce, phimosis et paraphimosis
+N500	Atrophie du testicule
+N508	Autres affections précisées des organes génitaux de l'homme
+N511	Affections du testicule et de l'épididyme au cours de maladies classées ailleurs
+N898	Autres affections non inflammatoires précisées du vagin
+N905	Atrophie de la vulve
+N906	Hypertrophie de la vulve
+Q057	Spina bifida lombaire, (sans hydrocéphalie)
+Q179	Malformation congénitale de l'oreille, sans précision
+Q188	Autres malformations congénitales précisées de la face et du cou
+Q688	Autres anomalies morphologiques congénitales ostéo-articulaires et des muscles précisées
+Q742	Autres malformations congénitales d'un (des) membre(s) inférieur(s), y compris la ceinture pelvienne
+Q743	Arthrogrypose congénitale multiple
+Q828	Autres malformations congénitales précisées de la peau
+Q829	Malformation congénitale de la peau, sans précision
+S6270	Fractures fermées multiples de doigts
+S647	Lésion traumatique de multiples nerfs au niveau du poignet et de la main
+S650	Lésion traumatique de l'artère cubitale au niveau du poignet et de la main
+S666	Lésion traumatique de multiples muscles et tendons fléchisseurs au niveau du poignet et de la main
+T900	Séquelles de lésion traumatique superficielle de la tête
+T908	Séquelles d'autres lésions traumatiques précisées de la tête
+T909	Séquelles de lésion traumatique de la tête, sans précision
+T919	Séquelles de lésion traumatique du cou et du tronc, sans précision
+T929	Séquelles de lésion traumatique du membre supérieur, sans précision
+T930	Séquelles de plaie ouverte du membre inférieur
+T932	Séquelles d'autres fractures du membre inférieur
+T936	Séquelles d'écrasement et d'amputation traumatiques du membre inférieur
+T939	Séquelles de lésion traumatique du membre inférieur, sans précision
+T950	Séquelles de brûlure, corrosion et gelure de la tête et du cou
+T954	Séquelles de brûlure et corrosion classées selon leur étendue sur la surface du corps
+T983	Séquelles de complications de soins chirurgicaux et médicaux, non classées ailleurs
+Z924	Antécédents personnels d'intervention chirurgicale importante, non classée ailleurs

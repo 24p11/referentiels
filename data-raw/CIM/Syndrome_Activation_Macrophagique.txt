@@ -1,0 +1,5 @@
+CODE	LIBELLE
+D760	histiocytose des cellules de Langerhans, non classée ailleurs
+D761	lymphohistiocytose hémophagocytaire
+D762	syndrome hémophagocytaire associé à une infection
+D763	autres syndromes histiocytaires

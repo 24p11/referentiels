@@ -1,0 +1,9 @@
+CODE	LIBELLE
+R578	Autres chocs
+T509	Intoxication par médicaments et substances biologiques, autres et sans précision
+T782	Choc anaphylactique, sans précision
+T805	Choc anaphylactique dû au sérum
+T886	Choc anaphylactique dû à des effets indésirables d'une substance médicamenteuse appropriée et correctement administrée
+T887	Effet indésirable d'un médicament, sans précision
+Y492	Effets indésirables des antidépresseurs, autres et sans précision au cours de leur usage thérapeutique
+Y575	Effets indésirables d'un produit de contraste utilisé en radiologie au cours de son usage thérapeutique

@@ -1,0 +1,12 @@
+ACTE	LIBELLE
+KCGA001	Énucléation de nodule de la glande thyroïde, par cervicotomie
+KCFA004	Isthmectomie de la glande thyroïde, par cervicotomie
+KCFA001	Lobectomie unilatérale de la glande thyroïde, par cervicotomie
+KCFA008	Lobo-isthmectomie unilatérale de la glande thyroïde, par cervicotomie
+KCFA010	Thyroïdectomie subtotale, par cervicotomie
+KCFA009	Thyroïdectomie subtotale, par cervicothoracotomie
+KCFA005	Thyroïdectomie totale, par cervicotomie
+KCFA007	Thyroïdectomie totale, par cervicothoracotomie
+KCFA002	Thyroïdectomie totale avec résection partielle de cartilage du larynx, par cervicotomie
+KCFA003	Thyroïdectomie totale avec résection non interruptrice de la trachée, par cervicotomie
+KCFA006	Thyroïdectomie totale avec résection interruptrice et anastomose de la trachée, par cervicotomie

@@ -1,0 +1,54 @@
+CODE	LIBELLE
+C480	Tumeur maligne du rétropéritoine
+C600	Tumeur maligne du prépuce
+C601	Tumeur maligne du gland
+C602	Tumeur maligne du corps de la verge
+C608	Tumeur maligne à localisations contiguës de la verge
+C609	Tumeur maligne de la verge, sans précision
+C61	Tumeur maligne de la prostate
+C620	Tumeur maligne du testicule ectopique
+C621	Tumeur maligne du testicule descendu
+C629	Tumeur maligne d un testicule, sans précision
+C630	Tumeur maligne de l épididyme
+C631	Tumeur maligne du cordon spermatique
+C632	Tumeur maligne du scrotum
+C637	Tumeur maligne d autres organes génitaux de l homme précisés
+C638	Tumeur maligne à localisations contiguës des organes génitaux de l homme
+C64	Tumeur maligne du rein, à l exception du bassinet
+C65	Tumeur maligne du bassinet
+C66	Tumeur maligne de l uretère
+C670	Tumeur maligne du trigone de la vessie
+C671	Tumeur maligne du dôme de la vessie
+C672	Tumeur maligne de la paroi latérale de la vessie
+C673	Tumeur maligne de la paroi antérieure de la vessie
+C674	Tumeur maligne de la paroi postérieure de la vessie
+C675	Tumeur maligne du col vésical
+C676	Tumeur maligne de l orifice urétéral
+C677	Tumeur maligne de l ouraque
+C678	Tumeur maligne à localisations contiguës de la vessie
+C679	Tumeur maligne de la vessie, sans précision
+C680	Tumeur maligne de l urètre
+C681	Tumeur maligne de la glande urétale
+C688	Tumeur maligne à localisations contiguës des organes urinaires
+C740	Tumeur maligne du cortex de la surrénale
+C741	Tumeur maligne de la médullosurrénale
+C749	Tumeur maligne de la surrénale, sans précision
+C790	Tumeur maligne secondaire du rein et du bassinet
+C791	Tumeur maligne secondaire de la vessie et des organes urinaires, autres et non précisés
+C797	Tumeur maligne secondaire de la glande surrénale
+D074	Carcinome in situ de la verge
+D075	Carcinome in situ de la prostate
+D090	Carcinome in situ de la vessie
+D400	Tumeur à évolution imprévisible ou inconnue de la prostate
+D401	Tumeur à évolution imprévisible ou inconnue du testicule
+D407	Tumeur à évolution imprévisible ou inconnue d autres organes génitaux de l homme
+D409	Tumeur à évolution imprévisible ou inconnue d un organe génital de l homme, sans précision
+D410	Tumeur à évolution imprévisible ou inconnue du rein
+D411	Tumeur à évolution imprévisible ou inconnue du bassinet
+D412	 Tumeur à évolution imprévisible ou inconnue du l uretère
+D413	Tumeur à évolution imprévisible ou inconnue de l urètre
+D414	Tumeur à évolution imprévisible ou inconnue de la vessie
+D417	Tumeur à évolution imprévisible ou inconnue d autres organes urinaires
+D441	Tumeur à évolution imprévisible ou inconnue de la surrénale
+D483	Tumeur à évolution imprévisible ou inconnue du rétropéritoine
+D4838	Autres tumeurs à évolution imprévisible ou inconnue du rétropéritoine

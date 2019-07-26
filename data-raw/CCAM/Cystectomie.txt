@@ -1,0 +1,15 @@
+ACTE	LIBELLE
+JDFC023	Cystectomie partielle, par colioscopie
+JDFA011	Cystectomie partielle, par laparotomie
+JDFA014	Cystectomie partielle avec implantation de matériel pour irradiation interstitielle de la vessie, par laparotomie
+JDFA017	Cystectomie partielle avec réimplantation urétérovésicale, par laparotomie
+JDFA004	Cystectomie supratrigonale avec entérocystoplastie détubulée dagrandissement, par laparotomie
+JDFA015	Cystectomie supratrigonale avec entérocystoplastie détubulée dagrandissement et réimplantation urétérovésicale, par laparotomie
+JDFA005	Cystectomie totale, par laparotomie
+JDFA001	Cystectomie totale avec urétérostomie cutanée, par laparotomie
+JDFA008	Cystectomie totale avec urétérostomie cutanée transintestinale par anse non détubulée, par laparotomie
+JDFA003	Cystectomie totale avec urétérostomie cutanée transintestinale par anse détubulée continente, par laparotomie
+JDFA009	Cystectomie totale avec anastomose urétérocolique directe, par laparotomie
+JDFA006	Cystectomie totale avec anastomose urétérocolique et confection dun réservoir détubulé rectosigmoïdien ou iléo-recto-sigmoïdien, par laparotomie
+JDFA016	Cystectomie totale avec entérocystoplastie de remplacement [néovessie] orthotopique par anse détubulée, par laparotomie
+

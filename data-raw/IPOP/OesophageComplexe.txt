@@ -1,0 +1,9 @@
+TYPE
+Coloplastie aprés oesophagectomie pour lésion caustique
+Coloplastie après oesophagectomie pour lésion caustique
+oeso-cardio-myotomie extramuqueuse, coelioscopie
+OEso-cardio-myotomie extramuqueuse, coelioscopie
+oeso-cardio-myotomie extramuqueuse, laparotomie
+oeso-cardio-myotomie extramuqueuse, thoracotomie
+
+

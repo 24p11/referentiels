@@ -1,0 +1,15 @@
+CODE	LIBELLE
+D106	Sonde d'entraînement électrosystolique : mise en place ou surveillance
+D111	Utilisation de drogues vasoactives
+D112	Utilisation de fibrinolytiques 
+D110	Drains thoraciques/péricardiques : mise en place ou surveillance
+D108 Contrepulsion aortique : mise en place ou surveillance 
+D110	Traitement d'un arrêt circulatoire
+D113	Perfusion de dérivés sanguins, volume supérieur à une demi-masse sanguine en 24 h (pour le nouveau-né : volume supérieur à 40 ml/kg)
+D154	Oxygénothérapie hyperbare dans le service 
+D127 Monitorage de la pression intracrânienne 
+D150	Épuration extrarénale séquentielle ou épuration extracorporelle séquentielle	
+D172 Dialyse péritonéale continue ou hémofiltration continue 
+D151	Plasmaphérèse (pour le nouveau-né : exsanguino-transfusion) 
+D170	Ventilation spontanée avec P.E.P. et C.P.A.P. 
+D171	Ventilation mécanique

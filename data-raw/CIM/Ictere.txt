@@ -1,0 +1,20 @@
+CODE	LIBELLE
+P550	Ictère nouveau-né associé à, dû à incompatibilité foetomaternelle Rh
+P551	Ictère nouveau-né associé à, dû à incompatibilité foetomaternelle ABO
+P570	Ictère nucléaire dû à une iso-immunisation
+P579	Ictère nucléaire, sans précision
+P58	Ictère néonatal dû à d'autres hémolyses excessives
+P580	Ictère néonatal dû à des contusions
+P581	Ictère néonatal dû à un saignement
+P582	Ictère néonatal dû à une infection
+P583	Ictère néonatal dû à une polycythémie
+P584	Ictère néonatal dû à des médicaments ou des toxines transmis par la mère ou administrés au nouveau-né
+P585	Ictère néonatal dû à une déglutition de sang maternel
+P588	Ictère néonatal dû à d'autres hémolyses excessives précisées
+P589	Ictère néonatal dû à une hémolyse excessive, sans précision
+P59	Ictère néonatal dû à des causes autres et sans précision
+P590	Ictère néonatal associé à un accouchement avant terme
+P592	Ictère néonatal dû à des lésions hépatocellulaires, autres et sans précision
+P593	Ictère néonatal dû à des inhibiteurs de la lactation
+P598	Ictère néonatal dû à d'autres causes précisées
+P599	Ictère néonatal, sans précision

@@ -1,0 +1,7 @@
+ACTE	LIBELLE
+ZZNL015	Curiethérapie interstitielle profonde à débit de dose pulsé, avec dosimétrie bidimensionnelle après acquisition des données anatomiques par clichés radiographiques de repérage spatial
+JLNL002	Curiethérapie intracavitaire vaginale à haut débit de dose avec dosimétrie bidimensionnelle 
+ZZNL002	Curiethérapie interstitielle superficielle à débit de dose pulsé, avec dosimétrie bidimensionnelle après acquisition des données anatomiques par clichés radiographiques de repérage spatial 
+ZZNL019	Curiethérapie intraluminale à haut débit de dose
+ZZNL001	Curiethérapie interstitielle superficielle à bas débit de dose sans projecteur de source, avec dosimétrie dans un plan
+ZZNL006	Curiethérapie interstitielle superficielle à bas débit de dose sans projecteur de source, avec dosimétrie bidimensionnelle après acquisition des données anatomiques par clichés radiographiques de repérage spatial 

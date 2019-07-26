@@ -1,0 +1,47 @@
+DIAG	LIBELLE
+B338	Autres maladies à virus précisées
+D360	Tumeur bénigne des ganglions lymphatiques
+D591	Autres anémies hémolytiques auto-immunes
+D593	Syndrome hémolytique urémique
+D630	Anémie au cours de maladies tumorales (C00-D48)
+D638	Anémie au cours d'autres maladies chroniques classées ailleurs
+D648	Autres anémies précisées
+D649	Anémie, sans précision
+D693	Purpura thrombopénique idiopathique
+D763	Autres syndromes histiocytaires
+D819	Déficit immunitaire combiné, sans précision
+D839	Déficit immunitaire commun variable, sans précision
+D841	Déficit du complément
+D849	Déficit immunitaire, sans précision
+D860	Sarcoïdose du poumon
+D862	Sarcoïdose du poumon avec sarcoïdose des ganglions lymphatiques
+D868	Sarcoïdose de localisations autres et associées
+D891	Cryoglobulinémie
+E853	Amylose généralisée secondaire
+E854	Amylose limitée à un ou plusieurs organe(s)
+E859	Amylose, sans précision
+G600	Neuropathie héréditaire motrice et sensorielle
+G609	Neuropathie héréditaire et idiopathique, sans précision
+G618	Autres polynévrites inflammatoires
+G629	Polynévrite, sans précision
+J679	Pneumopathie par hypersensibilité aux poussières organiques, sans précision
+J841	Autres affections pulmonaires interstitielles avec fibrose
+J848	Autres affections pulmonaires interstitielles précisées
+J849	Affection pulmonaire interstitielle, sans précision
+J991	Troubles respiratoires au cours d'autres affections disséminées du tissu conjonctif
+K509	Maladie de Crohn, sans précision
+K519	Recto-colite hémorragique, sans précision
+L100	Pemphigus vulgaire
+L109	Pemphigus, sans précision
+L120	Pemphigoïde bulleux
+L984	Ulcérations chroniques de la peau, non classées ailleurs
+M301	Périartérite avec atteinte pulmonaire [Churg-Strauss]
+M311	Microangiopathie thrombotique
+M313	Granulomatose de Wegener
+M321	Lupus érythémateux disséminé avec atteinte d'organes et d'appareils
+M329	Lupus érythémateux disséminé, sans précision
+M350	Syndrome de Gougerot-Sjögren
+M351	Autres formes de passage des atteintes systémiques du tissu conjonctif
+M6099	Myosite, sans précision - Siège non précisé
+R591	Adénopathies généralisées
+

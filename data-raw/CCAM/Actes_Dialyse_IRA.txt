@@ -1,0 +1,6 @@
+CODE	LIBELLE
+JVJF002	Épuration extrarénale par hémodialyse, hémodiafiltration ou hémofiltration discontinue pour insuffisance rénale aigüe, par 24 heures
+JVJF005	Épuration extrarénale par hémodialyse, hémodiafiltration ou hémofiltration continue pour insuffisance rénale aigüe, par 24 heures
+JVJB002	Épuration extrarénale par dialyse péritonéale pour insuffisance rénale aigüe, par 24 heures
+JVJF006	Épuration extrarénale par hémodialyse ou hémofiltration discontinue pour insuffisance rénale aigüe chez le nouveau-né, par 24 heures
+JVJF007	Épuration extrarénale par hémodialyse ou hémofiltration continue pour insuffisance rénale aigüe chez le nouveau-né, par 24 heures

@@ -1,0 +1,60 @@
+ACTE	LIBELLE
+HPMA002	Reparation de perte de substance par lambeau libre de grand omentum [epiploon], avec anastomoses vasculaires
+HPMA003	Reparation de perte de substance par lambeau pedicule de grand omentum [epiploon], en situation extraabdominale
+PZMA004	Reparation par lambeau libre cutane, fascial, fasciocutane ou souscutane, musculaire, musculocutane, musculotendineux ou osseux avec anastomoses vasculaires
+PZMA005	Reparation par lambeau libre osteocutane, osteomusculaire ou osteo-musculo-cutane, avec anastomoses vasculaires
+QAEA002	Greffe cutanee pour brulure de l'extremite cephalique, sur moins de 1% de la surface corporelle
+QAEA003	Greffe cutanee pour brulure de l'extremite cephalique, sur plus de 12,5% de la surface corporelle
+QAEA004	Greffe cutanee pour brulure de l'extremite cephalique, sur 10% a 12,5% de la surface corporelle
+QAEA006	Greffe cutanee pour brulure de l'extremite cephalique, sur 3% a 4% de la surface corporelle
+QAEA008	Greffe cutanee pour brulure de l'extremite cephalique, sur 4% a 5% de la surface corporelle
+QAEA009	Greffe cutanee pour brulure de l'extremite cephalique, sur 5% a 7,5% de la surface corporelle
+QAEA010	Greffe cutanee pour brulure de l'extremite cephalique, sur 1% a 2% de la surface corporelle
+QAEA011	Greffe cutanee pour brulure de l'extremite cephalique, sur 2% a 3% de la surface corporelle
+QAEA012	Greffe cutanee pour brulure de l'extremite cephalique, sur 7,5% a 10% de la surface corporelle
+QAEA014	Microgreffes de peau totale sur 6 cicatrices du visage, ou plus
+QAEA015	Microgreffes de peau totale sur 1 a 5 cicatrices du visage
+QAMA002	Reparation de perte de substance de l'extremite cephalique par lambeau local ou regional muqueux, cutane ou fasciocutane, a pedicule vasculonerveux non individualise ou non individualisable [lambeau "au hasard"]
+QAMA003	Reparation de perte de substance de l'extremite cephalique par lambeau frontal a pedicule inferieur
+QAMA004	Reparation de perte de substance de l'extremite cephalique par lambeau de fascia temporal avec autogreffe de peau
+QAMA005	Reparation de perte de substance de l'extremite cephalique par lambeau de fascia temporal
+QAMA008	Reparation de perte de substance de l'extremite cephalique par lambeau scalpant
+QAMA012	Reparation de perte de substance de l'extremite cephalique par lambeau de muscle temporal avec autogreffe de peau
+QAMA013	Reparation de perte de substance de l'extremite cephalique par lambeau musculaire ou musculocutane
+QAMA015	Reparation de perte de substance du cuir chevelu par lambeau pedicule
+QCEA001	Greffe cutanee pour brulure des deux mains, sur 2,5% a 3,75% de la surface corporelle
+QCEA002	Greffe cutanee pour brulure des deux mains, sur moins de 1,25% de la surface corporelle
+QCEA003	Greffe cutanee pour brulure des deux mains, sur plus de 3,75% de la surface corporelle
+QCEA004	Greffe cutanee pour brulure des deux mains, sur 1,25% a 2,5% de la surface corporelle
+QCEA005	Greffe cutanee pour brulure d'une main, sur moins de 1,25% de la surface corporelle
+QCEA006	Greffe cutanee pour brulure d'une main, sur plus de 1,25% de la surface corporelle
+QZEA001	Greffe cutanee en sandwich, sur plus de 20% de la surface corporelle
+QZEA002	Greffe cutanee pour brulure en dehors de l'extremite cephalique et des mains, sur 15% a 17,5% de la surface corporelle
+QZEA003	Greffe de culture de keratinocytes autologues pour brulure, sur 30% a 40% de la surface corporelle
+QZEA004	Greffe cutanee en sandwich, sur 5% a 7,5% de la surface corporelle
+QZEA005	Autogreffe de peau mince ou demiepaisse, pleine ou en filet, sur une surface de 500 cm2 a 1000 cm2
+QZEA006	Autogreffe de peau totale sur plus d'une localisation
+QZEA010	Greffe cutanée pour brûlure en dehors de l'extrémité céphalique et des mains, sur plus de 20% de la surface corporelle
+QZEA011	Greffe cutanée pour brûlure en dehors de l'extrémité céphalique et des mains, sur 10% à 12,5% de la surface corporelle
+QZEA012	Greffe cutanée pour brûlure en dehors de l'extrémité céphalique et des mains, sur 12,5% à 15% de la surface corporelle
+QZEA013	Greffe cutanée en sandwich, sur 7,5% à 10% de la surface corporelle
+QZEA014	Greffe cutanée en sandwich, sur 12,5% à 15% de la surface corporelle
+QZEA016	Greffe de culture de kératinocytes autologues pour brûlure, sur 40% à 50% de la surface corporelle
+QZEA017	Greffe cutanée pour brûlure en dehors de l'extrémité céphalique et des mains, sur 7,5% à 10% de la surface corporelle
+QZEA020	Autogreffe de peau mince ou demiépaisse, pleine ou en filet, sur une surface inférieure à 50 cm2
+QZEA021	Greffe cutanée pour brûlure en dehors de l'extrémité céphalique et des mains, sur moins de 2,5% de la surface corporelle
+QZEA022	Greffe de culture de kératinocytes autologues pour brûlure, sur 20% à 30% de la surface corporelle
+QZEA023	Greffe de culture de kératinocytes autologues pour brûlure, sur moins de 10% de la surface corporelle
+QZEA024	Autogreffe de peau totale sur une localisation de surface égale ou supérieure à 10 cm2
+QZEA025	Greffe cutanée pour brûlure en dehors de l'extrémité céphalique et des mains, sur 17,5% à 20% de la surface corporelle
+QZEA026	Autogreffe de peau en pastilles sur une surface supérieure à 50 cm2
+QZEA027	Autogreffe de peau mince ou demiépaisse, pleine ou en filet, sur une surface de 200 cm2 à 500 cm2
+QZEA029	Greffe cutanée en sandwich, sur 2,5% à 5% de la surface corporelle
+QZEA030	Greffe cutanée en sandwich, sur 17,5% à 20% de la surface corporelle
+QZEA033	Greffe de culture de kératinocytes autologues pour brûlure, sur plus de 50% de la surface corporelle
+QZEA037	Greffe cutanée pour brûlure en dehors de l'extrémité céphalique et des mains, sur 2,5% à 5% de la surface corporelle
+QZEA038	Greffe cutanée en sandwich, sur moins de 2,5% de la surface corporelle
+QZEA040	Greffe cutanée en sandwich, sur 15% à 17,5% de la surface corporelle
+QZEA041	Greffe cutanée pour brûlure en dehors de l'extrémité céphalique et des mains, sur 5% à 7,5% de la surface corporelle
+QZEA042	Greffe de culture de kératinocytes autologues pour brûlure, sur 10% à 20% de la surface corporelle
+QZEA043	Greffe cutanée en sandwich, sur 10% à 12,5% de la surface corporelle

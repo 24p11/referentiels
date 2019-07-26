@@ -1,0 +1,19 @@
+CODE	LIBELLE
+I80	phlébite et thrombophlébite
+I800	phlébite et thrombophlébite des veines superficielles des membres inférieurs
+I801	phlébite et thrombophlébite de la veine fémorale
+I802	phlébite et thrombophlébite d'autres vaisseaux profonds des membres inférieurs
+I803	phlébite et thrombophlébite des membres inférieurs, sans précision
+I808	phlébite et thrombophlébite d'autres localisations
+I809	phlébite et thrombophlébite de localisation non précisée
+I81	thrombose de la veine porte
+I82	autres embolies et thromboses veineuses
+I820	syndrome de Budd-Chiari
+I821	thrombophlébite migratrice
+I822	embolie et thrombose de la veine cave
+I823	embolie et thrombose de la veine rénale
+I828	embolie et thrombose d'autres veines précisées
+I829	embolie et thrombose d'une veine non précisée
+I26	embolie pulmonaire
+I260	embolie pulmonaire, avec mention de coeur pulmonaire aigu
+I269	embolie pulmonaire, sans mention de coeur pulmonaire aigu

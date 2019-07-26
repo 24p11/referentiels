@@ -1,0 +1,13 @@
+ACTE	LIBELLE
+NFKA001	Changement d'une prothèse tricompartimentaire du genou, sans reconstruction osseuse
+NFKA002	Changement d'une prothèse tricompartimentaire du genou, avec reconstruction osseuse
+NFKA003	Changement d'une prothèse unicompartimentaire du genou
+NFKA004	Changement de l'insert d’une prothèse unicompartimentaire ou tricompartimentaire du genou
+NFKA005	Changement d'une prothèse unicompartimentaire du genou pour une prothèse tricompartimentaire
+NFKA006	Remplacement de l'articulation du genou par prothèse unicompartimentaire fémorotibiale ou fémoropatellaire
+NFKA007	Remplacement de l'articulation du genou par prothèse tricompartimentaire sur une déformation inférieure ou égale à 10° dans le plan frontal
+NFKA008	Remplacement de l'articulation du genou par prothèse tricompartimentaire sur une déformation supérieure à 10° dans le plan frontal
+NFKA009	Remplacement de l'articulation du genou par prothèse à charnière fixe ou rotatoire
+NFLA001	Repose d'une prothèse articulaire du genou, avec reconstruction osseuse
+NFLA002	Repose d'une prothèse articulaire du genou, sans reconstruction osseuse
+NFMA006	Reconstruction de l'articulation du genou par prothèse massive ou sur mesure, après perte de substance segmentaire

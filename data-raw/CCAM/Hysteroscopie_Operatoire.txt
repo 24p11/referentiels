@@ -1,0 +1,8 @@
+ACTE	LIBELLE
+JKFE001	Exérèse de polype de l'utérus, par hystéroscopie
+JKFE002	Résection de myome de l'utérus, par hystéroscopie
+JKNE001	Abrasion de la muqueuse de l'utérus [Endométrectomie], par hystéroscopie
+JKPE001	Section ou résection de cloison utérine, par hystéroscopie
+JKPE002	Section et/ou destruction de synéchies de l'utérus, par hystéroscopie
+JKPJ001	Section et/ou destruction de synéchies de l'utérus, par hystéroscopie avec guidage échographique
+JJPE001	Interruption unilatérale ou bilatérale de la perméabilité des trompes utérines par insertion de dispositif intratubaire, par hystéroscopie

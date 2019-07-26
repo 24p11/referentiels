@@ -1,0 +1,7 @@
+CODE	LIBELLE
+N17	Insuffisance rénale aiguë
+N170	Insuffisance rénale aiguë avec nécrose tubulaire
+N171	Insuffisance rénale aiguë avec nécrose corticale aiguë
+N172	Insuffisance rénale aiguë avec nécrose médullaire
+N178	Autres insuffisances rénales aiguës
+N179	Insuffisance rénale aiguë, sans précision

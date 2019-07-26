@@ -1,0 +1,10 @@
+ACTE	LIBELLE
+GLLD002	Ventilation mécanique discontinue au masque facial ou par embout buccal pour kinésithérapie, par 24 heures
+GLLD012	Ventilation mécanique continue au masque facial pour suppléance ventilatoire, par 24 heures
+GLLD015	Ventilation mécanique intratrachéale avec pression expiratoire positive [PEP] inférieure ou égale à 6 et FiO2 inférieure ou égale à 60%, par 24 heures
+GLLD008	Ventilation mécanique intratrachéale avec pression expiratoire positive [PEP] supérieure à 6 et/ou FiO2 supérieure à 60%, par 24 heures
+GLLD004	Ventilation mécanique intratrachéale avec pression expiratoire positive [PEP] supérieure à 6 et/ou FiO2 supérieure à 60%, avec technique de décubitus ventral alterné par 24 heures
+GLLD007	Ventilation mécanique à poumons séparés, par 24 heures
+GLLD009	Ventilation par oscillations à haute fréquence, par 24 heures
+GLLD019	Ventilation barométrique ou volumétrique non effractive au masque facial pendant au moins 2 heures cumulées au cours des 12 heures, pour insuffisance respiratoire aigüe
+GLLD003	Ventilation spontanée au masque facial, par canule nasale ou par sonde nasopharyngée, sans aide inspiratoire, avec pression expiratoire positive [VS-PEP] [Continuous positive airway pressure] [CPAP], par 24 heures

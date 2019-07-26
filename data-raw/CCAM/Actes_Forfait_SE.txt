@@ -1,0 +1,97 @@
+ACTE	LIBELLE	TYPE
+BBCE001	Dacryo-cysto-rhinostomie [DCR], par endoscopie nasale.	SE1
+DZQJ001	Echographie-doppler du cœur et des vaisseaux intrathoraciques, par voie œsophagienne [échocardiographie-doppler transœsophagienne].	SE1
+DZQJ008	Echographie-doppler transthoracique et échographie-doppler par voie œsophagienne du cœur et des vaisseaux intrathoraciques.	SE1
+DZQJ010	Echographie-doppler transthoracique et échographie-doppler par voie œsophagienne du cœur et des vaisseaux intrathoraciques,avec injection intraveineuse de produit de contraste ultrasonore ne franchissant pas le poumon.	SE1
+DZQJ011	Echographie-doppler du cœur et des vaisseaux intrathoraciques par voie œsophagienne, avec injection intraveineuse de produit de contraste ultrasonore ne franchissant pas le poumon.	SE1
+GBQA002	Sinusoscopie maxillaire, par voie méatale inférieure et/ou par abord de la fosse canine [abord vestibulaire].	SE1
+GDQE004	Fibroscopie du larynx et de la trachée.	SE1
+GEQE002	Fibroscopie bronchique, avec prélèvement lymphonodal à l’aiguille par voie transbronchique.	SE1
+GEQE004	Fibroscopie bronchique, avec lavage bronchioloalvéolaire à visée diagnostique.	SE1
+GEQE006	Fibroscopie bronchique, avec biopsie pulmonaire par voie transbronchique sans guidage.	SE1
+GEQE007	Fibroscopie bronchique.	SE1
+GEQE009	Fibroscopie bronchique avec lavage bronchioloalvéolaire à visée diagnostique, chez un patient intubé ou trachéotomisé.	SE1
+GEQE010	Fibroscopie trachéobronchique avec photodétection de lésion par autofluorescence sans laser.	SE1
+GEQH002	Fibroscopie bronchique, avec biopsie pulmonaire par voie transbronchique avec guidage radiologique.	SE1
+HEGE001	Ablation de corps étranger de l’œsophage, par endoscopie rigide.	SE1
+HEGE002	Ablation de corps étranger de l’œsophage, de l’estomac et/ou du duodénum, par œso-gastro-duodénoscopie.	SE1
+HEQE001	Oeophagoscopie au tube rigide.	SE1
+HEQE002	Endoscopie œso-gastro-duodénale.	SE1
+HEQE003	Endoscopie œso-gastro-duodénale avec test à l’uréase, avant l’âge de 6 ans.	SE1
+HEQE005	Endoscopie œso-gastro-duodénale avec test à l’uréase, après l’âge de 6 ans.	SE1
+HGNE001	Séance de destruction de lésion du duodénum, par œso-gastro-duodénoscopie.	SE1
+HGQE002	Duodénoscopie par appareil à vision latérale.	SE1
+HJQE001	Rectosigmoïdoscopie.	SE1
+HMQH007	Cholangiographie rétrograde, par œso-gastro-duodénoscopie.	SE1
+JCGE003	Ablation unilatérale ou bilatérale d’une sonde urétérale, par endoscopie rétrograde.	SE1
+JCGE004	Ablation d’une endoprothèse urétérale, par endoscopie rétrograde.	SE1
+JDQE001	Fibroscopie urétrovésicale.	SE1
+JDQE002	Exploration endoscopique d’une néovessie intestinale.	SE1
+JDQE003	Urétrocystoscopie à l’endoscope rigide.	SE1
+JEGE001	Ablation de corps étranger de l’urètre, par urétroscopie.	SE1
+JEHE002	Biopsie de l’urètre à la pince, par endoscopie.	SE1
+AELB002	Implantation d’électrode de stimulation de la moelle épinière à visée thérapeutique, par voie transcutanée.	SE2
+AHHA001	Biopsie de nerf périphérique, par abord direct.	SE2
+AHHA002	Biopsie neuromusculaire, par abord direct.	SE2
+BAGA001	Ablation secondaire de corps étranger de la paupière.	SE2
+BBGA001	Ablation de corps étranger des voies lacrymales, par abord direct.	SE2
+BDCA003	Suture d’une plaie linéaire non transfixiante de la cornée.	SE2
+BEJB001	Evacuation de collection de la chambre antérieure de l’œil, par voie transsclérale ou par voie transcornéenne avec irrigation-aspiration automatisée.	SE2
+BEJB002	Evacuation de collection de la chambre antérieure de l’œil, par voie transsclérale ou par voie transcornéenne sans irrigation-aspiration automatisée.	SE2
+BELB001	Injection de substance inerte ou organique dans la chambre antérieure de l’œil, par voie transcornéenne [reformation de la chambre antérieure].	SE2
+BEPA001	Libération de synéchies et/ou de brides du segment antérieur de l’œil, par kératotomie.	SE2
+BGHA001	Biopsie rétinochoroïdienne.	SE2
+BGJB001	Evacuation de collection de la choroïde, par voie transsclérale.	SE2
+BGLB001	Injection d’agent pharmacologique dans le corps vitré.	SE2
+BGLB002	Injection de gaz dans le corps vitré.	SE2
+BKLB001	Injection thérapeutique intraorbitaire, rétrobulbaire ou latérobulbaire, d’agent pharmacologique.	SE2
+CAEA002	Repositionnement de tout ou partie de l’auricule, sans anastomose vasculaire.	SE2
+CAFA006	Excision de chondrite de l’auricule.	SE2
+CBLD001	Pose bilatérale d’aérateur transtympanique.	SE2
+CBLD003	Pose unilatérale d’aérateur transtympanique.	SE2
+EBGA001	Ablation d’un système diffuseur implanté et du cathéter relié à une veine profonde du membre supérieur ou du cou.	SE2
+EBHA001	Biopsie unilatérale ou bilatérale de l’artère temporale superficielle, par abord direct.	SE2
+EBNE002	Coagulation unilatérale de l’artère sphénopalatine, par endoscopie nasale.	SE2
+EGFA007	Excision d’une thrombose hémorroïdaire.	SE2
+FCFA012	Exérèse de nœud [ganglion] lymphatique du cou à visée diagnostique, par cervicotomie.	SE2
+FCFA028	Exérèse de nœud [ganglion] lymphatique du cou à visée thérapeutique, par cervicotomie.	SE2
+GBJD002	Evacuation de collection du sinus maxillaire, par voie méatale inférieure.	SE2
+JAHB001	Biopsie du rein, par voie transcutanée sans guidage.	SE2
+JAHJ002	Ponction de kyste du rein, par voie transcutanée avec guidage échographique.	SE2
+JAHJ006	Biopsie du rein sur une cible, par voie transcutanée avec guidage échographique.	SE2
+JAKD001	Changement d’une sonde de néphrostomie ou de pyélostomie.	SE2
+JCKD001	Changement d’une sonde d’urétérostomie cutanée.	SE2
+JDLF001	Pose d’un cathéter intravésical, par voie transcutanée suprapubienne.	SE2
+JHSB001	Ligature, section ou résection unilatérale ou bilatérale du conduit déférent, par voie transcutanée	SE2
+LHNH001	Thermocoagulation de facettes articulaires de vertèbre, par voie transcutanée avec guidage radiologique.	SE2
+MDGB001	Ablation de matériel d’ostéosynthèse enfoui de la main, par voie transcutanée sans guidage.	SE2
+MHDB001	Arthrorise temporaire d’une articulation métacarpophalangienne ou interphalangienne d’un doigt par broche, par voie trans-cutanée.	SE2
+NJAB001	Allongement du tendon calcanéen [d’Achille], par voie transcutanée.	SE2
+NJMB001	Réparation d’une rupture du tendon calcanéen [d’Achille], par voie transcutanée.	SE2
+PAGB002	Ablation de matériel d’ostéosynthèse enfoui, par voie transcutanée sans guidage.	SE2
+PAGH001	Ablation de matériel d’ostéosynthèse enfoui, par voie transcutanée avec guidage radiologique.	SE2
+PDFA001	Exérèse de lésion fasciale et/ou sousfasciale des tissus mous, sans dissection d’un gros tronc vasculaire ou nerveux.	SE2
+QAGA004	Ablation d’un corps étranger profond des tissus mous du visage ou des mains.	SE2
+QZFA001	Exérèse de 2 à 5 lésions souscutanées susfasciales de moins de 3 cm de grand axe.	SE2
+QZFA002	Exérèse d’une lésion souscutanée susfasciale de moins de 3 cm de grand axe.	SE2
+QZFA005	Exérèse de 6 lésions souscutanées susfasciales ou plus de moins de 3 cm de grand axe.	SE2
+QZFA007	Exérèse de lésion souscutanée susfasciale de 3 cm à 10 cm de grand axe.	SE2
+QZGA003	Ablation d’un corps étranger profond des tissus mous, en dehors du visage et des mains.	SE2
+QZGA006	Ablation de plusieurs corps étrangers profonds de la peau et des tissus mous, en dehors du visage et des mains.	SE2
+AGLB001	Injection péridurale [épidurale] d’agent pharmacologique à visée antalgique, avec évaluation diagnostique et pronostique.	SE3
+AHLB003	Infiltration thérapeutique unilatérale ou bilatérale du nerf grand occipital [grand nerf occipital d’Arnold].	SE3
+AHLB015	Infiltration thérapeutique de nerf de la paroi du tronc, sans stimulodétection.	SE3
+AHLB016	Infiltration thérapeutique du plexus brachial.	SE3
+AHLH014	Infiltration thérapeutique de nerf spinal à l’émergence rachidienne, avec guidage radiologique.	SE3
+GGHB002	Biopsie de la plèvre, par voie transcutanée sans guidage.	SE3
+GGJB001	Drainage d’un épanchement de la cavité pleurale, par voie transcutanée sans guidage.	SE3
+GGJB002	Evacuation d’un épanchement de la cavité pleurale, par voie transcutanée sans guidage.	SE3
+HPJB001	Evacuation d’un épanchement intrapéritonéal, par voie transcutanée.	SE3
+JGHB001	Ponction-cytoaspiration de la prostate, par voie transrectale ou transpérinéale.	SE3
+JGHB002	Biopsie de la prostate, par voie transpérinéale avec guidage au doigt.	SE3
+JGHD001	Biopsie de la prostate, par voie transrectale avec guidage au doigt.	SE3
+JGHJ001	Biopsie de la prostate, par voie transrectale avec guidage échographique.	SE3
+JGHJ002	Biopsie de la prostate, par voie transpérinéale avec guidage échographique.	SE3
+JPHJ001	Amniocentèse sur plusieurs sacs amniotiques, avec guidage échographique.	SE3
+JPHJ002	Amniocentèse sur un sac amniotique unique, avec guidage échographique.	SE3
+FEJF003	Saignée thérapeutique	SE4

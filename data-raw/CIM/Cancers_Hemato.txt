@@ -1,0 +1,116 @@
+CODE	LIBELLE
+(C81-C96)	tumeurs malignes primitives ou présumées primitives des tissus lymphoïde, hématopoïétique et apparentés
+C81	maladie de Hodgkin
+C810	prédominance lymphocytaire
+C811	sclérose nodulaire
+C812	cellulaire mixte
+C813	déplétion lymphocytaire
+C817	autres formes de la maladie de Hodgkin
+C819	maladie de Hodgkin, sans précision
+C82	lymphome folliculaire [nodulaire] non hodgkinien
+C820	petites cellules encochées folliculaires
+C821	mélange de petites cellules encochées et de grandes cellules folliculaires
+C822	grandes cellules, folliculaires
+C827	autres formes de lymphome non hodgkinien, folliculaire
+C829	lymphome folliculaire non hodgkinien, sans précision
+C83	lymphome diffus non hodgkinien
+C830	petites cellules (diffus)
+C831	petites cellules encochées (diffus)
+C832	mélange de petites et grandes cellules (diffus)
+C833	grandes cellules (diffus)
+C834	immunoblastique (diffus)
+C835	lymphoblastique (diffus)
+C836	indifférencié (diffus)
+C837	tumeur de Burkitt
+C838	autres formes de lymphome diffus non hodgkinien
+C839	lymphome diffus non hodgkinien, sans précision
+C84	lymphomes périphériques et cutanés à cellules T
+C840	mycosis fongoïde
+C841	réticulose de Sézary
+C842	lymphome de la zone T
+C843	lymphome lympho-épithélioïde
+C844	lymphome périphérique à cellules T
+C845	lymphomes à cellules T, autres et non précisés
+C85	lymphome non hodgkinien, de types autres et non précisés
+C850	lymphosarcome
+C851	lymphomes à cellules B, sans précision
+C857	autres types précisés de lymphome non hodgkinien
+C859	lymphome non hodgkinien, de type non précisé
+C88	maladies immunoprolifératives malignes
+C880	macroglobulinémie de Waldenström
+C881	maladie des chaînes lourdes alpha
+C882	maladie des chaînes lourdes gamma
+C883	maladie immunoproliférative de l'intestin grêle
+C887	autres maladies immunoprolifératives malignes
+C889	maladie immunoproliférative maligne, sans précision
+C90	myélome multiple et tumeurs malignes à plasmocytes
+C900	myélome multiple
+C901	leucémie à plasmocytes
+C902	plasmocytome extra-médullaire
+C91	leucémie lymphoïde
+C910	leucémie lymphoblastique aiguë
+C911	leucémie lymphoïde chronique
+C912	leucémie lymphoïde subaiguë
+C913	leucémie à prolymphocytes
+C914	leucémie à tricholeucocytes
+C915	leucémie de l'adulte à cellules T
+C917	autres leucémies lymphoïdes
+C919	leucémie lymphoïde, sans précision
+C92	leucémie myéloïde
+C920	leucémie myéloïde aiguë
+C921	leucémie myéloïde chronique
+C922	leucémie myéloïde subaiguë
+C923	sarcome myéloïde
+C924	leucémie promyélocytaire aiguë
+C925	leucémie myélomonocytaire aiguë
+C927	autres leucémies myéloïdes
+C929	leucémie myéloïde, sans précision
+C93	leucémie monocytaire
+C930	leucémie monocytaire aiguë
+C931	leucémie monocytaire chronique
+C932	leucémie monocytaire subaiguë
+C937	autres leucémies monocytaires
+C939	leucémie monocytaire, sans précision
+C94	autres leucémies à cellules précisées
+C940	polyglobulie primitive aiguë et érythroleucose
+C941	polyglobulie primitive chronique
+C942	leucémie aiguë à mégacaryocytes
+C943	leucémie à mastocytes
+C944	panmyélose aiguë
+C945	myélofibrose aiguë
+C947	autres leucémies précisées
+C95	leucémie à cellules non précisées
+C950	leucémie aiguë à cellules non précisées
+C951	leucémie chronique à cellules non précisées
+C952	leucémie subaiguë à cellules non précisées
+C957	autres leucémies à cellules non précisées
+C959	leucémie, sans précision
+C96	tumeurs malignes des tissus lymphoïde, hématopoïétique et apparentés, autres et non précisées
+C960	maladie de Letterer-Siwe
+C961	histiocytose maligne
+C962	tumeur maligne à mastocytes
+C963	lymphome histiocytaire vrai
+C967	autres tumeurs malignes précisées des tissus lymphoïde, hématopoïétique et apparentés
+C969	tumeur maligne des tissus lymphoïde, hématopoïétique et apparentés, sans précision
+C814	Lymphome de Hodgkin classique, riche en lymphocytes
+C823	Lymphome folliculaire, grade IIIa
+C824	Lymphome folliculaire, grade IIIb
+C825	Lymphome centrofolliculaire diffus
+C826	Lymphome centrofolliculaire cutané
+C846	Lymphome anaplasique à grandes cellules ALK positives
+C847	Lymphome anaplasique à grandes cellules ALK négatives
+C848	Lymphome cutané à cellules T, sans précision
+C849	Lymphome à cellules T/NK matures, sans précision
+C852	Lymphome médiastinal (thymique) à grandes cellules B
+C884	Lymphome de la zone marginale à cellules B des tissus lymphoïdes associés aux muqueuses [lymphome MALT]
+C903	Plasmocytome solitaire
+C916	Leucémie à prolymphocytes à cellules T
+C918	Leucémie à cellules B matures, de type Burkitt
+C926	Leucémie myéloïde aigüe avec anomalies 11q23
+C928	Leucémie myéloïde aigüe avec dysplasie de plusieurs lignées cellulaires
+C933	Leucémie myélomonocytaire juvénile
+C946	Maladie myélodysplasique et myéloproliférative, non classée ailleurs
+C964	Sarcome à cellules dendritiques (cellules accessoires)
+C965	Histiocytose à cellules de Langerhans multifocale et unisystémique
+C966	Histiocytose à cellules de Langerhans unifocale
+C968	Sarcome histiocytaire

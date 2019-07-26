@@ -1,0 +1,3 @@
+ACTE	LIBELLE
+JDDB001	Cervicocystopexie par bandelette synthetique infra-uretrale, par voie transvaginale et par voie transcutanee, avec guidage endoscopique
+JDDB001	Cervicocystopexie par bandelette synthetique infra-uretrale, par voie transvaginale et voie transcutanee, avec guidage endoscopique

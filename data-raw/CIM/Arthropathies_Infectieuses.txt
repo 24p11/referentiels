@@ -1,0 +1,28 @@
+CODE	LIBELLE
+M00   	Arthrites à bactéries pyogènes
+M000  	Arthrite et polyarthrite à staphylocoques
+M001  	Arthrite et polyarthrite à pneumocoques
+M002  	Autres arthrites et polyarthrites à streptocoques
+M008  	Arthrite et polyarthrite dues à d'autres bactéries précisées
+M009  	Arthrite à bactéries pyogènes, sans précision
+M01   	Arthrites infectieuses directes au cours de maladies infectieuses et parasitaires classées ailleurs
+M010  	Arthrite méningococcique 
+M011  	Arthrite tuberculeuse 
+M012  	Arthrite au cours de la maladie de Lyme 
+M013  	Arthrite au cours d'autres maladies bactériennes classées ailleurs
+M014  	Arthrite au cours de la rubéole 
+M015  	Arthrite au cours d'autres maladies virales classées ailleurs
+M016  	Arthrite au cours de mycoses 
+M018  	Arthrite au cours d'autres maladies infectieuses et parasitaires classées ailleurs
+M02   	Arthropathies réactionnelles
+M020  	Arthropathie après dérivation intestinale
+M021  	Arthropathie post-dysentérique
+M022  	Arthropathie post-vaccinale
+M023  	Syndrome oculo-urétro-synovial [Fiessinger-Leroy-Reiter]
+M028  	Autres arthropathies réactionnelles
+M029  	Arthropathie réactionnelle, sans précision
+M03   	Arthropathies post-infectieuses et réactionnelles au cours de maladies classées ailleurs
+M030  	Arthrite post-méningococcique
+M031  	Arthropathie syphilitique post-infectieuse
+M032  	Autres arthropathies post-infectieuses au cours de maladies classées ailleurs
+M036  	Arthropathie réactionnelle au cours d'autres maladies classées ailleurs

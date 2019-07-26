@@ -1,0 +1,4 @@
+﻿ACTE	LIBELLE
+FCFA021	Exérèse de noeud [ganglion] lymphatique des membres à visée diagnostique, par abord direct
+ZZQL013	Détection radio-isotopique préopératoire de lésion par injection transcutanée intra tumorale ou péri tumorale, avec détection radio-isotopique per opératoire [note : détection radio-isotopique de ganglion sentinelle ; lymphoscintigraphie à visée oncologique]
+ZZQL010	Détection per opératoire de lésion après injection de produit radio-isotopique [note : recherche per opératoire du ganglion sentinelle]

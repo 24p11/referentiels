@@ -1,0 +1,5 @@
+CODE	LIBELLE
+C73	tumeur maligne de la thyroïde
+D093	thyroïde et autres glandes endocrines
+D440	thyroïde
+

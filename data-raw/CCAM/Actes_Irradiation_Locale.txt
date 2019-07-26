@@ -1,0 +1,6 @@
+ACTE	LIBELLE
+YYYY016	Protocole de traitement par radiothérapie de contact pour affection maligne 
+YYYY021	Irradiation de contact pour affection maligne
+YYYY023	Irradiation de contact pour affection maligne
+
+

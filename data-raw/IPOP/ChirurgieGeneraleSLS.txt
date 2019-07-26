@@ -1,0 +1,158 @@
+Type	LibelleIpop
+	Ablation de corps étranger/fécalome intrarectal, voie anale
+	Amputation abdominopérinéale, coelioscopie
+	Amputation abdominopérinéale, laparotomie
+	Anastomose pancréaticojéjunale, laparotomie
+	Appendicectomie, coelioscopie
+	Appendicectomie, laparotomie
+	Biopsie ganglionnaire
+	Bisegmentectomie hépatique, laparotomie
+	Chirurgie du reflux gastro-oesophagien, coelioscopie
+	Chirurgie du reflux gastro-oesophagien, laparotomie
+	Cholecystectomie, coelioscopie
+	Cholecystectomie, laparotomie
+	Coelioscopie exploratrice
+Résections colorectales	Colectomie (sub)totale, avec/sans anastomose, laparotomie
+Résections colorectales	Colectomie (sub)totale, sans anastomose, coelioscopie
+Résections colorectales	Colectomie (sub)totale, sans anastomose, laparotomie
+Résections colorectales	Colectomie droite, avec anastomose, coelioscopie
+Résections colorectales	Colectomie droite, avec anastomose, laparotomie
+Résections colorectales	Colectomie droite, sans anastomose, coelioscopie
+Résections colorectales	Colectomie droite, sans anastomose, laparotomie
+Résections colorectales	Colectomie gauche, avec anastomose, coelioscopie
+Résections colorectales	Colectomie gauche, avec anastomose, laparotomie
+Résections colorectales	Colectomie gauche, avec anastomose/mobilisation angle gauche, coelioscopie
+Résections colorectales	Colectomie gauche, avec anastomose/mobilisation angle gauche, laparotomie
+Résections colorectales	Colectomie gauche, sans anastomose , laparotomie
+Résections colorectales	Colectomie gauche, sans anastomose, coelioscopie
+Résections colorectales	Colectomie totale, avec anastomose, coelioscopie
+Résections colorectales	Colectomie transverse, avec/sans anastomose, laparotomie
+	Coloplastie aprés oesophagectomie pour lésion caustique
+Résections colorectales	Coloproctectomie totale, avec anastomose iléoanale, coelioscopie
+Résections colorectales	Coloproctectomie totale, avec iléostomie, coelioscopie
+	Curage axillaire
+	Curage cervical
+	Curage inguinal
+	Cure d'éventration (grande) post opératoire avec prothése, coelioscopie
+	Cure d'éventration (grande) post opératoire avec prothése, laparotomie
+	Cure d'éventration (grande) post opératoire sans prothése, coelioscopie
+	Cure d'éventration (grande) post opératoire sans prothése, laparotomie
+	Cure d'éventration (petite) post opératoire avec prothése, coelioscopie
+	Cure d'éventration (petite) post opératoire avec prothése, laparotomie
+	Cure d'éventration (petite) post opératoire sans prothése, laparotomie
+	Cure de hernie bilatérale de l'aine avec prothése
+	cure de hernie bilatérale de l'aine sous coelioscopie
+	Cure de hernie de l'aine avec prothése
+	Cure de hernie de l'aine sans prothése
+	cure de hernie de l'aine sous coelioscopie
+	Cure de hernie de la ligne blanche avec prothése
+	Cure de hernie de la ligne blanche sans prothése
+	Cure de hernie hiatale/d'éventration diaphragmatique, coelioscopie
+	Cure de hernie hiatale/d'éventration diaphragmatique, laparotomie
+	Cure de hernie ombilicale avec prothése
+	Cure de hernie ombilicale sans prothése
+	Cure de prolapsus rectal et rectocéle selon Altmeier
+	Cure de prolapsus rectal et rectocéle selon Delorme
+	Dérivation biliaire, laparotomie
+	Dérivation estomac et duodénum, laparotomie
+	Dérivation interne du grêle/du colon, laparotomie
+	Destruction de lésions périnéales
+	Destruction ou exérése de lésion du rectum, voie anale
+	Destruction/excision d'autre lésion de l'anus
+	Destruction/exérése de lésion du péritoine, laparotomie
+	Duodénopancréatectomie céphalique, laparotomie
+	Entérostomie/colostomie, coelioscopie
+	Entérostomie/colostomie, laparotomie
+	Entérotomie ou colotomie exploratrice, laparotomie
+	Eviscération
+	Examen du rectum sous anesthésie générale, voie anale
+	Exérése d'un sinus pilonidal
+	Exérése de tumeur sous-cutanée
+	Exérése de tumeur/masse intra-abdominale
+	Exploration des sites parathyroidiens
+	Fermeture d'iléostomie/colostomie, laparotomie
+	Fermeture d'iléostomie/colostomie, voie élective
+Gastrectomies	Gastrectomie atypique, laparotomie
+Gastrectomies	Gastrectomie atypique, par coelioscopie
+Gastrectomies	Gastrectomie partielle, laparotomie
+Gastrectomies	Gastrectomie totale, coelioscopie
+Gastrectomies	Gastrectomie totale, laparotomie
+	Gastrostomie/jéjunostomie d'alimentation, laparotomie
+	Hémorroïdectomie pédiculaire
+	Hépatectomie droite, laparotomie
+	Hépatectomie gauche, laparotomie
+	Hystérectomie totale conservatrice
+	Hystérectomie totale non conservatrice
+	intervention :
+	intervention : 
+	Isthmectomie 
+	Kystectomie du tractus thyréoglosse
+	Kystectomie ou périkystectomie hépatique, laparotomie
+	Laparotomie exploratrice
+	Lobo-isthmectomie droite
+	Lobo-isthmectomie droite+extempo
+	Lobo-isthmectomie gauche
+	Lobo-isthmectomie gauche+extempo
+	Mastectomie
+	Mastectomie + curage axillaire
+	Mastectomie+ ganglion sentinelle
+	oeso-cardio-myotomie extramuqueuse, coelioscopie
+	oeso-cardio-myotomie extramuqueuse, thoracotomie
+	Oesogastrectomie totale pour lésion caustique
+Oesophagectomies	oesophagectomie de Lewis-Santy, temps abdominal, coelioscopie
+Oesophagectomies	oesophagectomie de Lewis-Santy, temps abdominal, laparotomie
+	Oesophagectomie pour lésion caustique
+Oesophagectomies	oesophagectomie triple voie
+	Pamectomie
+	Pancréatectomie gauche avec splenectomie, laparotomie
+	Parathyroidectomie
+	Péritonite appendiculaire, coelioscopie
+	Péritonite appendiculaire, laparotomie
+	Phéochromocytome, coelioscopie
+	Proctectomie secondaire avec anastomose iléoanale, coelioscopie
+	Proctectomie secondaire avec anastomose iléoanale, laparotomie
+	Proctectomie secondaire, laparotomie
+	Réfection de cicatrice
+	Résection atypique du foie, laparotomie
+	Résection du grêle avec anastomose, coelioscopie
+	Résection du grêle avec anastomose, laparotomie
+Résections colorectales	Resection iléocoecale avec anastomose, coelioscopie
+Résections colorectales	Resection iléocoecale avec anastomose, laparotomie
+Résections colorectales	Resection iléocoecale sans anastomose, coelioscopie
+Résections colorectales	Resection iléocoecale sans anastomose, laparotomie
+Résections colorectales	Résection rectosigmoïdienne, coelioscopie, avec anastomose coloanale
+Résections colorectales	Résection rectosigmoïdienne, coelioscopie, avec anastomose sous péritonéale
+Résections colorectales	Résection rectosigmoïdienne, laparotomie, avec anastomose coloanale
+Résections colorectales	Résection rectosigmoïdienne, laparotomie, avec anastomose sous péritonéale
+	Résections multiples du grêle avec anastomose(s), laparotomie
+Résections colorectales	Résections multiples sans anastomose(s), laparotomie
+	Rétablissement aprés Hartmann, laparotomie
+	Rétablissement secondaire de la continuité, laparotomie
+	Splénectomie partielle, coelioscopie
+	Splénectomie partielle, laparotomie
+	Splénectomie totale, coelioscopie
+	Splénectomie totale, laparotomie
+	Surrénalectomie, coelioscopie
+	Surrénalectomie, laparotomie
+	Suture d'ulcére gastrique/duodénal perforé, coelioscopie
+	Thyroidectomie totale
+	Thyroidectomie totale+curage
+	Thyroidectomie totale+curage (CMT)
+	Thyroidectomie totale+extempo
+	Totalisation de thyroidectomie
+	Totalisation de thyroidectomie+curage
+	Trachéotomie
+	Traitement d'un abcés, fissure ou fistule anorectale
+	Traitement d'une éventration péristomiale
+	Traitement d'une fistule, lambeau d'avancement
+	Traitement de diverticule de l'oesophage thoracique, thoracoscopie
+	Traitement de diverticule de l'oesophage thoracique, thoracotomie
+	Traitement de diverticule de Zenker
+	Traitement des complications de stomies : sténose
+	Tumorectomie sein 
+	Tumorectomie sein + curage axillaire
+	Tumorectomie sein + ganglion sentinelle
+	Tumorectomie sein + ganglion sentinelle +Riop
+	Tumorectomie sein repérage
+	Unisegmentectomie hépatique, coelioscopie
+	Vérification pancréas

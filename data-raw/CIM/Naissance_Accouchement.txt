@@ -1,0 +1,21 @@
+CODE	LIBELLE
+Z37	Résultat de l'accouchement
+Z370	Naissance unique, enfant vivant
+Z371	Naissance unique, enfant mort-né
+Z372	Naissance gémellaire, jumeaux nés vivants
+Z373	Naissance gémellaire, l'un des jumeaux né vivant, l'autre mort-né
+Z374	Naissance gémellaire, jumeaux morts-nés
+Z375	Autres naissances multiples, tous nés vivants
+Z376	Autres naissances multiples, certains enfants nés vivants
+Z377	Autres naissances multiples, tous morts-nés
+Z379	Résultat de l'accouchement, sans précision
+Z3710	Naissance unique, enfant mort-né, hors interruption de la grossesse pour motif médical
+Z3711	Naissance unique, enfant mort-né, à la suite d'une interruption de la grossesse pour motif médical
+Z3730	Naissance gémellaire, l'un des jumeaux né vivant, l'autre mort-né, hors interruption de la grossesse pour motif médical
+Z3731	Naissance gémellaire, l'un des jumeaux né vivant, l'autre mort-né, à la suite d'une interruption de la grossesse pour motif médical
+Z3740	Naissance gémellaire, jumeaux morts-nés, hors interruption de la grossesse pour motif médical
+Z3741	Naissance gémellaire, jumeaux morts-nés, à la suite d'une interruption de la grossesse pour motif médical
+Z3760	Autres naissances multiples, certains enfants nés vivants, hors interruption de la grossesse pour motif médical
+Z3761	Autres naissances multiples, certains enfants nés vivants, à la suite d'une interruption de la grossesse pour motif médical
+Z3770	Autres naissances multiples, tous morts-nés, hors interruption de la grossesse pour motif médical
+Z3771	Autres naissances multiples, tous morts-nés, à la suite d'une interruption de la grossesse pour motif médical

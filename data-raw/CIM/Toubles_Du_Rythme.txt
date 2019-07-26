@@ -1,0 +1,16 @@
+CODE	LIBELLE
+I47	tachycardie paroxystique
+I470	arythmie ventriculaire de réentrée
+I471	tachycardie supraventriculaire
+I472	tachycardie ventriculaire
+I479	tachycardie paroxystique, sans précision
+I48	fibrillation et flutter auriculaires
+I49	autres arythmies cardiaques
+I490	fibrillation et flutter ventriculaires
+I491	dépolarisation auriculaire prématurée
+I492	dépolarisation jonctionnelle prématurée
+I493	dépolarisation ventriculaire prématurée
+I494	dépolarisations prématurées, autres et sans précision
+I495	syndrome de dysfonctionnement sinusal
+I498	autres arythmies cardiaques précisées
+I499	arythmie cardiaque, sans précision

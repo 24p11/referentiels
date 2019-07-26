@@ -1,0 +1,2 @@
+﻿CODE	LIBELLE
+M350	Syndrome de Gougerot-Sjögren

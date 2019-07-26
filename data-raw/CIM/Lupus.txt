@@ -1,0 +1,10 @@
+CODE	LIBELLE
+L93	lupus érythémateux
+L930	lupus érythémateux chronique
+L931	lupus érythémateux cutané subaigu
+L932	autres lupus érythémateux localisés
+M32	lupus érythémateux disséminé
+M320	lupus érythémateux disséminé médicamenteux
+M321	lupus érythémateux disséminé avec atteinte d'organes et d'appareils
+M328	autres formes de lupus érythémateux disséminé
+M329	lupus érythémateux disséminé, sans précision

@@ -1,0 +1,36 @@
+CODE	LIBELLE
+B37	candidose
+B370	stomatite à Candida
+B371	candidose pulmonaire
+B372	candidose de la peau et des ongles
+B373	candidose de la vulve et du vagin
+B374	candidose d'autres localisations uro-génitales
+B375	méningite à Candida
+B376	endocardite à Candida
+B377	septicémie à Candida
+B378	autres localisations de candidose
+B379	candidose, sans précision
+B44	aspergillose
+B440	aspergillose pulmonaire invasive
+B441	autres aspergilloses pulmonaires
+B442	aspergillose amygdalienne
+B447	aspergillose disséminée
+B448	autres formes d'aspergillose
+B449	aspergillose, sans précision
+B45	cryptococcose
+B450	cryptococcose pulmonaire
+B451	cryptococcose cérébrale
+B452	cryptococcose cutanée
+B453	cryptococcose osseuse
+B457	cryptococcose disséminée
+B458	autres formes de cryptococcose
+B459	cryptococcose, sans précision
+B46	zygomycose
+B460	mucormycose pulmonaire
+B461	mucormycose rhinocérébrale
+B462	mucormycose gastro-intestinale
+B463	mucormycose cutanée
+B464	mucormycose disséminée
+B465	mucormycose, sans précision
+B468	autres zygomycoses
+B469	zygomycose, sans précision

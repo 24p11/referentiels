@@ -1,0 +1,49 @@
+CODE	LIBELLE
+C810	prédominance lymphocytaire
+C811	sclérose nodulaire
+C812	cellulaire mixte
+C813	déplétion lymphocytaire
+C814	Lymphome de Hodgkin (classique), riche en lymphocytes
+C817	autres formes de la maladie de Hodgkin
+C819	maladie de Hodgkin, sans précision
+C820	petites cellules encochées folliculaires
+C821	mélange de petites cellules encochées et de grandes cellules folliculaires
+C822	grandes cellules, folliculaires
+C823	Lymphome folliculaire, grade IIIa
+C824	Lymphome folliculaire, grade IIIb
+C825	Lymphome centrofolliculaire diffus
+C826	Lymphome centrofolliculaire cutané
+C827	autres formes de lymphome non hodgkinien, folliculaire
+C829	lymphome folliculaire non hodgkinien, sans précision
+C830	petites cellules (diffus)
+C831	petites cellules encochées (diffus)
+C832	mélange de petites et grandes cellules (diffus)
+C833	grandes cellules (diffus)
+C834	immunoblastique (diffus)
+C835	lymphoblastique (diffus)
+C836	indifférencié (diffus)
+C837	tumeur de Burkitt
+C838	autres formes de lymphome diffus non hodgkinien
+C839	lymphome diffus non hodgkinien, sans précision
+C840	mycosis fongoïde
+C841	réticulose de Sézary
+C842	lymphome de la zone T
+C843	lymphome lympho-épithélioïde
+C844	lymphome périphérique à cellules T
+C845	lymphomes à cellules T, autres et non précisés
+C846	Lymphome anaplasique à grandes cellules ALK+
+C847	Lymphome anaplasique à grandes cellules ALK-
+C848	Lymphome cutané à cellules T, sans précision
+C849	Lymphome à cellules T/NK matures, sans précision
+C850	lymphosarcome
+C851	lymphomes à cellules B, sans précision
+C852	Lymphome médiastinal (thymique) à grandes cellules B
+C857	autres types précisés de lymphome non hodgkinien
+C859	lymphome non hodgkinien, de type non précisé
+C860	Lymphome extranodal à cellules T/NK, type nasal
+C861	Lymphome hépatosplénique à cellules T
+C862	Lymphome (intestinal) à cellules T, type entéropathique
+C863	Lymphome à cellules T simulant une panniculite
+C864	Lymphome à cellules NK blastiques
+C865	Lymphome angio-immunoblastique à cellules T
+C866	Syndrome lymphoprolifératif cutané primitif à cellules T CD30+

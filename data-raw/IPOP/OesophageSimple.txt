@@ -1,0 +1,7 @@
+TYPE
+Chirurgie du reflux gastro-oesophagien, coelioscopie
+Chirurgie du reflux gastro-oesophagien, laparotomie
+Cure de hernie hiatale/d'éventration diaphragmatique, coelioscopie
+Cure de hernie hiatale/d'éventration diaphragmatique, laparotomie
+Cure de hernie hiatale/d'éventration diaphragmatique, thoracotomie
+

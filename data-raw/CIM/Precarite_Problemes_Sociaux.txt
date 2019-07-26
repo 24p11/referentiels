@@ -1,0 +1,41 @@
+﻿CODE	LIBELLE
+Z357	Surveillance d'une grossesse à haut risque du fait de problèmes sociaux
+Z550	Difficultés liées à l'analphabétisme et au faible niveau éducatif
+Z5500	Analphabétisme et illettrisme (langue d’usage)
+Z5508	Faibles niveaux éducatifs, autres et sans précision
+Z551	Difficultés liées à une scolarisation inexistante ou inaccessible 
+Z590	Difficultés liées au fait d'être sans abri
+Z591	Difficultés liées à un logement inadéquat
+Z5910	Logement insalubre ou impropre à l’habitation
+Z5911	Logement sans confort matériel
+Z5912	Logement inadéquat du fait de l’état de santé de la personne
+Z5913	Logement en habitat temporaire ou fortuite
+Z5918	Logement inadéquat, autres et sans précision
+Z595	Difficultés liées à une pauvreté extrême
+Z5950	Absence totale de revenu, d’aide et de prestations financières
+Z5958	Situation de pauvreté extrême , autres et sans précision
+Z560	Difficultés liées au chômage, sans précision
+Z596	Difficultés liées à de faibles revenus
+Z5960	Bénéficiaire de la CMUC
+Z5961	Bénéficiaire de l’AME
+Z5962	Bénéficiaire de Minimas Sociaux
+Z5968	Faibles revenus, autres et non précisés
+Z597	Difficultés liées à une couverture sociale et un secours insuffisants
+Z5970	Absence de couverture sociale
+Z5978	Couverture sociale et secours insuffisants, autres et non précision
+Z602	Difficultés liées à la solitude
+Z6020	Personne vivant seul à son domicile
+Z6028	Solitudes, autres et non précisés
+Z603	Difficultés liées à l'acculturation
+Z6030	Difficultés liées à la langue
+Z6038	Difficulté d’acculturation, autres et non précision
+Z609	Difficulté liée à l'environnement social, sans précision
+Z740	Besoin d’aide du fait d’une mobilité réduite
+Z741	Besoin d’assistance et de soins d’hygiène
+Z742	Besoin d’une assistance à domicile, aucun membre n’étant à mesure d’assumer ces soins
+Z743	Besoin d’une surveillance permanente
+Z748	Autres difficultés liées à une dépendance envers la personne qui donne des soins
+Z749	Difficulté liée à une dépendance envers la personne qui donne des soins
+Z751	Sujet attendant d’être admis ailleurs, dans une EPS adéquat
+Z598	Autres difficultés liées au logement et aux conditions économiques
+Z599	Difficulté liée au logement et aux conditions économiques, sans précision

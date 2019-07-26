@@ -1,0 +1,15 @@
+CODE	LIBELLE
+F11	Troublesmentauxetducomportementliésàl'utilisationd'opiacés
+F12	Troubles mentaux et du comportement liés à l'utilisation de dérivés du cannabis
+F13	Troubles mentaux et du comportement liés à l'utilisation de sédatifs ou d'hypnotiques
+F14	Troubles mentaux et du comportement liés à l'utilisation de cocaïne
+F15	Troubles mentaux et du comportement liés à l'utilisation d'autres stimulants, y compris la caféine
+F16	Troubles mentaux et du comportement liés à l'utilisation d'hallucinogènes
+F18	Troubles mentaux et du comportement liés à l'utilisation de solvants volatils
+F19	Troubles mentaux et du comportement liés à l'utilisation de drogues multiples et troubles liés à l'utilisation d'autres substances psycho-actives
+F55	Abus de substances n'entraînant pas de dépendance
+X60	Auto-intoxication par des analgésiques, antipyrétiques et antirhumatismaux non opiacés et exposition à ces produits
+X61	Auto-intoxication par des anti-épileptiques, sédatifs, hypnotiques, antiparkinsoniens et psychotropes et exposition à ces produits, non classés ailleurs
+X62	Auto-intoxication par des narcotiques et psychodysleptiques [hallucinogènes] et exposition à ces produits, non classés ailleurs
+X63	Auto-intoxication par d'autres substances pharmacologiques agissant sur le système nerveux autonome et exposition à ces produits
+X64	Auto-intoxication par des médicaments et substances biologiques et exposition à ces produits, autres et sans précision

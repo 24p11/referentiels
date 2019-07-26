@@ -1,0 +1,17 @@
+ACTE	LIBELLE
+JJQX004	Examen anatomopathologique à visée carcinologique de pièce d'une ovariectomie partielle ou totale
+JJQX005	Examen anatomopathologique à visée carcinologique de pièce de plusieurs ovariectomies partielle et/ou totale
+JJQX008	Examen anatomopathologique à visée carcinologique de pièce de salpingectomie
+JKQX004	Examen anatomopathologique à visée carcinologique de pièce d'hystérectomie, sans annexectomie
+JKQX005	Examen anatomopathologique à visée carcinologique de pièce d'hystérectomie, avec annexectomie
+JKQX006	Examen anatomopathologique à visée carcinologique de pièce de trachélectomie [cervicectomie] ou de colpotrachélectomie
+JKQX007	Examen anatomopathologique à visée carcinologique de pièce de conisation du col de l'utérus
+JLQX004	Examen anatomopathologique à visée carcinologique de pièce de colpectomie partielle ou totale
+JMQX004	Examen anatomopathologique à visée carcinologique de pièce de vulvectomie totale
+JMQX005	Examen anatomopathologique à visée carcinologique de pièce de vulvectomie partielle
+JFQX004	Examen anatomopathologique à visée carcinologique de pièce de pelvectomie totale
+JFQX005	Examen anatomopathologique à visée carcinologique de pièce de pelvectomie antérieure
+JKHA001	Biopsie ou frottis de l'endomètre, sans hystéroscopie
+JKHA002	Biopsie du col de l'utérus
+JKHD001	Prélèvement cervicovaginal
+JMHA001	Biopsie de la vulve

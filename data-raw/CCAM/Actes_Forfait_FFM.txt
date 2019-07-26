@@ -1,0 +1,31 @@
+ACTE	LIBELLE
+MZMP001	Confection d une contention souple d une articulation du membre supérieur.
+MZMP002	Confection d un appareil rigide thoracobrachial pour immobilisation initiale de fracture du membre supérieur, sans réduction.
+MZMP004	Confection d un appareil rigide au poignet et/ou à la main pour immobilisation initiale de fracture du membre supérieur, sans réduction.
+MZMP006	Confection d un appareil rigide d immobilisation de l avant-bras, du poignet et/ou de la main ne prenant pas le coude.
+MZMP007	Confection d un appareil rigide brachio-antébrachio-palmaire pour immobilisation initiale de fracture du membre supérieur, sans réduction.
+MZMP011	Confection d un appareil rigide d immobilisation du membre supérieur prenant le coude.
+MZMP013	Confection d un appareil rigide antébrachiopalmaire pour immobilisation initiale de fracture du membre supérieur, sans réduction.
+MZMP015	Confection d un appareil rigide thoracobrachial d immobilisation du membre supérieur.
+NFMP001	Confection d une contention souple du genou.
+NFMP002	Confection d une attelle de posture ou de mobilisation du genou.
+NGMP001	Confection d une contention souple de la cheville et/ou du pied, ou confection d une semelle plâtrée.
+NGMP002	Confection d une attelle de posture ou de mobilisation de la cheville.
+NZMP003	Confection d un appareil rigide d immobilisation de la jambe, de la cheville et/ou du pied ne prenant pas le genou.
+NZMP006	Confection d un appareil rigide fémorocrural [fémorojambier] ou fémoropédieux pour immobilisation initiale de fracture du membre inférieur, sans réduction.
+NZMP007	Confection d un appareil rigide d immobilisation du membre inférieur prenant le genou.
+NZMP008	Confection d un appareil rigide pelvicrural [pelvijambier] ou pelvipédieux pour immobilisation initiale de fracture du membre inférieur, sans réduction.
+NZMP012	Confection d un appareil rigide pelvicrural [pelvijambier] ou pelvipédieux d immobilisation du membre inférieur.
+NZMP014	Confection d un appareil rigide cruropédieux [jambopédieux] pour immobilisation initiale de fracture du membre inférieur, sans réduction.
+ZEMP009	Confection d un appareil rigide d immobilisation solidaire bifémorocrural [bifémorojambier] ou bifémoropédieux.
+QAJA002	Parage et/ou suture de plaie superficielle de la peau de la face de plus de 10 cm de grand axe.
+QAJA005	Parage et/ou suture de plaie superficielle de la peau de la face de 3 cm à 10 cm de grand axe.
+QAJA013	Parage et/ou suture de plaie superficielle de la peau de la face de moins de 3 cm de grand axe.
+QZJA002	Parage et/ou suture de plaie superficielle de la peau de moins de 3 cm de grand axe, en dehors de la face.
+QZJA012	Parage et/ou suture de plaie profonde de la peau et des tissus mous de 3 cm à 10 cm de grand axe, en dehors de la face et de la main.
+QZJA015	Parage et/ou suture de plaie superficielle de la peau de plus de 10 cm de grand axe, en dehors de la face.
+QZJA016	Parage et/ou suture de plaie profonde de la peau et des tissus mous de moins de 3 cm de grand axe, en dehors de la face et de la main.
+QZJA017	Parage et/ou suture de plaie superficielle de la peau de 3 cm à 10 cm de grand axe, en dehors de la face.
+QZJB002	Evacuation de collection superficielle et/ou profonde de la peau et des tissus mous, par voie transcutanée sans guidage.
+
+

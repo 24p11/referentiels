@@ -1,0 +1,10 @@
+﻿CODE	LIBELLE
+K51	recto-colite hémorragique
+K510	pancolite ulcéreuse (chronique)
+K511	iléo-colite ulcéreuse (chronique)
+K512	rectite ulcéreuse (chronique)
+K513	recto-sigmoïdite ulcéreuse (chronique)
+K514	polypes coliques inflammatoiresK515	colite ulcéreuse gauche
+K518	autres recto-colites hémorragiques
+K519	recto-colite hémorragique, sans précision
+

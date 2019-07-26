@@ -1,0 +1,950 @@
+CODE	LIBELLE
+A00	Choléra
+A000	Choléra à Vibrio cholerae 01, biovar cholerae
+A001	Choléra à Vibrio cholerae 01, biovar El Tor
+A009	Choléra, sans précision
+A01	Fièvres typhoïde et paratyphoïde
+A010	Fièvre typhoïde
+A011	Paratyphoïde A
+A012	Paratyphoïde B
+A013	Paratyphoïde C
+A014	Paratyphoïde, sans précision
+A02	Autres salmonelloses
+A020	Entérite à Salmonella
+A021	Sepsis à Salmonella
+A022	Infection localisée à Salmonella
+A028	Autres infections précisées à Salmonella
+A029	Salmonellose, sans précision
+A03	Shigellose
+A030	Shigellose à Shigella dysenteriae
+A031	Shigellose à Shigella flexneri
+A032	Shigellose à Shigella boydii
+A033	Shigellose à Shigella sonnei
+A038	Autres shigelloses
+A039	Shigellose, sans précision
+A04	Autres infections intestinales bactériennes
+A040	Infection entéropathogène à Escherichia coli
+A041	Infection entérotoxigène à Escherichia coli
+A042	Infection entéro-invasive à Escherichia coli
+A043	Infection entéro-hémorragique à Escherichia coli
+A044	Autres infections intestinales à Escherichia coli
+A045	Entérite à Campylobacter
+A046	Entérite à Yersinia enterocolitica
+A047	Colite pseudomembraneuse Intoxication   d origine alimentaire à Clostridium difficile
+A048	Autres infections intestinales bactériennes précisées
+A049	Infection intestinale bactérienne, sans précision
+A05	Autres intoxications bactériennes d origine alimentaire, non classées ailleurs
+A050	Intoxication alimentaire à staphylocoques
+A051	Botulisme
+A052	Intoxication alimentaire à Clostridium perfringens [Clostridium welchii]
+A053	Intoxication alimentaire à Vibrio parahaemolyticus
+A054	Intoxication alimentaire à Bacillus cereus
+A058	Autres intoxications bactériennes d origine alimentaire précisées
+A059	Intoxication bactérienne d origine alimentaire, sans précision
+A06	Amibiase
+A060	Dysenterie amibienne (aiguë)
+A061	Amibiase intestinale chronique
+A062	Colite amibienne non dysentérique
+A063	Amoebome (de l intestin)
+A064	Abcès amibien du foie
+A065	Abcès amibien du poumon (J99.8*)
+A066	Abcès amibien du cerveau (G07*)
+A067	Amibiase cutanée
+A068	Autres localisations d une infection amibienne
+A069	Amibiase, sans précision
+A07	Autres maladies intestinales à protozoaires
+A070	Balantidiose
+A071	Giardiase [lambliase]
+A072	Cryptosporidiose
+A073	Infection à Isospora
+A078	Microsporidiose intestinale, Sarcocystose, Sarcosporidiose
+A079	Maladie intestinale à protozoaires, sans précision
+A08	Infections virales intestinales et autres infections intestinales précisées
+A080	Entérite à rotavirus
+A081	Gastro-entéropathie (aiguë) à l agent de Norwalk
+A082	Entérite à adénovirus
+A083	Autres entérites virales
+A084	Infections intestinales virales, sans précision
+A085	Autres infections intestinales précisées
+A09	Diarrhée et gastro-entérite  d origine présumée infectieuse
+A090	Gastroentérites et colites   d origine infectieuse, autres et non précisées
+A099	Gastroentérites et colites    d origine non précisée
+A15	Tuberculose de l appareil respiratoire, avec confirmation bactériologique et histologique
+A150	Tuberculose pulmonaire, confirmée par examen microscopique de l expectoration, avec ou sans culture
+A151	Tuberculose pulmonaire, confirmée par culture seulement
+A152	Tuberculose pulmonaire, avec confirmation histologique
+A153	Tuberculose pulmonaire, avec confirmation, moyen non précisé
+A154	Tuberculose des ganglions intrathoraciques, avec confirmation bactériologique et histologique
+A155	Tuberculose du larynx, de la trachée et des bronches, avec confirmation bactériologique et histologique
+A156	Pleurésie tuberculeuse, avec confirmation bactériologique et histologique
+A157	Primo-infection tuberculeuse de l appareil respiratoire, avec confirmation bactériologique et histologique
+A158	Autres formes de tuberculose de l appareil respiratoire, avec confirmation bactériologique et histologique
+A159	Tuberculose de l appareil respiratoire sans précision, avec confirmation bactériologique et histologique
+A16	Tuberculose de l appareil respiratoire, sans confirmation bactériologique ou histologique
+A160	Tuberculose pulmonaire, avec examens bactériologique et histologique négatifs
+A161	Tuberculose pulmonaire, sans examen bactériologique et histologique
+A162	Tuberculose pulmonaire, (sans mention de confirmation bactériologique ou histologique)
+A163	Tuberculose des ganglions intrathoraciques, (sans mention de confirmation bactériologique ou histologique)
+A164	Tuberculose du larynx, de la trachée et des bronches, (sans mention de confirmation bactériologique ou histologique)
+A165	Pleurésie tuberculeuse, (sans mention de confirmation bactériologique ou histologique)
+A167	Primo-infection tuberculeuse de l appareil respiratoire, (sans mention de confirmation bactériologique ou histologique)
+A168	Autres formes de tuberculose de l appareil respiratoire, (sans mention de confirmation bactériologique ou histologique)
+A169	Tuberculose de l appareil respiratoire sans précision, (sans mention de confirmation bactériologique ou histologique)
+A17	Tuberculose du système nerveux
+A170	Méningite tuberculeuse (G01*)
+A171	Tuberculome méningé (G07*)
+A178	Autres formes de tuberculose du système nerveux
+A179	Tuberculose du système nerveux, sans précision (G99.8*)
+A18	Tuberculose d autres organes
+A180	Tuberculose des os et des articulations
+A181	Tuberculose de l appareil génito-urinaire
+A182	Adénopathie tuberculeuse périphérique
+A183	Tuberculose de l intestin, du péritoine et des ganglions mésentériques
+A184	Tuberculose de la peau et du tissu cellulaire sous-cutané
+A185	Tuberculose de l oeil
+A186	Tuberculose de l oreille
+A187	Tuberculose des surrénales (E35.1*)
+A188	Tuberculose d autres organes précisés
+A19	Tuberculose miliaire
+A190	Tuberculose miliaire aiguë, localisation unique et précisée
+A191	Tuberculose miliaire aiguë, sièges multiples
+A192	Tuberculose miliaire aiguë, sans précision
+A198	Autres tuberculoses miliaires
+A199	Tuberculose miliaire, sans précision
+A20	Peste
+A200	Peste bubonique
+A201	Peste cutanée
+A202	Peste pulmonaire
+A203	Peste méningée
+A207	Peste  septique
+A208	Autres formes de peste
+A209	Peste, sans précision
+A21	Tularémie
+A210	Tularémie ulcéro-glandulaire
+A211	Tularémie oculo-glandulaire
+A212	Tularémie pulmonaire
+A213	Tularémie gastro-intestinale
+A217	Tularémie généralisée
+A218	Autres formes de tularémie
+A219	Tularémie, sans précision
+A22	Charbon
+A220	Charbon cutané
+A221	Charbon pulmonaire
+A222	Charbon gastro-intestinal
+A227	Sepsis charbonneusex
+A228	Autres formes de charbon
+A229	Charbon, sans précision
+A23	Brucellose
+A230	Brucellose à Brucella melitensis
+A231	Brucellose à Brucella abortus
+A232	Brucellose à Brucella suis
+A233	Brucellose à Brucella canis
+A238	Autres brucelloses
+A239	Brucellose, sans précision
+A24	Morve et mélioïdose
+A240	Morve
+A241	Mélioïdose aiguë et galopante
+A242	Mélioïdose subaiguë et chronique
+A243	Autres mélioïdoses
+A244	Mélioïdose, sans précision
+A25	Fièvres causées par morsure de rat
+A250	Spirillose
+A251	Streptobacillose
+A259	Fièvre causée par morsure de rat, sans précision
+A26	Érysipéloïde
+A260	Érysipéloïde cutanée
+A267	Sepsis à Erysipelothrix
+A268	Autres formes d érysipéloïde
+A269	Érysipéloïde, sans précision
+A27	Leptospirose
+A270	Leptospirose ictéro-hémorragique
+A278	Autres formes de leptospirose
+A279	Leptospirose, sans précision
+A28	Autres anthropozoonoses bactériennes, non classées ailleurs
+A280	Pasteurellose
+A281	Maladie des griffes du chat
+A282	Yersiniose extra-intestinale
+A288	Autres anthropozoonoses bactériennes précisées, non classées ailleurs
+A289	Anthropozoonose bactérienne, sans précision
+A30	Lèpre [maladie de Hansen]
+A300	Lèpre indéterminée
+A301	Lèpre tuberculoïde
+A302	Lèpre tuberculoïde de type intermédiaire atypique
+A303	Lèpre de type intermédiaire atypique
+A304	Lèpre lépromateuse de type intermédiaire atypique
+A305	Lèpre lépromateuse
+A308	Autres formes de lèpre
+A309	Lèpre, sans précision
+A31	Infections dues à d autres mycobactéries
+A310	Infection pulmonaire à mycobactéries atypiques
+A311	Infection cutanée à mycobacteries atypiques
+A318	Autres infections à mycobacteries atypiques
+A319	Infection à mycobacteries atypiques, sans précision
+A32	Listériose
+A320	Listériose cutanée
+A321	Méningite et méningo-encéphalite listériennes
+A327	Sepsis à Listeria listérienne
+A328	Autres formes de listériose
+A329	Listériose, sans précision
+A33	Tétanos néonatal
+A34	Tétanos obstétrical
+A35	Autres formes de tétanos
+A36	Diphtérie
+A360	Diphtérie pharyngée
+A361	Diphtérie rhinopharyngée
+A362	Diphtérie laryngée
+A363	Diphtérie cutanée
+A368	Autres formes de diphtérie
+A369	Diphtérie, sans précision
+A37	Coqueluche
+A370	Coqueluche à Bordetella pertussis
+A371	Coqueluche à Bordetella parapertussis
+A378	Coqueluche due à d autres espèces de Bordetella
+A379	Coqueluche, sans précision
+A38	Scarlatine
+A39	Infection à méningocoques
+A390	Méningite à méningocoques (G01*)
+A391	Syndrome de Waterhouse-Friderichsen (E35.1*)
+A392	Méningococcémie aiguë
+A393	Méningococcémie chronique
+A394	Méningococcémie, sans précision
+A395	Cardite à méningocoques
+A398	Autres infections à méningocoques
+A399	Infection méningococcique, sans précision
+A40	Sepsis à streptocoques
+A400	Sepsis à streptocoques, groupe A
+A401	Sepsis à streptocoques, groupe B
+A402	Sepsis à streptocoques, groupe D
+A403	Sepsis à pneumocoques
+A408	Autres s sepsis à streptocoques
+A409	Sepsis à streptocoques, sans précision
+A41	Autres sepsis
+A410	Sepsis à staphylocoques dorés
+A411	Sepsis à staphylocoques coagulase-négatifs
+A412	Sepsis à staphylocoques non précisés
+A413	Sepsis à Haemophilus influenzae
+A414	Sepsis à microorganismes anaérobies
+A415	Sepsis à microorganismes Gram négatif SAI
+A418	Autres s sepsis précisées
+A419	Sepsis sans précision
+A42	Actinomycose
+A420	Actinomycose pulmonaire
+A421	Actinomycose abdominale
+A422	Actinomycose cervico-faciale
+A427	Sepsis actinomycosique
+A428	Autres formes d actinomycose
+A429	Actinomycose, sans précision
+A43	Nocardiose
+A430	Nocardiose pulmonaire
+A431	Nocardiose cutanée
+A438	Autres formes de nocardiose
+A439	Nocardiose, sans précision
+A44	Bartonellose
+A440	Bartonellose généralisée
+A441	Bartonellose cutanée et cutanéo-muqueuse
+A448	Autres formes de bartonellose
+A449	Bartonellose, sans précision
+A46	Érysipèle
+A48	Autres maladies bactériennes, non classées ailleurs
+A480	Gangrène gazeuse
+A481	Maladie des légionnaires (pulmonaire)
+A482	Maladie des légionnaires, sans signes pulmonaires [fièvre de Pontiac]
+A483	Syndrome du choc toxique
+A484	Fièvre purpurique du Brésil
+A488	Autres maladies bactériennes précisées
+A49	Infection bactérienne, siège non précisé
+A490	Infection à staphylocoques, siège non précisé
+A491	Infection à streptocoques, siège non précisé
+A492	Infection à Haemophilus influenzae, siège non précisé
+A493	Infection à Mycoplasma, siège non précisé
+A498	Autres infections bactériennes, siège non précisé
+A499	Infection bactérienne, sans précision
+A50	Syphilis congénitale
+A500	Syphilis congénitale précoce, symptomatique
+A501	Syphilis congénitale précoce, latente
+A502	Syphilis congénitale précoce, sans précision
+A503	Oculopathie syphilitique congénitale tardive
+A504	Syphilis congénitale nerveuse tardive [neuro-syphilis juvénile]
+A505	Autres formes tardives de syphilis congénitale, symptomatique
+A506	Syphilis congénitale tardive, latente
+A507	Syphilis congénitale tardive, sans précision
+A509	Syphilis congénitale, sans précision
+A51	Syphilis précoce
+A510	Syphilis génitale primaire
+A511	Syphilis anale primaire
+A512	Syphilis primaire d autres localisations
+A513	Syphilis secondaire de la peau et des muqueuses
+A514	Autres formes de syphilis secondaire
+A515	Syphilis précoce, latente
+A519	Syphilis précoce, sans précision
+A52	Syphilis tardive
+A520	Syphilis cardio-vasculaire
+A521	Syphilis nerveuse symptomatique
+A522	Syphilis nerveuse asymptomatique
+A523	Syphilis nerveuse, sans précision
+A527	Autres formes tardives de syphilis symptomatique
+A528	Syphilis tardive, latente
+A529	Syphilis tardive, sans précision
+A53	Syphilis, autres et sans précision
+A530	Syphilis latente, (non précisée précoce ou tardive)
+A539	Syphilis, sans précision
+A54	Infection gonococcique
+A540	Infection gonococcique de la partie inférieure de l appareil génito-urinaire, (sans abcès périurétral ou des glandes annexes)
+A541	Infection gonococcique de la partie inférieure de l appareil génito-urinaire, avec abcès périurétral et des glandes annexes
+A542	Pelvipéritonite gonococcique et autres infections génito-urinaires gonococciques
+A543	Infection gonococcique de l oeil
+A544	Infection gonococcique du système ostéo-articulaire et des muscles
+A545	Pharyngite gonococcique
+A546	Infection gonococcique de l anus et du rectum
+A548	Autres infections gonococciques
+A549	Infection gonococcique, sans précision
+A55	Lymphogranulomatose vénérienne à Chlamydia
+A56	Autres infections à Chlamydia transmises par voie sexuelle
+A560	Infection à Chlamydia de la partie inférieure de l appareil génito-urinaire
+A561	Infection à Chlamydia, pelvi-péritonéale et des autres organes génito-urinaires
+A562	Infection à Chlamydia de l appareil génito-urinaire, sans précision
+A563	Infection à Chlamydia de l anus et du rectum
+A564	Infection à Chlamydia du pharynx
+A568	Infection à Chlamydia transmise par voie sexuelle, autres localisations
+A57	Chancre mou
+A58	Granulome inguinal
+A59	Trichomonase
+A590	Trichomonase uro-génitale
+A598	Autres localisations de trichomonase
+A599	Trichomonase, sans précision
+A60	Infection ano-génitale par le virus de l herpès [herpes simplex]
+A600	Infection des organes génitaux par le virus de l herpes  femme (N77.0*N77.1*),  homme (N51.*)
+A601	Infection de la marge cutanée de l anus et du rectum, par le virus de l herpès
+A609	Infection ano-génitale par le virus de l herpès, sans précision
+A63	Autres maladies dont le mode de transmission est essentiellement sexuel, non classées ailleurs
+A630	Condylomes ano-génitaux (vénériens)
+A6300	Condylomes anaux (vénériens)
+A6308	Autres condylomes ano-génitaux (vénériens)
+A638	Autres maladies précisées dont le mode de transmission est essentiellement sexuel
+A64	Maladie sexuellement transmise, sans précision
+A65	Syphilis non vénérienne
+A66	Pian
+A660	Lésions initiales du pian
+A661	Papillomes multiples et pian plantaire humide (pian-crabe)
+A662	Autres lésions cutanées précoces du pian
+A663	Hyperkératose pianique
+A664	Gommes et ulcères pianiques
+A665	Gangosa
+A666	Lésions ostéo-articulaires pianiques
+A667	Autres manifestations du pian
+A668	Pian latent
+A669	Pian, sans précision
+A67	Pinta [caraté]
+A670	Lésions initiales de la pinta
+A671	Lésions intermédiaires de la pinta
+A672	Lésions tardives de la pinta
+A673	Lésions mixtes de la pinta
+A679	Pinta, sans précision
+A68	Fièvres récurrentes [borrélioses]
+A680	Fièvre récurrente [borréliose] à poux
+A681	Fièvre récurrente [borréliose] à tiques
+A689	Fièvre récurrente [borréliose], sans précision
+A69	Autres infections à spirochètes
+A690	Stomatite ulcéro-nécrotique
+A691	Autres infections dites de Vincent
+A692	Maladie de Lyme
+A698	Autres infections à spirochètes précisées
+A699	Infection à spirochètes, sans précision
+A70	Infection à Chlamydia psittaci
+A71	Trachome
+A710	Phase initiale du trachome
+A711	Phase active du trachome
+A719	Trachome, sans précision
+A74	Autres infections à Chlamydia
+A740	Conjonctivite à Chlamydia (H13.1*)
+A748	Autres infections à Chlamydia précisées
+A749	Infection à Chlamydia, sans précision
+A75	Typhus
+A750	Typhus épidémique à poux dû à Rickettsia prowazekii
+A751	Typhus résurgent [maladie de Brill]
+A752	Typhus à Rickettsia typhi
+A753	Typhus à Rickettsia tsutsugamushi
+A759	Typhus, sans précision
+A77	Fièvre pourprée [rickettsioses à tiques]
+A770	Fièvre pourprée à Rickettsia rickettsii
+A771	Fièvre pourprée à Rickettsia conorii
+A772	Fièvre pourprée due à Rickettsia sibirica
+A773	Fièvre pourprée due à Rickettsia australis
+A778	Autres fièvres pourprées
+A779	Fièvre pourprée, sans précision
+A78	Fièvre Q
+A79	Autres rickettsioses
+A790	Fièvres des tranchées
+A791	Rickettsiose varicelliforme due à Rickettsia akari
+A798	Autres types précisés de rickettsiose
+A799	Rickettsiose, sans précision
+A80	Poliomyélite aiguë
+A800	Poliomyélite paralytique aiguë, associée au virus vaccinal
+A801	Poliomyélite paralytique aiguë, virus sauvage importé
+A802	Poliomyélite paralytique aiguë, virus sauvage indigène
+A803	Poliomyélites paralytiques aiguës, autres et sans précision
+A804	Poliomyélite aiguë non paralytique
+A809	Poliomyélite aiguë, sans précision
+A81	Infections atypiques à virus, du système nerveux central, Comprend: maladies à prions, du système nerveux central
+A810	Maladie de Creutzfeldt-Jakob
+A811	Panencéphalite sclérosante subaiguë
+A812	Leucoencéphalopathie multifocale (progressive)
+A818	Autres infections atypiques à virus, du système nerveux central
+A819	Infection lente à virus, SAI
+A82	Rage
+A820	Rage sylvatique
+A821	Rage des rues [rage citadine]
+A829	Rage, sans précision
+A83	Encéphalite virale transmise par des moustiques
+A830	Encéphalite japonaise
+A831	Encéphalite équine occidentale
+A832	Encéphalite équine orientale
+A833	Encéphalite de Saint-Louis
+A834	Encéphalite australienne
+A835	Encéphalite de Californie
+A836	Maladie à virus de Rocio
+A838	Autres encéphalites virales transmises par des moustiques
+A839	Encéphalite virale transmise par des moustiques, sans précision
+A84	Encéphalite virale transmise par des tiques
+A840	Encéphalite de la taïga [encéphalite verno-estivale russe]
+A841	Encéphalite d Europe centrale transmise par des tiques
+A848	Autres encéphalites virales transmises par des tiques
+A849	Encéphalite virale transmise par des tiques, sans précision
+A85	Autres encéphalites virales, non classées ailleurs
+A850	Encéphalite à entérovirus (G05.1*)
+A851	Encéphalite à adénovirus (G05.1*)
+A852	Encéphalite virale transmise par des arthropodes, sans précision
+A858	Autres encéphalites virales précisées
+A86	Encéphalite virale, sans précision
+A87	Méningite virale
+A870	Méningite à entérovirus (G02.0*)
+A871	Méningite à adénovirus (G02.0*)
+A872	Chorioméningite lymphocytaire
+A878	Autres méningites virales
+A879	Méningite virale, sans précision
+A88	Autres infections virales du système nerveux central, non classées ailleurs
+A880	Fièvre exanthémateuse à entérovirus [exanthème de Boston]
+A881	Vertige épidémique
+A888	Autres infections virales précisées du système nerveux central
+A89	Infection virale du système nerveux central, sans précision
+A90	Dengue [dengue classique]
+A91	Fièvre hémorragique due au virus de la dengue
+A92	Autres fièvres virales transmises par des moustiques
+A920	Fièvre de Chikungunya
+A921	Fièvre due au virus O nyong-nyong
+A922	Fièvre équine vénézuélienne
+A923	Fièvre due au virus West-Nile
+A924	Fièvre de la vallée du Rift
+A928	Autres fièvres virales précisées, transmises par des moustiques
+A929	Fièvre virale transmise par des moustiques, sans précision
+A93	Autres fièvres virales transmises par des arthropodes, non classées ailleurs
+A930	Fièvre d Oropouche
+A931	Fièvre à phlébotome
+A932	Fièvre à tiques du Colorado
+A938	Autres fièvres virales précisées, transmises par des arthropodes
+A94	Fièvre virale transmise par des arthropodes, sans précision
+A95	Fièvre jaune
+A950	Fièvre jaune sylvatique
+A951	Fièvre jaune citadine
+A959	Fièvre jaune, sans précision
+A96	Fièvre hémorragique à arénavirus
+A960	Fièvre hémorragique de Junin
+A961	Fièvre hémorragique de Machupo
+A962	Fièvre de Lassa
+A968	Autres fièvres hémorragiques à arénavirus
+A969	Fièvre hémorragique à arénavirus, sans précision
+A98	Autres fièvres hémorragiques virales, non classées ailleurs
+A980	Fièvre hémorragique de Crimée [du Congo]
+A981	Fièvre hémorragique d Omsk
+A982	Maladie de la forêt de Kyasanur
+A983	Maladie de Marburg
+A984	Maladie à virus Ebola
+A985	Fièvre hémorragique avec syndrome rénal
+A988	Autres fièvres hémorragiques virales précisées
+A99	Fièvre hémorragique virale, sans précision
+B00	Infections par le virus de l herpès [herpes simplex]
+B000	Eczéma herpétique
+B001	Dermite vésiculaire due au virus de l herpès
+B002	Gingivo-stomatite et pharyngo-amygdalite due au virus de l herpès
+B003	Méningite due au virus de l herpès (G02.0*)
+B004	Encéphalite due au virus de l herpès (G05.1*)
+B005	Affections oculaires dues au virus de l herpès
+B007	Sepsis dû au virus de l herpès
+B008	Autres formes d infection due au virus de l herpès
+B009	Infection due au virus de l herpès, sans précision
+B01	Varicelle
+B010	Méningite varicelleuse (G02.0*)
+B011	Encéphalite varicelleuse (G05.1*)
+B012	Pneumopathie varicelleuse (J17.1*)
+B018	Varicelle avec autres complications
+B019	Varicelle (sans complication)
+B02	Zona [herpes zoster]
+B020	Encéphalite zostérienne (G05.1*)
+B021	Méningite zostérienne (G02.0*)
+B022	Zona accompagné d autres manifestations neurologiques
+B023	Zona ophtalmique
+B027	Zona disséminé
+B028	Zona avec autres complications
+B029	Zona (sans complication)
+B03	Variole
+B04	Monkeypox
+B05	Rougeole
+B050	Rougeole compliquée d une encéphalite (G05.1*)
+B051	Rougeole compliquée d une méningite (G02.0*)
+B052	Rougeole compliquée d une pneumopathie (J17.1*)
+B053	Rougeole compliquée d une otite moyenne (H67.1*)
+B054	Rougeole avec complications intestinales
+B058	Rougeole avec autres complications
+B059	Rougeole (sans complication)
+B06	Rubéole
+B060	Rubéole avec complications neurologiques
+B068	Rubéole avec autres complications
+B069	Rubéole (sans complication)
+B07	Verrues d origine virale
+B08	Autres infections virales caractérisées par des lésions cutanéo-muqueuses, non classées ailleurs
+B080	Autres infections à orthopoxvirus
+B081	Molluscum contagiosum
+B082	Exanthème subit [sixième maladie] [roséole infantile]
+B083	Érythème infectieux [cinquième maladie] [mégalérythème épiémique]
+B084	Stomatite vésiculaire avec exanthème, due à un entérovirus
+B085	Pharyngite vésiculaire due à un entérovirus
+B088	Autres infections virales précisées, caractérisées par des lésions cutanéo-muqueuses
+B09	Infection virale caractérisée par des lésions cutanéo-muqueuses, sans précision
+B15	Hépatite aiguë A
+B150	Hépatite A avec coma hépatique
+B159	Hépatite A (sans coma hépatique)
+B16	Hépatite aiguë B
+B160	Hépatite aiguë B avec agent delta, avec coma hépatique
+B161	Hépatite aiguë B avec agent delta, sans coma hépatique
+B162	Hépatite aiguë B sans agent delta, avec coma hépatique
+B169	Hépatite (aiguë) B (sans agent delta et sans coma hépatique)
+B17	Autres hépatites virales aiguës
+B170	(Sur)infection aiguë par agent delta d un sujet porteur de l hépatite B
+B171	Hépatite aiguë C
+B172	Hépatite aiguë E
+B178	Autres hépatites virales aiguës précisées
+B179	Hépatite virale aigüe, Hépatite aigüe sans précision
+B18	Hépatite virale chronique
+B180	Hépatite virale chronique B avec agent delta
+B181	Hépatite virale chronique B sans agent delta
+B182	Hépatite virale chronique C
+B188	Autres hépatites virales chroniques
+B189	Hépatite virale chronique, sans précision
+B19	Hépatite virale, sans précision
+B190	Hépatite virale, sans précision, avec coma
+B199	Hépatite virale, sans précision, (sans coma)
+B20	Immunodéficience humaine virale [VIH], à l origine de maladies infectieuses et parasitaires
+B200	Maladie par VIH à l origine d une infection mycobactérienne
+B201	Maladie par VIH à l origine d autres infections bactériennes
+B202	Maladie par VIH à l origine d infections à cytomégalovirus
+B203	Maladie par VIH à l origine d autres infections virales
+B204	Maladie par VIH à l origine de candidose
+B205	Maladie par VIH à l origine d autres mycoses
+B206	Maladie par VIH à l origine d une pneumopathie à Pneumocystis jirovecii
+B207	Maladie par VIH à l origine d infections multiples
+B208	Maladie par VIH à l origine d autres maladies infectieuses et parasitaires
+B209	Maladie par VIH à l origine d une maladie infectieuse ou parasitaire non précisée
+B21	Immunodéficience humaine virale [VIH], à l origine de tumeurs malignes
+B210	Maladie par VIH à l origine d un sarcome de Kaposi
+B211	Maladie par VIH à l origine d un lymphome de Burkitt
+B212	Maladie par VIH à l origine d autres lymphomes non hodgkiniens
+B213	Maladie par VIH à l origine d autres tumeurs malignes des tissus lymphoïde, hématopoïétique et apparentés
+B217	Maladie par VIH à l origine de tumeurs malignes multiples
+B218	Maladie par VIH à l origine d autres tumeurs malignes
+B219	Maladie par VIH à l origine d une tumeur maligne, sans précision
+B22	Immunodéficience humaine virale [VIH], à l origine d autres affections précisées
+B220	Maladie par VIH à l origine d une encéphalopathie
+B221	Maladie par VIH à l origine d une pneumopathie lymphoïde interstitielle
+B222	Maladie par VIH à l origine d un syndrome cachectique
+B227	Maladie par VIH à l origine de maladies multiples classées ailleurs
+B23	Immunodéficience humaine virale [VIH], à l origine d autres maladies
+B230	Syndrome d infection aiguë par VIH
+B231	Maladie par VIH à l origine d adénopathies généralisées (persistantes)
+B232	Maladie par VIH à l origine d anomalies hématologiques et immunologiques, non classées ailleurs
+B238	Maladie par VIH à l origine d autres états précisés
+B24	Immunodéficience humaine virale [VIH], sans précision
+B24+0	Pré-SIDA [ARC], sans précision
+B24+1	SIDA avéré, sans précision
+B24+9	Infection par le VIH, sans précision
+B25	Maladie à cytomégalovirus
+B250	Pneumopathie à cytomégalovirus (J17.1*)
+B251	Hépatite à cytomégalovirus (K77.0*)
+B252	Pancréatite à cytomégalovirus (K87.1*)
+B258	Rétinite à cytomégalovirus
+B259	Maladie à cytomégalovirus, sans précision
+B26	Oreillons
+B260	Orchite ourlienne (N51.1*)
+B261	Méningite ourlienne (G02.0*)
+B262	Encéphalite ourlienne (G05.1*)
+B263	Pancréatite ourlienne (K87.1*)
+B268	Oreillons avec autres complications
+B269	Oreillons (sans complication)
+B27	Mononucléose infectieuse
+B270	Mononucléose due à herpèsvirus gamma
+B271	Mononucléose à cytomégalovirus
+B278	Autres mononucléoses infectieuses
+B279	Mononucléose infectieuse, sans précision
+B30	Conjonctivite virale
+B300	Kératoconjonctivite due à un adénovirus (H19.2*)
+B301	Conjonctivite due à un adénovirus (H13.1*)
+B302	Pharyngo-conjonctivite virale
+B303	Conjonctivite hémorragique (aiguë épidémique) (entérovirale) (H13.1*)
+B308	Autres conjonctivites virales (H13.1*)
+B309	Conjonctivite virale, sans précision
+B33	Autres maladies à virus, non classées ailleurs
+B330	Myalgie épidémique
+B331	Maladie de la Ross River
+B332	Cardite virale
+B333	Infections à rétrovirus, non classées ailleurs
+B334	Syndrome (cardio-)pulmonaire à hantavirus [hantavirus] [SPH] [SCPH] (J17.1)
+B338	Autres maladies à virus précisées
+B34	Infection adénovirale, siège non précisé
+B340	Infection entérovirale, siège non précisé
+B341	Infection entérovirale, sans précision
+B342	Infection coronavirale, siège non précisé
+B343	Infection parvovirale, siège non précisé
+B344	Infection papovavirale, siège non précisé
+B348	Autres infections virales, siège non précisé
+B349	Infection virale, sans précision
+B35	Dermatophytose
+B350	Teigne de la barbe et du cuir chevelu
+B351	Teigne de l ongle
+B352	Teigne de la main
+B353	Teigne du pied
+B354	Teigne de la peau glabre
+B355	Teigne imbriquée
+B356	Teigne du membre inférieur
+B358	Autres dermatophytoses
+B359	Dermatophytose, sans précision
+B36	Autres mycoses superficielles
+B360	Pityriasis versicolor
+B361	Tinea nigra
+B362	Piedra blanche
+B363	Piedra noire
+B368	Autres mycoses superficielles précisées
+B369	Mycose superficielle, sans précision
+B37	Candidose
+B370	Stomatite à Candida
+B371	Candidose pulmonaire
+B372	Candidose de la peau et des ongles
+B373	Candidose de la vulve et du vagin (N77.1*)
+B374	Candidose d autres localisations uro-génitales
+B375	Méningite à Candida (G02.1*)
+B376	Endocardite à Candida (I39.8*)
+B377	Sepsis à Candida
+B378	Autres localisations de candidose
+B379	Candidose, sans précision
+B38	Coccidioïdomycose
+B380	Coccidioïdomycose pulmonaire aiguë
+B381	Coccidioïdomycose pulmonaire chronique
+B382	Coccidioïdomycose pulmonaire, sans précision
+B383	Coccidioïdomycose cutanée
+B384	Méningite à coccidioïdomycose (G02.1*)
+B387	Coccidioïdomycose disséminée
+B388	Autres formes de coccidioïdomycose
+B389	Coccidioïdomycose, sans précision
+B39	Histoplasmose
+B390	Histoplasmose pulmonaire aiguë à Histoplasma capsulatum
+B391	Histoplasmose pulmonaire chronique à Histoplasma capsulatum
+B392	Histoplasmose pulmonaire à Histoplasma capsulatum, sans précision
+B393	Histoplasmose disséminée à Histoplasma capsulatum
+B394	Histoplasmose à Histoplasma capsulatum, sans précision
+B395	Histoplasmose à Histoplasma duboisii
+B399	Histoplasmose, sans précision
+B40	Blastomycose
+B400	Blastomycose pulmonaire aiguë
+B401	Blastomycose pulmonaire chronique
+B402	Blastomycose pulmonaire, sans précision
+B403	Blastomycose cutanée
+B407	Blastomycose disséminée
+B408	Autres formes de blastomycose
+B409	Blastomycose, sans précision
+B41	Paracoccidioïdomycose
+B410	Paracoccidioïdomycose pulmonaire
+B417	Paracoccidioïdomycose disséminée
+B418	Autres formes de paracoccidioïdomycose
+B419	Paracoccidioïdomycose, sans précision
+B42	Sporotrichose
+B420	Sporotrichose pulmonaire (J99.8*)
+B421	Sporotrichose lympho-cutanée
+B427	Sporotrichose disséminée
+B428	Autres formes de sporotrichose
+B429	Sporotrichose, sans précision
+B43	Chromomycose (chromoblastomycose) et abcès phaeohyphomycosique
+B430	Chromomycose cutanée
+B431	Abcès phaeohyphomycosique du cerveau
+B432	Abcès et kyste phaeohyphomycosiques sous-cutanés
+B438	Autres formes de chromomycose
+B439	Chromomycose, sans précision
+B44	Aspergillose
+B440	Aspergillose pulmonaire invasive
+B441	Autres aspergilloses pulmonaires
+B442	Aspergillose amygdalienne
+B447	Aspergillose disséminée
+B448	Autres formes d aspergillose
+B449	Aspergillose, sans précision
+B45	Cryptococcose
+B450	Cryptococcose pulmonaire
+B451	Cryptococcose cérébrale
+B452	Cryptococcose cutanée
+B453	Cryptococcose osseuse
+B457	Cryptococcose disséminée
+B458	Autres formes de cryptococcose
+B459	Cryptococcose, sans précision
+B46	Zygomycose
+B460	Mucormycose pulmonaire
+B461	Mucormycose rhinocérébrale
+B462	Mucormycose gastro-intestinale
+B463	Mucormycose cutanée
+B464	Mucormycose disséminée
+B465	Mucormycose, sans précision
+B468	Autres zygomycoses
+B469	Zygomycose, sans précision
+B47	Mycétome
+B470	Eumycétome
+B471	Actinomycétome
+B479	Mycétome, sans précision
+B48	Autres mycoses, non classées ailleurs
+B480	Lobomycose
+B481	Rhinosporidose
+B482	Allescheriase
+B483	Géotrichose
+B484	Pénicilliose
+B487	Mycoses opportunistes
+B488	Autres mycoses précisées
+B49	Mycose, sans précision
+B50	Paludisme à Plasmodium falciparum
+B500	Paludisme à Plasmodium falciparum avec complications cérébrales
+B508	Autres formes sévères et compliquées de paludisme à Plasmodium falciparum
+B509	Paludisme à Plasmodium falciparum, sans précision
+B51	Paludisme à Plasmodium vivax
+B510	Paludisme à Plasmodium vivax, avec rupture de la rate
+B518	Paludisme à Plasmodium vivax, avec autres complications
+B519	Paludisme à Plasmodium vivax, (sans complication)
+B52	Paludisme à Plasmodium malariae
+B520	Paludisme à Plasmodium malariae, avec atteinte rénale
+B528	Paludisme à Plasmodium malariae, avec autres complications
+B529	Paludisme à Plasmodium malariae, (sans complication)
+B53	Autres paludismes confirmés par examen parasitologique
+B530	Paludisme à Plasmodium ovale
+B531	Paludisme à plasmodies simiennes
+B538	Autres paludismes, confirmés par examen parasitologique, non classés ailleurs
+B54	Paludisme, sans précision
+B55	Leishmaniose
+B550	Leishmaniose viscérale
+B551	Leishmaniose cutanée
+B552	Leishmaniose cutanéo-muqueuse
+B559	Leishmaniose, sans précision
+B56	Trypanosomiase africaine
+B560	Trypanosomiase à Trypanosoma gambiense
+B561	Trypanosomiase à Trypanosoma rhodesiense
+B569	Trypanosomiase africaine, sans précision
+B57	Maladie de Chagas
+B570	Forme aiguë de la maladie de Chagas, avec atteinte cardiaque (I41.2*, I98.1*)
+B571	Forme aiguë de la maladie de Chagas, (sans atteinte cardiaque)
+B572	Maladie de Chagas (chronique avec atteinte cardiaque) (I41.2*, I98.1*)
+B573	Maladie de Chagas (chronique) avec atteinte de l appareil digestif
+B574	Maladie de Chagas (chronique) avec atteinte du système nerveux
+B575	Maladie de Chagas (chronique) avec atteinte d autres organes
+B58	Toxoplasmose
+B580	Oculopathie à Toxoplasma
+B581	Hépatite à Toxoplasma (K77.0*)
+B582	Méningo-encéphalite à Toxoplasma (G05.2*)
+B583	Toxoplasmose pulmonaire (J17.3*)
+B588	Toxoplasmose avec atteinte d autres organes
+B589	Toxoplasmose, sans précision
+B59	Pneumopathie à Pneumocystis jirovecii
+B60	Autres maladies dues à des protozoaires, non classées ailleurs
+B600	Babésiose
+B601	Acanthamoebiose
+B602	Nægleriase
+B608	Autres maladies précisées dues à des protozoaires
+B6080	Microsporidiose extra-intestinale 
+B6088	Maladie précisée due à d autres protozoaires
+B64	Maladie due à des protozoaires, sans précision
+B65	Schistosomiase [bilharziose]
+B650	Schistosomiase due à Schistosoma haematobium [schistosomiase urinaire]
+B651	Schistosomiase due à Schistosoma mansoni [schistosomiase intestinale]
+B652	Schistosomiase due à Schistosoma japonicum
+B653	Dermite cercarienne
+B658	Autres formes de schistosomiase
+B659	Schistosomiase, sans précision
+B66	Autres infections par douves [distomatoses]
+B660	Opisthorchiase
+B661	Clonorchiase
+B662	Dicrocoeliase
+B663	Fasciolase
+B664	Paragonimiase
+B665	Fasciolopsiase
+B668	Autres infections par douves précisées
+B669	Infection par douves, sans précision
+B67	Échinococcose
+B670	Infection hépatique à Echinococcus granulosus
+B671	Infection pulmonaire à Echinococcus granulosus
+B672	Infection osseuse à Echinococcus granulosus
+B673	Infections à Echinococcus granulosus, autres et à localisations multiples
+B674	Infection à Echinococcus granulosus, sans précision
+B675	Infection hépatique à Echinococcus multilocularis
+B676	Infections à Echinococcus multilocularis, autres et à localisations multiples
+B677	Infection à Echinococcus multilocularis, sans précision
+B678	Infection hépatique à Echinococcus, sans précision
+B679	Infections à Echinococcus, autres et sans précision
+B68	Infection à Taenia [téniase]
+B680	Infection à Taenia solium
+B681	Infection à Taenia saginata
+B689	Infection à Taenia, sans précision
+B69	Cysticercose
+B690	Cysticercose du système nerveux central
+B691	Cysticercose de l oeil
+B698	Cysticercose, autres localisations
+B699	Cysticercose, sans précision
+B70	Diphyllobothriase et sparganose
+B700	Diphyllobothriase
+B701	Sparganose
+B71	Autres infections à cestodes
+B710	Hyménolépiase
+B711	Infection à Dipylidium
+B718	Autres infections par cestodes, précisées
+B719	Infection par cestodes, sans précision
+B72	Dracunculose
+B73	Onchocercose
+B74	Filariose
+B740	Filariose à Wuchereria bancrofti
+B741	Filariose à Brugia malayi
+B742	Filariose à Brugia timori
+B743	Loase
+B744	Mansonellose
+B748	Autres filarioses
+B749	Filariose, sans précision
+B75	Trichinose
+B76	Ankylostomiase
+B760	Ankylostomose
+B761	Nécatorose
+B768	Autres ankylostomiases
+B769	Ankylostomiase, sans précision
+B77	Ascaridiase
+B770	Ascaridiase avec complications intestinales
+B778	Ascaridiase avec autres complications
+B779	Ascaridiase, sans précision
+B78	Anguillulose [strongyloïdose]
+B780	Anguillulose intestinale
+B781	Anguillulose cutanée
+B787	Anguillulose disséminée
+B789	Anguillulose, sans précision
+B79	Infection à Trichuris trichiuria
+B80	Oxyurose
+B81	Autres helminthiases intestinales, non classées ailleurs
+B810	Anisakiase
+B811	Capillariose intestinale
+B812	Trichostrongylose
+B813	Angiostrongyloïdose [angiostrongylose] à Parastrongylus [Angiostrongylus] costaricensis
+B814	Helminthiases intestinales mixtes
+B818	Autres helminthiases intestinales précisées
+B82	Parasitose intestinale, sans précision
+B820	Helminthiase intestinale, sans précision
+B829	Parasitose intestinale, sans précision
+B83	Autres helminthiases
+B830	Larva migrans viscérale
+B831	Gnathostomiase
+B832	Angiostrongyloïdose à Parastrongylus cantonensis
+B833	Syngamose
+B834	Hirudiniase interne
+B838	Autres helminthiases précisées
+B839	Helminthiase, sans précision
+B85	Pédiculose et phtiriase
+B850	Pédiculose due à Pediculus humanus capitis
+B851	Pédiculose due à Pediculus humanus corporis
+B852	Pédiculose, sans précision
+B853	Phtiriase
+B854	Infestation mixte, pédiculose et phtiriase
+B86	Gale
+B87	Myiase
+B870	Myiase cutanée
+B871	Myiase des plaies cutanées
+B872	Myiase oculaire
+B873	Myiase rhinopharyngée
+B874	Myiase auriculaire
+B878	Myiase d autres localisations
+B879	Myiase, sans précision
+B88	Autres infestations
+B880	Autres acariases
+B881	Tungose [infestation par puce-chique]
+B882	Autres infestations par arthropodes
+B883	Hirudiniase externe
+B888	Autres infestations précisées
+B889	Infestation, sans précision
+B89	Parasitose, sans précision
+B90	Séquelles de tuberculose
+B900	Séquelles de tuberculose du système nerveux central
+B901	Séquelles de tuberculose génito-urinaire
+B902	Séquelles de tuberculose des os et des articulations
+B908	Séquelles de tuberculose d autres organes
+B909	Séquelles de tuberculose des voies respiratoires et sans précision
+B91	Séquelles de poliomyélite
+B92	Séquelles de lèpre
+B94	Séquelles de maladies infectieuses et parasitaires, autres et non précisées
+B940	Séquelles du trachome
+B941	Séquelles d encéphalite virale
+B942	Séquelles d hépatite virale
+B948	Séquelles d autres maladies infectieuses et parasitaires précisées
+B949	Séquelles de maladie infectieuse ou parasitaire, sans précision
+O98	Maladies infectieuses et parasitaires de la mère classées ailleurs mais compliquant la grossesse, l accouchement et la puerpéralité
+O980	Tuberculose compliquant la grossesse, l accouchement et la puerpéralité
+O981	Syphilis compliquant la grossesse, l accouchement et la puerpéralité
+O982	Gonococcie compliquant la grossesse, l accouchement et la puerpéralité
+O983	Autres maladies dont le mode de transmission est essentiellement sexuel, compliquant la grossesse, l accouchement et la puerpéralité
+O984	Hépatite virale compliquant la grossesse, l accouchement et la puerpéralité
+O985	Autres maladies virales compliquant la grossesse, l accouchement et la puerpéralité
+O986	Maladies à protozoaires compliquant la grossesse, l accouchement et la puerpéralité
+O988	Autres maladies infectieuses et parasitaires de la mère compliquant la grossesse, l accouchement et la puerpéralité
+O989	Maladie infectieuse ou parasitaire de la mère compliquant la grossesse, l accouchement et la puerpéralité, sans précision
+P35	Maladies virales congénitales
+P350	Syndrome de rubéole congénitale
+P351	Infection congénitale à cytomégalovirus
+P352	Infection virale congénitale herpétique [herpes simplex]
+P353	Hépatite virale congénitale
+P358	Autres maladies virales congénitales
+P359	Maladie virale congénitale, sans précision
+P36	Infection bactérienne du nouveau-né
+P360	Infection du nouveau-né à streptocoques, groupe B
+P3600	Sepsis du nouveau-né à streptocoques, groupe B
+P3609	Infection du nouveau-né à streptocoques, groupe B
+P361	Infections du nouveau-né à streptocoques, autres et sans précision
+P3610	Sepsis du nouveau-né à streptocoques, autres et sans précision
+P3619	Infection du nouveau-né à streptocoques, autres et sans précision
+P362	Infection du nouveau-né à staphylocoques dorés
+P3620	Sepsis du nouveau-né à staphylocoques dorés
+P3629	Infection du nouveau-né à staphylocoques dorés
+P363	Infections du nouveau-né à staphylocoques, autres et sans précision
+P3630	Sepsis du nouveau-né à staphylocoques, autres et sans précision
+P3639	Infection du nouveau-né à staphylocoques, autres et sans précision
+P364	Infection du nouveau-né à Escherichia coli
+P3640	Sepsis du nouveau-né à Escherichia coli
+P3649	Infection du nouveau-né à Escherichia coli
+P365	Infection du nouveau-né due à des anaérobies
+P3650	Sepsis du nouveau-né due à des anaérobies
+P3659	Infection du nouveau-né due à des anaérobies
+P368	Autres infections bactériennes du nouveau-né
+P3680	Autres Sepsiss du nouveau-né
+P3689	Autres infections bactériennes du nouveau-né
+P369	Infection bactérienne du nouveau-né, sans précision
+P3690	Sepsis du nouveau-né, sans précision
+P3699	Infection bactérienne du nouveau-né, sans précision
+P37	Autres maladies infectieuses et parasitaires congénitales
+P370	Tuberculose congénitale
+P371	Toxoplasmose congénitale
+P372	Listériose néonatale (disséminée)
+P373	Paludisme congénital à Plasmodium falciparum
+P374	Autres formes de paludisme congénital
+P375	Candidose néonatale
+P378	Autres maladies infectieuses et parasitaires congénitales précisées
+P379	Maladie infectieuse ou parasitaire congénitale, sans précision
+P38	Omphalite du nouveau-né, avec ou sans hémorragie légère
+P39	Autres infections spécifiques de la période périnatale
+P390	Mastite infectieuse néonatale
+P391	Conjonctivite et dacryocystite néonatales
+P392	Infection intra-amniotique du foetus, non classée ailleurs
+P393	Infection néonatale des voies urinaires
+P394	Infection néonatale de la peau
+P398	Autres infections spécifiques précisées de la période périnatale
+P399	Infection spécifique de la période périnatale, sans précision

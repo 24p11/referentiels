@@ -1,0 +1,10 @@
+ACTE	LIBELLE
+FCFA028	Exérèse de nœud [ganglion] lymphatique du cou à visée thérapeutique, par cervicotomie
+FCFA016	Curage lymphonodal [ganglionnaire] cervical partiel unilatéral, par cervicotomie
+FCFA020	Curage lymphonodal [ganglionnaire] cervical partiel bilatéral, par cervicotomie
+FCFA008	Curage lymphonodal [ganglionnaire] cervical complet unilatéral, par cervicotomie
+FCFA027	Curage lymphonodal [ganglionnaire] cervical complet unilatéral, élargi aux muscles profonds et/ou aux nerfs du cou, à l'artère carotide externe, à la glande parotide, par cervicotomie
+FCFA025	Curage lymphonodal [ganglionnaire] cervical complet unilatéral avec curage partiel controlatéral, par cervicotomie
+FCFA013	Curage lymphonodal [ganglionnaire] cervical complet bilatéral, par cervicotomie
+FCFA005	Curage lymphonodal [ganglionnaire] cervical complet et médiastinorécurrentiel unilatéral, par cervicotomie
+FCFA009	Curage lymphonodal [ganglionnaire] cervical complet et médiastinorécurrentiel bilatéral, par cervicotomie

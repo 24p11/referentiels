@@ -1,0 +1,6 @@
+ACTE	LIBELLE
+GLLD015	Ventilation mécanique intratrachéale avec pression expiratoire positive [PEP] inférieure ou égale à 6 et FiO2 inférieure ou égale à 60%, par 24 heures
+GLLD008	Ventilation mécanique intratrachéale avec pression expiratoire positive [PEP] supérieure à 6 et/ou FiO2 supérieure à 60%, par 24 heures
+GLLD004	Ventilation mécanique intratrachéale avec pression expiratoire positive [PEP] supérieure à 6 et/ou FiO2 supérieure à 60%, avec technique de décubitus ventral alterné par 24 heures
+GLLD009	Ventilation par oscillations à haute fréquence, par 24 heures
+GLLD007	Oxygénothérapie hyperbare avec inhalation d'oxygène pur d'une durée minimale de 60 minutes à une pression de 200 à 280 kilopascals [kPa] chez un patient en ventilation spontanée, pour affection en phase aigüe

@@ -1,0 +1,86 @@
+ACTE	LIBELLE	ORGANE	MARQUEUR
+DEQP007	Surveillance continue E.C.G. + TA + SpO2	CARDIO-VASCULAIRE	
+EQQP011	Surveillance continue PA ou PVC par voie invasive	CARDIO-VASCULAIRE	
+EQQP012	Surveillance continue par cathéter Swan-ganz	CARDIO-VASCULAIRE	
+EQQJ001	surveillance du débit cardiaque par doppler oesophagien	CARDIO-VASCULAIRE	
+EPLF002	Pose d un cathéter veineux central	CARDIO-VASCULAIRE	
+ENLF001	pose de cathéter artériel	CARDIO-VASCULAIRE	
+EQLF004	pose de dispositif de mesure pression débit cardiaque (Swan Ganz)	CARDIO-VASCULAIRE	
+DZQM005	Echograhie doppler cardiaque Trans Thoracique au lit	CARDIO-VASCULAIRE	
+DZQJ006	Echograhie doppler cardiaque Trans Oesophagienne au lit	CARDIO-VASCULAIRE	
+EQLF001	Administration de Dopa ou Dobu  inf. 8 mcg / Kg / min	CARDIO-VASCULAIRE	
+EQLF003	Administration de Dopa ou Dobu sup. 8 mcg / Kg / min ou Adre ou Noradre	CARDIO-VASCULAIRE	M
+EQLF002	Remplissage vasculaire sup. 50 ml / Kg en moins de 24 H	CARDIO-VASCULAIRE	M
+DERP004	Choc électrique externe en urgence	CARDIO-VASCULAIRE	M
+DKMD001	Ressuscitation cardiorespiratoire en dehors d un bloc médicotechnique	CARDIO-VASCULAIRE	M
+DKMD002	Ressuscitation cardiorespiratoire +/- C.E.E. dans bloc médico-technique	CARDIO-VASCULAIRE	M
+DERP005	Stimulation cardiaque temporaire, par voie veineuse transcutanée	CARDIO-VASCULAIRE	M
+GDLD001	masque laryngé ou Combitube	RESPIRATOIRE	
+GELD002	Intubation en dehors d un plateau technique	RESPIRATOIRE	
+GELD003	instillation de surfactant exogène	RESPIRATOIRE	
+GELD004	Intubation trachéale	RESPIRATOIRE	
+GELE001	technique intubation difficile pour une AG	RESPIRATOIRE	
+GELE004	technique intubation difficile	RESPIRATOIRE	
+GELF001	Trachéotomie percutanée	RESPIRATOIRE	
+GEPA004	Trachéotomie, par cervicotomie	RESPIRATOIRE	
+GEHD001	Combicath (prel protégé à l aveugle)	RESPIRATOIRE	
+GEQE009	Fibroscopie + LBA	RESPIRATOIRE	
+GEQE012	Fibroscopie bronchique sur patient intubé	RESPIRATOIRE	
+GEJE003	fibroaspiration sur patient intubé	RESPIRATOIRE	
+GEJE001	Fibroaspiration sur patient non intubé	RESPIRATOIRE	
+GGJB002	Ponction pleurale évacuatrice	RESPIRATOIRE	
+GGJB001	Drainage pleural	RESPIRATOIRE	
+GLLD017	Oxygénothérapie + SpO2 par 24 heures / aerosol thérapeutique	RESPIRATOIRE	
+GLLD003	VNI sans AI, avec PEP, par 24 heures / CPAP	RESPIRATOIRE	M
+GLLD002	VNI discontinue	RESPIRATOIRE	M
+GLLD012	VNI continue	RESPIRATOIRE	M
+GLLD015	VM avec PEP  inf. ou = 6 et/ou FI02  inf. ou = 0,6 si occurrencesup.2jours	RESPIRATOIRE	M
+GLLD008	VM avec PEP sup. 6 et/ou FIO2 sup. 0,6	RESPIRATOIRE	M
+GLLD004	VM avec décubitus ventral	RESPIRATOIRE	M
+GLLD005	monoxyde d azote [NO] inhalé , chez un patient ventilé	RESPIRATOIRE	
+GLLD009	Ventilation à haute fréquence	RESPIRATOIRE	M
+GLLD010	Ventilation liquide	RESPIRATOIRE	M
+GLLD007	VM à poumons séparés	RESPIRATOIRE	M
+GLLD006	VS sur sonde intubation/24h	RESPIRATOIRE	
+GLLD013	V.S. sur trachéotomie (sevrage)	RESPIRATOIRE	
+EPLF003	KT dialyse standard	REIN/UROLOGIE	
+EPLA002	KT dialyse tunnellise / dénudation	REIN/UROLOGIE	
+EPLF003	KT dialyse tunnellisé / percutané	REIN/UROLOGIE	
+EPLF004	KT dialyse = 2 KT ds la même veine	REIN/UROLOGIE	
+JDJD001	Sondage vésical évacuateur	REIN/UROLOGIE	
+JDLD001	Sondage vésical à demeure	REIN/UROLOGIE	
+JDKD002	Changement SAD	REIN/UROLOGIE	
+JVJF002	E.E.R. discontinue pour insuffisance rénale aigue	REIN/UROLOGIE	M
+JVJF005	E.E.R. continue pour insuffisance rénale aigué	REIN/UROLOGIE	M
+HFLE001	sonde digestive / oeso-gastro-duodénoscopie	DIGESTIF/NUTRITION	
+HFLH001	sonde digestive /guidage radiologique	DIGESTIF/NUTRITION	
+HSLD001	Alimentation entérale = 20 à 35 kcal/kg/jour (3 sondalis/J)	DIGESTIF/NUTRITION	
+HSLD002	Alimentation entérale sup. 35 kcal/kg/jour	DIGESTIF/NUTRITION	
+HSLF001	Alim. entérale et parentérale sup. 35 kcal/kg/jour	DIGESTIF/NUTRITION	
+HSLF002	Alimentation parentérale = 20 à 35 kcal/kg/jour (300g glucose/J)	DIGESTIF/NUTRITION	
+HSLF003	Alimentation parentérale sup. 35 kcal/kg/jour	DIGESTIF/NUTRITION	
+AFHB002	Ponction lombaire	DIVERS	
+AGLB001	péridurale à visée antalgique	DIVERS	
+ANLB004	intrathécale à visée antalgique	DIVERS	
+ZZLB004	Sédation et curarisation avec surveillance par stimulateur de nerf	DIVERS	
+FELF003	Transfusion simultanée de 2 P.S.L. non érythrocytaires pour C.I.V.D.	HEMATO	M
+FELF004	Transfusion Massive (sup. 1/2 masse sanguine / 24H)	HEMATO	M
+FELF011	Transfusion de CGR	HEMATO	
+FELF006	PSL non érythrocytaire	HEMATO	M
+FEJF002	Echange plasmatique pour pathologie aigue	HEMATO	M
+FELF012	Exsanguinotransfusion d épuration ou de substitution	HEMATO	
+EQCF001	CEC pour hypothermie accidentelle	DIVERS	
+ZZQP001	TIH ( transport intra hospitalier) médicalisé d un patient non ventilé	DIVERS	
+ZZQP003	TIH patient ventilé	DIVERS	
+GDLD001	Pose d un masque laryngé ou d un Combitube	ANESTHESIE	
+GELD002	Intubation en dh plateau technique	ANESTHESIE	
+GELD004	Intubation trachéale	ANESTHESIE	
+GELE004	Intubation trachéale (tech. Intub.difficile)	ANESTHESIE	
+GELF001	KT transtrachéal (coniotomie)	ANESTHESIE	
+ANMP001	analgésie par PCA	ANESTHESIE	
+ZZLP025	Anesthésie générale ou locorégionale complémentaire niveau 1	ANESTHESIE	
+ZZLP030	Anesthésie générale ou locorégionale complémentaire niveau 2	ANESTHESIE	
+ZZLP042	Anesthésie générale ou locorégionale complémentaire niveau 4	ANESTHESIE	
+ZZLP054	Anesthésie générale ou locorégionale complémentaire niveau 3	ANESTHESIE	
+ZZLP008	Anesthésie générale ou locorégionale complémentaire niveau 5	ANESTHESIE	
+ZZLP012	Anesthésie générale ou locorégionale complémentaire niveau 6	ANESTHESIE	

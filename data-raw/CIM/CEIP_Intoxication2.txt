@@ -1,0 +1,10 @@
+CODE	LIBELLE
+R443	Hallucinations, sans précision
+R784	Présence dans le sang d'autres substances susceptibles d'entraîner une dépendance
+T405	Intoxication par cocaïne
+T436	Intoxication par psychostimulants présentant un risque d'abus
+T509	Intoxication par médicaments et substances biologiques, autres et sans précision
+Y497	Effets indésirables des psychostimulants pouvant faire l'objet d'un abus au cours de leur usage thérapeutique
+Z503	Rééducation des drogués et après abus de médicaments
+Z722	Difficultés liées à l'utilisation de drogues (sans abus)
+Z715	Conseil et surveillance pour toxicomanie et pharmacodépendance

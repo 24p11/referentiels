@@ -1,0 +1,6 @@
+ACTE	LIBELLE
+HFCA002	Gastrostomie cutanée, par laparotomie
+HFCB001	Gastrostomie, par voie transcutanée avec guidage endoscopique
+HFCC002	Gastrostomie cutanée, par coelioscopie
+HFCH001	Gastrostomie, par voie transcutanée avec guidage échographique et/ou radiologique
+

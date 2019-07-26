@@ -1,0 +1,9 @@
+CODE	LIBELLE
+J10	Grippe, à virus grippal saisonnier identifié
+J100	Grippe avec pneumopathie, virus grippal saisonnier identifié
+J101	Grippe avec d'autres manifestations respiratoires, virus grippal saisonnier identifié
+J108	Grippe avec d'autres manifestations, virus grippal saisonnier identifié
+J11	Grippe, virus non identifié
+J110	Grippe avec pneumopathie, virus non identifié
+J111	Grippe avec d'autres manifestations respiratoires, virus non identifié
+J118	Grippe avec d'autres manifestations, virus non identifié

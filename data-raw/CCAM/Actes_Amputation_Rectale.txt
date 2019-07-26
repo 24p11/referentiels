@@ -1,0 +1,5 @@
+ACTE	LIBELLE
+HJFA005	Amputation du rectum, par abord périnéal
+HJFA007	Amputation du rectum, par laparotomie et par abord périnéal
+HJFA019	Amputation du rectum, par cœlioscopie ou par laparotomie avec préparation par cœlioscopie et par abord périnéal
+

@@ -1,0 +1,143 @@
+Type	Acte
+Adénoïdectomies	FAFA001
+Adénoïdectomies	FAFA002
+Adénoïdectomies	FAFA008
+Adénoïdectomies	FAFA013
+Arthroscopies du genou hors ligamentoplasties	NFEC001
+Arthroscopies du genou hors ligamentoplasties	NFEC002
+Arthroscopies du genou hors ligamentoplasties	NFFC003
+Arthroscopies du genou hors ligamentoplasties	NFFC004
+Arthroscopies du genou hors ligamentoplasties	NFJC001
+Arthroscopies du genou hors ligamentoplasties	NFJC002
+Arthroscopies du genou hors ligamentoplasties	NFQC001
+Chirurgie anale	HJAD001
+Chirurgie anale	HKFA001
+Chirurgie anale	HKFA008
+Chirurgie anale	HKFA009
+Chirurgie anale	HKPA003
+Chirurgie anale	HKPA006
+Chirurgie anale	EGFA005
+Chirurgie anale	EGJA001
+Chirurgie du canal carpien et autres libérations nerveuses (MS)	AHPA009
+Chirurgie du canal carpien et autres libérations nerveuses (MS)	AHPA021
+Chirurgie du canal carpien et autres libérations nerveuses (MS)	AHPA022
+Chirurgie du canal carpien et autres libérations nerveuses (MS)	AHPA023
+Chirurgie du canal carpien et autres libérations nerveuses (MS)	AHPA028
+Chirurgie du canal carpien et autres libérations nerveuses (MS)	AHPC001
+Chirurgie de la conjonctive (ptérygion)	BCFA003
+Chirurgie de la conjonctive (ptérygion)	BCFA004
+Chirurgie de la conjonctive (ptérygion)	BCFA005
+Chirurgie de la conjonctive (ptérygion)	BCFA006
+Chirurgie de la conjonctive (ptérygion)	BCFA008
+Chirurgie de la conjonctive (ptérygion)	BCFA009
+Chirurgie de la maladie de Dupuytren	MJFA006
+Chirurgie de la maladie de Dupuytren	MJFA010
+Chirurgie de la maladie de Dupuytren	MJPA005
+Chirurgie de la maladie de Dupuytren	MJPB001
+Chirurgie des bourses	JHDA001
+Chirurgie des bourses	JHEA002
+Chirurgie des bourses	JHFA001
+Chirurgie des bourses	JHFA004
+Chirurgie des bourses	JHFA013
+Chirurgie des bourses	JHFA014
+Chirurgie des bourses	EGFA008
+Chirurgie des bourses	EGFA010
+Chirurgie des bourses	EGFC001
+Chirurgie des bourses	EGSA001
+Chirurgie des bourses	EGSA002
+Chirurgie des bourses	EGSF001
+Chirurgie des bourses	EGSF002
+Chirurgie des bourses	EGSF003
+Chirurgie des bourses	JHBA001
+Chirurgie des bourses	JHSA001
+Chirurgie des hernies inguinales	LMMA012
+Chirurgie des hernies inguinales	LMMA015
+Chirurgie des hernies inguinales	LMMA016
+Chirurgie des hernies inguinales	LMMA017
+Chirurgie des hernies inguinales	LMMC002
+Chirurgie des hernies inguinales	LMMC003
+Chirurgie des hernies inguinales	LMMA008
+Chirurgie des varices	EJFA002
+Chirurgie des varices	EJFA004
+Chirurgie des varices	EJFA006
+Chirurgie des varices	EJFA007
+Chirurgie des varices	EJFB001
+Chirurgie des varices	EJGA001
+Chirurgie des varices	EJGA002
+Chirurgie des varices	EJGA003
+Chirurgie des varices	EJSA001
+Chirurgie des varices	EJSA002
+Chirurgie des varices	EJSA003
+Chirurgie du cristallin	BFEA001
+Chirurgie du cristallin	BFGA001
+Chirurgie du cristallin	BFGA002
+Chirurgie du cristallin	BFGA003
+Chirurgie du cristallin	BFGA004
+Chirurgie du cristallin	BFGA005
+Chirurgie du cristallin	BFGA006
+Chirurgie du cristallin	BFGA007
+Chirurgie du cristallin	BFGA008
+Chirurgie du cristallin	BFGA009
+Chirurgie du cristallin	BFGA010
+Chirurgie du cristallin	BFKA001
+Chirurgie du cristallin	BFLA001
+Chirurgie du cristallin	BFLA002
+Chirurgie du cristallin	BFLA003
+Chirurgie du cristallin	BFLA004
+Chirurgie du sein/tumorectomie	QEFA004
+Chirurgie réparatrice des ligaments et tendons (main)	MJPA013
+Chirurgie réparatrice des ligaments et tendons (main)	PCPA006
+Chirurgie réparatrice des ligaments et tendons (main)	MHCA002
+Chirurgie réparatrice des ligaments et tendons (main)	MHCA003
+Chirurgie du strabisme	BJDA001
+Chirurgie du strabisme	BJDA002
+Chirurgie du strabisme	BJEA001
+Chirurgie du strabisme	BJMA001
+Chirurgie du strabisme	BJMA002
+Chirurgie du strabisme	BJMA003
+Chirurgie du strabisme	BJMA004
+Chirurgie du strabisme	BJMA005
+Chirurgie du strabisme	BJMA006
+Chirurgie du strabisme	BJMA007
+Chirurgie du strabisme	BJMA008
+Chirurgie du strabisme	BJMA009
+Chirurgie utérus, vulve,vagin et AMP	JKFA031
+Chirurgie utérus, vulve,vagin et AMP	JKFE001
+Chirurgie utérus, vulve,vagin et AMP	JKFE002
+Chirurgie utérus, vulve,vagin et AMP	JKNE001
+Chirurgie utérus, vulve,vagin et AMP	JKND001
+Chirurgie utérus, vulve,vagin et AMP	JKPE001
+Chirurgie utérus, vulve,vagin et AMP	JKFE003
+Chirurgie utérus, vulve,vagin et AMP	JKND002
+Chirurgie utérus, vulve,vagin et AMP	JJPE001
+Chirurgie utérus, vulve,vagin et AMP	JNBD001
+Chirurgie utérus, vulve,vagin et AMP	JNJD002
+Chirurgie utérus, vulve,vagin et AMP	JJFJ001
+Chirurgie utérus, vulve,vagin et AMP	JHFB001
+Coelioscopies gynécologiques	JJPC003
+Exérèses de kystes synoviaux	MGFA004
+Exérèses de kystes synoviaux	MGFA007
+Exérèses de kystes synoviaux	MHFA002
+Extraction dentaire	HBGD003
+Extraction dentaire	HBGD004
+Extraction dentaire	HBGD007
+Extraction dentaire	HBGD010
+Extraction dentaire	HBGD016
+Extraction dentaire	HBGD017
+Extraction dentaire	HBGD018
+Extraction dentaire	HBGD021
+Extraction dentaire	HBGD025
+Extraction dentaire	HBGD026
+Extraction dentaire	HBGD029
+Extraction dentaire	HBGD038
+Extraction dentaire	HBGD042
+Extraction dentaire	HBGD045
+Extraction dentaire	HBED005
+Extraction dentaire	HBED022
+Extraction dentaire	HBGD005
+Extraction dentaire	HBGD011
+Extraction dentaire	HBGD012
+Extraction dentaire	HBJD004
+Extraction dentaire	HBMD013
+Extraction dentaire	HBPA001
+Extraction dentaire	HBPD002

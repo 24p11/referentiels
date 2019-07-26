@@ -1,0 +1,7 @@
+﻿CODE	LIBELLE
+D860	Sarcoïdose du poumon
+D861	Sarcoïdose des ganglions lymphatiques
+D862	Sarcoïdose du poumon avec sarcoïdose des ganglions lymphatiques
+D863	Sarcoïdose de la peau
+D868	Sarcoïdose de localisations autres et associées
+D869	Sarcoïdose, sans précision

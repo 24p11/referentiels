@@ -1,0 +1,67 @@
+CODE	LIBELLE
+D630	anémie au cours de maladies tumorales
+K520	gastro-entérite et colite dues à une irradiation
+K627	rectite due à une irradiation
+G533	paralysie de plusieurs nerfs crâniens au cours de maladies tumorales
+G550	compression des racines et des plexus nerveux au cours de maladies tumorales
+G631	polynévrite au cours de maladies tumorales
+G732	autres syndromes myasthéniques au cours de maladies tumorales
+G941	hydrocéphalie au cours de maladies tumorales
+L580	radiodermite aiguë
+L598	autres affections précisées de la peau et du tissu cellulaire sous-cutané liées à une irradiation
+M360	dermato(poly)myosite au cours de maladies tumorales
+M361	arthropathie au cours de maladies tumorales classées ailleurs
+M906	ostéite déformante au cours de maladies tumorales
+M907	fracture osseuse au cours de maladies tumorales
+Z080	examen de contrôle après traitement chirurgical d'une tumeur maligne
+Z081	examen de contrôle après radiothérapie pour tumeur maligne
+Z082	examen de contrôle après chimiothérapie pour tumeur maligne
+Z087	examen de contrôle après traitements combinés pour tumeur maligne
+Z088	examen de contrôle après d'autres traitements pour tumeur maligne
+Z089	examen de contrôle après traitement pour tumeur maligne, sans précision
+Z511	séance de chimiothérapie pour tumeur
+Z542	convalescence après chimiothérapie
+Z850	antécédents personnels de tumeur maligne des organes digestifs
+Z851	antécédents personnels de tumeur maligne de la trachée, des bronches et des poumons
+Z852	antécédents personnels de tumeur maligne d'autres organes respiratoires et intrathoraciques
+Z853	antécédents personnels de tumeur maligne du sein
+Z854	antécédents personnels de tumeur maligne des organes génitaux
+Z855	antécédents personnels de tumeur maligne des voies urinaires
+Z856	antécédents personnels de leucémie
+Z857	antécédents personnels d'autres tumeurs malignes des tissus lymphoïde, hématopoïétique et apparentés
+Z858	antécédents personnels de tumeurs malignes d'autres organes et systèmes
+Z859	antécédents personnels de tumeur maligne, sans précision
+Z5100	Préparation à une radiothérapie
+Z5101	Séance d'irradiation
+Z8500	Antécédents personnels de tumeur maligne du tube digestif
+Z8501	Antécédents personnels de tumeur maligne du système hépatobiliaire et du pancréas
+Z8502	Antécédents personnels de tumeur maligne de la rate
+Z8509	Antécédents personnels de tumeur maligne des organes digestifs, sans précision
+Z8520	Antécédents personnels de tumeur maligne des voies aériennes supérieures et de l'oreille moyenne
+Z8521	Antécédents personnels de tumeur maligne du cur
+Z8528	Antécédents personnels de tumeur maligne d'autres organes intrathoraciques précisés
+Z8529	Antécédents personnels de tumeur maligne des autres organes respiratoires et intrathoraciques, sans précision
+Z85800	Antécédents personnels de tumeur maligne du système nerveux
+Z85801	Antécédents personnels de tumeur maligne de l'il
+Z85802	Antécédents personnels de tumeur maligne de la gorge et de la bouche
+Z85803	Antécédents personnels de tumeur maligne de l'appareil musculosquelettique et du tissu conjonctif
+Z85804	Antécédents personnels de tumeur maligne de la peau et des tissus souscutanés
+Z85805	Antécédents personnels de tumeur maligne des glandes endocrines
+Z85880	Antécédents personnels de tumeur maligne d'autres localisations
+
+Z85880
+Z859
+D630
+G533
+G550
+G631
+G732
+G941
+K520
+K627
+L580
+L598
+M360
+M361
+M906
+M907

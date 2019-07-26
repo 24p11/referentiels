@@ -1,0 +1,9 @@
+CODE	LIBELLE
+L940	sclérodermie localisée [morphée]
+L941	sclérodermie linéaire
+M34	sclérose systémique
+M340	sclérose systémique progressive
+M341	syndrome CR(E)ST
+M342	sclérose systémique due à des médicaments et des produits chimiques
+M348	autres formes de sclérose systémique
+M349	sclérose systémique, sans précision

@@ -1,0 +1,99 @@
+CODE	LIBELLE
+C150	oesophage cervical
+C151	oesophage thoracique
+C152	oesophage abdominal
+C153	tiers supérieur de l'oesophage
+C154	tiers moyen de l'oesophage
+C155	tiers inférieur de l'oesophage
+C158	lésion à localisations contiguës de l'oesophage
+C159	oesophage, sans précision
+C160	cardia
+C161	fundus
+C162	corps de l'estomac
+C163	antre pylorique
+C164	pylore
+C165	petite courbure de l'estomac, sans précision
+C166	grande courbure de l'estomac, sans précision
+C168	lésion à localisations contiguës de l'estomac
+C169	estomac, sans précision
+C170	duodénum
+C171	jéjunum
+C172	iléon
+C173	diverticule de Meckel
+C178	lésion à localisations contiguës de l'intestin grêle
+C179	intestin grêle, sans précision
+C180	caecum
+C181	appendice
+C182	côlon ascendant
+C183	angle droit du côlon
+C184	côlon transverse
+C185	angle gauche du côlon
+C186	côlon descendant
+C187	côlon sigmoïde
+C188	lésion à localisations contiguës du côlon
+C189	côlon, sans précision
+C19	tumeur maligne de la jonction recto-sigmoïdienne
+C20	tumeur maligne du rectum
+C210	anus, sans précision
+C211	canal anal
+C212	zone cloacale
+C218	lésion à localisations contiguës du rectum, de l'anus et du canal anal
+C220	carcinome hépatocellulaire
+C221	carcinome du canal biliaire intrahépatique
+C222	hépatoblastome
+C223	angiosarcome du foie
+C224	autres sarcomes du foie
+C227	autres carcinomes du foie précisés
+C229	foie, sans précision
+C23	tumeur maligne de la vésicule biliaire
+C240	canal biliaire extra-hépatique
+C241	ampoule de Vater
+C248	lésion à localisations contiguës des voies biliaires
+C249	voies biliaires, sans précision
+C250	tête du pancréas
+C251	corps du pancréas
+C252	queue du pancréas
+C253	canal pancréatique
+C254	pancréas endocrine
+C257	autres parties du pancréas
+C258	lésion à localisations contiguës du pancréas
+C259	pancréas, sans précision
+C261	rate
+C268	lésion à localisations contiguës de l'appareil digestif
+C451	mésothéliome du péritoine
+C481	parties précisées du péritoine
+C482	péritoine, sans précision
+C488	lésion à localisations contiguës du rétropéritoine et du péritoine
+C784	tumeur maligne secondaire de l'intestin grêle
+C785	tumeur maligne secondaire du gros intestin et du rectum
+C786	tumeur maligne secondaire du rétropéritoine et du péritoine
+C787	tumeur maligne secondaire du foie
+C788	tumeur maligne secondaire des organes digestifs, autres et non précisés
+D001	oesophage
+D002	estomac
+D010	côlon
+D011	jonction recto-sigmoïdienne
+D012	rectum
+D013	anus et canal anal
+D014	parties de l'intestin, autres et non précisées
+D015	foie, vésicule et voies biliaires
+D017	autres organes digestifs précisés
+D371	estomac
+D372	intestin grêle
+D373	appendice
+D374	côlon
+D375	rectum
+D376	foie, vésicule et voies biliaires
+D377	autres organes digestifs
+D484	péritoine
+C169+0	Estomac, tumeur maligne familiale liée au gène CDH 1
+C169+8	Estomac, tumeurs malignes autres et non précisées
+C189+0	Syndrome de Lynch
+C189+8	Côlon, tumeurs malignes autres et non précisées
+C254+0	Pancréas endocrine, tumeur maligne avec néoplasie endocrine multiple de type I [NEM 1]
+C254+8	Pancréas endocrine, tumeurs malignes autres et non précisées
+C259+0	Pancréas, tumeur maligne familiale
+C259+8	Pancréas, tumeurs malignes autres et non précisées
+C4671	Sarcome de Kaposi digestif
+D4830	Tératome sacrococcygien [dysembryome]
+

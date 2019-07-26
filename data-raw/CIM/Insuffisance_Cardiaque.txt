@@ -1,0 +1,4 @@
+CODE	LIBELLE
+I500	Insuffisance cardiaque congestive 
+I501	Insuffisance ventriculaire gauche 
+I509	Insuffisance cardiaque, sans précision 

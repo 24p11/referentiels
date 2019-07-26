@@ -1,0 +1,18 @@
+DIAG	DIAG.LIBELLE	ACTE	ACTE.LIBELLE	GRP
+C810	Maladie de Hodgkin avec prédominance lymphocytaire	PDFA001	Exérèse de lésion fasciale et/ou sousfasciale des tissus mous, sans dissection d'un gros tronc vasculaire ou nerveux	1
+L851	Kératose [kératodermie] palmaire et plantaire acquise	QZEA004	Greffe cutanée en sandwich, sur 5% à 7,5% de la surface corporelle	1
+I832	Varices des membres inférieurs, avec ulcère et inflammation	QAJA002	Parage et/ou suture de plaie superficielle de la peau de la face de plus de 10 cm de grand axe	1
+Z8700	Antécédents personnels de maladies des voies respiratoires supérieures	GAMA015	Plastie narinaire pour collapsus de la valve nasale interne	1
+G510	Paralysie faciale a frigore	QAMA013	Réparation de perte de substance de l'extrémité céphalique par lambeau musculaire ou musculocutané	4
+Z945	Présence de greffe de peau	QZEA031	Autogreffe de peau totale sur une localisation de surface inférieure à 10 cm²	1
+C774	Tumeur maligne secondaire et non précisée des ganglions lymphatiques inguinaux et du membre inférieur	PDFA002	Exérèse de lésion fasciale et/ou sousfasciale des tissus mous, avec dissection de gros tronc vasculaire et/ou nerveux	1
+R590	Adénopathies localisées	FCFA021	Exérèse de noeud [ganglion] lymphatique des membres à visée diagnostique, par abord direct	1
+G518	Autres affections du nerf facial	BAAA001	Allongement du muscle releveur de la paupière supérieure et/ou section de sa lame profonde [muscle de Müller], avec interposition de matériau inerte ou autogreffe	4
+R590	Adénopathies localisées	FCFA028	Exérèse de noeud [ganglion] lymphatique du cou à visée thérapeutique, par cervicotomie	1
+C779	Tumeur maligne des ganglions lymphatiques, sans précision	FCFA019	Curage lymphonodal [ganglionnaire] iliaque unilatéral ou bilatéral, par laparotomie	1
+T857	Infection et réaction inflammatoire dues à d'autres prothèses, implants et greffes internes	QEGA004	Ablation bilatérale d'implant prothétique mammaire, avec capsulectomie	2
+S508	Autres lésions traumatiques superficielles de l'avant-bras	QZEA039	Autogreffe de peau mince ou demiépaisse, pleine ou en filet, sur une surface de 50 cm² à 200 cm²	2
+Z523	Donneur de moelle osseuse	FDFB001	Prélèvement de cellules souches hématopoïétiques médullaires [Prélèvement de moelle osseuse], pour thérapie cellulaire	1
+L981	Dermite factice	QZJA002	Parage et/ou suture de plaie superficielle de la peau de moins de 3 cm de grand axe, en dehors de la face	1
+M204	Autre(s) orteil(s) en marteau (acquis)	NHMA002	Arthroplastie par résection de l'articulation ou arthrodèse interphalangienne d'un orteil latéral	1
+D033	Mélanome in situ de parties de la face, autres et non précisées	GAFA002	Exérèse subtotale ou totale [amputation] de la pointe et/ou de l'aile du nez	1

@@ -1,0 +1,31 @@
+TYPE
+Exploration des sites parathyroidiens
+Lobo-isthmectomie de la thyroïde
+Lobo-isthmectomie de la thyroïde, adénome parathyroïdien
+Lobo-isthmectomie de la thyroïde, curage récurrentiel, totalisation
+Lobo-isthmectomie droite
+Lobo-isthmectomie droite+extempo
+Lobo-isthmectomie gauche
+Lobo-isthmectomie gauche+extempo
+Parathyroidectomie
+Parathyroïdectomie double
+Parathyroïdectomie simple
+Parathyroïdectomie subtotale
+Parotidectomie partielle
+Parotidectomie Partielle
+Parotidectomie superficielle ou exofaciale
+Parotidectomie totale
+Parotidectomie Totale
+Parotidectomie totale + curage
+Parotidectomie totale, curage :
+Parotidectomie totale, lambeau, curage
+Thyroidectomie totale
+Thyroïdectomie totale
+Thyroïdectomie totale, curage récurrentiel
+Thyroïdectomie totale, sternotomie
+Thyroidectomie totale+curage
+Thyroidectomie totale+curage (CMT)
+Thyroidectomie totale+extempo
+Totalisation de thyroidectomie
+Totalisation de thyroïdectomie
+Totalisation de thyroidectomie+curage

@@ -1,0 +1,10 @@
+CODE	LIBELLE
+E85	amylose
+E850	amylose hérédofamiliale non neuropathique
+E851	amylose hérédofamiliale neuropathique
+E852	amylose hérédofamiliale, sans précision
+E853	amylose généralisée secondaire
+E854	amylose limitée à un ou plusieurs organe(s)
+E858	autres amyloses
+E859	amylose, sans précision
+L990	amylose cutanée

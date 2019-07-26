@@ -1,0 +1,20 @@
+TYPE
+Colectomie (sub)totale, avec anastomose, coelioscopie
+Colectomie (sub)totale, avec anastomose, laparotomie
+Colectomie (sub)totale, avec/sans anastomose, laparotomie
+Colectomie (sub)totale, sans anastomose, coelioscopie
+Colectomie (sub)totale, sans anastomose, laparotomie
+Colectomie droite, avec anastomose, coelioscopie
+Colectomie droite, avec anastomose, laparotomie
+Colectomie droite, sans anastomose, coelioscopie
+Colectomie droite, sans anastomose, laparotomie
+Colectomie gauche, avec anastomose, coelioscopie
+Colectomie gauche, avec anastomose, laparotomie
+Colectomie gauche, avec anastomose/mobilisation angle gauche, coelioscopie
+Colectomie gauche, avec anastomose/mobilisation angle gauche, laparotomie
+Colectomie gauche, sans anastomose , laparotomie
+Colectomie gauche, sans anastomose, coelioscopie
+Colectomie gauche, sans anastomose, laparotomie
+Colectomie totale, avec anastomose, coelioscopie
+Colectomie transverse, avec/sans anastomose, laparotomie
+Colectomie(sub)totale, avec anastomose, laparotomie

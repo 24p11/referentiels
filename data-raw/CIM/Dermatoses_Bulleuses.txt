@@ -1,0 +1,30 @@
+CODE	LIBELLE
+L10	pemphigus
+L100	pemphigus vulgaire
+L101	pemphigus végétant
+L102	pemphigus foliacé
+L103	pemphigus brésilien [fogo selvagem]
+L104	pemphigus érythémateux
+L105	pemphigus médicamenteux
+L108	autres formes de pemphigus
+L109	pemphigus, sans précision
+L11	autres acantholyses
+L110	kératose folliculaire acquise
+L111	dermatose acantholytique transitoire [Grover]
+L118	autres formes précisées d'acantholyse
+L119	acantholyse, sans précision
+L12	pemphigoïde
+L120	pemphigoïde bulleux
+L121	pemphigoïde cicatriciel
+L122	maladie chronique bulleuse de l'enfance
+L123	épidermolyse bulleuse acquise
+L128	autres pemphigoïdes
+L129	pemphigoïde, sans précision
+L13	autres dermatoses bulleuses
+L130	dermite herpétiforme
+L131	pustulose sous-cornée
+L138	autres dermatoses bulleuses précisées
+L139	dermatose bulleuse, sans précision
+L511	érythème polymorphe bulleux
+L431	lichen plan bulleux
+O264	herpes gestationis

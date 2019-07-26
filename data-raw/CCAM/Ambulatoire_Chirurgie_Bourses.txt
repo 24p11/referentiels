@@ -1,0 +1,5 @@
+ACTE	LIBELLE
+JHBA001	Plicature de la tunique vaginale du testicule, par abord scrotal       
+JHFA001	Exérèse d'un kyste du cordon spermatique chez l'adulte, par abord inguinal
+JHFA004	Exérèse d'un kyste de l'épididyme, par abord scrotal         
+JHFA013	Résection de la tunique vaginale du testicule, par abord scrotal          

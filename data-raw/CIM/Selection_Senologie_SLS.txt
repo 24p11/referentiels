@@ -1,0 +1,16 @@
+CODE	LIBELLE
+D24	Tumeur bénigne du sein 
+D486	Tumeur à évolution imprévisible et inconnue du sein 
+D050	Carcinome in situ lobulaire 
+D051	Carcinome in situ intracanaliculaire 
+D057	Autres carcinomes in situ du sein 
+D059	Carcinome in situ du sein, sans précision 
+C500	Tumeur maligne du mamelon et de l'aréole 
+C501	Tumeur maligne de la partie centrale du sein 
+C502	Tumeur maligne du quadrant supéro-interne du sein 
+C503	Tumeur maligne du quadrant inféro-interne du sein 
+C504	Tumeur maligne du quadrant supéro-externe du sein 
+C505	Tumeur maligne du quadrant inféro-externe du sein 
+C506	Tumeur maligne du prolongement axillaire du sein 
+C508	Tumeur maligne à localisations contiguës du sein 
+C509	Tumeur maligne

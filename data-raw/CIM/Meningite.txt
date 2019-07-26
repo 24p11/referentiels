@@ -1,0 +1,19 @@
+CODE	LIBELLE
+G00	Méningite bactérienne, non classée ailleurs
+G000	Méningite à Haemophilus
+G001	Méningite à pneumocoques
+G002	Méningite à streptocoques
+G003	Méningite à staphylocoques
+G008	Autres méningites bactériennes
+G009	Méningite bactérienne, sans précision
+G01	Méningite au cours d'affections bactériennes classées ailleurs
+G02	Méningite au cours d'autres maladies infectieuses et parasitaires classées ailleurs
+G020	Méningite au cours d'infections virales classées ailleurs
+G021	Méningite au cours de mycoses classées ailleurs
+G028	Méningite au cours d'autres maladies infectieuses et parasitaires précisées classées ailleurs
+G03	Méningite due à des causes autres et non précisées
+G030	Méningite à liquide clair
+G031	Méningite chronique
+G032	Méningite récurrente bénigne [Mollaret]
+G038	Méningite due à d'autres causes précisées
+G039	Méningite, sans précision

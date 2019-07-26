@@ -1,0 +1,7 @@
+ACTE	LIBELLE
+JDFE001	Résection de 4 tumeurs de la vessie ou plus, par endoscopie
+JDFE002	Résection de 1 à 3 tumeurs de la vessie, par endoscopie
+JDNE001	Destruction de lésion de la vessie, par endoscopie
+JDHE001	Biopsie de la vessie à l'anse coupante, par endoscopie
+JDHE002	Biopsie de l'urètre à la pince, par endoscopie
+JDHE003	Biopsie de l'urètre à l'anse coupante, par endoscopie

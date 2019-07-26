@@ -1,0 +1,3 @@
+CODE	LIBELLE
+C20	Tumeur maligne du rectum
+D128	Tumeur bénigne du rectum

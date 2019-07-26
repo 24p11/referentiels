@@ -1,0 +1,3 @@
+CODE	LIBELLE
+P050	Faible poids pour l'âge gestationnel
+P071	Autres poids faibles à la naissance

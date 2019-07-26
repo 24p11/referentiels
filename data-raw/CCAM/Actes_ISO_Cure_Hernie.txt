@@ -1,0 +1,17 @@
+﻿ACTE	LIBELLE
+HPSA001	Ligature du processus vaginal du peritoine [canal peritoneovaginal], par abord inguinal
+HPSC001	Ligature du processus vaginal du peritoine [canal peritoneovaginal], par coelioscopie
+LMMA001	Cure bilaterale d'une hernie de l'aine avec pose de prothese, par abord inguinal
+LMMA002	Cure bilaterale de hernie de l'aine avec pose de prothese, par abord unique preperitoneal
+LMMA006	Cure d'une hernie de la paroi abdominale anterieure apres l'age de 16 ans avec pose de prothese, par abord direct
+LMMA008	Cure unilaterale d'une hernie de l'aine avec pose de prothese, par abord preperitoneal
+LMMA009	Cure d'une hernie de la paroi abdominale anterieure apres l'age de 16 ans sans pose de prothese, par abord direct
+LMMA011	Cure d'une hernie crurale, par abord inguinocrural
+LMMA014	Cure d'une hernie de la paroi abdominale anterieure avant l'age de 16 ans, par abord direct
+LMMC001	Cure bilaterale d'une hernie de l'aine avec pose de prothese, par videochirurgie
+LMMC003	Cure unilaterale d'une hernie de l'aine sans pose de prothese, par videochirurgie
+LMMC004	Cure bilaterale d'une hernie de l'aine sans pose de prothese, par videochirurgie
+LMMA016	Cure unilaterale d'une hernie de l'aine sans pose de prothese sous anesthesie locale, par abord inguinal
+LMMA018	Cure bilaterale d'une hernie de l'aine sans pose de prothese sous anesthesie generale ou locoregionale, par abord inguinal
+LMMA019	Cure bilaterale d'une hernie de l'aine sans pose de prothese sous anesthesie locale, par abord inguinal
+LMMC020	Cure de hernie de la paroi abdominale anterieure apres l'age de 16 ans avec pose de prothese, par coelioscopie

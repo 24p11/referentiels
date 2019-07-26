@@ -1,0 +1,3 @@
+GHM	LIBELLE
+14Z08Z	Interruption volontaire de grossesse : séjours de moins de 3 jours
+24Z15Z	Interruption volontaire de grossesse

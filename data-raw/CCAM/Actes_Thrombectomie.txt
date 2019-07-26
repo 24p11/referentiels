@@ -1,0 +1,28 @@
+﻿CODE	LIBELLE
+EDFA002	Thrombectomie d'artère digestive, par laparotomie
+EEFA004	Thrombectomie d'artère du membre inférieur, par abord inguinofémoral
+EGFA004	Thrombectomie veineuse fémoro-iliaque, par abord fémoral
+EEFA002	Thrombectomie d'artère du membre inférieur, par abord poplité
+EFFA003	Thrombectomie de veine superficielle des membres ou du cou, par abord direct
+DHFA003	Thrombectomie des veines iliaques et/ou de la veine cave inférieure, par laparotomie
+ECFA002	Thrombectomie d'une artère du membre supérieur, par abord direct
+ENFA005	Changement d'un pontage artériel d'un membre avec thrombectomie de l'axe artériel, par abord direct
+EDFA008	Thrombectomie de l'artère rénale, par laparotomie ou par lombotomie
+ENFF001	Thrombectomie ou embolectomie mécanique d'un pontage artériel non anatomique des membres, par voie artérielle transcutanée
+JAFA014	Néphrectomie totale élargie à la loge rénale avec thrombectomie par cavotomie, par laparotomie ou par abord lomboabdominal
+EBFA005	Thrombectomie de l'artère carotide commune, par cervicotomie
+DGFA010	Thrombectomie de l'aorte abdominale, de l'artère iliaque commune et/ou de l'artère iliaque externe, par laparotomie
+ENFA001	Thrombectomie de pontage artériel d'un membre avec réfection d'anastomose sans prolongement du pontage, par abord direct
+ENFA006	Thrombectomie de pontage artériel d'un membre sans réfection d'anastomose, par abord direct
+JAFA022	Néphrectomie totale élargie à la loge rénale avec thrombectomie par cavotomie, par thoraco-phréno-laparotomie
+EHFA001	Thrombectomie de la veine porte et/ou de l'un de ses affluents principaux, par laparotomie
+DBFA002	Thrombectomie de prothèse orificielle cardiaque, par thoracotomie avec CEC
+DGFA004	Thrombectomie de l'aorte abdominale, de l'artère iliaque commune et/ou de l'artère iliaque externe, par abord inguinofémoral bilatéral
+DGFA005	Thrombectomie d'un pontage ou d'une thromboendartériectomie de l'aorte abdominale ou de ses branches, par laparotomie
+DGFA012	Thrombectomie d'un pontage ou d'une thromboendartériectomie de l'aorte abdominale ou de ses branches, par abord inguinofémoral
+JAFA025	Néphrectomie totale élargie à la loge rénale avec surrénalectomie et thrombectomie par cavotomie, par thoraco-phréno-laparotomie
+EBFA004	Thrombectomie d'un pontage ou d'une thromboendartériectomie des troncs supraaortiques, par thoracotomie
+JAFA011	Néphrectomie totale élargie à la loge rénale avec thrombectomie par cavotomie et contrôle intraatrial cardiaque, par thoraco-phréno-laparotomie
+EBFA013	Thrombectomie d'un pontage ou d'une thromboendartériectomie d'artère à destination cervicocéphalique, par cervicotomie
+ENFA004	Thrombectomie de pontage artériel d'un membre avec réfection d'anastomose et prolongement du pontage, par abord direct
+JAFA028	Néphrectomie totale élargie à la loge rénale avec surrénalectomie et thrombectomie par cavotomie, par laparotomie ou par abord lomboabdominal

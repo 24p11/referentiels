@@ -1,0 +1,21 @@
+ACTE	LIBELLE
+HHFA026	Colectomie droite sans rétablissement de la continuité, par laparotomie
+HHFA009	Colectomie droite avec rétablissement de la continuité, par laparotomie
+HHFA008	Colectomie droite avec rétablissement de la continuité, par cœlioscopie ou par laparotomie avec préparation par cœlioscopie
+HHFA018	Colectomie transverse, par laparotomie
+HHFA023	Colectomie transverse, par cœlioscopie ou par laparotomie avec préparation par cœlioscopie
+HHFA014	Colectomie gauche sans libération de l'angle colique gauche, sans rétablissement de la continuité, par laparotomie
+HHFA017	Colectomie gauche sans libération de l'angle colique gauche, avec rétablissement de la continuité, par laparotomie
+HHFA010	Colectomie gauche sans libération de l'angle colique gauche, avec rétablissement de la continuité, par cœlioscopie ou par laparotomie avec préparation par cœlioscopie
+HHFA024	Colectomie gauche avec libération de l'angle colique gauche, sans rétablissement de la continuité, par laparotomie
+HHFA006	Colectomie gauche avec libération de l'angle colique gauche, avec rétablissement de la continuité, par laparotomie
+HHFA002	Colectomie gauche avec libération de l'angle colique gauche, avec rétablissement de la continuité, par cœlioscopie ou par laparotomie avec préparation par cœlioscopie
+HHFA021	Colectomie totale avec conservation du rectum, sans rétablissement de la continuité, par laparotomie
+HHFA005	Colectomie totale avec conservation du rectum, sans rétablissement de la continuité, par cœlioscopie ou par laparotomie avec préparation par cœlioscopie
+HHFA022	Colectomie totale avec conservation du rectum, avec anastomose iléorectale, par laparotomie
+HHFA004	Colectomie totale avec conservation du rectum, avec anastomose iléorectale, par cœlioscopie ou par laparotomie avec préparation par cœlioscopie
+HHFA030	Coloproctectomie totale sans rétablissement de la continuité, par laparotomie
+HHFA029	Coloproctectomie totale sans rétablissement de la continuité, par cœlioscopie ou par laparotomie avec préparation par cœlioscopie
+HHFA031	Coloproctectomie totale avec anastomose iléoanale, par laparotomie
+HHFA028	Coloproctectomie totale avec anastomose iléoanale, par cœlioscopie ou par laparotomie avec préparation par cœlioscopie
+

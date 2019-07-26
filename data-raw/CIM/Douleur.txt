@@ -1,0 +1,6 @@
+CODE	LIBELLE
+R52	douleur, non classée ailleurs
+R520	douleur aiguë
+R521	douleur chronique irréductible
+R522	autres douleurs chroniques
+R529	douleur, sans précision

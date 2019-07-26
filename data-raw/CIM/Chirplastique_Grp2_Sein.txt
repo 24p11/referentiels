@@ -1,0 +1,29 @@
+DIAG	LIBELLE
+C500	Tumeur maligne du mamelon et de l'aréole
+C501	Tumeur maligne de la partie centrale du sein
+C502	Tumeur maligne du quadrant supéro-interne du sein
+C503	Tumeur maligne du quadrant inféro-interne du sein
+C504	Tumeur maligne du quadrant supéro-externe du sein
+C505	Tumeur maligne du quadrant inféro-externe du sein
+C508	Tumeur maligne à localisations contiguës du sein
+C509	Tumeur maligne du sein, sans précision
+D24	Tumeur bénigne du sein
+N600	Kyste solitaire du sein
+N602	Adénofibrose du sein
+N604	Ectasie des canaux galactophores
+N609	Dysplasie mammaire bénigne, sans précision
+N61	Affections inflammatoires du sein
+N62	Hypertrophie mammaire
+N63	Tuméfaction mammaire, sans précision
+N640	Fissure et fistule du mamelon
+N641	Cytostéatonécrose du sein
+N645	Autres signes et symptômes observés au niveau du sein
+N648	Autres affections précisées du sein
+Q678	Autres anomalies morphologiques congénitales du thorax
+Q769	Malformation congénitale du thorax osseux, sans précision
+Q833	Mamelon accessoire
+Q838	Autres malformations congénitales du sein
+Q839	Malformation congénitale du sein, sans précision
+T854	Complication mécanique d'une prothèse et d'un implant mammaires
+Z421	Soins de contrôle comprenant une opération plastique du sein
+Z901	Absence acquise de sein(s)

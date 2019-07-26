@@ -1,0 +1,9 @@
+CODE	LIBELLE
+E24	Syndrome de Cushing
+E240	Maladie de Cushing hypophyso-dépendante
+E241	Syndrome de Nelson
+E242	Syndrome de Cushing médicamenteux
+E243	Syndrome de sécrétion ectopique d'ACTH
+E244	Pseudosyndrome de Cushing dû à l'alcool
+E248	Autres syndromes de Cushing
+E249	Syndrome de Cushing, sans précision

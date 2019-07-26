@@ -1,0 +1,58 @@
+CODE	LIBELLE
+U88	Agents résistant à de multiples antibiotiques
+U801	Agents résistant à la méthicilline
+U82	Résistance aux antibiotiques bétalactamines
+U820	Résistance à la pénicilline
+U821	Résistance à la méthicilline
+U822	Résistance par bétalactamases à spectre étendu [BLSE]
+U828	Résistance à d'autres antibiotiques bétalactamines
+U829	Résistance aux antibiotiques bétalactamines, non précisée
+U820+0	Résistance à la pénicilline, situation d'infection
+U820+1	Résistance à la pénicilline, situation de portage sain
+U8210	Staphylococcus aureus résistant à la méthicilline [SARM]
+U82100	Staphylococcus aureus résistant à la méthicilline [SARM], situation d'infection
+U82101	Staphylococcus aureus résistant à la méthicilline [SARM], situation de portage sain
+U8218	Staphylocoques, autres et non précisés, résistants à la méthicilline
+U82180	Staphylocoques, autres et non précisés, résistants à la méthicilline, situation d'infection
+U82181	Staphylocoques, autres et non précisés, résistants à la méthicilline, situation de portage sain
+U822+0	Résistance par bétalactamases à spectre étendu [BLSE], situation d'infection
+U822+1	Résistance par bétalactamases à spectre étendu [BLSE], situation de portage sain
+U828+0	Résistance à d'autres antibiotiques bétalactamines, situation d'infection
+U828+1	Résistance à d'autres antibiotiques bétalactamines, situation de portage sain
+U829+0	Résistance aux antibiotiques bétalactamines, non précisée, situation d'infection
+U829+1	Résistance aux antibiotiques bétalactamines, non précisée, situation de portage sain
+U83	Résistance aux autres antibiotiques
+U830	Résistance à la vancomycine
+U831	Résistance à d'autres antibiotiques apparentés à la vancomycine
+U832	Résistance aux quinolones
+U837	Résistance à de multiples antibiotiques
+U838	Résistance à un seul autre antibiotique précisé
+U839	Résistance à un antibiotique non précisé
+U830+0	Résistance à la vancomycine, situation d'infection
+U830+1	Résistance à la vancomycine, situation de portage sain
+U831+0	Résistance à d'autres antibiotiques apparentés à la vancomycine, situation d'infection
+U831+1	Résistance à d'autres antibiotiques apparentés à la vancomycine, situation de portage sain
+U832+0	Résistance aux quinolones, situation d'infection
+U832+1	Résistance aux quinolones, situation de portage sain
+U8370	Bactérie hautement résistante émergente [BHRe]
+U83700	Bactérie hautement résistante émergente [BHRe], situation d'infection
+U83701	Bactérie hautement résistante émergente [BHRe], situation de portage sain
+U8371	Bactérie multirésistante [BMR]
+U83710	Bactérie multirésistante [BMR], situation d'infection
+U83711	Bactérie multirésistante [BMR], situation de portage sain
+U8378	Autres résistances à de multiples antibiotiques
+U83780	Autres résistances à de multiples antibiotiques, situation d'infection
+U83781	Autres résistances à de multiples antibiotiques, situation de portage sain
+U838+0	Résistance à un seul autre antibiotique précisé, situation d'infection
+U838+1	Résistance à un seul autre antibiotique précisé, situation de portage sain
+U839+0	Résistance à un antibiotique non précisé, situation d'infection
+U839+1	Résistance à un antibiotique non précisé, situation de portage sain
+U84	Résistance aux autres antimicrobiens
+U840	Résistance aux médicaments antiparasitaires
+U841	Résistance aux médicaments antifongiques
+U842	Résistance aux médicaments antiviraux
+U843	Résistance aux médicaments antituberculeux
+U847	Résistance à de multiples médicaments antimicrobiens
+U848	Résistance à un autre antimicrobien précisé
+U849	Résistance à un antimicrobien non précisé
+U85	Résistance aux médicaments antinéoplasiques

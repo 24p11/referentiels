@@ -1,0 +1,14 @@
+ACTE	LIBELLE	TYPE
+QEKA001		Plastie
+QEKA002		Plastie
+QEMA003		Plastie
+QEMA004		Plastie
+QEMA006		Plastie
+QEMA008		Plastie
+QEPA001		Plastie
+FCFA008		Stomato
+FCFA013		Stomato
+JGFA006		Urologie
+JGFC001		Urologie
+HMFC004		Digestif
+HMFA007		Digestif

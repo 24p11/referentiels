@@ -1,0 +1,31 @@
+CODE	LIBELLE
+C77	tumeur maligne des ganglions lymphatiques, secondaire et non précisée
+C770	ganglions lymphatiques de la tête, de la face et du cou
+C771	ganglions lymphatiques intrathoraciques
+C772	ganglions lymphatiques intra-abdominaux
+C773	ganglions lymphatiques de l'aisselle et du membre supérieur
+C774	ganglions lymphatiques inguinaux et du membre inférieur
+C775	ganglions lymphatiques intrapelviens
+C778	ganglions lymphatiques de sièges multiples
+C779	ganglion lymphatique, sans précision
+C78	tumeur maligne secondaire des organes respiratoires et digestifs
+C780	tumeur maligne secondaire du poumon
+C781	tumeur maligne secondaire du médiastin
+C782	tumeur maligne secondaire de la plèvre
+C783	tumeur maligne secondaire des organes respiratoires, autres et non précisés
+C784	tumeur maligne secondaire de l'intestin grêle
+C785	tumeur maligne secondaire du gros intestin et du rectum
+C786	tumeur maligne secondaire du rétropéritoine et du péritoine
+C787	tumeur maligne secondaire du foie
+C788	tumeur maligne secondaire des organes digestifs, autres et non précisés
+C79	tumeur maligne secondaire d'autres sièges
+C790	tumeur maligne secondaire du rein et du bassinet
+C791	tumeur maligne secondaire de la vessie et des organes urinaires, autres et non précisés
+C792	tumeur maligne secondaire de la peau
+C793	tumeur maligne secondaire du cerveau et des méninges cérébrales
+C794	tumeur maligne secondaire de parties du système nerveux, autres et non précisées
+C795	tumeur maligne secondaire des os et de la moelle osseuse
+C796	tumeur maligne secondaire de l'ovaire
+C797	tumeur maligne secondaire de la glande surrénale
+C798	tumeur maligne secondaire d'autres sièges précisés
+C799	Tumeur maligne secondaire de siège non précisé

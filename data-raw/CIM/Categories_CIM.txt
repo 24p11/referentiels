@@ -1,0 +1,1685 @@
+CODE	LIBELLE
+A00	choléra
+A01	fièvres typhoïde et paratyphoïde
+A02	autres salmonelloses
+A03	shigellose
+A04	autres infections intestinales bactériennes
+A05	autres intoxications bactériennes d'origine alimentaire
+A06	amibiase
+A07	autres maladies intestinales à protozoaires
+A08	infections virales intestinales et autres infections intestinales précisées
+A09	diarrhée et gastro-entérite d'origine présumée infectieuse
+A15	tuberculose de l'appareil respiratoire, avec confirmation bactériologique et histologique
+A16	tuberculose de l'appareil respiratoire, sans confirmation bactériologique ou histologique
+A17	tuberculose du système nerveux
+A18	tuberculose d'autres organes
+A19	tuberculose miliaire
+A20	peste
+A21	tularémie
+A22	charbon
+A23	brucellose
+A24	morve et mélioïdose
+A25	fièvres causées par morsure de rat
+A26	érysipéloïde
+A27	leptospirose
+A28	autres anthropozoonoses bactériennes, non classées ailleurs
+A30	lèpre [maladie de Hansen]
+A31	infections dues à d'autres mycobactéries
+A32	listériose
+A33	tétanos néonatal
+A34	tétanos obstétrical
+A35	autres formes de tétanos
+A36	diphtérie
+A37	coqueluche
+A38	scarlatine
+A39	infection à méningocoques
+A40	septicémie à streptocoques
+A41	autres septicémies
+A42	actinomycose
+A43	nocardiose
+A44	bartonellose
+A46	érysipèle
+A48	autres maladies bactériennes, non classées ailleurs
+A49	infection bactérienne, siège non précisé
+A50	syphilis congénitale
+A51	syphilis précoce
+A52	syphilis tardive
+A53	syphilis, autres et sans précision
+A54	infection gonococcique
+A55	lymphogranulomatose vénérienne à Chlamydia
+A56	autres infections à Chlamydia transmises par voie sexuelle
+A57	chancre mou
+A58	granulome inguinal
+A59	trichomonase
+A60	infection ano-génitale par le virus de l'herpès [herpes simplex]
+A63	autres maladies dont le mode de transmission est essentiellement sexuel, non classées ailleurs
+A64	maladie sexuellement transmise, sans précision
+A65	syphilis non vénérienne
+A66	pian
+A67	pinta [caraté]
+A68	fièvres récurrentes [borrélioses]
+A69	autres infections à spirochètes
+A70	infection à Chlamydia psittaci
+A71	trachome
+A74	autres infections à Chlamydia
+A75	typhus
+A77	fièvre pourprée [rickettsioses à tiques]
+A78	fièvre Q
+A79	autres rickettsioses
+A80	poliomyélite aiguë
+A81	infections virales atypiques, du système nerveux central
+A82	rage
+A83	encéphalite virale transmise par des moustiques
+A84	encéphalite virale transmise par des tiques
+A85	autres encéphalites virales, non classées ailleurs
+A86	encéphalite virale, sans précision
+A87	méningite virale
+A88	autres infections virales du système nerveux central, non classées ailleurs
+A89	infection virale du système nerveux central, sans précision
+A90	dengue [dengue classique]
+A91	fièvre hémorragique due au virus de la dengue
+A92	autres fièvres virales transmises par des moustiques
+A93	autres fièvres virales transmises par des arthropodes, non classées ailleurs
+A94	fièvre virale transmise par des arthropodes, sans précision
+A95	fièvre jaune
+A96	fièvre hémorragique à arénavirus
+A98	autres fièvres hémorragiques virales, non classées ailleurs
+A99	fièvre hémorragique virale, sans précision
+B00	infections par le virus de l'herpès [herpes simplex]
+B01	varicelle
+B02	zona [herpes zoster]
+B03	variole
+B04	Monkeypox
+B05	rougeole
+B06	rubéole
+B07	verrues d'origine virale
+B08	autres infections virales caractérisées par des lésions cutanéo-muqueuses, non classées ailleurs
+B09	infection virale caractérisée par des lésions cutanéo-muqueuses, sans précision
+B15	hépatite aiguë A
+B16	hépatite aiguë B
+B17	autres hépatites virales aiguës
+B18	hépatite virale chronique
+B19	hépatite virale, sans précision
+B20	immunodéficience humaine virale [VIH], à l'origine de maladies infectieuses et parasitaires
+B21	immunodéficience humaine virale [VIH], à l'origine de tumeurs malignes
+B22	immunodéficience humaine virale [VIH], à l'origine d'autres affections précisées
+B23	immunodéficience humaine virale [VIH], à l'origine d'autres maladies
+B24	immunodéficience humaine virale [VIH], sans précision
+B25	maladie à cytomégalovirus
+B26	oreillons
+B27	mononucléose infectieuse
+B30	conjonctivite virale
+B33	autres maladies à virus, non classées ailleurs
+B34	infection virale, siège non précisé
+B35	dermatophytose
+B36	autres mycoses superficielles
+B37	candidose
+B38	coccidioïdomycose
+B39	histoplasmose
+B40	blastomycose
+B41	paracoccidioïdomycose
+B42	sporotrichose
+B43	chromomycose [chromoblastomycose] et abcès phaeohyphomycosique
+B44	aspergillose
+B45	cryptococcose
+B46	zygomycose
+B47	mycétome
+B48	autres mycoses, non classées ailleurs
+B49	mycose, sans précision
+B50	paludisme à Plasmodium falciparum
+B51	paludisme à Plasmodium vivax
+B52	paludisme à Plasmodium malariae
+B53	autres paludismes confirmés par examen parasitologique
+B54	paludisme, sans précision
+B55	leishmaniose
+B56	trypanosomiase africaine
+B57	maladie de Chagas
+B58	toxoplasmose
+B59	pneumocystose
+B60	autres maladies dues à des protozoaires, non classées ailleurs
+B64	maladie due à des protozoaires, sans précision
+B65	schistosomiase [bilharziose]
+B66	autres infections par douves [distomatoses]
+B67	échinococcose
+B68	infection à Taenia [téniase]
+B69	cysticercose
+B70	diphyllobothriase et sparganose
+B71	autres infections à cestodes
+B72	dracunculose
+B73	onchocercose
+B74	filariose
+B75	trichinose
+B76	ankylostomiase
+B77	ascaridiase
+B78	anguillulose [strongyloïdose]
+B79	infection à Trichuris trichiuria
+B80	oxyurose
+B81	autres helminthiases intestinales, non classées ailleurs
+B82	parasitose intestinale, sans précision
+B83	autres helminthiases
+B85	pédiculose et phtiriase
+B86	gale
+B87	myiase
+B88	autres infestations
+B89	parasitose, sans précision
+B90	séquelles de tuberculose
+B91	séquelles de poliomyélite
+B92	séquelles de lèpre
+B94	séquelles de maladies infectieuses et parasitaires, autres et non précisées
+B95	streptocoques et staphylocoques, cause de maladies classées dans d'autres chapitres
+B96	autres agents bactériens, cause de maladies classées dans d'autres chapitres
+B97	virus, cause de maladies classées dans d'autres chapitres
+B99	maladies infectieuses, autres et non précisées
+(C00-C14)	tumeurs malignes de la lèvre, de la cavité buccale et du pharynx
+(C15-C26)	tumeurs malignes des organes digestifs
+(C30-C39)	tumeurs malignes des organes respiratoires et intrathoraciques
+(C40-C41)	tumeurs malignes des os et du cartilage articulaire
+(C43-C44)	mélanome malin et autres tumeurs malignes de la peau
+(C45-C49)	tumeurs malignes du tissu mésothélial et des tissus mous
+(C50)	tumeur maligne du sein
+(C51-C58)	tumeurs malignes des organes génitaux de la femme
+(C60-C63)	tumeurs malignes des organes génitaux de l'homme
+(C64-C68)	tumeurs malignes des voies urinaires
+(C69-C72)	tumeurs malignes de l'oeil, de l'encéphale et d'autres parties du système nerveux central
+(C73-C75)	tumeurs malignes de la thyroïde et d'autres glandes endocrines
+C76	tumeur maligne de sièges autres et mal définis
+C77	tumeur maligne des ganglions lymphatiques, secondaire et non précisée
+C78	tumeur maligne secondaire des organes respiratoires et digestifs
+C79	tumeur maligne secondaire d'autres sièges
+C80	tumeur maligne de siège non précisé
+C81	maladie de Hodgkin
+C82	lymphome folliculaire [nodulaire] non hodgkinien
+C83	lymphome diffus non hodgkinien
+C84	lymphomes périphériques et cutanés à cellules T
+C85	lymphome non hodgkinien, de types autres et non précisés
+C88	maladies immunoprolifératives malignes
+C90	myélome multiple et tumeurs malignes à plasmocytes
+C91	leucémie lymphoïde
+C92	leucémie myéloïde
+C93	leucémie monocytaire
+C94	autres leucémies à cellules précisées
+C95	leucémie à cellules non précisées
+C96	tumeurs malignes des tissus lymphoïde, hématopoïétique et apparentés, autres et non précisées
+C97	tumeurs malignes de sièges multiples indépendants (primitifs)
+D00	carcinome in situ de la cavité buccale, de l'oesophage et de l'estomac
+D01	carcinome in situ des organes digestifs, autres et non précisés
+D02	carcinome in situ de l'oreille moyenne et de l'appareil respiratoire
+D03	mélanome in situ
+D04	carcinome in situ de la peau
+D05	carcinome in situ du sein
+D06	carcinome in situ du col de l'utérus
+D07	carcinome in situ d'organes génitaux, autres et non précisés
+D09	carcinome in situ de sièges autres et non précisés
+D10	tumeur bénigne de la bouche et du pharynx
+D11	tumeur bénigne des glandes salivaires principales
+D12	tumeur bénigne du côlon, du rectum, de l'anus et du canal anal
+D13	tumeurs bénignes de parties autres et mal définies de l'appareil digestif
+D14	tumeur bénigne de l'oreille moyenne et de l'appareil respiratoire
+D15	tumeur bénigne des organes intrathoraciques, autres et non précisés
+D16	tumeur bénigne des os et du cartilage articulaire
+D17	tumeur lipomateuse bénigne
+D18	hémangiome et lymphangiome, tout siège
+D19	tumeur bénigne du tissu mésothélial
+D20	tumeur bénigne des tissus mous du rétropéritoine et du péritoine
+D21	autres tumeurs bénignes du tissu conjonctif et des autres tissus mous
+D22	naevus à mélanocytes
+D23	autres tumeurs bénignes de la peau
+D24	tumeur bénigne du sein
+D25	léiomyome de l'utérus
+D26	autres tumeurs bénignes de l'utérus
+D27	tumeur bénigne de l'ovaire
+D28	tumeur bénigne des organes génitaux de la femme, autres et non précisés
+D29	tumeur bénigne des organes génitaux de l'homme
+D30	tumeur bénigne des organes urinaires
+D31	tumeur bénigne de l'oeil et de ses annexes
+D32	tumeur bénigne des méninges
+D33	tumeur bénigne de l'encéphale et d'autres parties du système nerveux central
+D34	tumeur bénigne de la thyroïde
+D35	tumeur bénigne des glandes endocrines, autres et non précisées
+D36	tumeur bénigne de sièges autres et non précisés
+D37	tumeur de la cavité buccale et des organes digestifs à évolution imprévisible ou inconnue
+D38	tumeur de l'oreille moyenne et des organes respiratoires et intrathoraciques à évolution imprévisible ou inconnue
+D39	tumeur des organes génitaux de la femme à évolution imprévisible ou inconnue
+D40	tumeur des organes génitaux de l'homme à évolution imprévisible ou inconnue
+D41	tumeur des organes urinaires à évolution imprévisible ou inconnue
+D42	tumeur des méninges à évolution imprévisible ou inconnue
+D43	tumeur du l'encéphale et du système nerveux central à évolution imprévisible ou inconnue
+D44	tumeur des glandes endocrines à évolution imprévisible ou inconnue
+D45	polyglobulie essentielle
+D46	syndromes myélodysplasiques
+D47	autres tumeurs des tissus lymphoïde, hématopoïétique et apparentés à évolution imprévisible ou inconnue
+D48	tumeur de sièges autres et non précisés à évolution imprévisible ou inconnue
+D50	anémie par carence en fer
+D51	anémie par carence en vitamine B12
+D52	anémie par carence en acide folique
+D53	autres anémies nutritionnelles
+D55	anémie due à des anomalies enzymatiques
+D56	thalassémie
+D57	affections à hématies falciformes [drépanocytaires]
+D58	autres anémies hémolytiques héréditaires
+D59	anémie hémolytique acquise
+D60	aplasie médullaire acquise pure [érythroblastopénie]
+D61	autres aplasies médullaires
+D62	anémie posthémorragique aiguë
+D63	anémie au cours de maladies chroniques classées ailleurs
+D64	autres anémies
+D65	coagulation intravasculaire disséminée [syndrome de défibrination]
+D66	carence héréditaire en facteur VIII
+D67	carence héréditaire en facteur IX
+D68	autres anomalies de la coagulation
+D69	purpura et autres affections hémorragiques
+D70	agranulocytose
+D71	anomalies fonctionnelles des granulocytes neutrophiles
+D72	autres anomalies des leucocytes
+D73	maladies de la rate
+D74	méthémoglobinémie
+D75	autres maladies du sang et des organes hématopoïétiques
+D76	certaines maladies du tissu lymphoréticulaire et du système réticulo-histiocytaire
+D77	autres maladies du sang et des organes hématopoïétiques au cours de maladies classées ailleurs
+D80	déficit immunitaire avec déficit prédominant de la production d'anticorps
+D81	déficits immunitaires combinés
+D82	déficit immunitaire associé à d'autres anomalies majeures
+D83	déficit immunitaire commun variable
+H68	salpingite et obstruction de la trompe d'Eustache
+H69	autres affections de la trompe d'Eustache
+H70	mastoïdite et affections apparentées
+H71	cholestéatome de l'oreille moyenne
+H72	perforation du tympan
+H73	autres affections du tympan
+H74	autres affections de l'oreille moyenne et de l'apophyse mastoïde
+H75	autres affections de l'oreille moyenne et de l'apophyse mastoïde au cours de maladies classées ailleurs
+H80	otosclérose
+H81	atteintes des fonctions vestibulaires
+H82	syndromes vertigineux au cours de maladies classées ailleurs
+H83	autres maladies de l'oreille interne
+K42	hernie ombilicale
+K43	autres hernies de la paroi abdominale antérieure
+K44	hernie diaphragmatique
+K45	autres hernies abdominales
+K46	hernie abdominale non précisée
+K50	maladie de Crohn [entérite régionale]
+K51	recto-colite hémorragique [colite ulcéreuse]
+K52	autres gastro-entérites et colites non infectieuses
+K55	troubles vasculaires de l'intestin
+K56	iléus paralytique et occlusion intestinale sans hernie
+K57	diverticulose de l'intestin
+K58	syndrome de l'intestin irritable
+K59	autres troubles fonctionnels de l'intestin
+K60	fissure et fistule des régions anale et rectale
+K61	abcès des régions anale et rectale
+K62	autres maladies de l'anus et du rectum
+K63	autres maladies de l'intestin
+K65	péritonite
+K66	autres maladies du péritoine
+K67	atteintes péritonéales au cours de maladies infectieuses classées ailleurs
+K70	maladie alcoolique du foie
+K71	maladie toxique du foie
+K72	insuffisance hépatique, non classée ailleurs
+K73	hépatite chronique, non classée ailleurs
+K74	fibrose et cirrhose du foie
+K75	autres maladies inflammatoires du foie
+K76	autres maladies du foie
+K77	atteintes hépatiques au cours de maladies classées ailleurs
+K80	cholélithiase
+K81	cholécystite
+K82	autres maladies de la vésicule biliaire
+K83	autres maladies des voies biliaires
+K85	pancréatite aiguë
+K86	autres maladies du pancréas
+K87	atteintes de la vésicule biliaire, des voies biliaires et du pancréas au cours de maladies classées ailleurs
+K90	malabsorption intestinale
+K91	atteintes de l'appareil digestif après un acte à visée diagnostique et thérapeutique, non classées ailleurs
+K92	autres maladies du système digestif
+K93	atteintes d'autres organes de l'appareil digestif au cours de maladies classées ailleurs
+L00	syndrome d'épidermolyse staphylococcique du nourrisson
+L01	impétigo
+L02	abcès cutané, furoncle et anthrax
+L03	phlegmon
+L04	lymphadénite aiguë
+L05	sinus pilonidal
+L08	autres infections localisées de la peau et du tissu cellulaire sous-cutané
+L10	pemphigus
+L11	autres acantholyses
+L12	pemphigoïde
+L13	autres dermatoses bulleuses
+L14	dermatoses bulleuses au cours de maladies classées ailleurs
+L20	dermite atopique
+L21	dermite séborrhéique
+L22	dermite fessière du nourrisson
+L23	dermite allergique de contact
+L24	dermite irritante de contact
+L25	dermite de contact, sans précision
+D84	autres déficits immunitaires
+D86	sarcoïdose
+D89	autres anomalies du système immunitaire, non classées ailleurs
+E00	syndrome d'insuffisance thyroïdienne congénitale
+E01	affections thyroïdiennes et apparentées liées à une carence en iode
+E02	hypothyroïdie par carence inapparente en iode
+E03	autres hypothyroïdies
+E04	autres goitres non toxiques
+E05	thyréotoxicose [hyperthyroïdie]
+E06	thyroïdite
+E07	autres affections de la thyroïde
+E10	diabète sucré insulino-dépendant
+E11	diabète sucré non insulino-dépendant
+E12	diabète sucré de malnutrition
+E13	autres diabètes sucrés précisés
+E14	diabète sucré, sans précision
+E15	coma hypoglycémique non diabétique
+E16	autres anomalies de la sécrétion pancréatique interne
+E20	hypoparathyroïdie
+E21	hyperparathyroïdie et autres maladies de la glande parathyroïde
+E22	hypersécrétion de l'hypophyse
+E23	hyposécrétion et autres anomalies de l'hypophyse
+E24	syndrome de Cushing
+E25	anomalies génito-surrénaliennes
+E26	hyperaldostéronisme
+E27	autres maladies de la glande surrénale
+E28	dysfonction ovarienne
+E29	dysfonction testiculaire
+E30	anomalies de la puberté, non classées ailleurs
+E31	dysfonctionnement pluriglandulaire
+E32	maladies du thymus
+E34	autres troubles endocriniens
+E35	anomalies endocriniennes au cours de maladies classées ailleurs
+E40	kwashiorkor
+E41	marasme nutritionnel
+E42	kwashiorkor avec marasme
+E43	malnutrition protéino-énergétique grave, sans précision
+E44	malnutrition protéino-énergétique légère ou modérée
+E45	retard de développement après malnutrition protéino-énergétique
+E46	malnutrition protéino-énergétique, sans précision
+E50	avitaminose A
+E51	carence en thiamine
+E52	carence en acide nicotinique [pellagre]
+E53	autres avitaminoses du groupe B
+E54	carence en acide ascorbique
+E55	carence en vitamine D
+E56	autres avitaminoses
+E58	carence alimentaire en calcium
+E59	carence alimentaire en sélénium
+E60	carence alimentaire en zinc
+E61	carences en autres éléments nutritionnels
+E63	autres carences nutritionnelles
+E64	séquelles de malnutrition et autres carences nutritionnelles
+E65	adiposité localisée
+E66	obésité
+E67	autres excès d'apport
+E68	séquelles d'excès d'apport
+E70	anomalies du métabolisme des acides aminés aromatiques
+E71	anomalies du métabolisme des acides aminés à chaîne ramifiée et du métabolisme des acides gras
+E72	autres anomalies du métabolisme des acides aminés
+E73	intolérance au lactose
+E74	autres anomalies du métabolisme des hydrates de carbone
+E75	anomalies du métabolisme des sphingolipides et autres anomalies du stockage des lipides
+E76	anomalies du métabolisme des glucosaminoglycanes
+E77	anomalies du métabolisme des glycoprotéines
+E78	anomalies du métabolisme des lipoprotéines et autres lipidémies
+E79	anomalies du métabolisme de la purine et de la pyrimidine
+E80	anomalies du métabolisme de la porphyrine et de la bilirubine
+E83	anomalies du métabolisme des minéraux
+E84	fibrose kystique
+E85	amylose
+E86	hypovolémie
+E87	autres déséquilibres hydro-électrolytiques et acido-basiques
+E88	autres anomalies métaboliques
+E89	anomalies endocriniennes et métaboliques après un acte à visée diagnostique et thérapeutique, non classées ailleurs
+E90	anomalies nutritionnelles et métaboliques au cours de maladies classées ailleurs
+F00	démence de la maladie d'Alzheimer
+F01	démence vasculaire
+F02	démence au cours d'autres maladies classées ailleurs
+F03	démence, sans précision
+F04	syndrome amnésique organique, non induit par l'alcool et d'autres substances psycho-actives
+F05	delirium, non induit par l'alcool et d'autres substances psycho-actives
+F06	autres troubles mentaux dus à une lésion cérébrale et un dysfonctionnement cérébral, et à une affection somatique
+F07	troubles de la personnalité et du comportement dus à une affection, une lésion et un dysfonctionnement cérébraux
+F09	trouble mental organique ou symptomatique, sans précision
+F10	troubles mentaux et du comportement liés à l'utilisation d'alcool
+F11	troubles mentaux et du comportement liés à l'utilisation d'opiacés
+F12	troubles mentaux et du comportement liés à l'utilisation de dérivés du cannabis
+F13	troubles mentaux et du comportement liés à l'utilisation de sédatifs ou d'hypnotiques
+F14	troubles mentaux et du comportement liés à l'utilisation de cocaïne
+F15	troubles mentaux et du comportement liés à l'utilisation d'autres stimulants, y compris la caféine
+F16	troubles mentaux et du comportement liés à l'utilisation d'hallucinogènes
+F17	troubles mentaux et du comportement liés à l'utilisation de tabac
+F18	troubles mentaux et du comportement liés à l'utilisation de solvants volatils
+F19	troubles mentaux et du comportement liés à l'utilisation de drogues multiples et troubles liés à l'utilisation d'autres substances psycho-actives
+F20	schizophrénie
+F21	trouble schizotypique
+F22	troubles délirants persistants
+F23	troubles psychotiques aigus et transitoires
+F24	trouble délirant induit
+F25	troubles schizo-affectifs
+F28	autres troubles psychotiques non organiques
+F29	psychose non organique, sans précision
+F30	épisode maniaque
+F31	trouble affectif bipolaire
+F32	épisodes dépressifs
+F33	trouble dépressif récurrent
+F34	troubles de l'humeur [affectifs] persistants
+F38	autres troubles de l'humeur [affectifs]
+F39	trouble de l'humeur [affectif], sans précision
+F40	troubles anxieux phobiques
+F41	autres troubles anxieux
+F42	trouble obsessionnel-compulsif
+F43	Réaction à un facteur de stress sévère, et troubles de l'adaptation
+F44	troubles dissociatifs [de conversion]
+F45	troubles somatoformes
+F48	autres troubles névrotiques
+F50	troubles de l'alimentation
+F51	troubles du sommeil non organiques
+F52	dysfonctionnement sexuel, non dû à un trouble ou à une maladie organique
+F53	troubles mentaux et du comportement associés à la puerpéralité, non classés ailleurs
+F54	facteurs psychologiques et comportementaux associés à des maladies ou des troubles classés ailleurs
+F55	abus de substances n'entraînant pas de dépendance
+F59	syndromes comportementaux non précisés associés à des perturbations physiologiques et à des facteurs physiques
+F60	troubles spécifiques de la personnalité
+F61	troubles mixtes de la personnalité et autres troubles de la personnalité
+F62	modification durable de la personnalité non attribuable à une lésion et une maladie cérébrales
+F63	troubles des habitudes et des impulsions
+F64	troubles de l'identité sexuelle
+F65	troubles de la préférence sexuelle
+F66	problèmes psychologiques et comportementaux associés au développement sexuel et à son orientation
+F68	autres troubles de la personnalité et du comportement chez l'adulte
+F69	trouble de la personnalité et du comportement chez l'adulte, sans précision
+F70	retard mental léger
+F71	retard mental moyen
+F72	retard mental grave
+F73	retard mental profond
+F78	autres formes de retard mental
+F79	retard mental, sans précision
+F80	troubles spécifiques du développement de la parole et du langage
+F81	troubles spécifiques du développement des acquisitions scolaires
+F82	trouble spécifique du développement moteur
+F83	troubles spécifiques mixtes du développement
+F84	troubles envahissants du développement
+F88	autres troubles du développement psychologique
+F89	trouble du développement psychologique, sans précision
+F90	troubles hyperkinétiques
+F91	troubles des conduites
+F92	troubles mixtes des conduites et troubles émotionnels
+F93	troubles émotionnels apparaissant spécifiquement dans l'enfance
+F94	troubles du fonctionnement social apparaissant spécifiquement durant l'enfance et l'adolescence
+F95	tics
+F98	autres troubles du comportement et troubles émotionnels apparaissant habituellement durant l'enfance et l'adolescence
+F99	trouble mental, sans autre indication
+G00	méningite bactérienne, non classée ailleurs
+G01	méningite au cours d'affections bactériennes classées ailleurs
+G02	méningite au cours d'autres maladies infectieuses et parasitaires classées ailleurs
+G03	méningite due à des causes autres et non précisées
+G04	encéphalite, myélite et encéphalomyélite
+G05	encéphalite, myélite et encéphalomyélite au cours d'affections classées ailleurs
+G06	abcès et granulome intracrâniens et intrarachidiens
+G07	abcès et granulome intracrâniens et intrarachidiens au cours d'affections classées ailleurs
+G08	phlébite et thrombophlébite intracrâniennes et intrarachidiennes
+G09	séquelles d'affections inflammatoires du système nerveux central
+G10	chorée de Huntington
+G11	ataxie héréditaire
+G12	amyotrophie spinale et syndromes apparentés
+G13	affections dégénératives systémiques affectant principalement le système nerveux central au cours d'affections classées ailleurs
+G20	maladie de Parkinson
+G21	syndrome parkinsonien secondaire
+G22	syndrome parkinsonien au cours de maladies classées ailleurs
+G23	autres maladies dégénératives des noyaux gris centraux
+G24	dystonie
+G25	autres syndromes extrapyramidaux et troubles de la motricité
+G26	syndromes extrapyramidaux et troubles de la motricité au cours d'affections classées ailleurs
+G30	maladie d'Alzheimer
+G31	autres affections dégénératives du système nerveux, non classées ailleurs
+G32	autres affections dégénératives du système nerveux au cours d'affections classées ailleurs
+G35	sclérose en plaques
+G36	autres affections démyélinisantes aiguës disséminées
+G37	autres affections démyélinisantes du système nerveux central
+G40	épilepsie
+G41	état de mal épileptique
+G43	migraine
+G44	autres syndromes d'algies céphaliques
+G45	accidents ischémiques cérébraux transitoires et syndromes apparentés
+G46	syndromes vasculaires cérébraux au cours de maladies cérébrovasculaires
+G47	troubles du sommeil
+G50	affections du nerf trijumeau
+G51	affections du nerf facial
+G52	affections des autres nerfs crâniens
+G53	affections des nerfs crâniens au cours de maladies classées ailleurs
+G54	affections des racines et des plexus nerveux
+G55	compression des racines et des plexus nerveux au cours de maladies classées ailleurs
+G56	mononévrite du membre supérieur
+G57	mononévrite du membre inférieur
+G58	autres mononévrites
+G59	mononévrite au cours de maladies classées ailleurs
+G60	neuropathie héréditaire et idiopathique
+G61	polynévrites inflammatoires
+G62	autres polynévrites
+G63	polynévrite au cours de maladies classées ailleurs
+G64	autres affections du système nerveux périphérique
+G70	myasthénie et autres affections neuro-musculaires
+G71	affections musculaires primitives
+G72	autres myopathies
+G73	affections musculaires et neuro-musculaires au cours de maladies classées ailleurs
+G80	paralysie cérébrale infantile
+G81	hémiplégie
+G82	paraplégie et tétraplégie
+G83	autres syndromes paralytiques
+G90	affections du système nerveux autonome
+G91	hydrocéphalie
+G92	encéphalopathie toxique
+G93	autres affections du cerveau
+G94	autres affections du cerveau au cours de maladies classées ailleurs
+G95	autres affections de la moelle épinière
+G96	autres affections du système nerveux central
+G97	affections du système nerveux après un acte à visée diagnostique et thérapeutique, non classées ailleurs
+G98	autres affections du système nerveux, non classées ailleurs
+G99	autres affections du système nerveux au cours de maladies classées ailleurs
+H00	orgelet et chalazion
+H01	autres inflammations de la paupière
+H02	autres affections des paupières
+H03	affections de la paupière au cours de maladies classées ailleurs
+H04	affections de l'appareil lacrymal
+H05	affections de l'orbite
+H06	affections de l'appareil lacrymal et de l'orbite au cours de maladies classées ailleurs
+H10	conjonctivite
+H11	autres affections de la conjonctive
+H13	affections de la conjonctive au cours de maladies classées ailleurs
+H15	affections de la sclérotique
+H16	kératite
+H17	cicatrices et opacités cornéennes
+H18	autres affections de la cornée
+H19	affections de la sclérotique et de la cornée au cours de maladies classées ailleurs
+H20	iridocyclite
+H21	autres affections de l'iris et du corps ciliaire
+H22	affections de l'iris et du corps ciliaire au cours de maladies classées ailleurs
+H25	cataracte sénile
+H26	autres cataractes
+H27	autres affections du cristallin
+H28	cataracte et autres affections du cristallin au cours de maladies classées ailleurs
+H30	choriorétinite
+H31	autres affections de la choroïde
+H32	affections choriorétiniennes au cours de maladies classées ailleurs
+H33	décollement et déchirure de la rétine
+H34	occlusions vasculaires rétiniennes
+H35	autres affections rétiniennes
+H36	affections rétiniennes au cours de maladies classées ailleurs
+H40	glaucome
+H42	glaucome au cours de maladies classées ailleurs
+H43	affections du corps vitré
+H44	affections du globe oculaire
+H45	affections du corps vitré et du globe oculaire au cours de maladies classées ailleurs
+H46	névrite optique
+H47	autres affections du nerf [II] et des voies optiques
+H48	affections du nerf [II] et des voies optiques au cours de maladies classées ailleurs
+H49	strabisme paralytique
+H50	autres strabismes
+H51	autres anomalies des mouvements binoculaires
+H52	vices de réfraction et troubles de l'accommodation
+H53	troubles de la vision
+H54	cécité et baisse de la vision
+H55	nystagmus et autres anomalies des mouvements oculaires
+H57	autres affections de l'oeil et de ses annexes
+H58	autres affections de l'oeil et de ses annexes au cours de maladies classées ailleurs
+H59	affections de l'oeil et de ses annexes après un acte à visée diagnostique et thérapeutique, non classées ailleurs
+H60	otite externe
+H61	autres affections de l'oreille externe
+H62	affections de l'oreille externe au cours de maladies classées ailleurs
+H65	otite moyenne non suppurée
+H66	otite moyenne suppurée et sans précision
+H67	otite moyenne au cours de maladies classées ailleurs
+H90	surdité de transmission et neurosensorielle
+H91	autres pertes de l'audition
+H92	otalgie et écoulement par l'oreille
+H93	autres affections de l'oreille, non classées ailleurs
+H94	autres affections de l'oreille au cours de maladies classées ailleurs
+H95	affections de l'oreille et de l'apophyse mastoïde après un acte à visée diagnostique et thérapeutique, non classées ailleurs
+I00	rhumatisme articulaire aigu, sans mention d'atteinte cardiaque
+I01	rhumatisme articulaire aigu, avec atteinte cardiaque
+I02	chorée rhumatismale
+I05	maladies rhumatismales de la valvule mitrale
+I06	maladies rhumatismales de la valvule aortique
+I07	maladies rhumatismales de la valvule tricuspide
+I08	maladies de plusieurs valvules
+I09	autres cardiopathies rhumatismales
+I10	hypertension essentielle (primitive)
+I11	cardiopathie hypertensive
+I12	néphropathie hypertensive
+I13	cardionéphropathie hypertensive
+I15	hypertension secondaire
+I20	angine de poitrine
+I21	infarctus aigu du myocarde
+I22	infarctus du myocarde à répétition
+I23	certaines complications récentes d'un infarctus aigu du myocarde
+I24	autres cardiopathies ischémiques aiguës
+I25	cardiopathie ischémique chronique
+I26	embolie pulmonaire
+I27	autres affections cardiopulmonaires
+I28	autres maladies des vaisseaux pulmonaires
+I30	péricardite aiguë
+I31	autres maladies du péricarde
+I32	péricardite au cours de maladies classées ailleurs
+I33	endocardite aiguë et subaiguë
+I34	atteintes non rhumatismales de la valvule mitrale
+I35	atteintes non rhumatismales de la valvule aortique
+I36	atteintes non rhumatismales de la valvule tricuspide
+I37	atteintes de la valvule pulmonaire
+I38	endocardite, valvule non précisée
+I39	endocardite et atteintes valvulaires cardiaques au cours de maladies classées ailleurs
+I40	myocardite aiguë
+I41	myocardite au cours de maladies classées ailleurs
+I42	myocardiopathie
+I43	myocardiopathie au cours de maladies classées ailleurs
+I44	bloc de branche gauche et auriculoventriculaire
+I45	autres troubles de la conduction
+I46	arrêt cardiaque
+I47	tachycardie paroxystique
+I48	fibrillation et flutter auriculaires
+I49	autres arythmies cardiaques
+I50	insuffisance cardiaque
+I51	complications de cardiopathies et maladies cardiaques mal définies
+I52	autres cardiopathies au cours de maladies classées ailleurs
+I60	hémorragie sous-arachnoïdienne
+I61	hémorragie intracérébrale
+I62	autres hémorragies intracrâniennes non traumatiques
+I63	infarctus cérébral
+I64	accident vasculaire cérébral, non précisé comme étant hémorragique ou par infarctus
+I65	occlusion et sténose des artères précérébrales, n'entraînant pas un infarctus cérébral
+I66	occlusion et sténose des artères cérébrales, n'entraînant pas un infarctus cérébral
+I67	autres maladies cérébrovasculaires
+I68	troubles cérébrovasculaires au cours de maladies classées ailleurs
+I69	séquelles de maladies cérébrovasculaires
+I70	athérosclérose
+I71	anévrisme aortique et dissection
+I72	autres anévrismes
+I73	autres maladies vasculaires périphériques
+I74	embolie et thrombose artérielles
+I77	autres atteintes des artères et artérioles
+I78	maladies des capillaires
+I79	atteintes des artères, artérioles et capillaires au cours de maladies classées ailleurs
+I80	phlébite et thrombophlébite
+I81	thrombose de la veine porte
+I82	autres embolies et thromboses veineuses
+I83	varices des membres inférieurs
+I84	hémorroïdes
+I85	varices oesophagiennes
+I86	varices d'autres localisations
+I87	autres atteintes veineuses
+I88	lymphadénite non spécifique
+I89	autres atteintes non infectieuses des vaisseaux et des ganglions lymphatiques
+I95	hypotension
+I97	troubles de l'appareil circulatoire après un acte à visée diagnostique et thérapeutique, non classés ailleurs
+I98	autres troubles de l'appareil circulatoire au cours de maladies classées ailleurs
+I99	troubles autres et non précisés de l'appareil circulatoire
+J00	rhinopharyngite aiguë [rhume banal]
+J01	sinusite aiguë
+J02	pharyngite aiguë
+J03	amygdalite aiguë
+J04	laryngite et trachéite aiguës
+J05	laryngite obstructive aiguë [croup] et épiglottite aiguë
+J06	infections aiguës des voies respiratoires supérieures, à localisations multiples et non précisées
+J10	grippe, à autre virus grippal identifié
+J11	grippe, virus non identifié
+J12	pneumopathies virales, non classées ailleurs
+J13	pneumonie due à Streptococcus pneumoniae
+J14	pneumopathie due à Haemophilus influenzae
+J15	pneumopathies bactériennes, non classées ailleurs
+J16	pneumopathie due à d'autres micro-organismes infectieux, non classée ailleurs
+J17	pneumopathie au cours de maladies classées ailleurs
+J18	pneumopathie à micro-organisme non précisé
+J20	bronchite aiguë
+J21	bronchiolite aiguë
+J22	infections aiguës des voies respiratoires inférieures, sans précision
+J30	rhinite allergique et vasomotrice
+J31	rhinite, rhinopharyngite et pharyngite chroniques
+J32	sinusite chronique
+J33	polype nasal
+J34	autres maladies du nez et des sinus du nez
+J35	maladies chroniques des amygdales et des végétations adénoïdes
+J36	angine phlegmoneuse
+J37	laryngite et laryngo-trachéite chroniques
+J38	maladies des cordes vocales et du larynx, non classées ailleurs
+J39	autres maladies des voies respiratoires supérieures
+J40	bronchite, non précisée comme aiguë ou chronique
+J41	bronchite chronique simple et mucopurulente
+J42	bronchite chronique, sans précision
+J43	emphysème
+J44	autres maladies pulmonaires obstructives chroniques
+J45	asthme
+J46	état de mal asthmatique
+J47	bronchectasie
+J60	pneumoconiose des mineurs de charbon
+J61	pneumoconiose due à l'amiante et à d'autres fibres minérales
+J62	pneumoconiose due à la poussière de silice
+J63	pneumoconiose due à d'autres poussières inorganiques
+J64	pneumoconiose, sans précision
+J65	pneumoconiose associée à la tuberculose
+J66	affections des voies aériennes dues à des poussières organiques précisées
+J67	pneumopathie par hypersensibilité aux poussières organiques
+J68	affections respiratoires dues à l'inhalation d'agents chimiques, d'émanations, de fumées et de gaz
+J69	pneumopathie due à des substances solides et liquides
+J70	affections respiratoires dues à d'autres agents externes
+J80	syndrome de détresse respiratoire de l'adulte
+J81	oedème pulmonaire
+J82	éosinophilie pulmonaire, non classée ailleurs
+J84	autres affections pulmonaires interstitielles
+J85	abcès du poumon et du médiastin
+J86	pyothorax
+J90	épanchement pleural, non classé ailleurs
+J91	épanchement pleural au cours de maladies classées ailleurs
+J92	plaque pleurale
+J93	pneumothorax
+J94	autres affections pleurales
+J95	troubles respiratoires après un acte à visée diagnostique et thérapeutique, non classés ailleurs
+J96	insuffisance respiratoire, non classée ailleurs
+J98	autres troubles respiratoires
+J99	troubles respiratoires au cours de maladies classées ailleurs
+K00	troubles de l'odontogénèse
+K01	dents incluses et enclavées
+K02	caries dentaires
+K03	autres maladies des tissus dentaires durs
+K04	maladies de la pulpe et des tissus périapicaux
+K05	gingivite et maladies périodontales
+K06	autres affections de la gencive et de la crête alvéolaire édentée
+K07	anomalies dento-faciales [y compris les malocclusions]
+K08	autres affections des dents et du parodonte
+K09	kystes de la région buccale, non classés ailleurs
+K10	autres maladies des mâchoires
+K11	maladies des glandes salivaires
+K12	stomatites et affections apparentées
+K13	autres maladies des lèvres et de la muqueuse buccale
+K14	maladies de la langue
+K20	oesophagite
+K21	reflux gastro-oesophagien
+K22	autres maladies de l'oesophage
+K23	atteintes de l'oesophage au cours de maladies classées ailleurs
+K25	ulcère de l'estomac
+K26	ulcère du duodénum
+K27	ulcère digestif, de siège non précisé
+K28	ulcère gastro-jéjunal
+K29	gastrite et duodénite
+K30	dyspepsie
+K31	autres maladies de l'estomac et du duodénum
+K35	appendicite aiguë
+K36	autres formes d'appendicite
+K37	appendicite, sans précision
+K38	autres maladies de l'appendice
+K40	hernie inguinale
+K41	hernie crurale
+L45	lésions papulo-squameuses au cours de maladies classées ailleurs
+L50	urticaire
+L51	érythème polymorphe
+L52	érythème noueux
+L53	autres formes d'érythème
+L54	érythèmes au cours de maladies classées ailleurs
+L55	coup de soleil
+L56	autres modifications aiguës de la peau dues aux rayons ultraviolets
+L57	modifications de la peau dues à une exposition chronique aux rayonnements non ionisants
+L58	radiodermite
+L59	autres affections de la peau et du tissu cellulaire sous-cutané liées à une irradiation
+L60	maladies des ongles
+L62	maladies des ongles au cours de maladies classées ailleurs
+L63	pelade
+L64	alopécie androgénique
+L65	autres formes non cicatricielles de raréfaction du système pileux
+L66	alopécie cicatricielle
+L67	anomalies de la pigmentation et de la gaine capillaires
+L68	hypertrichose
+L70	acné
+L71	acné rosacée
+L72	kystes folliculaires de la peau et du tissu cellulaire sous-cutané
+L73	autres affections folliculaires
+L74	affections des glandes sudoripares exocrines
+L75	affections des glandes sudoripares apocrines
+L80	vitiligo
+L81	autres anomalies de la pigmentation
+L82	kératose séborrhéique
+L83	acanthosis nigricans
+L84	cors et callosités
+L85	autres épaississements de l'épiderme
+L86	kératodermie au cours de maladies classées ailleurs
+L87	anomalies de l'élimination transépidermique
+L88	pyodermite gangréneuse
+L89	ulcère de décubitus
+L90	affections atrophiques de la peau
+L91	affections hypertrophiques de la peau
+L92	lésions granulomateuses de la peau et du tissu cellulaire sous-cutané
+L93	lupus érythémateux
+L94	autres affections localisées du tissu conjonctif
+L95	vascularite [angéite] limitée à la peau, non classée ailleurs
+L97	ulcère du membre inférieur, non classé ailleurs
+L98	autres affections de la peau et du tissu cellulaire sous-cutané, non classées ailleurs
+L99	autres affections de la peau et du tissu cellulaire sous-cutané au cours de maladies classées ailleurs
+(M00-M03)	arthropathies infectieuses
+(M05-M14)	polyarthropathies inflammatoires
+(M15-M19)	arthroses
+(M20-M25)	autres affections articulaires
+M30	périartérite noueuse et affections apparentées
+M31	autres vasculopathies nécrosantes
+M32	lupus érythémateux disséminé
+M33	dermatopolymyosite
+M34	sclérose systémique
+M35	autres atteintes systémiques du tissu conjonctif
+M36	atteintes systémiques du tissu conjonctif au cours de maladies classées ailleurs
+(M40-M43)	dorsopathies avec déformation
+(M45-M49)	spondylopathies
+(M50-M54)	autres dorsopathies
+(M60-M63)	myopathies
+(M65-M68)	atteintes des synoviales et des tendons
+(M70-M79)	autres affections des tissus mous
+(M80-M85)	anomalies de la densité et de la structure osseuses
+(M86-M90)	autres ostéopathies
+(M91-M94)	chondropathies
+M95	autres déformations du système ostéo-articulaire, des muscles et du tissu conjonctif
+M96	affections du système ostéo-articulaire et des muscles après un acte à visée diagnostique et thérapeutique, non classées ailleurs
+M99	lésions biomécaniques, non classées ailleurs
+N00	syndrome néphritique aigu
+N01	syndrome néphritique d'évolution rapide
+O84	accouchements multiples
+O85	septicémie puerpérale
+O86	autres infections puerpérales
+O87	complications veineuses au cours de la puerpéralité
+O88	embolie obstétricale
+O89	complications de l'anesthésie au cours de la puerpéralité
+O90	complications puerpérales, non classées ailleurs
+O91	infections mammaires associées à l'accouchement
+O92	autres mastopathies et anomalies de la lactation associées à l'accouchement
+O95	mort d'origine obstétricale de cause non précisée
+O96	mort d'origine obstétricale, survenant plus de 42 jours mais moins d'un an après l'accouchement
+O97	mort de séquelles relevant directement d'une cause obstétricale
+O98	maladies infectieuses et parasitaires de la mère classées ailleurs mais compliquant la grossesse, l'accouchement et la puerpéralité
+O99	autres maladies de la mère classées ailleurs, mais compliquant la grossesse, l'accouchement et la puerpéralité
+P00	foetus et nouveau-né affectés par des affections maternelles, éventuellement sans rapport avec la grossesse actuelle
+P01	foetus et nouveau-né affectés par les complications de la grossesse chez la mère
+P02	foetus et nouveau-né affectés par des complications concernant le placenta, le cordon ombilical et les membranes
+P03	foetus et nouveau-né affectés par d'autres complications du travail et de l'accouchement
+P04	foetus et nouveau-né affectés par des effets nocifs transmis par voie transplacentaire ou par le lait maternel
+P05	retard de croissance et malnutrition du foetus
+P07	anomalies liées à une brièveté de la gestation et un poids insuffisant à la naissance, non classés ailleurs
+P08	anomalies liées à une gestation prolongée et un poids élevé à la naissance
+P10	déchirure et hémorragie intracrâniennes dues à un traumatisme obstétrical
+P11	autres lésions du système nerveux central dues à un traumatisme obstétrical
+P12	lésion du cuir chevelu due à un traumatisme obstétrical
+P13	lésion du squelette due à un traumatisme obstétrical
+P14	lésion du système nerveux périphérique due à un traumatisme obstétrical
+P15	autres traumatismes obstétricaux
+P20	hypoxie intra-utérine
+P21	asphyxie obstétricale
+P22	détresse respiratoire du nouveau-né
+P23	pneumopathie congénitale
+P24	syndromes néonatals d'aspiration
+P25	emphysème interstitiel et affections apparentées survenant pendant la période périnatale
+P26	hémorragie pulmonaire survenant pendant la période périnatale
+P27	maladies respiratoires chroniques survenant pendant la période périnatale
+P28	autres affections respiratoires survenant pendant la période périnatale
+P29	affections cardio-vasculaires survenant pendant la période périnatale
+P35	maladies virales congénitales
+P36	infection bactérienne du nouveau-né
+P37	autres maladies infectieuses et parasitaires congénitales
+L26	dermite exfoliatrice
+L27	dermite due à des substances prises par voie interne
+L28	lichen simplex chronique et prurigo
+L29	prurit
+L30	autres dermites
+L40	psoriasis
+L41	parapsoriasis
+L42	pityriasis rosé de Gibert
+L43	lichen plan
+L44	autres lésions papulo-squameuses
+N02	hématurie récidivante et persistante
+N03	syndrome néphritique chronique
+N04	syndrome néphrotique
+N05	syndrome néphritique, sans précision
+N06	protéinurie isolée avec lésions morphologiques précisées
+N07	néphropathie héréditaire, non classée ailleurs
+N08	glomérulopathies au cours de maladies classées ailleurs
+N10	néphrite tubulo-interstitielle aiguë
+N11	néphrite tubulo-interstitielle chronique
+N12	néphrite tubulo-interstitielle, non précisée comme aiguë ou chronique
+N13	uropathie obstructive et par reflux
+N14	atteintes tubulo-interstitielles et tubulaires dues à des médicaments et des métaux lourds
+N15	autres maladies rénales tubulo-interstitielles
+N16	maladies rénales tubulo-interstitielles au cours de maladies classées ailleurs
+N17	insuffisance rénale aiguë
+N18	insuffisance rénale chronique
+N19	insuffisance rénale, sans précision
+N20	calcul du rein et de l'uretère
+N21	calcul des voies urinaires inférieures
+N22	calcul des voies urinaires au cours de maladies classées ailleurs
+N23	colique néphrétique, sans précision
+N25	affections dues à une tubulopathie
+N26	rein scléreux, sans précision
+N27	Petit rein de cause inconnue
+N28	autres affections du rein et de l'uretère, non classées ailleurs
+N29	autres affections du rein et de l'uretère au cours de maladies classées ailleurs
+N30	cystite
+N31	dysfonctionnement neuromusculaire de la vessie
+N32	autres affections de la vessie
+N33	affections de la vessie au cours de maladies classées ailleurs
+N34	urétrite et syndrome urétral
+N35	rétrécissement urétral
+N36	autres affections de l'urètre
+N37	affections de l'urètre au cours de maladies classées ailleurs
+N39	autres affections de l'appareil urinaire
+N40	hyperplasie de la prostate
+N41	affections inflammatoires de la prostate
+N42	autres affections de la prostate
+N43	hydrocèle et spermatocèle
+N44	torsion du testicule
+N45	orchite et épididymite
+N46	stérilité, chez l'homme
+N47	hypertrophie du prépuce, phimosis et paraphimosis
+N48	autres affections de la verge
+N49	affections inflammatoires des organes génitaux de l'homme, non classées ailleurs
+N50	autres affections des organes génitaux de l'homme
+N51	affections des organes génitaux de l'homme au cours de maladies classées ailleurs
+N60	dysplasies mammaires bénignes
+N61	affections inflammatoires du sein
+N62	hypertrophie mammaire
+N63	tuméfaction mammaire, sans précision
+N64	autres affections du sein
+N70	salpingite et ovarite
+N71	affections inflammatoires de l'utérus, à l'exclusion du col
+N72	affections inflammatoires du col de l'utérus
+N73	autres affections inflammatoires pelviennes de la femme
+N74	affections inflammatoires pelviennes de la femme, au cours de maladies classées ailleurs
+N75	affection de la glande de Bartholin
+N76	autres inflammations du vagin et de la vulve
+N77	ulcération et inflammation vulvo-vaginales au cours de maladies classées ailleurs
+N80	endométriose
+N81	prolapsus génital
+N82	fistules de l'appareil génital de la femme
+N83	affections non inflammatoires de l'ovaire, de la trompe de Fallope et du ligament large
+N84	polype de l'appareil génital de la femme
+N85	autres affections non inflammatoires de l'utérus, sauf le col
+N86	érosion et ectropion du col de l'utérus
+N87	dysplasie du col de l'utérus
+N88	autres affections non inflammatoires du col de l'utérus
+N89	autres affections non inflammatoires du vagin
+N90	autres affections non inflammatoires de la vulve et du périnée
+N91	aménorrhée, oligoménorrhée et hypoménorrhée
+N92	ménorragie, polyménorrhée et métrorragie
+N93	autres saignements anormaux de l'utérus et du vagin
+N94	douleurs et autres affections des organes génitaux de la femme et du cycle menstruel
+N95	troubles de la ménopause et autres troubles de la périménopause
+N96	avortements à répétition
+N97	stérilité de la femme
+N98	complications de la fécondation artificielle
+N99	affections de l'appareil génito-urinaire après un acte à visée diagnostique et thérapeutique, non classées ailleurs
+O00	grossesse extra-utérine
+O01	môle hydatiforme
+O02	autres produits anormaux de la conception
+O03	avortement spontané
+O04	avortement médical
+O05	autres formes d'avortement
+O06	avortement, sans précision
+O07	échec d'une tentative d'avortement
+O08	complications consécutives à un avortement, une grossesse extra-utérine et molaire
+O10	hypertension préexistante compliquant la grossesse, l'accouchement et la puerpéralité
+O11	syndrome hypertensif préexistant, avec protéinurie surajoutée
+O12	oedème et protéinurie gestationnels [liés à la grossesse] sans hypertension
+O13	hypertension gestationnelle [liée à la grossesse] sans protéinurie importante
+O14	hypertension gestationnelle [liée à la grossesse] avec protéinurie importante
+O15	éclampsie
+O16	hypertension de la mère, sans précision
+O20	hémorragie du début de la grossesse
+O21	vomissements incoercibles au cours de la grossesse
+O22	complications veineuses de la grossesse
+O23	infections de l'appareil génito-urinaire au cours de la grossesse
+O24	diabète sucré au cours de la grossesse
+O25	malnutrition au cours de la grossesse
+O26	soins maternels pour d'autres affections liées principalement à la grossesse
+O28	résultats anormaux constatés au cours de l'examen prénatal systématique de la mère
+O29	complications d'une anesthésie au cours de la grossesse
+O30	grossesse multiple
+O31	complications spécifiques à une grossesse multiple
+O32	soins maternels pour présentation anormale connue ou présumée du foetus
+O33	soins maternels pour disproportion foeto-pelvienne connue ou présumée
+O34	soins maternels pour anomalie connue ou présumée des organes pelviens
+O35	soins maternels pour anomalie et lésion foetales, connues ou présumées
+O36	soins maternels pour d'autres affections connues ou présumées du foetus
+O40	hydramnios
+O41	autres anomalies du liquide amniotique et des membranes
+O42	rupture prématurée des membranes
+O43	anomalies du placenta
+O44	placenta praevia
+O45	décollement prématuré du placenta [hématome rétro-placentaire]
+O46	hémorragie précédant l'accouchement, non classée ailleurs
+O47	faux travail
+O48	grossesse prolongée
+O60	accouchement avant terme
+O61	échec du déclenchement du travail
+O62	anomalies de la contraction utérine et de la dilatation du col
+O63	travail prolongé
+O64	dystocie due à une position et une présentation anormales du foetus
+O65	dystocie due à une anomalie pelvienne de la mère
+O66	autres dystocies
+O67	travail et accouchement compliqués d'une hémorragie, non classée ailleurs
+O68	travail et accouchement compliqués d'une détresse foetale
+O69	travail et accouchement compliqués d'anomalies du cordon ombilical
+O70	déchirure obstétricale du périnée
+O71	autres traumatismes obstétricaux
+O72	hémorragie du post-partum
+O73	rétention du placenta et des membranes, sans hémorragie
+O74	complications de l'anesthésie au cours du travail et de l'accouchement
+O75	autres complications du travail et de l'accouchement, non classées ailleurs
+O80	accouchement unique et spontané
+O81	accouchement unique par forceps et ventouse
+O82	accouchement unique par césarienne
+O83	autres accouchements uniques avec assistance
+P38	omphalite du nouveau-né, avec ou sans hémorragie légère
+P39	autres infections spécifiques de la période périnatale
+P50	perte de sang foetal
+P51	hémorragie ombilicale du nouveau-né
+P52	hémorragie intracrânienne non traumatique du foetus et du nouveau-né
+P53	maladie hémorragique du foetus et du nouveau-né
+P54	autres hémorragies néonatales
+P55	maladie hémolytique du foetus et du nouveau-né
+P56	anasarque foetoplacentaire due à une maladie hémolytique
+P57	ictère nucléaire
+P58	ictère néonatal dû à d'autres hémolyses excessives
+P59	ictère néonatal dû à des causes autres et sans précision
+P60	coagulation intravasculaire disséminée chez le foetus et le nouveau-né
+P61	autres affections hématologiques de la période périnatale
+P70	anomalies transitoires du métabolisme des glucides spécifiques du foetus et du nouveau-né
+P71	anomalies transitoires du métabolisme du calcium et du magnésium du nouveau-né
+P72	autres anomalies endocriniennes transitoires du nouveau-né
+P74	autres anomalies électrolytiques et métaboliques transitoires du nouveau-né
+P75	iléus méconial
+P76	autres occlusions intestinales du nouveau-né
+P77	entérocolite nécrosante du foetus et du nouveau-né
+P78	autres affections périnatales de l'appareil digestif
+P80	hypothermie du nouveau-né
+P81	autres troubles de la régulation thermique du nouveau-né
+P83	autres affections des téguments spécifiques du foetus et du nouveau-né
+P90	convulsions du nouveau-né
+P91	autres affections cérébrales du nouveau-né
+P92	problèmes alimentaires du nouveau-né
+P93	réactions et intoxications médicamenteuses du foetus et du nouveau-né
+P94	anomalies du tonus musculaire du nouveau-né
+P95	mort foetale de cause non précisée
+P96	autres affections dont l'origine se situe dans la période périnatale
+Q00	anencéphalie et malformations similaires
+Q01	encéphalocèle
+Q02	microcéphalie
+Q03	hydrocéphalie congénitale
+Q04	autres malformations congénitales de l'encéphale
+Q05	spina bifida
+Q06	autres malformations congénitales de la moelle épinière
+Q07	autres malformations congénitales du système nerveux
+Q10	malformations congénitales des paupières, de l'appareil lacrymal et de l'orbite
+Q11	anophtalmie, microphtalmie et macrophtalmie
+Q12	malformations congénitales du cristallin
+Q13	malformations congénitales de la chambre antérieure de l'oeil
+Q14	malformations congénitales de la chambre postérieure de l'oeil
+Q15	autres malformations congénitales de l'oeil
+Q16	malformations congénitales de l'oreille avec atteinte de l'audition
+Q17	autres malformations congénitales de l'oreille
+Q18	autres malformations congénitales de la face et du cou
+Q20	malformations congénitales des cavités et des orifices cardiaques
+Q21	malformations congénitales des cloisons cardiaques
+Q22	malformations congénitales de la valve pulmonaire et de la valvule tricuspide
+Q23	malformations congénitales des valvules aortique et mitrale
+Q24	autres malformations congénitales cardiaques
+Q25	malformations congénitales des gros vaisseaux
+Q26	malformations congénitales des grandes veines
+Q27	autres malformations congénitales de l'appareil circulatoire périphérique
+Q28	autres malformations congénitales de l'appareil circulatoire
+Q30	malformations congénitales du nez
+Q31	malformations congénitales du larynx
+Q32	malformations congénitales de la trachée et des bronches
+Q33	malformations congénitales du poumon
+Q34	autres malformations congénitales de l'appareil respiratoire
+Q35	fente palatine
+Q36	fente labiale
+Q37	fente labio-palatine
+Q38	autres malformations congénitales de la langue, de la bouche et du pharynx
+Q39	malformations congénitales de l'oesophage
+Q40	autres malformations congénitales des voies digestives supérieures
+Q41	absence, atrésie et sténose congénitales de l'intestin grêle
+Q42	absence, atrésie et sténose congénitales du côlon
+Q43	autres malformations congénitales de l'intestin
+Q44	malformations congénitales de la vésicule biliaire, des voies biliaires et du foie
+Q45	autres malformations congénitales de l'appareil digestif
+Q50	malformations congénitales des ovaires, des trompes de Fallope et des ligaments larges
+Q51	malformations congénitales de l'utérus et du col de l'utérus
+Q52	autres malformations congénitales des organes génitaux de la femme
+Q53	cryptorchidie
+Q54	hypospadias
+Q55	autres malformations congénitales des organes génitaux de l'homme
+Q56	non-différenciation sexuelle et pseudo-hermaphrodisme
+Q60	agénésie rénale et autres défauts de développement rénal
+Q61	maladies kystiques du rein
+Q62	anomalies congénitales obstructives du bassinet et malformations congénitales de l'uretère
+Q63	autres malformations congénitales du rein
+Q64	autres malformations congénitales de l'appareil urinaire
+Q65	anomalies morphologiques congénitales de la hanche
+Q66	anomalies morphologiques congénitales du pied
+Q67	anomalies morphologiques congénitales de la tête, de la face, du rachis et du thorax
+Q68	autres anomalies morphologiques congénitales ostéo-articulaires et des muscles
+Q69	polydactylie
+Q70	syndactylie
+Q71	raccourcissement du membre supérieur
+Q72	raccourcissement du membre inférieur
+Q73	raccourcissement d'un membre non précisé
+Q74	autres malformations congénitales d'un (des) membre(s)
+Q75	autres malformations congénitales des os du crâne et de la face
+Q76	malformations congénitales du rachis et du thorax osseux
+Q77	ostéochondrodysplasie avec anomalies de la croissance des os longs et du rachis
+Q78	autres ostéochondrodysplasies
+Q79	malformations congénitales du système ostéo-articulaire et des muscles, non classées ailleurs
+Q80	ichtyose congénitale
+Q81	épidermolyse bulleuse
+Q82	autres malformations congénitales de la peau
+Q83	malformations congénitales du sein
+Q84	autres malformations congénitales de la peau et des phanères
+Q85	phacomatoses, non classées ailleurs
+Q86	syndromes congénitaux malformatifs dus à des causes exogènes connues, non classés ailleurs
+Q87	autres syndromes congénitaux malformatifs précisés atteignant plusieurs systèmes
+Q89	autres malformations congénitales, non classées ailleurs
+Q90	syndrome de Down
+Q91	syndrome d'Edwards et syndrome de Patau
+Q92	autres trisomies et trisomies partielles des autosomes, non classées ailleurs
+Q93	monosomies et délétions des autosomes, non classées ailleurs
+Q95	réarrangements équilibrés et marqueurs structuraux, non classés ailleurs
+Q96	syndrome de Turner
+Q97	autres anomalies des chromosomes sexuels, phénotype féminin, non classées ailleurs
+Q98	autres anomalies des chromosomes sexuels, phénotype masculin, non classées ailleurs
+Q99	autres anomalies des chromosomes, non classées ailleurs
+R00	anomalies du rythme cardiaque
+R01	souffles et autres bruits cardiaques
+R02	gangrène, non classée ailleurs
+R03	constatation d'une anomalie de la tension artérielle, sans diagnostic
+R04	hémorragie des voies respiratoires
+R05	toux
+R06	anomalies de la respiration
+R07	douleur au niveau de la gorge et du thorax
+R09	autres symptômes et signes relatifs aux appareils circulatoire et respiratoire
+R10	douleur abdominale et pelvienne
+R11	nausées et vomissements
+R12	pyrosis
+R13	dysphagie
+R14	flatulence et troubles apparentés
+R15	incontinence des matières fécales
+R16	hépatomégalie et splénomégalie, non classées ailleurs
+R17	ictère, sans précision
+R18	ascite
+R19	autres symptômes et signes relatifs à l'appareil digestif et à l'abdomen
+R20	troubles de la sensibilité cutanée
+R21	rash et autres éruptions cutanées non spécifiques
+R22	autres tuméfactions et masses localisées de la peau et du tissu cellulaire sous-cutané
+R23	autres modifications de la peau
+R25	mouvements involontaires anormaux
+R26	anomalies de la démarche et de la motilité
+R27	autres troubles de la coordination
+R29	autres symptômes et signes relatifs aux systèmes nerveux et ostéo-musculaire
+R30	douleur à la miction
+R31	hématurie, sans précision
+R32	incontinence urinaire, sans précision
+R33	rétention d'urine
+R34	anurie et oligurie
+R35	polyurie
+R36	écoulement urétral
+R39	autres symptômes et signes relatifs à l'appareil urinaire
+R40	somnolence, stupeur et coma
+R41	autres symptômes et signes relatifs aux fonctions cognitives et à la conscience
+R42	étourdissements et éblouissements
+R43	troubles de l'odorat et du goût
+R44	autres symptômes et signes relatifs aux sensations et aux perceptions générales
+R45	symptômes et signes relatifs à l'humeur
+R46	symptômes et signes relatifs à l'apparence et au comportement
+R47	troubles du langage, non classés ailleurs
+R48	dyslexie et autres troubles de la fonction symbolique, non classés ailleurs
+R49	troubles de la voix
+R50	fièvre d'origine inconnue
+R51	céphalée
+R52	douleur, non classée ailleurs
+R53	malaise et fatigue
+R54	sénilité
+R55	syncope et collapsus
+R56	convulsions, non classées ailleurs
+R57	choc, non classé ailleurs
+R58	hémorragie, non classée ailleurs
+R59	adénopathies
+R60	oedème, non classé ailleurs
+R61	hyperhidrose
+R62	retard du développement physiologique
+R63	symptômes et signes relatifs à l'absorption d'aliments et de liquides
+R64	cachexie
+R68	autres symptômes et signes généraux
+R69	causes inconnues et non précisées de morbidité
+R70	accélération de la vitesse de sédimentation et anomalies de la viscosité plasmatique
+R71	anomalies des globules rouges
+R72	anomalies des globules blancs, non classées ailleurs
+R73	augmentation de la glycémie
+R74	anomalies des taux d'enzymes sériques
+R75	mise en évidence par des examens de laboratoire du virus de l'immunodéficience humaine [VIH]
+R76	autres anomalies de résultats immunologiques sériques
+R77	autres anomalies des protéines plasmatiques
+R78	présence de drogues et d'autres substances non trouvées normalement dans le sang
+R79	autres résultats anormaux des examens chimiques du sang
+R80	protéinurie isolée
+R81	glycosurie
+R82	autres résultats anormaux de l'examen des urines
+R83	résultats anormaux de l'examen du liquide céphalo-rachidien
+R84	résultats anormaux de prélèvements effectués sur l'appareil respiratoire et le thorax
+R85	résultats anormaux de prélèvements effectués sur l'appareil digestif et la cavité abdominale
+R86	résultats anormaux de prélèvements effectués sur les organes génitaux de l'homme
+R87	résultats anormaux de prélèvements effectués sur les organes génitaux de la femme
+R89	résultats anormaux de prélèvements effectués sur d'autres organes, appareils et tissus
+R90	résultats anormaux d'imagerie diagnostique du système nerveux central
+R91	résultats anormaux d'imagerie diagnostique du poumon
+R92	résultats anormaux d'imagerie diagnostique du sein
+R93	résultats anormaux d'imagerie diagnostique d'autres parties du corps
+R94	résultats anormaux d'explorations fonctionnelles
+R95	syndrome de la mort subite du nourrisson
+R96	autre mort subite de cause inconnue
+R98	décès sans témoin
+R99	autres causes de mortalité mal définies et non précisées
+S00	lésion traumatique superficielle de la tête
+S01	plaie ouverte de la tête
+S02	fracture du crâne et des os de la face
+S03	luxation, entorse et foulure d'articulations et de ligaments de la tête
+S04	lésion traumatique des nerfs crâniens
+S05	lésion traumatique de l'oeil et de l'orbite
+S06	lésion traumatique intracrânienne
+S07	écrasement de la tête
+S08	amputation traumatique d'une partie de la tête
+S09	lésions traumatiques de la tête, autres et sans précision
+S10	lésion traumatique superficielle du cou
+S11	plaie ouverte du cou
+S12	fracture du cou
+S13	luxation, entorse et foulure des articulations et des ligaments au niveau du cou
+S14	lésion traumatique des nerfs et de la moelle épinière au niveau du cou
+S15	lésion traumatique des vaisseaux sanguins au niveau du cou
+S16	lésion traumatique des muscles et des tendons au niveau du cou
+S17	écrasement du cou
+S18	amputation traumatique au niveau du cou
+S19	lésions traumatiques du cou, autres et sans précision
+S20	lésion traumatique superficielle du thorax
+S21	plaie ouverte du thorax
+S22	fracture de côte(s), du sternum et du rachis dorsal
+S23	luxation, entorse et foulure des articulations et des ligaments du thorax
+S24	lésion traumatique des nerfs et de la moelle épinière au niveau du thorax
+S25	lésion traumatique de vaisseaux sanguins du thorax
+S26	lésion traumatique du coeur
+S27	lésions traumatiques d'organes intrathoraciques, autres et non précisés
+S28	écrasement du thorax et amputation traumatique d'une partie du thorax
+S29	lésions traumatiques du thorax, autres et sans précision
+S30	lésion traumatique superficielle de l'abdomen, des lombes et du bassin
+S31	plaie ouverte de l'abdomen, des lombes et du bassin
+S32	fracture du rachis lombaire et du bassin
+S33	luxation, entorse et foulure des articulations et des ligaments du rachis lombaire et du bassin
+S34	lésion traumatique des nerfs et de la moelle épinière lombaire au niveau de l'abdomen, des lombes et du bassin
+S35	lésion traumatique de vaisseaux sanguins au niveau de l'abdomen, des lombes et du bassin
+S36	lésion traumatique d'organes intra-abdominaux
+S37	lésion traumatique des organes pelviens et urinaires
+S38	écrasement et amputation traumatique d'une partie de l'abdomen, des lombes et du bassin
+S39	lésions traumatiques de l'abdomen, des lombes et du bassin, autres et sans précision
+S40	lésion traumatique superficielle de l'épaule et du bras
+S41	plaie ouverte de l'épaule et du bras
+S42	fracture de l'épaule et du bras
+S43	luxation, entorse et foulure des articulations et des ligaments de la ceinture scapulaire
+S44	lésion traumatique de nerfs au niveau de l'épaule et du bras
+S45	lésion des vaisseaux sanguins au niveau de l'épaule et du bras
+S46	lésion traumatique de muscles et de tendons au niveau de l'épaule et du bras
+S47	écrasement de l'épaule et du bras
+S48	amputation traumatique de l'épaule et du bras
+S49	lésions traumatiques de l'épaule et du bras, autres et sans précision
+S50	lésion traumatique superficielle de l'avant-bras
+S51	plaie ouverte de l'avant-bras
+S52	fracture de l'avant-bras
+S53	luxation, entorse et foulure des articulations et des ligaments du coude
+S54	lésion traumatique de nerfs au niveau de l'avant-bras
+S55	lésion traumatique de vaisseaux sanguins au niveau de l'avant-bras
+S56	lésion traumatique de muscles et de tendons au niveau de l'avant-bras
+S57	écrasement de l'avant-bras
+S58	amputation traumatique de l'avant-bras
+S59	lésions traumatiques de l'avant-bras, autres et sans précision
+S60	lésion traumatique superficielle du poignet et de la main
+S61	plaie ouverte du poignet et de la main
+S62	fracture au niveau du poignet et de la main
+S63	luxation, entorse et foulure d'articulations et de ligaments au niveau du poignet et de la main
+S64	lésion traumatique de nerfs au niveau du poignet et de la main
+S65	lésion traumatique de vaisseaux sanguins au niveau du poignet et de la main
+S66	lésion traumatique de muscles et de tendons au niveau du poignet et de la main
+S67	écrasement du poignet et de la main
+S68	amputation traumatique du poignet et de la main
+S69	lésions traumatiques du poignet et de la main, autres et sans précision
+S70	lésion traumatique superficielle de la hanche et de la cuisse
+S71	plaie ouverte de la hanche et de la cuisse
+S72	fracture du fémur
+S73	luxation, entorse et foulure de l'articulation et des ligaments de la hanche
+S74	lésion traumatique de nerfs au niveau de la hanche et de la cuisse
+S75	lésion traumatique de vaisseaux sanguins au niveau de la hanche et de la cuisse
+S76	lésion traumatique de muscles et de tendons au niveau de la hanche et de la cuisse
+S77	écrasement de la hanche et de la cuisse
+S78	amputation traumatique de la hanche et de la cuisse
+S79	lésions traumatiques de la hanche et de la cuisse, autres et sans précision
+S80	lésion traumatique superficielle de la jambe
+S81	plaie ouverte de la jambe
+S82	fracture de la jambe, y compris la cheville
+S83	luxation, entorse et foulure des articulations et des ligaments du genou
+S84	lésion traumatique des nerfs au niveau de la jambe
+S85	lésion traumatique de vaisseaux sanguins au niveau de la jambe
+S86	lésion traumatique de muscles et de tendons au niveau de la jambe
+S87	écrasement de la jambe
+S88	amputation traumatique de la jambe
+S89	lésions traumatiques de la jambe, autres et sans précision
+S90	lésion traumatique superficielle de la cheville et du pied
+S91	plaie ouverte de la cheville et du pied
+S92	fracture du pied, sauf la cheville
+S93	luxation, entorse et foulure des articulations et des ligaments au niveau de la cheville et du pied
+S94	lésion traumatique des nerfs au niveau de la cheville et du pied
+S95	lésion traumatique de vaisseaux sanguins au niveau de la cheville et du pied
+S96	lésion traumatique de muscles et de tendons au niveau de la cheville et du pied
+S97	écrasement de la cheville et du pied
+S98	amputation traumatique de la cheville et du pied
+S99	lésions traumatiques de la cheville et du pied, autres et sans précision
+T00	lésions traumatiques superficielles de plusieurs parties du corps
+T01	plaies ouvertes de plusieurs parties du corps
+T02	fractures de plusieurs parties du corps
+T03	luxations, entorses et foulures de plusieurs parties du corps
+T04	écrasements de plusieurs parties du corps
+T05	amputations traumatiques de plusieurs parties du corps
+T06	autres lésions traumatiques de plusieurs parties du corps, non classées ailleurs
+T07	lésions traumatiques multiples, sans précision
+T08	fracture du rachis, niveau non précisé
+T09	autres lésions traumatiques du rachis et du tronc, niveau non précisé
+T10	fracture du membre supérieur, niveau non précisé
+T11	autres lésions traumatiques du membre supérieur, niveau non précisé
+T12	fracture d'un membre inférieur, niveau non précisé
+T13	autres lésions traumatiques du membre inférieur, niveau non précisé
+T14	lésions traumatiques d'une partie du corps non précisée
+T15	corps étranger dans la partie externe de l'oeil
+T16	corps étranger dans l'oreille
+T17	corps étranger dans les voies respiratoires
+T18	corps étranger dans les voies digestives
+T19	corps étranger dans les voies génito-urinaires
+(T20-T25)	brûlures et corrosions de la surface externe du corps, selon la localisation
+(T26-T28)	brûlures et corrosions de l'oeil et des organes internes
+(T29-T32)	brûlures et corrosions de parties du corps, multiples et non précisées
+T33	gelure superficielle
+T34	gelure avec nécrose des tissus
+T35	gelure de parties multiples du corps et sans précision
+T36	intoxication par antibiotiques systémiques
+T37	intoxication par d'autres anti-infectieux et antiparasitaires systémiques
+T38	intoxication par hormones et leurs substituts synthétiques et antagonistes, non classés ailleurs
+T39	intoxication par analgésiques non opioïdes, antipyrétiques et antirhumatisants
+T40	intoxication par narcotiques et psychodysleptiques [hallucinogènes]
+T41	intoxication par anesthésiques et gaz thérapeutiques
+T42	intoxication par anti-épileptiques, sédatifs, hypnotiques et anti-parkinsoniens
+T43	intoxication par médicaments psychotropes, non classés ailleurs
+T44	intoxication par médicaments agissant essentiellement sur le système nerveux autonome
+T45	intoxication par substances essentiellement systémiques et hématologiques, non classées ailleurs
+T46	intoxication par substances agissant essentiellement sur le système cardiovasculaire
+T47	intoxication par substances agissant essentiellement sur le tractus gastro-intestinal
+T48	intoxication par substances agissant essentiellement sur les muscles lisses et striés et l'appareil respiratoire
+T49	intoxication par substances à usage topique agissant essentiellement sur la peau et les muqueuses et par médicaments à usage ophtalmologique, oto-rhino-laryngologique et dentaire
+T50	intoxication par diurétiques et médicaments et substances biologiques, autres et sans précision
+T51	effet toxique de l'alcool
+T52	effet toxique de solvants organiques
+T53	effet toxique de dérivés halogénés d'hydrocarbures aliphatiques et aromatiques
+T54	effet toxique de substances corrosives
+T55	effet toxique de savons et détergents
+T56	effet toxique des métaux
+T57	effet toxique d'autres substances non organiques
+T58	effet toxique du monoxyde de carbone
+T59	effets toxiques d'autres émanations, gaz et fumées
+T60	effet toxique de pesticides
+T61	effet toxique de substances nocives absorbées par le biais de fruits de mer
+T62	effet toxique d'autres substances nocives absorbées par le biais d'aliments
+T63	effet toxique d'un contact avec un animal venimeux
+T64	effet toxique de l'aflatoxine et d'autres mycotoxines contaminant des aliments
+T65	effet toxique de substances autres et non précisées
+T66	effets de rayonnements, sans précision
+T67	effets de la chaleur et de la lumière
+T68	hypothermie
+T69	autres effets d'une baisse de la température
+T70	effets de la pression atmosphérique et de la pression de l'eau
+T71	asphyxie
+T73	effets d'autres privations
+T74	syndromes dus à de mauvais traitements
+T75	effets d'autres causes externes
+T78	effets indésirables, non classés ailleurs
+T79	certaines complications précoces des traumatismes, non classées ailleurs
+T80	complications consécutives à une injection thérapeutique, une perfusion et une transfusion
+T81	complications d'actes à visée diagnostique et thérapeutique, non classées ailleurs
+T82	complications de prothèses, implants et greffes cardiaques et vasculaires
+T83	complications de prothèses, implants et greffes génito-urinaires
+T84	complications de prothèses, implants et greffes orthopédiques internes
+T85	complications d'autres prothèses, implants et greffes internes
+T86	échec et rejet d'organes et de tissus greffés
+T87	complications propres à une réimplantation et une amputation
+T88	autres complications de soins chirurgicaux et médicaux, non classées ailleurs
+T90	séquelles de lésions traumatiques de la tête
+T91	séquelles de lésions traumatiques du cou et du tronc
+T92	séquelles de lésions traumatiques du membre supérieur
+T93	séquelles de lésions traumatiques du membre inférieur
+T94	séquelles de lésions traumatiques de parties du corps multiples et non précisées
+T95	séquelles de brûlures, corrosions et gelures
+T96	séquelles d'intoxications par médicaments et substances biologiques
+T97	séquelles d'effets toxiques de substances d'origine essentiellement non médicinale
+T98	séquelles de causes externes, autres et sans précision
+(V01-V09)	piéton blessé dans un accident de transport
+(V10-V19)	cycliste blessé dans un accident de transport
+(V20-V29)	motocycliste blessé dans un accident de transport
+(V30-V39)	occupant d'un véhicule à trois roues blessé dans un accident de transport
+(V40-V49)	occupant d'une automobile blessé dans un accident de transport
+(V50-V59)	occupant d'une camionnette blessé dans un accident de transport
+(V60-V69)	occupant d'un véhicule lourd blessé dans un accident de transport
+(V70-V79)	occupant d'un autobus blessé dans un accident de transport
+(V80-V89)	autres accidents de transport terrestre
+(V90-V94)	accidents de transport par eau
+(V95-V97)	accidents de transport aérien et de vol spatial
+(V98-V99)	accidents de transport, autres et sans précision
+(W00-W19)	chutes
+(W20-W49)	exposition à des forces mécaniques
+(W50-W64)	exposition à des forces animées
+(W65-W74)	noyade et submersion accidentelles
+(W75-W84)	autres accidents affectant la respiration
+(W85-W99)	exposition au courant électrique, aux rayonnements et à des températures et pressions extrêmes de l'air ambiant
+(X00-X09)	exposition à la fumée, au feu et aux flammes
+(X10-X19)	contact avec une source de chaleur et des substances brûlantes
+(X20-X29)	contact avec des animaux venimeux et des plantes vénéneuses
+(X30-X39)	exposition aux forces de la nature
+(X40-X49)	intoxication accidentelle par des substances nocives et exposition à ces substances
+(X50-X57)	surmenage, voyages et privations
+(X58-X59)	exposition accidentelle à des facteurs, autres et sans précision
+X60	auto-intoxication par des analgésiques, antipyrétiques et antirhumatismaux non opiacés et exposition à ces produits
+X61	auto-intoxication par des anti-épileptiques, sédatifs, hypnotiques, antiparkinsoniens et psychotropes et exposition à ces produits, non classés ailleurs
+X62	auto-intoxication par des narcotiques et psychodysleptiques [hallucinogènes] et exposition à ces produits, non classés ailleurs
+X63	auto-intoxication par d'autres substances pharmacologiques agissant sur le système nerveux autonome et exposition à ces produits
+X64	auto-intoxication par des médicaments et substances biologiques et exposition à ces produits, autres et sans précision
+X65	auto-intoxication par l'alcool et exposition à l'alcool
+X66	auto-intoxication par des solvants organiques et des hydrocarbures halogénés et leurs émanations et exposition à ces produits
+X67	auto-intoxication par d'autres gaz et émanations et exposition à ces produits
+X68	auto-intoxication par des pesticides et exposition à ces produits
+X69	auto-intoxication par des produits chimiques et substances nocives et exposition à ces produits, autres et sans précision
+X70	lésion auto-infligée par pendaison, strangulation et suffocation
+X71	lésion auto-infligée par noyade et submersion
+X72	lésion auto-infligée par décharge d'une arme de poing
+X73	lésion auto-infligée par décharge de fusil, de carabine et d'arme à feu de plus gros calibre
+X74	lésion auto-infligée par décharge d'armes à feu, autres et sans précision
+X75	lésion auto-infligée par utilisation de matériel explosif
+X76	lésion auto-infligée par exposition à la fumée, au feu et aux flammes
+X77	lésion auto-infligée par exposition à la vapeur, à des gaz et à des objets brûlants
+X78	lésion auto-infligée par utilisation d'objet tranchant
+X79	lésion auto-infligée par utilisation d'objet contondant
+X80	lésion auto-infligée par saut dans le vide
+X81	lésion auto-infligée en sautant ou en se couchant devant un objet en mouvement
+X82	lésion auto-infligée par accident d'un véhicule à moteur
+X83	lésion auto-infligée par d'autres moyens précisés
+X84	lésion auto-infligée par un moyen non précisé
+X85	agression par médicaments et substances biologiques
+X86	agression par une substance corrosive
+X87	agression par des pesticides
+X88	agression par des gaz et émanations
+X89	agression par d'autres produits chimiques et nocifs précisés
+X90	agression par un produit chimique ou nocif, sans précision
+X91	agression par pendaison, strangulation et suffocation
+X92	agression par noyade et submersion
+X93	agression par arme de poing
+X94	agression par fusil, carabine et arme à feu de plus gros calibre
+X95	agression par des armes à feu, autres et sans précision
+X96	agression par matériel explosif
+X97	agression par la fumée, le feu et les flammes
+X98	agression par la vapeur, des gaz et des objets brûlants
+X99	agression par objet tranchant
+Y00	agression par objet contondant
+Y01	agression par précipitation dans le vide
+Y02	agression en poussant ou plaçant la victime devant un objet en mouvement
+Y03	agression en provoquant un accident de véhicule à moteur
+Y04	agression par la force physique
+Y05	agression sexuelle par la force physique
+Y06	délaissement et abandon
+Y07	autres mauvais traitements
+Y08	agression par d'autres moyens précisés
+Y09	agression par un moyen non précisé
+Y10	intoxication par des analgésiques, antipyrétiques et antirhumatismaux non opiacés et exposition à ces produits, intention non déterminée
+Y11	intoxication par des anti-épileptiques, sédatifs, hypnotiques, antiparkinsoniens et psychotropes et exposition à ces produits, non classés ailleurs, intention non déterminée
+Y12	intoxication par des narcotiques et psychodysleptiques [hallucinogènes] et exposition à ces produits, non classés ailleurs, intention non déterminée
+Y13	intoxication par d'autres substances pharmacologiques agissant sur le système nerveux autonome et exposition à ces produits, intention non déterminée
+Y14	intoxication par des médicaments et substances biologiques, autres et sans précision et exposition à ces produits, intention non déterminée
+Y15	intoxication par l'alcool et exposition à l'alcool, intention non déterminée
+Y16	intoxication par des solvants organiques et des hydrocarbures halogénés et leurs émanations et exposition à ces produits, intention non déterminée
+Y17	intoxication par d'autres gaz et émanations et exposition à ces produits, intention non déterminée
+Y18	intoxication par des pesticides et exposition à ces produits, intention non déterminée
+Y19	intoxication par des produits chimiques et substances nocives et exposition à ces produits, autres et sans précision, intention non déterminée
+Y20	pendaison, strangulation et suffocation, intention non déterminée
+Y21	noyade et submersion, intention non déterminée
+Y22	décharge d'une arme de poing, intention non déterminée
+Y23	décharge de fusil, carabine et arme à feu de plus gros calibre, intention non déterminée
+Y24	décharge d'armes à feu, autres et sans précision, intention non déterminée
+Y25	contact avec matériel explosif, intention non déterminée
+Y26	exposition à la fumée, au feu et aux flammes, intention non déterminée
+Y27	contact avec de la vapeur, du gaz et des objets brûlants, intention non déterminée
+Y28	contact avec objet tranchant, intention non déterminée
+Y29	contact avec objet contondant, intention non déterminée
+Y30	chute, saut ou précipitation dans le vide, intention non déterminée
+Y31	lésion traumatique par un objet en mouvement (la victime étant tombée ou couchée devant l'objet ou entrée en collision avec celui-ci), intention non déterminée
+Y32	accident de véhicule à moteur, intention non déterminée
+Y33	autres événements précisés, intention non déterminée
+Y34	événement sans précision, intention non déterminée
+Y35	intervention de la force publique
+Y36	faits de guerre
+(Y40-Y59)	médicaments et substances biologiques ayant provoqué des effets indésirables au cours de leur usage thérapeutique
+(Y60-Y69)	accidents et complications au cours d'actes médicaux et chirurgicaux
+(Y70-Y82)	appareils médicaux associés à des accidents au cours d'actes diagnostiques et thérapeutiques
+(Y83-Y84)	actes chirurgicaux et autres actes médicaux à l'origine de réactions anormales du patient ou de complications ultérieures, sans mention d'accident au cours de l'intervention
+Y85	séquelles d'un accident de transport
+Y86	séquelles d'autres accidents
+Y87	séquelles d'une lésion auto-infligée, d'une agression ou d'un événement, d'intention non déterminée
+Y88	actes médicaux et chirurgicaux considérés comme cause externe de séquelles
+Y89	séquelles d'autres causes externes
+Y90	preuves du rôle de l'alcool confirmé par le taux d'alcoolémie
+Y91	preuves du rôle de l'alcool confirmé par le degré d'intoxication
+Y95	facteurs nosocomiaux
+Y96	facteurs liés aux conditions de travail
+Y97	facteurs liés à la pollution de l'environnement
+Y98	facteurs liés au mode de vie
+Z00	examen général et investigations de sujets ne se plaignant de rien ou pour lesquels aucun diagnostic n'est rapporté
+Z01	autres examens spéciaux et investigations de sujets ne se plaignant de rien ou pour lesquels aucun diagnostic n'est rapporté
+Z02	examen médical et prise de contact à des fins administratives
+Z03	mise en observation et examen médical pour suspicion de maladies
+Z04	examen et mise en observation pour d'autres raisons
+Z08	examen de contrôle après traitement d'une tumeur maligne
+Z09	examen de contrôle après traitement d'affections autres que les tumeurs malignes
+Z10	examen général de routine d'une sous-population définie
+Z11	examen spécial de dépistage de maladies infectieuses et parasitaires
+Z12	examen spécial de dépistage des tumeurs
+Z13	examen spécial de dépistage d'autres maladies et états pathologiques
+Z20	sujets en contact avec et exposés à des maladies transmissibles
+Z21	infection asymptomatique par le virus de l'immunodéficience humaine [VIH]
+Z22	sujet porteur de germes responsables d'une maladie infectieuse
+Z23	nécessité d'une vaccination contre une seule maladie bactérienne
+Z24	nécessité d'une vaccination contre certaines maladies virales uniques
+Z25	nécessité d'une vaccination contre d'autres maladies virales uniques
+Z26	nécessité d'une vaccination contre d'autres maladies infectieuses uniques
+Z27	nécessité d'une vaccination associée contre plusieurs maladies infectieuses
+Z28	vaccination non faite
+Z29	nécessité d'autres mesures prophylactiques
+Z30	prise en charge d'une contraception
+Z31	mesures procréatives
+Z32	examen et test de grossesse
+Z33	grossesse constatée fortuitement
+Z34	surveillance d'une grossesse normale
+Z35	surveillance d'une grossesse à haut risque
+Z36	dépistage prénatal
+Z37	résultat de l'accouchement
+Z38	enfants nés vivants, selon le lieu de naissance
+Z39	soins et examens du post-partum
+Z40	opération prophylactique
+Z41	thérapie sans raison médicale
+Z42	soins de contrôle comprenant une opération plastique
+Z43	surveillance de stomies
+Z44	mise en place et ajustement d'appareils de prothèse externe
+Z45	ajustement et entretien d'une prothèse interne
+Z46	mise en place et ajustement d'autres appareils
+Z47	autres soins de contrôle orthopédiques
+Z48	autres soins de contrôle chirurgicaux
+Z49	surveillance d'une dialyse
+Z50	soins impliquant une rééducation
+Z51	autres soins médicaux
+Z52	donneurs d'organes et de tissus
+Z53	sujets ayant recours aux services de santé pour des actes médicaux spécifiques, non effectués
+Z54	convalescence
+Z55	difficultés liées à l'éducation et l'alphabétisation
+Z56	difficultés liées à l'emploi et au chômage
+Z57	exposition professionnelle à des facteurs de risque
+Z58	difficultés liées à l'environnement physique
+Z59	difficultés liées au logement et aux conditions économiques
+Z60	difficultés liées à l'environnement social
+Z61	difficultés liées à une enfance malheureuse
+Z62	autres difficultés liées à l'éducation
+Z63	autres difficultés liées à l'entourage immédiat, y compris la situation familiale
+Z64	difficultés liées à certaines situations psycho-sociales
+Z65	difficultés liées à d'autres situations psycho-sociales
+Z70	conseils relatifs aux attitudes, comportement et orientation en matière de sexualité
+Z71	sujets en contact avec les services de santé pour d'autres conseils et avis médicaux, non classés ailleurs
+Z72	difficultés liées au mode de vie
+Z73	difficultés liées à l'orientation de son mode de vie
+Z74	difficultés liées à une dépendance envers la personne qui donne les soins
+Z75	difficultés liées aux installations médicales et autres soins de santé
+Z76	sujet ayant recours aux services de santé dans d'autres circonstances
+Z80	antécédents familiaux de tumeur maligne
+Z81	antécédents familiaux de troubles mentaux et du comportement
+Z82	antécédents familiaux de certaines incapacités et maladies chroniques conduisant à l'invalidité
+Z83	antécédents familiaux d'autres maladies spécifiques
+Z84	antécédents familiaux d'autres affections
+Z85	antécédents personnels de tumeur maligne
+Z86	antécédents personnels de certaines autres maladies
+Z87	antécédents personnels d'autres maladies
+Z88	antécédents personnels d'allergie à des médicaments et des substances biologiques
+Z89	absence acquise d'un membre
+Z90	absence acquise d'organes, non classée ailleurs
+Z91	antécédents personnels de facteurs de risque, non classés ailleurs
+Z92	antécédents personnels de traitement médical
+Z93	stomies
+Z94	greffe d'organe et de tissu
+Z95	présence d'implants et de greffes cardiaques et vasculaires
+Z96	présence d'autres implants fonctionnels
+Z97	présence d'autres appareils
+Z98	autres états post-chirurgicaux
+Z99	dépendance envers des machines et appareils auxiliaires, non classée ailleurs
+J09	grippe, à virus aviaire identifié
+B980	Helicobacter pylori [H. pylori], cause de maladies classées dans d'autres chapitres
+B981	Vibrio vulnificus, cause de maladies classées dans d'autres chapitres
+C860	Lymphome extranodal à cellules T/NK, type nasal
+C861	Lymphome hépatosplénique à cellules T 
+C862	Lymphome (intestinal) à cellules T, type entéropathique
+C863	Lymphome à cellules T simulant une panniculite
+C864	Lymphome à cellules NK blastiques
+C865	Lymphome angio-immunoblastique à cellules T
+C866	Syndrome lymphoprolifératif cutané primitif à cellules T CD30+
+R650	Syndrome de réponse inflammatoire systémique d'origine infectieuse sans défaillance d'organe
+R651	Syndrome de réponse inflammatoire systémique d'origine infectieuse avec défaillance d'organe
+R652	Syndrome de réponse inflammatoire systémique d'origine non infectieuse sans défaillance d'organe
+R653	Syndrome de réponse inflammatoire systémique d'origine non infectieuse avec défaillance d'organe
+R659	Syndrome de réponse inflammatoire systémique, non précisé
+U049	Syndrome respiratoire aigu sévère [SRAS], sans précision
+U800	Agents résistant à la pénicilline
+U801	Agents résistant à la méthicilline
+U808	Agents résistant à d'autres antibiotiques apparentés à la pénicilline
+U810	Agents résistant à la vancomycine
+U818	Agents résistant à d'autres antibiotiques apparentés à la vancomycine
+U890	Agents résistant à un seul autre antibiotique précisé
+U899	Agents résistant à un antibiotique non précisé
+U900	Résistance aux antiépileptiques
+U909	Résistances à un traitement, autres et non précisés
+

@@ -1,0 +1,16 @@
+TYPE
+Tumorectomie + extemporanée
+Tumorectomie + ganglion sentinelle
+Tumorectomie aprés repérage
+Tumorectomie après repérage
+Tumorectomie du sein
+Tumorectomie du sein aprés repérage
+Tumorectomie du sein après repérage
+Tumorectomie du sein aprés repérage avec ganglion sentinelle +/- curage axillaire
+Tumorectomie du sein après repérage avec ganglion sentinelle +/- curage axillaire
+Tumorectomie du sein aprés repérage et curage axillaire
+Tumorectomie du sein après repérage et curage axillaire
+Tumorectomie du sein avec curage
+Tumorectomie du sein avec ganglion sentinelle (extemporané)
+Tumorectomie du sein et curage axillaire
+Tumorectomie ou biopsie ou pyramidectomie

@@ -1,0 +1,14 @@
+CODE	LIBELLE
+K500	Maladie de Crohn de l'intestin grêle
+K501	Maladie de Crohn du gros intestin
+K508	Autres formes de la maladie de Crohn
+K509	Maladie de Crohn, sans précision
+K510	Entéro-colite ulcéreuse (chronique)
+K511	Iléo-colite ulcéreuse (chronique)
+K512	Rectite ulcéreuse (chronique)
+K513	Recto-sigmoïdite ulcéreuse (chronique)
+K514	Pseudo-polypose du côlon
+K515	Procto-colite muqueuse
+K518	Autres recto-colites hémorragiques
+K519	Recto-colite hémorragique, sans précision
+

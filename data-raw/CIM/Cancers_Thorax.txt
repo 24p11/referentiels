@@ -1,0 +1,43 @@
+CODE	LIBELLE
+C150	oesophage cervical
+C151	oesophage thoracique
+C152	oesophage abdominal
+C153	tiers supérieur de l'oesophage
+C154	tiers moyen de l'oesophage
+C155	tiers inférieur de l'oesophage
+C158	lésion à localisations contiguës de l'oesophage
+C159	oesophage, sans précision
+C33	tumeur maligne de la trachée
+C340	bronche souche
+C341	lobe supérieur, bronches ou poumon
+C342	lobe moyen, bronches ou poumon
+C343	lobe inférieur, bronches ou poumon
+C348	lésion à localisations contiguës des bronches et du poumon
+C349	bronche ou poumon, sans précision
+C37	tumeur maligne du thymus
+C380	coeur
+C381	médiastin antérieur
+C382	médiastin postérieur
+C383	médiastin, partie non précisée
+C384	plèvre
+C388	lésion à localisations contiguës du coeur, du médiastin et de la plèvre
+C398	lésion à localisations contiguës des organes respiratoires et intrathoraciques
+C450	mésothéliome de la plèvre
+C452	mésothéliome du péricarde
+C459	mésothéliome, sans précision
+C771	ganglions lymphatiques intrathoraciques
+C780	tumeur maligne secondaire du poumon
+C781	tumeur maligne secondaire du médiastin
+C782	tumeur maligne secondaire de la plèvre
+C783	tumeur maligne secondaire des organes respiratoires, autres et non précisés
+D001	oesophage
+D021	trachée
+D022	bronches et poumon
+D023	autres parties de l'appareil respiratoire
+D381	trachée, bronches et poumon
+D382	plèvre
+D383	médiastin
+C4672	Sarcome de Kaposi pulmonaire
+
+D384
+D385

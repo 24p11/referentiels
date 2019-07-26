@@ -1,0 +1,7 @@
+CODE	LIBELLE
+D57	affections à hématies falciformes [drépanocytaires]
+D570	anémie à hématies falciformes [anémie drépanocytaire] avec crises
+D571	anémie à hématies falciformes sans crises
+D572	affections à hématies falciformes [drépanocytaires] hétérozygotes doubles
+D573	trait de la maladie des hématies falciformes [drépanocytaire]
+D578	autres affections à hématies falciformes [drépanocytaires]

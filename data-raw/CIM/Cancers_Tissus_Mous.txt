@@ -1,0 +1,38 @@
+CODE	LIBELLE
+C457	mésothéliome d'autres sièges
+C459	mésothéliome, sans précision
+C461	sarcome de Kaposi des tissus mous
+C463	sarcome de Kaposi des ganglions lymphatiques
+C467	sarcome de Kaposi d'autres sièges
+C468	sarcome de Kaposi d'organes multiples
+C469	sarcome de Kaposi, sans précision
+C470	nerfs périphériques de la tête, de la face et du cou
+C471	nerfs périphériques du membre supérieur, y compris l'épaule
+C472	nerfs périphériques du membre inférieur, y compris la hanche
+C473	nerfs périphériques du thorax
+C474	nerfs périphériques de l'abdomen
+C475	nerfs périphériques du pelvis
+C476	nerfs périphériques du tronc, sans précision
+C478	lésion à localisations contiguës des nerfs périphériques et du système nerveux autonome
+C479	nerfs périphériques et système nerveux autonome, sans précision
+C490	tissu conjonctif et autres tissus mous de la tête, de la face et du cou
+C491	tissu conjonctif et autres tissus mous du membre supérieur, y compris l'épaule
+C492	tissu conjonctif et autres tissus mous du membre inférieur, y compris la hanche
+C493	tissu conjonctif et autres tissus mous du thorax
+C494	tissu conjonctif et autres tissus mous de l'abdomen
+C495	tissu conjonctif et autres tissus mous du pelvis
+C4670	Sarcome de Kaposi de la sphère O.R.L.
+C4671	Sarcome de Kaposi digestif
+C4672	Sarcome de Kaposi pulmonaire
+C4678	Sarcome de Kaposi d'autres localisations
+C4930	Vaisseaux (sanguins) (lymphatiques) du thorax
+C4938	Tissu conjonctif et autres tissus mous du thorax, autres
+C4940	Vaisseaux (sanguins) (lymphatiques) de l'abdomen
+C4948	Tissu conjonctif et autres tissus mous de l'abdomen, autres
+
+C4950
+C4958
+C496
+C498
+C499
+D481

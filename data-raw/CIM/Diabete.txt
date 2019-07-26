@@ -1,0 +1,83 @@
+CODE	LIBELLE
+E10	Diabète sucré de type 1
+E100	Diabète sucré de type 1, avec coma
+E101	Diabète sucré de type 1, avec acidocétose
+E102	Diabète sucré de type 1, avec complications rénales
+E103	Diabète sucré de type 1, avec complications oculaires
+E104	Diabète sucré de type 1, avec complications neurologiques
+E105	Diabète sucré de type 1, avec complications vasculaires périphériques
+E106	Diabète sucré de type 1, avec autres complications précisées
+E107	Diabète sucré de type 1, avec complications multiples
+E108	Diabète sucré de type 1, avec complications non précisées
+E109	Diabète sucré de type 1, sans complication
+E11	Diabète sucré de type 2
+E110	Diabète sucré de type 2, avec coma
+E111	Diabète sucré de type 2, avec acidocétose
+E112	Diabète sucré de type 2, avec complications rénales
+E113	Diabète sucré de type 2, avec complications oculaires
+E114	Diabète sucré de type 2, avec complications neurologiques
+E115	Diabète sucré de type 2, avec complications vasculaires périphériques
+E116	Diabète sucré de type 2, avec autres complications précisées
+E117	Diabète sucré de type 2, avec complications multiples
+E118	Diabète sucré de type 2, avec complications non précisées
+E119	Diabète sucré de type 2, sans complication
+E1100	Diabète sucré de type 2, insulinotraité, avec coma
+E1110	Diabète sucré de type 2 insulinotraité, avec acidocétose
+E1120	Diabète sucré de type 2 insulinotraité, avec complications rénales
+E1130	Diabète sucré de type 2 insulinotraité, avec complications oculaires
+E1140	Diabète sucré de type 2 insulinotraité, avec complications neurologiques
+E1150	Diabète sucré de type 2 insulinotraité, avec complications vasculaires périphériques
+E1160	Diabète sucré de type 2 insulinotraité, avec autres complications précisées
+E1170	Diabète sucré de type 2 insulinotraité, avec complications multiples
+E1180	Diabète sucré de type 2 insulinotraité, avec complications non précisées
+E1190	Diabète sucré de type 2 insulinotraité, sans complication
+E1108	Diabète sucré de type 2 non insulinotraité ou sans précision, avec coma
+E1118	Diabète sucré de type 2 non insulinotraité ou sans précision, avec acidocétose
+E1128	Diabète sucré de type 2 non insulinotraité ou sans précision, avec complications rénales
+E1138	Diabète sucré de type 2 non insulinotraité ou sans précision, avec complications oculaires
+E1148	Diabète sucré de type 2 non insulinotraité ou sans précision, avec complications neurologiques
+E1158	Diabète sucré de type 2 non insulinotraité ou sans précision, avec complications vasculaires périphériques
+E1168	Diabète sucré de type 2 non insulinotraité ou sans précision, avec autres complications précisées
+E1178	Diabète sucré de type 2 non insulinotraité ou sans précision, avec complications multiples
+E1188	Diabète sucré de type 2 non insulinotraité ou sans précision, avec complications non précisées
+E1198	Diabète sucré de type 2 non insulinotraité ou sans précision, sans complication
+E12	diabète sucré de malnutrition
+E120	diabète sucré de malnutrition | avec coma
+E121	diabète sucré de malnutrition | avec acidocétose
+E122	diabète sucré de malnutrition | avec complications rénales
+E123	diabète sucré de malnutrition | avec complications oculaires
+E124	diabète sucré de malnutrition | avec complications neurologiques
+E125	diabète sucré de malnutrition | avec complications vasculaires périphériques
+E126	diabète sucré de malnutrition | avec autres complications précisées
+E127	diabète sucré de malnutrition | avec complications multiples
+E128	diabète sucré de malnutrition | avec complications non précisées
+E129	diabète sucré de malnutrition | sans complication
+E13	autres diabètes sucrés précisés
+E130	autres diabètes sucrés précisés | avec coma
+E131	autres diabètes sucrés précisés | avec acidocétose
+E132	autres diabètes sucrés précisés | avec complications rénales
+E133	autres diabètes sucrés précisés | avec complications oculaires
+E134	autres diabètes sucrés précisés | avec complications neurologiques
+E135	autres diabètes sucrés précisés | avec complications vasculaires périphériques
+E136	autres diabètes sucrés précisés | avec autres complications précisées
+E137	autres diabètes sucrés précisés | avec complications multiples
+E138	autres diabètes sucrés précisés | avec complications non précisées
+E139	autres diabètes sucrés précisés | sans complication
+E14	diabète sucré, sans précision
+E140	diabète sucré, sans précision | avec coma
+E141	diabète sucré, sans précision | avec acidocétose
+E142	diabète sucré, sans précision | avec complications rénales
+E143	diabète sucré, sans précision | avec complications oculaires
+E144	diabète sucré, sans précision | avec complications neurologiques
+E145	diabète sucré, sans précision | avec complications vasculaires périphériques
+E146	diabète sucré, sans précision | avec autres complications précisées
+E147	diabète sucré, sans précision | avec complications multiples
+E148	diabète sucré, sans précision | avec complications non précisées
+E149	diabète sucré, sans précision | sans complication
+O24	diabète sucré au cours de la grossesse
+O240	diabète sucré préexistant, insulino-dépendant
+O241	diabète sucré préexistant, non insulino-dépendant
+O242	diabète sucré préexistant lié à la malnutrition
+O243	diabète sucré préexistant, sans précision
+O244	diabète sucré survenant au cours de la grossesse
+O249	diabète sucré au cours de la grossesse, sans précision

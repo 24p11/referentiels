@@ -1,0 +1,9 @@
+ACTE	LIBELLE
+JANM001	Lithotritie extracorporelle du rein, avec guidage radiologique
+JCGE001	Ablation et/ou fragmentation de calcul de l'uretère pelvien, par urétéroscopie rétrograde
+JCGE001	Extraction et/ou fragmentation de calcul de l'uretère pelvien, par urétéroscopie rétrograde
+JCGE005	Ablation et/ou fragmentation de calcul de l'uretère iliaque, par urétéroscopie rétrograde
+JCGE005	Extraction et/ou fragmentation de calcul de l'uretère iliaque, par urétéroscopie rétrograde
+JCGE006	Ablation et/ou fragmentation de calcul de l'uretère lombal, par urétéroscopie rétrograde
+JCGE006	Extraction et/ou fragmentation de calcul de l'uretère lombaire, par urétéroscopie rétrograde
+JCNM002	Lithotritie extracorporelle de l'uretère, avec guidage radiologique

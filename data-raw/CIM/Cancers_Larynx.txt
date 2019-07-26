@@ -1,0 +1,9 @@
+CODE	LIBELLE
+C320	glotte
+C321	étage sus-glottique
+C322	étage sous-glottique
+C323	cartilage laryngé
+C328	lésion à localisations contiguës du larynx
+C329	larynx, sans précision
+D020	larynx
+D380	larynx

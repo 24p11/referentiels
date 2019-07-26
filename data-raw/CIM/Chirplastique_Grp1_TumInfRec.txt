@@ -1,0 +1,259 @@
+DIAG	LIBELLE
+A311	Infection cutanée à mycobacteries atypiques
+A46	Érysipèle
+A480	Gangrène gazeuse
+A690	Stomatite ulcéro-nécrotique
+C000	Tumeur maligne de la lèvre supérieure, (bord libre)
+C009	Tumeur maligne de la lèvre, sans précision
+C040	Tumeur maligne du plancher antérieur de la bouche
+C091	Tumeur maligne du pilier de l'amygdale (antérieur) (postérieur)
+C211	Tumeur maligne du canal anal
+C418	Tumeur maligne à localisations contiguës des os et du cartilage articulaire
+C431	Mélanome malin de la paupière, y compris le canthus
+C432	Mélanome malin de l'oreille et du conduit auditif externe
+C433	Mélanome malin de la face, parties autres et non précisées
+C434	Mélanome malin du cuir chevelu et du cou
+C435	Mélanome malin du tronc
+C436	Mélanome malin du membre supérieur, y compris l'épaule
+C437	Mélanome malin du membre inférieur, y compris la hanche
+C438	Lésion à localisations contiguës d'un mélanome malin de la peau
+C439	Mélanome (malin) de la peau, sans précision
+C440	Tumeur maligne de la face cutanée de la lèvre
+C441	Tumeur maligne de la peau de la paupière, y compris le canthus
+C442	Tumeur maligne de la peau de l'oreille et du conduit auditif externe
+C443	Tumeur maligne de la peau de la face, parties autres et non précisées
+C444	Tumeur maligne de la peau du cuir chevelu et du cou
+C445	Tumeur maligne de la peau du tronc
+C446	Tumeur maligne de la peau du membre supérieur, y compris l'épaule
+C447	Tumeur maligne de la peau du membre inférieur, y compris la hanche
+C448	Tumeur maligne à localisations contiguës de la peau
+C449	Tumeur maligne de la peau, sans précision
+C457	Mésothéliome d'autres sièges
+C490	Tumeur maligne du tissu conjonctif et des autres tissus mous de la tête, de la face et du cou
+C491	Tumeur maligne du tissu conjonctif et des autres tissus mous du membre supérieur, y compris l'épaule
+C492	Tumeur maligne du tissu conjonctif et des autres tissus mous du membre inférieur, y compris la hanche
+C493	Tumeur maligne du tissu conjonctif et des autres tissus mous du thorax
+C4930	Tumeur maligne des vaisseaux (sanguins) (lymphatiques) du thorax
+C4938	Autres tumeurs malignes du tissu conjonctif et autres tissus mous du thorax
+C494	Tumeur maligne du tissu conjonctif et des autres tissus mous de l'abdomen
+C4940	Tumeur maligne des vaisseaux (sanguins) (lymphatiques) de l'abdomen
+C4948	Autres tumeurs malignes du tissu conjonctif et autres tissus mous de l'abdomen
+C4950	Tumeur maligne des vaisseaux (sanguins) (lymphatiques) du bassin
+C4958	Autres tumeurs malignes du tissu conjonctif et autres tissus mous du bassin
+C496	Tumeur maligne du tissu conjonctif et des autres tissus mous du tronc, sans précision
+C498	Tumeur maligne à localisations contiguës du tissu conjonctif et des autres tissus mous
+C510	Tumeur maligne de la grande lèvre
+C511	Tumeur maligne de la petite lèvre
+C512	Tumeur maligne du clitoris
+C518	Tumeur maligne à localisations contiguës de la vulve
+C519	Tumeur maligne de la vulve, sans précision
+C52	Tumeur maligne du vagin
+C540	Tumeur maligne de l'isthme de l'utérus
+C600	Tumeur maligne du prépuce
+C601	Tumeur maligne du gland
+C602	Tumeur maligne du corps de la verge
+C609	Tumeur maligne de la verge, sans précision
+C629	Tumeur maligne d'un testicule, sans précision
+C773	Tumeur maligne secondaire et non précisée des ganglions lymphatiques de l'aisselle et du membre supérieur
+D034	Mélanome in situ du cuir chevelu et du cou
+D037	Mélanome in situ du membre inférieur, y compris la hanche
+D039	Mélanome in situ, sans précision
+D043	Carcinome in situ de la peau des parties de la face, autres et non précisées
+D046	Carcinome in situ de la peau du membre supérieur, y compris l'épaule
+D048	Carcinome in situ de la peau d'autres sièges
+D049	Carcinome in situ de la peau, sans précision
+D071	Carcinome in situ de la vulve
+D076	Carcinome in situ d'organes génitaux de l'homme, autres et non précisés
+D097	Carcinome in situ d'autres sièges précisés
+D100	Tumeur bénigne de la lèvre
+D110	Tumeur bénigne de la glande parotide
+D119	Tumeur bénigne de la glande salivaire principale, sans précision
+D164	Tumeur bénigne des os du crâne et de la face
+D170	Tumeur lipomateuse bénigne de la peau et du tissu sous-cutané de la tête, de la face et du cou
+D171	Tumeur lipomateuse bénigne de la peau et du tissu sous-cutané du tronc
+D172	Tumeur lipomateuse bénigne de la peau et du tissu sous-cutané des membres
+D173	Tumeur lipomateuse bénigne de la peau et du tissu sous-cutané, de sièges autres et non précisés
+D179	Tumeur lipomateuse bénigne, sans précision
+D180	Hémangiome, tout siège
+D210	Tumeur bénigne du tissu conjonctif et des autres tissus mous de la tête, de la face et du cou
+D211	Tumeur bénigne du tissu conjonctif et des autres tissus mous du membre supérieur, y compris l'épaule
+D212	Tumeur bénigne du tissu conjonctif et des autres tissus mous du membre inférieur, y compris la hanche
+D2130	Tumeur bénigne des vaisseaux (sanguins) (lymphatiques) du thorax
+D2138	Autres tumeurs bénignes du tissu conjonctif et autres tissus mous du thorax
+D2148	Autres tumeurs bénignes du tissu conjonctif et autres tissus mous de l'abdomen
+D216	Tumeur bénigne du tissu conjonctif et des autres tissus mous du tronc, sans précision
+D220	Nævus à mélanocytes de la lèvre
+D223	Nævus à mélanocytes des parties de la face, autres et non précisées
+D224	Nævus à mélanocytes du cuir chevelu et du cou
+D225	Nævus à mélanocytes du tronc
+D227	Nævus à mélanocytes du membre inférieur, y compris la hanche
+D229	Nævus à mélanocytes, sans précision
+D231	Tumeur bénigne de la peau de la paupière, y compris le canthus
+D232	Tumeur bénigne de la peau de l'oreille et du conduit auditif externe
+D233	Tumeur bénigne de la peau des parties de la face, autres et non précisées
+D234	Tumeur bénigne de la peau du cuir chevelu et du cou
+D235	Tumeur bénigne de la peau du tronc
+D236	Tumeur bénigne de la peau du membre supérieur, y compris l'épaule
+D237	Tumeur bénigne de la peau du membre inférieur, y compris la hanche
+D239	Tumeur bénigne de la peau, sans précision
+D290	Tumeur bénigne de la verge
+D360	Tumeur bénigne des ganglions lymphatiques
+D361	Tumeur bénigne des nerfs périphériques et du système nerveux autonome
+D367	Tumeur bénigne d'autres sièges précisés
+D401	Tumeur à évolution imprévisible ou inconnue du testicule
+D481	Tumeur à évolution imprévisible et inconnue du tissu conjonctif et des autres tissus mous
+D485	Tumeur à évolution imprévisible et inconnue de la peau
+D486	Tumeur à évolution imprévisible et inconnue du sein
+H021	Ectropion palpébral
+H611	Affections non infectieuses du pavillon de l'oreille
+H618	Autres affections précisées de l'oreille externe
+J322	Sinusite ethmoïdale (chronique)
+K610	Abcès anal
+L020	Abcès cutané, furoncle et anthrax de la face
+L021	Abcès cutané, furoncle et anthrax du cou
+L022	Abcès cutané, furoncle et anthrax du tronc
+L023	Abcès cutané, furoncle et anthrax de la fesse
+L024	Abcès cutané, furoncle et anthrax d'un membre
+L028	Abcès cutané, furoncle et anthrax d'autres localisations
+L029	Abcès cutané, furoncle et anthrax, sans précision
+L030	Phlegmon des doigts et des orteils
+L031	Phlegmon d'autres parties d'un membre
+L039	Phlegmon, sans précision
+L050	Sinus pilonidal avec abcès
+L059	Sinus pilonidal (sans abcès)
+L080	Pyodermite
+L088	Autres infections localisées précisées de la peau et du tissu cellulaire sous-cutané
+L089	Infection localisée de la peau et du tissu cellulaire sous-cutané, sans précision
+L100	Pemphigus vulgaire
+L110	Kératose folliculaire acquise
+L120	Pemphigoïde bulleux
+L123	Épidermolyse bulleuse acquise
+L208	Autres dermites atopiques
+L600	Ongle incarné
+L608	Autres maladies des ongles
+L662	Folliculite décalvante
+L711	Rhinophyma
+L720	Kyste épidermique
+L721	Kyste sébacé
+L729	Kyste folliculaire de la peau et du tissu cellulaire sous-cutané, sans précision
+L732	Hidrosadénite suppurée
+L748	Autres affections des glandes sudoripares exocrines
+L88	Pyodermite gangréneuse
+L890	ulcère de décubitus de stade I  - Ulcère de décubitus [pression] limité à un érythème - L'ulcère apparait comme une zone délimitée de rougeur persistante (érythème) sur les peaux claires ; sur les peaux plus sombres l'ulcère pourra apparaitre de teinte persistante rouge, bleue ou violette, sans perte de substance cutanée.
+L891	Ulcère de décubitus de stade II - Ulcère de décubitus [pression] avec abrasion, perte de substance cutanée partielle atteignant l'épiderme et/ou le derme, perte de substance cutanée SAI, phlyctène
+L893	Ulcère de décubitus de stade IV - Ulcère de décubitus [pression] avec nécrose des muscles, os et structures de soutien (tendon ou capsule articulaire)
+L899	Ulcère de décubitus et zone de pression, sans précision - Ulcère de décubitus [pression] sans mention de stade
+L905	Cicatrices et fibrose cutanées
+L909	Affection atrophique de la peau, sans précision
+L910	Cicatrice hypertrophique chéloïde
+L918	Autres affections hypertrophiques de la peau
+L919	Affection hypertrophique de la peau, sans précision
+L946	Aïnhum
+L97	Ulcère du membre inférieur, non classé ailleurs
+L984	Ulcérations chroniques de la peau, non classées ailleurs
+M000	Arthrite et polyarthrite à staphylocoques
+M008	Arthrite et polyarthrite dues à d'autres bactéries précisées
+M009	Arthrite à bactéries pyogènes, sans précision
+M0627	Bursite rhumatoïde - Articulations de la cheville et du pied
+M071	Arthrite mutilante (L40.5)
+M139	Arthrite, sans précision
+M203	Autres déformations du gros orteil
+M6028	Granulome d'un tissu mou dû à la présence d'un corps étranger, non classé ailleurs - Autres localisations
+M620	Diastasis musculaire (n'entraînant pas de hernie)
+M621	Autres déchirures musculaires (non traumatiques)
+M654	Ténosynovite chronique sténosante du pouce [de Quervain]
+M6593	Synovite et ténosynovite, sans précision - Avant-bras
+M674	Kyste (articulaire)
+M702	Bursite olécrânienne
+M703	Autres bursites du coude
+M726	Fasciite nécrosante
+M841	Fracture non consolidée [pseudarthrose]
+M8416	Fracture non consolidée (pseudarthrose) - Jambe
+M8536	Ostéite condensante - Jambe
+M856	Autres kystes osseux
+M8787	Autres ostéonécroses - Cheville et pied
+M8798	Ostéonécrose, sans précision - Autres localisations
+M999	Lésion biomécanique, sans précision
+N431	Hydrocèle infectée
+N492	Affections inflammatoires du scrotum
+N766	Ulcération de la vulve
+Q189	Malformation congénitale de la face et du cou, sans précision
+Q301	Agénésie et hypoplasie du nez
+Q308	Autres malformations congénitales du nez
+Q803	Érythrodermie ichtyosiforme bulleuse congénitale
+Q818	Autres épidermolyses bulleuses
+Q820	Lymphoedème héréditaire
+Q821	Xeroderma pigmentosum
+Q850	Neurofibromatose (non maligne)
+S008	Lésion traumatique superficielle d'autres parties de la tête
+S010	Plaie ouverte du cuir chevelu
+S012	Plaie ouverte du nez
+S022	Fracture des os du nez
+S0220	Fracture fermée des os du nez
+S0230	Fracture fermée du plancher de l'orbite
+S024	Fracture des os malaires et maxillaires
+S0281	Fractures ouvertes d'autres os du crâne et de la face
+S031	Luxation de la cloison du nez
+S051	Contusion du globe oculaire et des tissus de l'orbite
+S081	Amputation traumatique de l'oreille
+S091	Lésion traumatique des muscles et des tendons de la tête
+S202	Contusion du thorax
+S342	Lésion traumatique de la racine nerveuse du rachis lombaire et sacré
+S707	Lésions traumatiques superficielles multiples de la hanche et de la cuisse
+S710	Plaie ouverte de la hanche
+S711	Plaie ouverte de la cuisse
+S7200	Fracture fermée du col du fémur
+S819	Plaie ouverte de la jambe, partie non précisée
+S821	Fracture de l'extrémité supérieure du tibia
+S825	Fracture de la malléole interne
+S8281	Fractures ouvertes d'autres parties de la jambe
+S829	Fracture de la jambe, partie non précisée
+S8291	Fracture ouverte de la jambe, partie non précisée
+S850	Lésion traumatique de l'artère poplitée
+S860	Lésion traumatique du tendon d'Achille
+S868	Lésion traumatique d'autres muscles et tendons au niveau de la jambe
+S870	Écrasement du genou
+S878	Écrasement de parties autres et non précisées de la jambe
+S889	Amputation traumatique de la jambe, niveau non précisé
+S897	Lésions traumatiques multiples de la jambe
+S900	Contusion de la cheville
+S909	Lésion traumatique superficielle de la cheville et du pied, sans précision
+S910	Plaie ouverte de la cheville
+S923	Fracture d'os du métatarse
+S970	Écrasement de la cheville
+S971	Écrasement d'un (des) orteil(s)
+S981	Amputation traumatique d'un orteil
+T173	Corps étranger dans le larynx
+T181	Corps étranger dans l'oesophage
+T200	Brûlure de la tête et du cou, degré non précisé
+T203	Brûlure du troisième degré de la tête et du cou
+T212	Brûlure du second degré du tronc
+T221	Brûlure du premier degré de l'épaule et du membre supérieur, sauf poignet et main
+T225	Corrosion du premier degré de l'épaule et du membre supérieur, sauf poignet et main
+T240	Brûlure de la hanche et du membre inférieur, sauf cheville et pied, degré non précisé
+T243	Brûlure du troisième degré de la hanche et du membre inférieur, sauf cheville et pied
+T310	Brûlures couvrant moins de 10% de la surface du corps
+T311	Brûlures couvrant entre 10 et moins de 20% de la surface du corps
+T349	Gelure de localisations autres et non précisées, avec nécrose des tissus
+T810	Hémorragie et hématome compliquant un acte à visée diagnostique et thérapeutique, non classés ailleurs
+T813	Désunion d'une plaie opératoire, non classée ailleurs
+T8130	Éviscération postopératoire
+T8138	Désunions d'une plaie opératoire non classées ailleurs, autres et non précisées
+T814	Abcès de(s) : intraabdominal, plaie, sousphrénique, sutures. Sepsis après un acte à visée diagnostique et thérapeutique
+T817	Complications vasculaires consécutives à un acte à visée diagnostique et thérapeutique, non classées ailleurs
+T818	Autres complications d'un acte à visée diagnostique et thérapeutique, non classées ailleurs
+T819	Complication non précisée d'un acte à visée diagnostique et thérapeutique
+T835	Infection et réaction inflammatoire dues à une prothèse, un implant et une greffe de l'appareil urinaire
+T840	Complication mécanique d'une prothèse articulaire interne
+T869	Échec et rejet d'un organe et d'un tissu greffés non précisés
+T889	Complication de soins chirurgicaux et médicaux, sans précision
+Y69	Accident et complication au cours d'un acte médical et chirurgical, sans précision
+Y831	Intervention chirurgicale avec implantation d'une prothèse interne à l'origine de réactions anormales du patient ou de complications ultérieures, sans mention d'accident au cours de l'intervention
+Y834	Autres interventions chirurgicales réparatrices à l'origine de réactions anormales du patient ou de complications ultérieures, sans mention d'accident au cours de l'intervention
+Z419	Thérapie sans raison médicale, sans précision
+Z420	Soins de contrôle comprenant une opération plastique de la tête et du cou
+Z422	Soins de contrôle comprenant une opération plastique d'autres parties du tronc
+Z424	Soins de contrôle comprenant une opération plastique des extrémités inférieures
+Z428	Soins de contrôle comprenant une opération plastique d'autres parties du corps
+Z900	Absence acquise d'une partie de la tête et du cou
+Z908	Absence acquise d'autres organes

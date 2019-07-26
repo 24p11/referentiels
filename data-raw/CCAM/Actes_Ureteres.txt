@@ -1,0 +1,6 @@
+ACTE	LIBELLE
+JEKE001	Changement d'une endoprothèse de l'urètre, par endoscopie
+JEGE004	Ablation d'une endoprothèse définitive de l'urètre, par endoscopie
+JELE002	Pose d'une endoprothèse de l'urètre, par endoscopie
+
+

@@ -1,0 +1,26 @@
+TYPE	GHM	Libelle
+EntDialyse	28Z01Z	Entraînements à la dialyse péritonéale automatisée, en séances
+EntDialyse	28Z02Z	Entraînements à la dialyse péritonéale continue ambulatoire, en séances
+EntDialyse	28Z03Z	Entraînements à l'hémodialyse, en séances
+Dialyse	28Z04Z	Hémodialyse, en séances
+Chimio	28Z07Z	Chimiothérapie pour tumeur, en séances
+Radio	28Z10Z	Curiethérapie, en séances
+Radio	28Z11Z	Techniques spéciales d'irradiation externe, en séances
+Transfu	28Z14Z	Transfusions, en séances
+Autre	28Z15Z	Oxygénothérapie hyperbare, en séances
+Autre	28Z16Z	Aphérèses sanguines, en séances
+Autre	28Z17Z	Chimiothérapie pour affection non tumorale, en séances
+Radio	28Z18Z	Radiothérapie conformationnelle avec modulation d'intensité, en séances
+Radio	28Z11Z	Techniques spéciales d'irradiation externe, en séances
+Radio	28Z18Z	Radiothérapie conformationnelle avec modulation d'intensité, en séances
+PrepaRadio	28Z19Z	Préparations à une irradiation externe par RCMI ou techniques spéciales
+PrepaRadio	28Z20Z	Préparations à une irradiation externe avec dosimétrie tridimensionnelle avec HDV
+PrepaRadio	28Z21Z	Préparations à une irradiation externe avec dosimétrie tridimensionnelle sans HDV
+PrepaRadio	28Z22Z	Autres préparations à une irradiation externe
+Radio	28Z23Z	Techniques complexes d'irradiation externe avec repositionnement, en séances
+Radio	28Z24Z	Techniques complexes d'irradiation externe sans repositionnement, en séances
+Radio	28Z25Z	Autres techniques d'irradiation externe, en séances
+PrepaRadio	28Z08Z	Préparations à une irradiation externe avec une dosimétrie tridimensionnelle
+PrepaRadio	28Z09Z	Autres préparations à une irradiation externe
+Radio	28Z12Z	Techniques complexes d'irradiation externe, en séances
+Radio	28Z13Z	Autres techniques d'irradiation externe, en séances

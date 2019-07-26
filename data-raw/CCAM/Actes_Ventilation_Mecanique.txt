@@ -1,0 +1,21 @@
+ACTE	LIBELLE
+GLLD001	Oxygénothérapie hyperbare avec utilisation de ventilation mécanique
+GLLD002	Ventilation mécanique discontinue au masque facial ou par embout buccal pour kinésithérapie, par 24 heures
+GLLD003	Ventilation spontanée au masque facial, par canule nasale ou par sonde nasopharyngée, sans aide inspiratoire, avec pression expiratoire positive [VS-PEP] [Continuous positive airway pressure] [CPAP], par 24 heures
+GLLD004	Ventilation mécanique intratrachéale avec pression expiratoire positive [PEP] supérieure à 6 et/ou FiO2 supérieure à 60%, avec technique de décubitus ventral alterné par 24 heures
+GLLD005	Administration de monoxyde d'azote [NO] inhalé, chez un patient ventilé
+GLLD006	Ventilation spontanée sur sonde d'intubation trachéale au cours du sevrage d'une ventilation mécanique, par 24 heures
+GLLD007	Ventilation mécanique à poumons séparés, par 24 heures
+GLLD008	Ventilation mécanique intratrachéale avec pression expiratoire positive [PEP] supérieure à 6 et/ou FiO2 supérieure à 60%, par 24 heures
+GLLD009	Ventilation par oscillations à haute fréquence, par 24 heures
+GLLD010	Ventilation liquide, par 24 heures
+GLLD011	Ventilation à fréquence supérieure à 80 par minute [Ventilation à haute fréquence] [VHF], par 24 heures
+GLLD012	Ventilation mécanique continue au masque facial pour suppléance ventilatoire, par 24 heures
+GLLD013	Ventilation spontanée sur trachéotomie au cours du sevrage d'une ventilation mécanique, par 24 heures
+GLLD015	Ventilation mécanique intratrachéale avec pression expiratoire positive [PEP] inférieure ou égale à 6 et FiO2 inférieure ou égale à 60%, par 24 heures
+GLLD016	Ventilation manuelle d'un nouveau-né à la naissance, au masque facial, avec administration intraveineuse d'agent pharmacologique et/ou de soluté
+GLLD017	Oxygénothérapie avec surveillance continue de l'oxymétrie, en dehors de la ventilation mécanique, par 24 heures
+GLLD018	Ventilation manuelle d'un nouveau-né à la naissance, au masque facial
+GLLD019	Ventilation barométrique ou volumétrique non effractive au masque facial pendant au moins 2 heures cumulées au cours des 12 heures, pour insuffisance respiratoire aigüe
+GLLD020	Oxygénothérapie hyperbare sans utilisation de ventilation mécanique
+GLLD021	Oxygénothérapie hyperbare avec inhalation d'oxygène pur d'une durée minimale de 60 minutes à une pression de 200 à 280 kilopascals [kPa], chez un patient en ventilation mécanique

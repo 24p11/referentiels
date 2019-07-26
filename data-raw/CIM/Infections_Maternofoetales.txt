@@ -1,0 +1,25 @@
+CODE	LIBELLE
+P360	Infection du nouveau-né à streptocoques, groupe B
+P3600	Sepsis du nouveau-né à streptocoques, groupe B
+P3609	Infection non précisée du nouveau-né à streptocoques, groupe B
+P361	Infections du nouveau-né à streptocoques, autres et sans précision
+P3610	Sepsis du nouveau-né à streptocoques, autres et sans précision
+P3619	Infection non précisée du nouveau-né à streptocoques, autres ou sans précision
+P362	Infection du nouveau-né à staphylocoques dorés
+P3620	Sepsis du nouveau-né à staphylocoques dorés
+P3629	Infection non précisée du nouveau-né à staphylocoques dorés
+P363	Infections du nouveau-né à staphylocoques, autres et sans précision
+P3630	Sepsis du nouveau-né à staphylocoques, autres et sans précision
+P3639	Infection non précisée du nouveau-né à staphylocoques, autres et sans précision
+P364	Infection du nouveau-né à Escherichia coli
+P3640	Sepsis du nouveau-né à Escherichia coli
+P3649	Infection non précisée du nouveau-né à Escherichia coli
+P365	Infection du nouveau-né due à des anaérobies
+P3650	Sepsis du nouveau-né à anaérobies
+P3659	Infection non précisée du nouveau-né due à des anaérobies
+P368	Autres infections bactériennes du nouveau-né
+P3680	Sepsis du nouveau-né à autres bactéries
+P3689	Infection non précisée du nouveau-né due à d'autres bactéries
+P369	Infection bactérienne du nouveau-né, sans précision
+P3690	Sepsis du nouveau-né, bactérie non précisée
+P3699	Infection non précisée du nouveau-né, bactérie non précisée

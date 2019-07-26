@@ -1,0 +1,4 @@
+ACTE	LIBELLE
+JGHJ001	Biopsie de la prostate, par voie transrectale avec guidage échographique
+JGHB002	Biopsie de la prostate, par voie transpérinéale avec guidage au doigt
+JGHJ002	Biopsie de la prostate, par voie transpérinéale avec guidage échographique

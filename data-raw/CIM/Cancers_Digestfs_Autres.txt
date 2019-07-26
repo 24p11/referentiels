@@ -1,0 +1,5 @@
+CODE	LIBELLE
+C260	tractus intestinal, partie non précisée
+C261	rate
+C268	lésion à localisations contiguës de l'appareil digestif
+C269	sièges mal définis de l'appareil digestif

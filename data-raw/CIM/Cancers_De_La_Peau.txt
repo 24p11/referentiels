@@ -1,0 +1,46 @@
+CODE	LIBELLE
+C430	mélanome malin de la lèvre
+C431	mélanome malin de la paupière, y compris le canthus
+C432	mélanome malin de l'oreille et du conduit auditif externe
+C433	mélanome malin de la face, parties autres et non précisées
+C434	mélanome malin du cuir chevelu et du cou
+C435	mélanome malin du tronc
+C436	mélanome malin du membre supérieur, y compris l'épaule
+C437	mélanome malin du membre inférieur, y compris la hanche
+C438	lésion à localisations contiguës d'un mélanome malin de la peau
+C439	mélanome malin de la peau, sans précision
+C440	face cutanée de la lèvre
+C441	peau de la paupière, y compris le canthus
+C442	peau de l'oreille et du conduit auditif externe
+C443	peau de la face, parties autres et non précisées
+C444	peau du cuir chevelu et du cou
+C445	peau du tronc
+C446	peau du membre supérieur, y compris l'épaule
+C447	peau du membre inférieur, y compris la hanche
+C448	lésion à localisations contiguës de la peau
+C449	tumeur maligne de la peau, sans précision
+C460	sarcome de Kaposi de la peau
+D030	mélanome in situ de la lèvre
+D031	mélanome in situ de la paupière, y compris le canthus
+D032	mélanome in situ de l'oreille et du conduit auditif externe
+D033	mélanome in situ de parties de la face, autres et non précisées
+D034	mélanome in situ du cuir chevelu et du cou
+D035	mélanome in situ du tronc
+D036	mélanome in situ du membre supérieur, y compris l'épaule
+D037	mélanome in situ du membre inférieur, y compris la hanche
+D038	mélanome in situ d'autres sièges
+D039	mélanome in situ, sans précision
+D040	peau de la lèvre
+D041	peau de la paupière, y compris le canthus
+D042	peau de l'oreille et du conduit auditif externe
+D043	peau des parties de la face, autres et non précisées
+D044	peau du cuir chevelu et du cou
+D045	peau du tronc
+D046	peau du membre supérieur, y compris l'épaule
+D047	peau du membre inférieur, y compris la hanche
+D048	peau d'autres sièges
+D049	peau, sans précision
+D485	peau
+
+
+

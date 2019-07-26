@@ -1,0 +1,7 @@
+CODE	LIBELLE
+C826	Lymphome centrofolliculaire cutané  
+C847	Lymphome anaplasique à grandes cellules ALK négatives
+C846	Lymphome anaplasique à grandes cellules ALK positives
+C840	mycosis fongoïde
+C841	réticulose de Sézary
+C844	lymphome périphérique à cellules T

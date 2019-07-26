@@ -1,0 +1,2 @@
+ACTES	LIBELLE
+GLLD004	Ventilation mécanique intratrachéale avec pression expiratoire positive [PEP] supérieure à 6 et/ou FiO2 supérieure à 60%, avec technique de décubitus ventral alterné par 24 heures

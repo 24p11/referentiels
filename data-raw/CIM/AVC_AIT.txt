@@ -1,0 +1,44 @@
+﻿CODE	LIBELLE	TYPE_AVC
+I60	Hémorragie sous-arachnoïdienne (HSA)	AVCH
+I600	HSA de la bifurcation et du siphon carotidien	AVCH
+I601	HSA de l'artère cérébrale moyenne (artère sylvienne)	AVCH
+I602	HSA de l'artère communicante antérieure	AVCH
+I603	HSA de l'artère communicante postérieure	AVCH
+I604	HSA de l'artère basilaire	AVCH
+I605	HSA de l'artère vertébrale	AVCH
+I606	HSA d'autres artères intracrâniennes	AVCH
+I607	HSA d'une artère intracrânienne, sans précision	AVCH
+I608	Autres HSA(Hémorragie méningée, Rupture d'une malformation artérioveineuse cérébrale)	AVCH
+I609	HSA, sans précision	AVCH
+I61	Hémorragie intracérébrale	AVCH
+I610	Hémorragie intracérébrale hémisphérique, sous-corticale, Hémorragie intracérébrale profonde	AVCH
+I611	Hémorragie intracérébrale hémisphérique, corticale, superficielle	AVCH
+I612	Hémorragie intracérébrale hémisphérique, non précisée	AVCH
+I613	Hémorragie intracérébrale du tronc cérébral	AVCH
+I614	Hémorragie intracérébrale cérébelleuse	AVCH
+I615	Hémorragie intracérébrale intraventriculaire	AVCH
+I616	Hémorragie intracérébrale, localisations multiples	AVCH
+I618	Autres hémorragies intracérébrales	AVCH
+I619	Hémorragie intracérébrale, sans précision	AVCH
+I62	Autres hémorragies intracrâniennes non traumatiques	AVCH
+I620	Hémorragie sous-durale (aiguë) (non traumatique)	AVCH
+I621	Hémorragie extradurale non traumatique, Hémorragie épidurale non traumatique	AVCH
+I629	Hémorragie intracrânienne (non traumatique), sans précision	AVCH
+I63	Infarctus cérébral	AVCI
+I630	Infarctus cérébral dû à une thrombose des artères précérébrales	AVCI
+I631	Infarctus cérébral dû à une embolie des artères précérébrales	AVCI
+I632	Infarctus cérébral dû à une occlusion ou sténose des artères précérébrales, de mécanisme non précisé	AVCI
+I633	Infarctus cérébral dû à une thrombose des artères cérébrales	AVCI
+I634	Infarctus cérébral dû à une embolie des artères cérébrales	AVCI
+I635	Infarctus cérébral dû à une occlusion ou sténose des artères cérébrales, de mécanisme non précisé	AVCI
+I636	Infarctus cérébral dû à une thrombose veineuse cérébrale, non pyogène	AVCI
+I637	Infarctus cérébral dû à une thrombose veineuse cérébrale, non pyogène 	AVCTh
+I638	Autres infarctus cérébraux	AVCI
+I639	Infarctus cérébral, sans précision	AVCI
+I64	Accident vasculaire cérébral, non précisé comme étant hémorragique ou par infarctus	AVC
+G45	Accidents ischémiques cérébraux transitoires et syndromes apparentés	AIT
+G450	Syndrome vertébro-basilaire	AIT
+G451	Syndrome carotidien (hémisphérique)	AIT
+G452	Accidents ischémique transitoire de territoires artériels précérébraux multiples et bilatéraux	AIT
+G453	Amaurose fugace	AIT
+G458	Autres accidents ischémiques cérébraux transitoires et syndromes apparentés	AIT

@@ -1,0 +1,6 @@
+﻿CODE	LIBELLE
+M330	Dermatomyosite juvénile
+M331	Autres dermatomyosites
+M332	Polymyosite
+M339	Dermatopolymyosite, sans précision
+M360	Dermato(poly)myosite au cours de maladies tumorales (C00-D48)

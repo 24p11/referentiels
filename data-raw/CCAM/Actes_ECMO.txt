@@ -1,0 +1,3 @@
+ACTE	LIBELLE
+EQLA001	Pose d'une circulation extracorporelle pour assistance circulatoire de longue durée, par thoracotomie
+EQLA002	Pose d'une circulation extracorporelle en urgence pour assistance circulatoire, par abord vasculaire périphérique

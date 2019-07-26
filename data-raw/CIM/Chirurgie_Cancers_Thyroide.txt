@@ -1,0 +1,6 @@
+CODE	LIBELLE
+C73	Tumeur maligne de la thyroïde
+C750	Tumeur maligne de la parathyroïde
+D093	Carcinome in situ de la thyroïde et autres glandes endocrines
+D440	Tumeur à évolution imprévisible ou inconnue de la thyroïde
+D442	Tumeur à évolution imprévisible ou inconnue d'une parathyroïde

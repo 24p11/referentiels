@@ -1,0 +1,5 @@
+ACTE	LIBELLE
+KDFC001	Parathyroïdectomie unique sans exploration des autres sites parathyroïdiens, par cervicoscopie
+KDFA002	Parathyroïdectomie unique sans exploration des autres sites parathyroïdiens, par cervicotomie
+KDFA001	Parathyroïdectomie totale avec réimplantation immédiate de parathyroïde
+KDFA003	Exérèse de tissu parathyroïdien préalablement transplanté

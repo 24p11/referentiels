@@ -1,0 +1,219 @@
+ACTE	ORGANE	TYPE	CONDITIONS	LIBELLE	OBJ	GM
+EBLA003	POSE ACCES VASCULAIRE	Acces vasculaire		Pose d un catheter relie à une veine profonde du membre superieur ou du cou par voie transcutanee, avec pose d un systeme diffuseur implantable sous cutane	80	O
+FAFA001	ORL-STOMATO	Adenoidectomies 		Adenoidectomie avec pose unilaterale d aerateur transtympanique	90	O
+FAFA002	ORL-STOMATO	Adenoidectomies 		Adenoidectomie avec pose bilaterale d aerateur transtympanique	90	O
+FAFA008	ORL-STOMATO	Adenoidectomies 		Adenoidectomie	90	O
+FAFA013	ORL-STOMATO	Adenoidectomies 		Adenoidectomie avec myringotomie unilaterale ou bilaterale	90	O
+EFAF002	VASCULAIRE	Angioplasties membre sup		Dilatation intraluminale d une veine du membre superieur sans pose d endoprothese, par voie veineuse transcutanee	80	O
+EZAF001	VASCULAIRE	Angioplasties membre sup		Dilatation intraluminale d un acces vasculaire arterioveineux d un membre sans pose d endoprothese, par voie arterielle transcutanee	80	O
+EZJF002	VASCULAIRE	Angioplasties membre sup		Thromboaspiration d un acces vasculaire arterioveineux d un membre avec dilatation intraluminale sans pose d endoprothese, par voie arterielle transcutanee	80	O
+EZPF004	VASCULAIRE	Angioplasties membre sup		Desobstruction mecanique d un acces vasculaire arterioveineux avec dilatation intraluminale sans pose d endoprothese, par voie vasculaire transcutanee	80	O
+EZAF002	VASCULAIRE	Angioplasties peripheriques		Dilatation intraluminale d un acces vasculaire arterioveineux d un membre avec pose d endoprothese, par voie arterielle transcutanee	80	O
+NGJC001	ORTHOPEDIE	Arthroscopie de la cheville		Nettoyage de l articulation tibiotalienne, par arthroscopie 	50	O
+NFEC001	ORTHOPEDIE	Arthroscopies du genou hors ligamentoplasties		Reinsertion ou suture des 2 menisques du genou, par arthroscopie	75	O
+NFEC002	ORTHOPEDIE	Arthroscopies du genou hors ligamentoplasties		Reinsertion ou suture d un menisque du genou, par arthroscopie	75	O
+NFFC003	ORTHOPEDIE	Arthroscopies du genou hors ligamentoplasties		Meniscectomies laterale et mediale du genou, par arthroscopie	75	O
+NFFC004	ORTHOPEDIE	Arthroscopies du genou hors ligamentoplasties		Meniscectomie laterale ou mediale du genou, par arthroscopie	75	O
+NFJC001	ORTHOPEDIE	Arthroscopies du genou hors ligamentoplasties		Nettoyage de l articulation du genou, par arthroscopie	75	O
+NFJC002	ORTHOPEDIE	Arthroscopies du genou hors ligamentoplasties		Evacuation de collection de l articulation du genou, par arthroscopie	75	O
+NFPC001	ORTHOPEDIE	Arthroscopies du genou hors ligamentoplasties		Section du retinaculum patellaire lateral [aileron rotulien externe], par arthroscopie 	75	O
+NFQC001	ORTHOPEDIE	Arthroscopies du genou hors ligamentoplasties		Exploration de l articulation du genou, par arthroscopie	75	O
+HBED022	ORL-STOMATO	Avulsion dentaire		Autogreffe d un germe ou d une dent retenue, dans un site naturel ou prepare chirurgicalement	80	O
+HBGD003	ORL-STOMATO	Avulsion dentaire		Avulsion d un odontoide inclus ou d une dent surnumeraire à l etat de germe	80	O
+HBGD004	ORL-STOMATO	Avulsion dentaire		Avulsion d une troisieme molaire mandibulaire retenue ou à l etat de germe	80	O
+HBGD007	ORL-STOMATO	Avulsion dentaire		Avulsion de 11 à 14 dents sur arcade, en un temps	80	O
+HBGD010	ORL-STOMATO	Avulsion dentaire		Avulsion de 6 à 10 dents sur arcade, en un temps	80	O
+HBGD016	ORL-STOMATO	Avulsion dentaire		Avulsion d une racine incluse	80	O
+HBGD017	ORL-STOMATO	Avulsion dentaire		Avulsion d une dent ectopique	80	O
+HBGD018	ORL-STOMATO	Avulsion dentaire		Avulsion d une troisieme molaire maxillaire retenue ou à l etat de germe	80	O
+HBGD021	ORL-STOMATO	Avulsion dentaire		Avulsion de 3 troisiemes molaires retenues ou à l etat de germe	80	O
+HBGD025	ORL-STOMATO	Avulsion dentaire		Avulsion de 2 troisiemes molaires retenues ou à l etat de germe	80	O
+HBGD026	ORL-STOMATO	Avulsion dentaire		Avulsion de 2 dents temporaires retenues	80	O
+HBGD029	ORL-STOMATO	Avulsion dentaire		Avulsion de 15 à 20 dents sur arcade, en un temps	80	O
+HBGD038	ORL-STOMATO	Avulsion dentaire		Avulsion de 4 troisiemes molaires retenues ou à l etat de germe	80	O
+HBGD042	ORL-STOMATO	Avulsion dentaire		Avulsion d une dent temporaire retenue	80	O
+HBGD045	ORL-STOMATO	Avulsion dentaire		Avulsion de 21 dents sur arcade ou plus, en un temps	80	O
+HBPA001	ORL-STOMATO	Avulsion dentaire		Degagement d une dent retenue ou incluse, avec pose d un dispositif de traction orthodontique et amenagement parodontal par greffe ou lambeau	80	O
+HBPD002	ORL-STOMATO	Avulsion dentaire		Degagement d une dent retenue ou incluse avec pose d un dispositif de traction orthodontique sans amenagement parodontal	80	O
+EGFA005	DIGESTIF	Chirurgie anale		Resection d un paquet hemorroidaire isole	40	O
+EGJA001	DIGESTIF	Chirurgie anale		Evacuation d une thrombose hemorroidaire externe	40	O
+HJAD001	DIGESTIF	Chirurgie anale		Dilatation ou incision de stenose anorectale	40	O
+HKFA001	DIGESTIF	Chirurgie anale		Destruction et/ou exerese de tumeur benigne du canal anal	40	O
+HKFA008	DIGESTIF	Chirurgie anale		Destruction et/ou exerese de lesion superficielle non tumorale de l anus	40	O
+HKFA009	DIGESTIF	Chirurgie anale		Sphincteromyectomie de l anus, par abord anal	40	O
+HKPA003	DIGESTIF	Chirurgie anale		Sphincterotomie interne [Leiomyotomie] laterale de l anus	40	O
+HKPA006	DIGESTIF	Chirurgie anale		Incision d abces de la region anale	40	O
+HKFA002	DIGESTIF	Chirurgie anale		Resection d une fissure anale infectee	40	O
+HKFA004	DIGESTIF	Chirurgie anale		Excision d une fissure anale [Fissurectomie anale]	40	O
+QBFA004	DIGESTIF	Chirurgie anale		Excision d une hidrosadenite suppurativeperineofessiere (maladie de Verneuil) sur moins de 30cm2	40	O
+AHPA009	ORTHOPEDIE	Chirurgie canal carpien et autres liberations nerveuses (MS)		Liberation du nerf median au canal carpien, par abord direct	75	O
+AHPA021	ORTHOPEDIE	Chirurgie canal carpien et autres liberations nerveuses (MS)		Liberation du nerf ulnaire au poignet et/ou à la main, par abord direct	75	O
+AHPA022	ORTHOPEDIE	Chirurgie canal carpien et autres liberations nerveuses (MS)		Liberation du nerf ulnaire au coude, par abord direct	75	O
+AHPA023	ORTHOPEDIE	Chirurgie canal carpien et autres liberations nerveuses (MS)		Liberation du nerf radial au coude, par abord direct	75	O
+AHPA028	ORTHOPEDIE	Chirurgie canal carpien et autres liberations nerveuses (MS)		Liberation de nerf digital par abord direct, sur un rayon de la main	75	O
+AHPC001	ORTHOPEDIE	Chirurgie canal carpien et autres liberations nerveuses (MS)		Liberation du nerf median au canal carpien, par videochirurgie	75	O
+JKFA031	GYNECOLOGIE	Chirurgie col, vulve, vagin		Conisation du col de l uterus	80	O
+JKND002	GYNECOLOGIE	Chirurgie col, vulve, vagin		Destruction de lesion du col de l uterus, du vagin, de la vulve, du perinee et de la region perianale, avec laser	80	O
+NDFA002	ORTHOPEDIE	Chirurgie de l avant pied		Exerese partielle dos du pied sans interruption de la continuite, par abord direct 	80	O
+NGFA002	ORTHOPEDIE	Chirurgie de l avant pied		Exerese dun kyste synovial ou dune bourse sereuse de la cheville ou du pied, par abord direct 	80	O
+NHMA002	ORTHOPEDIE	Chirurgie de l avant pied		Arthroplastie par resection de larticulation ou arthrodese interphalangienne dun orteil lateral	80	O
+BCFA003	OPHTALMOLOGIE	Chirurgie de la conjonctive (pterygion)		Exerese primitive de pterygion, avec autogreffe de conjonctive ou de muqueuse	95	O
+BCFA004	OPHTALMOLOGIE	Chirurgie de la conjonctive (pterygion)		Exerese de lesion de la conjonctive, avec autogreffe de muqueuse	95	O
+BCFA005	OPHTALMOLOGIE	Chirurgie de la conjonctive (pterygion)		Exerese de pterygion recidivant, avec autogreffe de conjonctive ou de muqueuse	95	O
+BCFA006	OPHTALMOLOGIE	Chirurgie de la conjonctive (pterygion)		Exerese de pterygion recidivant, sans autogreffe	95	O
+BCFA008	OPHTALMOLOGIE	Chirurgie de la conjonctive (pterygion)		Exerese de lesion de la conjonctive, sans autogreffe	95	O
+BCFA009	OPHTALMOLOGIE	Chirurgie de la conjonctive (pterygion)		Exerese primitive de pterygion, sans autogreffe	95	O
+MHFA001	ORTHOPEDIE	Chirurgie de la main  	geste isole	Synovectomie dune articulation metacarpophalangienne ou interphalangienne dun doigt, par abord direct	75	O
+MDFA002	ORTHOPEDIE	Chirurgie de la main  	geste isole	Exerese partielle dun os de la main sans interruption de la continuite, par abord direct  	75	O
+MHDB001	ORTHOPEDIE	Chirurgie de la main  	geste isole	Arthrorise temporaire dune articulation metacarpophalangienne ou interphalangienne  dun doigt par broche, par voie transcutanee	75	O
+MHPA004	ORTHOPEDIE	Chirurgie de la main  	geste isole	Liberation mobilisatrice dune articulation de la main avec liberation de tendon, par abord direct 	75	O
+MJFA012	ORTHOPEDIE	Chirurgie de la main  	geste isole	Tenosynovectomie des muscles flechisseurs des doigts sur plusieurs rayons de la main, par abord direct 	75	O
+MJFA015	ORTHOPEDIE	Chirurgie de la main  	geste isole	Tenosynovectomie des muscles flechisseurs des doigts sur un rayon de la main, par abord direct         	75	O
+MJPA002	ORTHOPEDIE	Chirurgie de la main  	geste isole	Liberations des tendons des muscles flechisseurs des doigts sur un rayon de la main, par abord direct	75	O
+MJPA009	ORTHOPEDIE	Chirurgie de la main  	geste isole	Liberation du tendon dun muscle extenseur dun doigt sur un rayon de la main, par abord direct          	75	O
+MJPA011	ORTHOPEDIE	Chirurgie de la main  	geste isole	Liberation de tendon au poignet avec tenosynovectomie, par abord direct  	75	O
+MJFA006	ORTHOPEDIE	Chirurgie de la main Chirurgie de la maladie de Dupuytren		Fasciectomie [Aponevrectomie] palmodigitale sur un rayon de la main, par abord direct	90	O
+MJFA010	ORTHOPEDIE	Chirurgie de la main Chirurgie de la maladie de Dupuytren		Fasciectomie [Aponevrectomie] palmodigitale sur plusieurs rayons de la main, par abord direct	90	O
+MJPA005	ORTHOPEDIE	Chirurgie de la main Chirurgie de la maladie de Dupuytren		Fasciotomie [Aponevrotomie] palmaire, par abord direct	90	O
+MJPB001	ORTHOPEDIE	Chirurgie de la main Chirurgie de la maladie de Dupuytren		Fasciotomie [Aponevrotomie] palmaire, par voie transcutanee	90	O
+MHCA002	ORTHOPEDIE	Chirurgie de la main Chirurgie reparatrice des ligaments et tendons (main)		Suture ou plastie de l appareil capsuloligamentaire de l articulation metacarpophalangienne du pouce, par abord direct	90	O
+MHCA003	ORTHOPEDIE	Chirurgie de la main Chirurgie reparatrice des ligaments et tendons (main)		Suture ou plastie de l appareil capsuloligamentaire d une articulation metacarpophalangienne	90	O
+MJPA013	ORTHOPEDIE	Chirurgie de la main Chirurgie reparatrice des ligaments et tendons (main)		Section ou plastie d agrandissement de la partie cruciforme de la gaine fibreuse digitale [poulie de reflexion de tendon de muscle flechisseur des doigts] sur un rayon de la main, par abord direct	90	O
+PCPA006	ORTHOPEDIE	Chirurgie de la main Chirurgie reparatrice des ligaments et tendons (main)		Section ou plastie d agrandissement de poulie de reflexion de tendon, par abord direct	90	O
+EGFA008	UROLOGIE	Chirurgie des bourses		Resection ou ligature de la veine testiculaire par abord direct, avec embolisation intraveineuse	80	O
+EGFA010	UROLOGIE	Chirurgie des bourses		Resection ou ligature de la veine testiculaire, par abord direct	80	O
+EGFC001	UROLOGIE	Chirurgie des bourses		Resection ou ligature de la veine testiculaire, par clioscopie	80	O
+EGSA001	UROLOGIE	Chirurgie des bourses		Interruption des veines de drainage du penis, par abord direct	80	O
+EGSA002	UROLOGIE	Chirurgie des bourses		Ligature du plexus pampiniforme ou de la veine testiculaire, par abord scrotal	80	O
+EGSF001	UROLOGIE	Chirurgie des bourses		Embolisation supraselective de la veine testiculaire ou ovarique, par voie veineuse transcutanee	80	O
+EGSF002	UROLOGIE	Chirurgie des bourses		Embolisation selective ou hyperselective de la veine testiculaire ou ovarique, par voie veineuse transcutanee	80	O
+EGSF003	UROLOGIE	Chirurgie des bourses		Embolisation des veines de drainage du penis, par injection intraveineuse transcutanee	80	O
+JHBA001	UROLOGIE	Chirurgie des bourses		Plicature de la tunique vaginale du testicule, par abord scrotal	80	O
+JHDA001	UROLOGIE	Chirurgie des bourses		Orchidopexie, par abord scrotal	80	O
+JHEA002	UROLOGIE	Chirurgie des bourses		Abaissement et fixation d un testicule ectopique palpable, par abord inguinal et par abord scrotal	80	O
+JHFA001	UROLOGIE	Chirurgie des bourses		Exerese d un kyste du cordon spermatique chez l adulte, par abord inguinal	80	O
+JHFA004	UROLOGIE	Chirurgie des bourses		Exerese d un kyste de lepididyme, par abord scrotal	80	O
+JHFA014	UROLOGIE	Chirurgie des bourses		Epididymectomie, par abord scrotal	80	O
+JHSA001	UROLOGIE	Chirurgie des bourses		Ligature, section ou resection unilaterale ou bilaterale du conduit deferent, par abord scrotal	80	O
+ELSA001	UROLOGIE	Chirurgie des bourses de l enfant	>=1an et <=16 ans	ligature ou section du pedicule testiculaire (spermatique) pour cryptorchidie par laparotomie	80	O
+ELSC001	UROLOGIE	Chirurgie des bourses de l enfant	>=1an et <=16 ans	ligature ou section du pedicule testiculaire (spermatique) pour cryptorchidie, par coelioscopie 	80	O
+JHEA001	UROLOGIE	Chirurgie des bourses de l enfant	>=1an et <=16 ans	abaissement et fixation dun testicule ectopique non palpable, par abord inguinal et scrotal	80	O
+JHFA013	UROLOGIE	Chirurgie des bourses de l enfant	>=1an et <=16 ans	resection de la tunique vaginale du testicule, abord scrotal 	80	O
+JHFA019	UROLOGIE	Chirurgie des bourses de l enfant	>=1an et <=16 ans	resection dune hydrocele abdominoscrotale, par laparotomie ou abord inguinal 	80	O
+LMMA011	DIGESTIF	Chirurgie des hernies de l enfant	>=1an et <=16 ans	Cure d une hernie femorale [crurale], par abord inguinofemoral	80	O
+LMMA014	DIGESTIF	Chirurgie des hernies de l enfant	>=1an et <=16 ans	cure dune hernie de la paroi abdominale anterieure avant lâge de 16 ans, par abord direct	80	O
+LMMA018	DIGESTIF	Chirurgie des hernies de l enfant	>=1an et <=16 ans	Cure bilaterale d une hernie de l aine sans pose de prothese sous anesthesie generale ou locoregionale, par abord inguinal	80	O
+LMMC004	DIGESTIF	Chirurgie des hernies de l enfant	>=1an et <=16 ans	Cure bilaterale d une hernie de l aine sans pose de prothese, par videochirurgie	80	O
+LMMA006	DIGESTIF	Chirurgie des hernies abdominale	acte isole	Cure de hernie de la paroi abdominale anterieure apres l âge de 16 ans avec pose de prothese, par abord direct	80	O
+LMMA009	DIGESTIF	Chirurgie des hernies abdominale	acte isole	Cure de hernie de la paroi abdominale anterieure apres l âge de 16 ans sans pose de prothese, par abord direct	80	O
+LMMC020	DIGESTIF	Chirurgie des hernies abdominale	acte isole	Cure de hernie de la paroi abdominale anterieure apres l âge de 16 ans avec pose de prothese, par clioscopie	80	O
+LMMA008	DIGESTIF	Chirurgie des hernies inguinales 		Cure unilaterale d une hernie de l aine avec pose de prothese, par abord preperitoneal	50	O
+LMMA012	DIGESTIF	Chirurgie des hernies inguinales 		Cure unilaterale d une hernie de l aine avec pose de prothese, par abord inguinal	70	O
+LMMA016	DIGESTIF	Chirurgie des hernies inguinales 		Cure unilaterale d une hernie de l aine sans pose de prothese sous anesthesie locale, par abord inguinal	70	O
+LMMA017	DIGESTIF	Chirurgie des hernies inguinales 		Cure unilaterale d une hernie de l aine sans pose de prothese sous anesthesie generale ou locoregionale, par abord inguinal	70	O
+LMMC002	DIGESTIF	Chirurgie des hernies inguinales 		Cure unilaterale d une hernie de l aine avec pose de prothese, par videochirurgie	70	O
+LMMC003	DIGESTIF	Chirurgie des hernies inguinales 		Cure unilaterale d une hernie de l aine sans pose de prothese, par videochirurgie	70	O
+LAGA003	ORL-STOMATO	Chirurgie des maxillaires		Ablation de materiel interne d osteosynthese ou de distraction du massif facial sur un site, par abord direct	80	O
+LAGA005	ORL-STOMATO	Chirurgie des maxillaires		Ablation de materiel interne d osteosynthese ou de distraction du massif facial sur 2 sites, par abord direct	80	O
+LBFA023	ORL-STOMATO	Chirurgie des maxillaires		Exerese de lesion de l os maxillaire et/ou du corps de la mandibule de moins de 2 cm de grand axe, par abord intrabuccal	80	O
+LBFA030	ORL-STOMATO	Chirurgie des maxillaires		Exerese de lesion de l os maxillaire et/ou du corps de la mandibule de 2 cm à 4 cm de grand axe, par abord	80	O
+EJFA002	VASCULAIRE	Chirurgie des varices		Exereses multiples de branches de la grande veine saphene et/ou de la petite veine saphene sous anesthesie generale ou locoregionale, par abord direct	80	O
+EJFA004	VASCULAIRE	Chirurgie des varices		Exerese de la crosse de la petite veine saphene, par abord direct	80	O
+EJFA006	VASCULAIRE	Chirurgie des varices		Exerese secondaire de la crosse de la grande veine saphene ou de la petite veine saphene, par abord direct	80	O
+EJFA007	VASCULAIRE	Chirurgie des varices		Exerese de la crosse de la grande veine saphene, par abord direct	80	O
+EJFB001	VASCULAIRE	Chirurgie des varices		Seance d exerese de segment de varice ou de veine perforante du membre inferieur, par voie transcutanee sous anesthesie locale	80	O
+EJGA001	VASCULAIRE	Chirurgie des varices		Extraction [Stripping] de la petite veine saphene, par abord direct	80	O
+EJGA002	VASCULAIRE	Chirurgie des varices		Extraction [Stripping] de la grande veine saphene, par abord direct	80	O
+EJGA003	VASCULAIRE	Chirurgie des varices		Extraction [Stripping] de la grande veine saphene et de la petite veine saphene, par abord direct	80	O
+EJSA001	VASCULAIRE	Chirurgie des varices		Ligature de plusieurs veines perforantes jambieres, par abord direct	80	O
+BFEA001	OPHTALMOLOGIE	Chirurgie du cristallin		Repositionnement de cristallin artificiel ou de lentille intraoculaire	85	O
+BFGA001	OPHTALMOLOGIE	Chirurgie du cristallin		Extraction de cristallin luxe	85	O
+BFGA002	OPHTALMOLOGIE	Chirurgie du cristallin		Extraction extracapsulaire manuelle du cristallin, avec implantation de cristallin artificiel dans la chambre posterieure de l il	85	O
+BFGA003	OPHTALMOLOGIE	Chirurgie du cristallin		Extraction extracapsulaire manuelle du cristallin, sans implantation de cristallin artificiel	85	O
+BFGA004	OPHTALMOLOGIE	Chirurgie du cristallin		Extraction extracapsulaire du cristallin par phakoemulsification, avec implantation de cristallin artificiel dans la chambre posterieure de l il	85	O
+BFGA005	OPHTALMOLOGIE	Chirurgie du cristallin		Ablation de materiel implante dans le segment anterieur de l il	85	O
+BFGA006	OPHTALMOLOGIE	Chirurgie du cristallin		Extraction intracapsulaire ou extracapsulaire du cristallin, avec implantation de cristallin artificiel dans la chambre anterieure de l il en cas d impossibilite d implantation dans la chambre posterieure	85	O
+BFGA007	OPHTALMOLOGIE	Chirurgie du cristallin		Extraction de cristallin subluxe ou ectopique	85	O
+BFGA008	OPHTALMOLOGIE	Chirurgie du cristallin		Extraction extracapsulaire du cristallin par phakoemulsification, sans implantation de cristallin artificiel	85	O
+BFGA009	OPHTALMOLOGIE	Chirurgie du cristallin		Extraction intracapsulaire du cristallin, sans implantation de cristallin artificiel	85	O
+BFGA010	OPHTALMOLOGIE	Chirurgie du cristallin		Extraction du cristallin par sclerotomie posterieure [pars plana] [Phakophagie]	85	O
+BFKA001	OPHTALMOLOGIE	Chirurgie du cristallin		Changement de materiel implante dans le segment anterieur de l il	85	O
+BFLA001	OPHTALMOLOGIE	Chirurgie du cristallin		Implantation secondaire d un cristallin artificiel non suture	85	O
+BFLA002	OPHTALMOLOGIE	Chirurgie du cristallin		Insertion d un anneau de contention intrasacculaire, au cours d une extraction du cristallin	85	O
+BFLA003	OPHTALMOLOGIE	Chirurgie du cristallin		Implantation secondaire d un cristallin artificiel suture	85	O
+BFLA004	OPHTALMOLOGIE	Chirurgie du cristallin		Implantation secondaire de cristallin artificiel sur un il pseudophake	85	O
+GAMA007	ORL-STOMATO	chirurgie du nez		Septoplastie nasale	40	O
+GAME001	ORL-STOMATO	chirurgie du nez		Turbinoplastie ou turbinectomie inferieure et/ou moyenne unilaterale ou bilaterale par endoscopie	40	O
+GBPE001	ORL-STOMATO	chirurgie du nez		Meatotomie nasale moyenne par endoscopie	40	O
+LAEA007	ORL-STOMATO	chirurgie du nez		reduction fracture de l os nasal par abord direct	40	O
+LAEP002	ORL-STOMATO	chirurgie du nez		 Reduction orthopedique de fracture de l os nasal [des os propres du nez] 	40	O
+LAFA021	ORL-STOMATO	chirurgie du nez		Ethmoidectomie anterieure par endoscopie	40	O
+QEFA004	GYNECOLOGIE	Chirurgie du sein-tumorectomie	Hors racine GHM  09C05 	Tumorectomie du sein	70	O
+MEMA006	ORTHOPEDIE	Chirurgie epaule		Acromioplastie sans prothese, par abord direct 	75	O
+MEMC001	ORTHOPEDIE	Chirurgie epaule		Arthroplastie acromioclaviculaire par resection de l extremite laterale de la clavicule, par arthroscopie	75	O
+MEMC002	ORTHOPEDIE	Chirurgie epaule		Capsuloplastie anterieure ou posterieure de l articulation scapulohumerale, par arthroscopie 	75	O
+MEMC003	ORTHOPEDIE	Chirurgie epaule		Acromioplastie sans prothese, par arthroscopie 	75	O
+MEMC004	ORTHOPEDIE	Chirurgie epaule		Reparation du bourrelet glenoidal scapulohumeral, par arthroscopie 	75	O
+BJDA001	OPHTALMOLOGIE	Chirurgie strabisme	 age > 7 ans	Myopexie bilaterale retroequatoriale des muscles oculomoteurs	85	O
+BJDA002	OPHTALMOLOGIE	Chirurgie strabisme	 age > 7 ans	Myopexie unilaterale retroequatoriale des muscles oculomoteurs	85	O
+BJEA001	OPHTALMOLOGIE	Chirurgie strabisme	 age > 7 ans	Transposition de muscles oculomoteurs pour suppleance	85	O
+BJMA001	OPHTALMOLOGIE	Chirurgie strabisme	 age > 7 ans	Renforcement ou affaiblissement unilateral ou bilateral de muscle oculomoteur, avec suture ajustable	85	O
+BJMA002	OPHTALMOLOGIE	Chirurgie strabisme	 age > 7 ans	Renforcement, affaiblissement ou deplacement de l insertion d un muscle oculomoteur droit	85	O
+BJMA003	OPHTALMOLOGIE	Chirurgie strabisme	 age > 7 ans	Renforcement, affaiblissement ou deplacement bilateral de l insertion d un muscle oculomoteur	85	O
+BJMA004	OPHTALMOLOGIE	Chirurgie strabisme	 age > 7 ans	Renforcement, affaiblissement ou deplacement de l insertion d un muscle oculomoteur oblique	85	O
+BJMA005	OPHTALMOLOGIE	Chirurgie strabisme	 age > 7 ans	Renforcement, affaiblissement ou deplacement unilateral de l insertion de 2 muscles oculomoteurs	85	O
+BJMA006	OPHTALMOLOGIE	Chirurgie strabisme	 age > 7 ans	Renforcement, affaiblissement ou deplacement de l insertion de 2 muscles oculomoteurs d un côte et d un muscle oculomoteur de l autre	85	O
+BJMA007	OPHTALMOLOGIE	Chirurgie strabisme	 age > 7 ans	Renforcement, affaiblissement ou deplacement de l insertion de 4 muscles oculomoteurs ou plus	85	O
+BJMA008	OPHTALMOLOGIE	Chirurgie strabisme	 age > 7 ans	Renforcement, affaiblissement ou deplacement iteratif de l insertion de 2 muscles oculomoteurs	85	O
+BJMA009	OPHTALMOLOGIE	Chirurgie strabisme	 age > 7 ans	Renforcement, affaiblissement ou deplacement iteratif de l insertion d un muscle oculomoteur	85	O
+JKFE001	GYNECOLOGIE	Chirurgie uterus		Section ou resection de cloison uterine, par hysteroscopie	80	O
+JKFE002	GYNECOLOGIE	Chirurgie uterus		Resection de myome de l uterus, par hysteroscopie	80	O
+JKGD002	GYNECOLOGIE	Chirurgie uterus		Curetage de la cavite de l uterus à visee therapeutique 	80	O
+JKGD003	GYNECOLOGIE	Chirurgie uterus		Curetage de la cavite de l uterus à visee diagnostique 	80	O
+JKND001	GYNECOLOGIE	Chirurgie uterus		Destruction de la muqueuse uterine par thermocontact, par voie vaginale	80	O
+JKNE001	GYNECOLOGIE	Chirurgie uterus		Abrasion de la muqueuse de l uterus [Endometrectomie], par hysteroscopie	80	O
+JKPE001	GYNECOLOGIE	Chirurgie uterus		Exerese de polype de l uterus, par hysteroscopie	80	O
+JKQE001	GYNECOLOGIE	Chirurgie uterus		Hysteroscopie avec curetage de la cavite de l uterus	80	O
+JNBD001	GYNECOLOGIE	Chirurgie uterus		Cerclage du col de l uterus au cours de la grossesse, par voie transvaginale	80	O
+JNJD002	GYNECOLOGIE	Chirurgie uterus		evacuation d un uterus gravide par aspiration et/ou curetage, au 1er trimestre de la grossesse	80	O
+JNMD001	GYNECOLOGIE	Chirurgie uterus		Revision de la cavite uterine apres avortement  	80	O
+HMFC004	DIGESTIF	Cholecystectomie	racine GHM = 07C14	Cholecystectomie, par clioscopie (hors aigues)	50	O
+JHEA003	UROLOGIE	Cure de paraphimosis	>=1an et <=16 ans	reduction chirurgicale dun paraphimosis	80	O
+MGFA004	ORTHOPEDIE	Exereses de kystes synoviaux		Exerese de kyste synovial avec tenosynovectomie des extenseurs au poignet, par abord direct	92	O
+MGFA007	ORTHOPEDIE	Exereses de kystes synoviaux		Exerese de kyste synovial du poignet, par abord direct	92	O
+MHFA002	ORTHOPEDIE	Exereses de kystes synoviaux		Exerese de kyste synovial ou mucoide d une articulation ou d une gaine fibreuse de la main	92	O
+EPLA002	VASCULAIRE	Fistules arterioveineuses		pose d un catheter veineux central tunnellise à double courant pour circulation extra corporelle, par abord direct	80	O
+EZFA002	VASCULAIRE	Fistules arterioveineuses		Exerese d un acces vasculaire arterioveineux sans reconstruction vasculaire	80	O
+EZMA001	VASCULAIRE	Fistules arterioveineuses	si veine cephalique du patient	Creation d une fistule arterioveineuse pour acces vasculaire par abord direct sans superficialisation veineuse , chez un sujet de plus de 20 kg	80	O
+JCAE001	UROLOGIE	Geste uretere	acte isole	Dilatation de luretere, par ureteroscopie retrograde 	50	O
+JCGE001	UROLOGIE	Geste uretere		Ablation et/ou fragmentation de calcul de luretere pelvien,  	50	O
+JCKE002	UROLOGIE	Geste uretere	acte isole	Changement endoprothese ureterale, par endoscopie retrograde 	50	O
+JEFA003	UROLOGIE	Geste uretere		Exerese de lesion du meat uretral chez la femme, par abord direct	80	O
+JEMA013	UROLOGIE	Geste uretere		Meatoplastie de luretre par abord direct, chez la fille 	80	O
+JEMA017	UROLOGIE	Geste uretere		Meatoplastie ou meatotomie uretrale sans lambeau, chez ladulte	80	O
+JCLE004	UROLOGIE	Geste sur la vessie	>= 2 ans	Injection sous muqueuse intra-ureterale de materiel heterologue, par endoscopie	100	O
+JDNE001	UROLOGIE	Geste sur la vessie		Destruction de lesion de la vessie, par endoscopie   	100	O
+JJPA004	GYNECOLOGIE	Interruption tubaire		Interruption uni ou bilaterale de la permeabilite des trompes uterines, par abord vaginal 	80	O
+JJPC003	GYNECOLOGIE	Interruption tubaire		Interruption unilaterale ou bilaterale de la permeabilite des trompes uterines, par clioscopie	80	O
+JJPE001	GYNECOLOGIE	Interruption tubaire		Interruption unilaterale ou bilaterale de la permeabilite des trompes uterines par insertion de dispositif intratubaire, par hysteroscopie	80	O
+JANM001	UROLOGIE	LEC		Lithotritie extracorporelle du rein, avec guidage echographique ,  	100	O
+JANM002	UROLOGIE	LEC		Lithotritie extracorporelle du rein, avec guidage radiologique 	100	O
+JCNM001	UROLOGIE	LEC		Lithotritie extracorporelle de l uretere, avec guidage echographique , 	100	O
+JCNM002	UROLOGIE	LEC		Lithotritie extracorporelle de l uretere, avec guidage radiologique 	100	O
+JJFJ001	GYNECOLOGIE	Prelevement ovocyte		Prelevement d ovocytes sur un ou deux ovaires, par voie transvaginale avec guidage echographique	80	O
+NDPA011	ORTHOPEDIE	Chirurgie de l’hallux valgus		Ostéotomie du métatarsien et de la phalange proximale du premier rayon du pied, avec libération mobilisatrice de l’articulation métatarsophalangienne du premier orteil	80	N
+JGFA015	UROLOGIE	Geste sur la prostate		Résection d’une hypertrophie de la prostate par urétrocystoscopie	5	N
+JDFE002	UROLOGIE	Geste sur la vessie		Résection de 1 à 3 tumeurs de vessie par endoscopie 	10	N
+HHFA016	DIGESTIF	Appendicectomie		Appendicectomie par cœlioscopie ou par laparotomie avec préparation par cœlioscopie 	20	N
+BGMA002	OPHTALMOLOGIE	Chirurgie sur la chambre post. et retine		Opération rétinovitréenne associant au moins 4 des actes suivants : coagulation, vitrectomie, endocoagulation avec laser, rétinotomie, tamponnement interne, échange fluide-gaz, dissection de brides, rétinectomie 	30	N
+BGPA002	OPHTALMOLOGIE	Chirurgie sur la chambre post. et retine		Dissection de la membrane épirétinienne et/ou de la membrane vitrée [hyaloïde] 	75	N
+BGFA005	OPHTALMOLOGIE	Chirurgie sur la chambre post. et retine		Vitrectomie par sclérotomie postérieure, avec dissection du cortex vitréen [pelage] et tamponnement interne par gaz 	50	N
+JJFC003	GYNECOLOGIE	Chirurgie des ovaires & annexes		Kystectomie ovarienne intrapéritonéale, par cœlioscopie 	50	N
+CBMA009	GYNECOLOGIE	Chirurgie des ovaires & annexes		Salpingoovariectomie [Annexectomie], par cœlioscopie 	50	N
+JJFC001	GYNECOLOGIE	Chirurgie des ovaires & annexes		Salpingectomie partielle ou totale pour grossesse extra-utérine, par cœlioscopie	50	N
+LFAA002	GYNECOLOGIE	Chirurgie du sein-tumorectomie		Mastectomie totale avec conservation des pectoraux et curage lymphonodal axillaire	20	N
+QEFA017	GYNECOLOGIE	Chirurgie du sein-tumorectomie		Mastectomie partielle	20	N
+QEFA001	GYNECOLOGIE	Chirurgie du sein-tumorectomie		Tumorectomie du sein avec curage lymphonodal axillaire	20	N
+FAFA015	ORL-STOMATO	Adenoidectomies 		Amygdalectomie par dissection, avec adénoïdectomie	50	N
+JJFC010	ORL-STOMATO	Actes sur les orelles et le tympan		Myringoplastie avec décollement du lambeau tympanoméatal, sans exploration mastoïdoatticale	50	N
+JNJD001	ORL-STOMATO	Actes sur les oreilles et le tympan		Plastie bilatérale d'oreille décollée 	70	N

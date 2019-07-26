@@ -1,0 +1,6 @@
+CODE	LIBELLE
+C90	Myélome multiple et tumeurs malignes à plasmocytes
+C900	Myélome multiple
+C901	Leucémie à plasmocytes
+C902	Plasmocytome extra-médullaire
+C903	Plasmocytome solitaire

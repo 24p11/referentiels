@@ -1,0 +1,130 @@
+ACTE	LIBELLE	TYPE	DETAIL
+HEQE002	endos. O.G.D	Diagnostic	
+HEQE005	endos. O.G.D +test a urease apres age 6ans	Diagnostic	
+HEQJ001	echoendos ooesogastr. sans biopsie	Diagnostic	
+HEQJ001	echoendos oesogastr. sans biopsie	Diagnostic	
+HEQJ002	echoendos ooesogastr. +biopsie transooesogastrique guidee	Diagnostic	
+HFLE001	pose 1sonde gastr. O-G-Dscopie	Diagnostic	
+HFLH001	pose 1sonde gastr. guid radio	Diagnostic	
+HGQD002	explo. lumiere grele videocapsule ingeree	Diagnostic	
+HGQE002	duod.scopie app. a vision lat.	Diagnostic	
+HGQE003	enteroscopie jej.	Diagnostic	
+HGQE005	enteroscopie ileale	Diagnostic	
+HGQJ002	echoendos duod. sans biopsie	Diagnostic	
+HHQH001	Rx colon +opacification	Diagnostic	
+HJQE001	colo.	Diagnostic	
+HJQE002	rectoscopie au tube rigide	Diagnostic	
+HJQJ002	echoendos anorect. sans biopsie	Diagnostic
+HKQE001	anuscopie	Diagnostic
+HMLE002	pose 1endoproth. bil. O-G-Dscopie	Diagnostic
+HMQH007	cholangiographie retrograde O-G-Dscopie	Diagnostic
+HMQJ001	echoendos bil.pancr. sans biopsie	Diagnostic
+HMQJ002	echoendos bil.pancr. +biopsie transbiliopancreatique guidee	Diagnostic
+HZHE001	prelev. pr analyse biol. pdt 1endos. diag. des v. dig.	Diagnostic
+HZHE002	biopsie paroi tube dig/VB pdt 1endos. diag.	Diagnostic
+HZHE004	coloration +/- tatouage paroi tube dig. pdt 1endos. diag.	Diagnostic
+HZHE005	macrobiopsie paroi tube dig. pdt 1endos. diag.	Diagnostic
+EHNE001	seance sclerose+/-ligature VO sf hemorr. endos.	Inteventionnel
+EHNE002	sclerose +/- ligature varices ooesogastr. periode hemorr. endos.	Inteventionnel
+EHNE002	sclerose +/- ligature varices oesogastr. periode hemorr. endos.	Inteventionnel
+HEAE003	dilat. anterograde oesoph. fibro	Inteventionnel
+HEAE003	dilat. anterogradeoesoph. fibro	Inteventionnel
+HEFE001	exerese 1polype >1cm/4polypes T.dig ht O-G-Dscopie	Inteventionnel
+HEFE002	exerese 1a 3polypes <1cm T.dig ht O-G-Dscopie	Inteventionnel	
+HEFE003	seance mucosectomie oesoph. estomac/duod. O-G-Dscopie	Inteventionnel	Mucosectomie
+HEFE003	seance mucosectomieoesoph. estomac/duod. O-G-Dscopie	Inteventionnel	Mucosectomie
+HEGE002	abl. C.E T.dig ht O-G-Dscopie	Inteventionnel	
+HEGE003	abl. 1endoproth. oesoph. endos.	Inteventionnel	Protheses digestives 
+HEGE003	abl. 1endoproth.oesoph. endos.	Inteventionnel	Protheses digestives 
+HEKE001	changt 1endoproth. oesoph. endos.	Inteventionnel	Protheses digestives 
+HELE002	pose 1endoproth. oesoph. endos.	Inteventionnel	Protheses digestives 
+HELE002	pose 1endoproth.oesoph. endos.	Inteventionnel	Protheses digestives 
+HELE900	seance inj. toxine botulique niv. sphincter inf.oesoph. endos.	Inteventionnel	
+HELE900	seance inj. toxine botulique niv. sphincter inf. oesoph. endos.	Inteventionnel	
+HELH001	pose 1endoproth.oesoph. guid radio	Inteventionnel	Protheses digestives 
+HELH001	pose 1endoproth. oesoph. guid radio	Inteventionnel	Protheses digestives 
+HENE002	destruc. oesoph. +/- estomac Laser O-G-Dscopie	Inteventionnel	Exerese de tumeurs oesophagiennes 
+HENE002	destruc.oesoph. +/- estomac Laser O-G-Dscopie	Inteventionnel	Exerese de tumeurs oesophagiennes 
+HENE004	destruc. oesoph. +/- estomac sans laser O-G-Dscopie	Inteventionnel	Exerese de tumeurs oesophagiennes 
+HENE004	destruc.oesoph. +/- estomac sans laser O-G-Dscopie	Inteventionnel	Exerese de tumeurs oesophagiennes 
+HESE001	hemostase T.dig ht Laser O-G-Dscopie	Inteventionnel	
+HESE002	hemostase T.dig ht sans laser O-G-Dscopie	Inteventionnel	
+HFAE001	dilat. pylore O-G-Dscopie	Inteventionnel	
+HFCB001	gastrostomie transcut. +guid endos.	Inteventionnel	
+HGAE001	dilat. 1stenose ileale ileosc.	Inteventionnel	
+HGFE005	exerese papille duod. majeure O-G-Dscopie	Inteventionnel	
+HGLE001	pose 1endoproth. duod. O-G-Dscopie	Inteventionnel	Protheses digestives 
+HGNE001	destruc. duod. O-G-Dscopie	Inteventionnel	
+HGSE001	hemostase intest. sans laser jej.scop	Inteventionnel	
+HGSE003	hemostase intest. sans laser ileosc.	Inteventionnel	
+HHAE001	dilat. 1stenose colon +/- rectum endos.	Inteventionnel	
+HHFE001	exerese 1a 3polypes <1cm colon +/- rectum colo	Inteventionnel	
+HHFE002	exerese 1a 3polypes <1cm colon +/- rectum colo. tot.	Inteventionnel	
+HHFE004	exerese 1polype >1cm/4polypes colon +/- rectum colo. tot.	Inteventionnel	
+HHFE005	exerese 1polype >1cm/4polypes colon +/- rectum colo	Inteventionnel	
+HHFE006	seance mucosectomie colorect. endos.	Inteventionnel	Mucosectomie de polypes plans 
+HHGE010	abl. 1endoproth. colon colo	Inteventionnel	Protheses digestives 
+HHJE001	exsufflation colon endos.	Inteventionnel	
+HHLE005	pose 1endoproth. colon colo	Inteventionnel	Protheses digestives 
+HHLH001	pose 1endoproth. colon guid radio	Inteventionnel	Protheses digestives 
+HHNE001	destruc. colon +/- rectum sans laser colo. tot.	Inteventionnel	
+HHNE004	destruc. colon +/- rectum sans laser colo	Inteventionnel	
+HHQE002	colo. tot. +franchissement orifice ileocolique	Inteventionnel	
+HHQE003	explo. cplt colon apres colectomie dte endos.	Inteventionnel	
+HHQE004	colo au dela colon sigmoide	Inteventionnel	
+HHQE005	colo. tot. +bas-fond c?cal sans franchisst ileocolique	Inteventionnel	
+HHSE001	hemostase colon Laser colo	Inteventionnel	
+HHSE002	hemostase colon sans laser colo. tot.	Inteventionnel	
+HHSE003	hemostase colon Laser colo. tot.	Inteventionnel	
+HHSE004	hemostase colon sans laser colo	Inteventionnel	
+HMGE001	abl. endoproth. bil. +/- pancr. O-G-Dscopie	Inteventionnel	Protheses digestives 
+HMGE002	abl. calcul VBP O-G-Dscopie	Inteventionnel	
+HMLE003	pose plus. endoproth. bil. O-G-Dscopie	Inteventionnel	Protheses digestives 
+HMPE001	sphincterotomie bil.O-G-Dscopie	Inteventionnel	
+HMQH003	O-G-Dscopie +cholangio +infundibulotomie/coupe papille duod. Majeure	Inteventionnel	
+HNLE001	pose 1endoproth. conduit pancr. O-G-Dscopie	Inteventionnel	Protheses digestives 
+EHSF001	embol. varices oesogastr/branches intrahep vn porte v.v/transparietohep	Inteventionnel	
+GDQE004	fibro larynx +trachee	Diagnostic	
+HEAE002	dilat. anterogradeoesoph. endos. rigide	Inteventionnel	
+HEAE002	dilat. anterograde oesoph. endos. rigide	Inteventionnel	
+HEAH001	dilat.oesoph. guid radio	Inteventionnel	
+HEAH001	dilat. oesoph. guid radio	Inteventionnel	
+HEDA001	diverticulopexie soph. cerv.tomie	Inteventionnel	
+HEGE001	abl. C.Eoesoph. endos. rigide	Inteventionnel	
+HENE001	destruc. les. oesoph. +/- estomac Laser O-G-Dscopie	Inteventionnel	
+HEQE001	oesophagoscopie au tube rigide	Diagnostic	
+HEQE003	endos. O.G.D +test a urease av. age 6ans	Diagnostic	
+HFAH001	dilat. pylore guid radio	Inteventionnel	
+HFKE001	changt 1sonde gastr.stom/gastr.jej.stom O-G-Dscopie	Inteventionnel	
+HFLH002	endoproth. gastr/duod guid radio	Inteventionnel	Protheses digestives 
+HGFE001	exerese 1polype >1cm/4polypes grele ileosc.	Inteventionnel	
+HGFE002	exerese 1a 3polypes <1cm grele ileosc.	Inteventionnel	
+HGFE003	exerese 1polype >1cm/4polypes grele jej.scop	Inteventionnel	
+HGFE004	exerese 1a 3polypes <1cm grele jej.scop	Inteventionnel	
+HGGE001	abl. 1endoproth. duod. O-G-Dscopie	Inteventionnel	Protheses digestives 
+HGQE001	enteroscopie jej. +enteroscopie ileale	Diagnostic	
+HGSE002	hemostase intest. Laser jej.scop	Inteventionnel	
+HGSE004	hemostase intest. Laser ileosc.	Inteventionnel	
+HHEE001	detorsion 1volvulus colon endos.	Inteventionnel	
+HHGE002	abl. C.E colon +/- rectum endos.	Inteventionnel	
+HHNE002	destruc. colon +/- rectum Laser colo. tot.	Inteventionnel	
+HHNE003	destruc. colon +/- rectum Laser colo	Inteventionnel	
+HHQD901	mano pancolique	Diagnostic	
+HJAD001	dilat/incision stenose anorect.	Inteventionnel	
+HJFA003	exerese T. rectum ab transanal	Inteventionnel	
+HJND001	destruc. les. rectum v.anale	Inteventionnel	
+HJQJ001	echoendos anorect. +biopsie transanorectale guidee	Diagnostic	
+HKLB002	inj. sousfissuraire +/- intrasphincterienne anus	Inteventionnel	
+HMAE001	dilat. ampoule hepatopancreatique O-G-Dscopie	Inteventionnel	
+HMAE002	dilat. conduit bil. O-G-Dscopie	Inteventionnel	
+HMJE001	drainage conduit bil/pancr. v. nasale pdt 1endos. O.G.D	Inteventionnel	
+HMKE001	changt 1endoproth. bil. O-G-Dscopie	Inteventionnel	Protheses digestives 
+HMKE002	changt plus. endoproth. bil. O-G-Dscopie	Inteventionnel	Protheses digestives 
+HMQH001	cholangioscopie incis. bucc.	Diagnostic	
+HMQH005	cholangiopancreatographie retrograde sans mano oddienne O-G-Dscopie	Diagnostic	
+HNCJ001	anast. f.kyste pancr-estom/duod O-G-Dscopie +guid echoendos	Inteventionnel	
+HNGE001	abl. calcul pancr. O-G-Dscopie	Inteventionnel	
+HNKE001	changt 1endoproth. conduit pancr. O-G-Dscopie	Inteventionnel	Protheses digestives 
+HNPE002	sphincterotomie pancreatique Oddi O-G-Dscopie	Inteventionnel	Protheses digestives 
+HNQH001	pancreatographie retrograde cathe. papille duod. access. O-G-Dscopie	Inteventionnel
+HNQH003	pancreatographie retrograde cathe. papille duod. majeure O-G-Dscopie	Inteventionnel

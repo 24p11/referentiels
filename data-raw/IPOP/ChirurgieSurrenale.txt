@@ -1,0 +1,4 @@
+TYPE
+Phéochromocytome, coelioscopie
+Surrénalectomie, coelioscopie
+Surrénalectomie, laparotomie

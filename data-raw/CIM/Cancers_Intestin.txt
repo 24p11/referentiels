@@ -1,0 +1,34 @@
+CODE	LIBELLE
+C170	duodénum
+C171	jéjunum
+C172	iléon
+C173	diverticule de Meckel
+C178	lésion à localisations contiguës de l'intestin grêle
+C179	intestin grêle, sans précision
+C180	caecum
+C181	appendice
+C182	côlon ascendant
+C183	angle droit du côlon
+C184	côlon transverse
+C185	angle gauche du côlon
+C186	côlon descendant
+C187	côlon sigmoïde
+C188	lésion à localisations contiguës du côlon
+C189	côlon, sans précision
+C19	tumeur maligne de la jonction recto-sigmoïdienne
+C20	tumeur maligne du rectum
+C210	anus, sans précision
+C211	canal anal
+C212	zone cloacale
+C218	lésion à localisations contiguës du rectum, de l'anus et du canal anal
+D010	côlon
+D011	jonction recto-sigmoïdienne
+D012	rectum
+D013	anus et canal anal
+D014	parties de l'intestin, autres et non précisées
+D372	intestin grêle
+D373	appendice
+D374	côlon
+D375	rectum
+C189+0	Syndrome de Lynch
+C189+8	Côlon, tumeurs malignes autres et non précisées

@@ -1,0 +1,4 @@
+CODE	LIBELLE
+I33	Endocardite aiguë et subaiguë
+I330	Endocardite infectieuse
+I339	Endocardite aiguë, sans précision

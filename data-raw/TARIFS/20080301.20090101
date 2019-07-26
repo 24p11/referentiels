@@ -1,0 +1,802 @@
+GHS-NRO	CMD-COD	DCS-MCO	GHM-NRO	GHS-LIB	SEU-BAS	SEU-HAU	GHS-PRI	GHS-DMS	EXH-PRI	DAT-EFFET
+1	1	C	01C01S	Interventions pour affections du système nerveux, sauf craniotomie, avec CMAS	4	67	11518.59	26.9	321.19	01/03/2008
+3	1	C	01C03V	Craniotomies pour traumatisme, âge supérieur à 17 ans sans CMA	4	54	4670.07	11.29	310.3	01/03/2008
+4	1	C	01C03W	Craniotomies pour traumatisme, âge supérieur à 17 ans avec CMA	7	67	10718.44	26.96	298.14	01/03/2008
+5	1	C	01C04V	Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans sans CMA	0	50	6843.91	10.82	474.56	01/03/2008
+6	1	C	01C04W	Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans avec CMA	7	63	11339.32	25.54	332.95	01/03/2008
+7	1	C	01C05V	Interventions sur le rachis et la moelle pour des affections neurologiques sans CMA	3	30	6096.57	9.3	491.83	01/03/2008
+8	1	C	01C05W	Interventions sur le rachis et la moelle pour des affections neurologiques avec CMA	6	38	9253.18	15.35	452.02	01/03/2008
+9	1	C	01C06V	Interventions sur le système vasculaire précérébral sans CMA	0	17	4172.72	6.44	486.16	01/03/2008
+10	1	C	01C06W	Interventions sur le système vasculaire précérébral avec CMA	3	21	5259.55	8.47	465.77	01/03/2008
+12	1	C	01C08V	Interventions sur les nerfs crâniens ou périphériques et autres interventions sur le système nerveux, âge inférieur à 70 ans sans CMA	0	26	3545.01	4.13	643.61	01/03/2008
+13	1	C	01C08W	Interventions sur les nerfs crâniens ou périphériques et autres interventions sur le système nerveux, âge supérieur à 69 ans et/ou CMA	0	32	6530.26	13.01	376.43	01/03/2008
+14	1	C	01C09Z	Pose d'un stimulateur cérébral	3	33	9655.86	13.45	538.47	01/03/2008
+15	1	C	01C10Z	Pose d'un stimulateur médullaire	0	15	3026.18	5.47	415.23	01/03/2008
+16	1	C	01C11Z	Craniotomies pour tumeurs, âge inférieur à 18 ans	5	37	9461.3	14.91	476.04	01/03/2008
+17	1	C	01C12Z	Craniotomies pour affections non tumorales, âge inférieur à 18 ans	5	31	6393.51	12.7	377.56	01/03/2008
+18	1	M	01K02Z	Embolisations intracrâniennes et médullaires	3	21	5744.01	8.63	499.37	01/03/2008
+19	1	M	01K03Z	Autres actes thérapeutiques par voie vasculaire du système nerveux	0	17	4133.5	6.95	446.11	01/03/2008
+20	1	C	01C13Z	Libérations du canal carpien et autres actes sur les nerfs périphériques	0	11	813.73	2.62	232.9	01/03/2008
+21	1	C	01C04V	Implantations d'électrodes cérébrales pour épilepsie rebelle	6	35	13129.38	16.06	613.19	01/03/2008
+150	1	M	01M01S	Affections du système nerveux, avec CMAS	0	46	6822.53	18.65	274.41	01/03/2008
+154	1	M	01M04Z	Méningites virales	0	15	2580.49	5.66	342.06	01/03/2008
+155	1	M	01M05V	Infections du système nerveux à l'exception des méningites virales, âge inférieur à 70 ans sans CMA	0	32	4225.98	9.18	345.29	01/03/2008
+156	1	M	01M05W	Infections du système nerveux à l'exception des méningites virales, âge supérieur à 69 ans et/ou CMA	6	40	6353.87	16.29	292.55	01/03/2008
+157	1	M	01M06V	Tumeurs du système nerveux, sans CMA	0	30	3785.62	10.36	274.18	01/03/2008
+158	1	M	01M06W	Tumeurs du système nerveux, avec CMA	0	38	5694.82	15.46	276.33	01/03/2008
+159	1	M	01M07Z	Maladies dégénératives du système nerveux, âge supérieur à 80 ans	5	31	4219.37	12.7	249.23	01/03/2008
+160	1	M	01M08V	Maladies dégénératives du système nerveux, âge inférieur à 81 ans sans CMA	0	27	3179.07	8.69	274.3	01/03/2008
+161	1	M	01M08W	Maladies dégénératives du système nerveux, âge inférieur à 81 ans avec CMA	3	34	4988.06	13.96	267.89	01/03/2008
+162	1	M	01M09Z	Affections et lésions du rachis et de la moelle	0	28	4245.01	11.22	283.87	01/03/2008
+163	1	M	01M10V	Autres affections cérébrovasculaires sans CMA	0	29	3660.21	8.91	308.07	01/03/2008
+164	1	M	01M10W	Autres affections cérébrovasculaires avec CMA	5	36	5598.18	14.45	290.6	01/03/2008
+165	1	M	01M11V	Affections des nerfs crâniens et rachidiens, âge inférieur à 70 ans sans CMA	0	19	2323.8	5.56	313.19	01/03/2008
+166	1	M	01M11W	Affections des nerfs crâniens et rachidiens, âge supérieur à 69 ans et/ou CMA	3	24	3702.98	9.81	282.96	01/03/2008
+167	1	M	01M12V	Autres affections du système nerveux, âge inférieur à 70 ans sans CMA	0	22	2202.48	4.65	355.38	01/03/2008
+168	1	M	01M12W	Autres affections du système nerveux, âge supérieur à 69 ans et/ou CMA	3	28	3865.89	11.26	257.52	01/03/2008
+169	1	M	01M13Z	Troubles de la conscience et comas d'origine non traumatique	0	16	2590.07	6.58	295.27	01/03/2008
+170	1	M	01M14V	Accidents vasculaires cérébraux non transitoires sans CMA	0	30	3861.87	11.32	255.78	01/03/2008
+171	1	M	01M14W	Accidents vasculaires cérébraux non transitoires avec CMA	5	37	4987.23	14.85	251.84	01/03/2008
+172	1	M	01M15Z	Accidents ischémiques transitoires et occlusions des artères précérébrales, âge supérieur à 80 ans	3	22	2964.46	8.84	251.55	01/03/2008
+173	1	M	01M16Z	Accidents ischémiques transitoires et occlusions des artères précérébrales, âge inférieur à 81 ans	0	16	2566.69	6.74	285.7	01/03/2008
+174	1	M	01M17V	Sclérose en plaques et ataxie cérébelleuse, âge inférieur à 70 ans sans CMA	0	22	2144.34	5.02	320.41	01/03/2008
+175	1	M	01M17W	Sclérose en plaques et ataxie cérébelleuse, âge supérieur à 69 ans et/ou CMA	3	27	4083.28	11.03	277.67	01/03/2008
+176	1	C	01M18V	Lésions traumatiques intracrâniennes sévères, âge inférieur à 70 ans sans CMA	0	25	3360.74	7.42	339.69	01/03/2008
+177	1	C	01M18W	Lésions traumatiques intracrâniennes sévères, âge supérieur à 69 ans et/ou CMA	0	31	4605.97	12.66	272.95	01/03/2008
+178	1	C	01M19V	Autres lésions traumatiques intracrâniennes, sauf commotions, âge inférieur à 70 ans sans CMA	0	23	2446.7	5.98	307.1	01/03/2008
+179	1	C	01M19W	Autres lésions traumatiques intracrâniennes, sauf commotions, âge supérieur à 69 ans et/ou CMA	0	29	3857.82	11.69	247.5	01/03/2008
+180	1	C	01M20V	Commotions cérébrales, âge inférieur à 70 ans sans CMA	0	14	1220.26	2.58	354.73	01/03/2008
+181	1	C	01M20W	Commotions cérébrales, âge supérieur à 69 ans et/ou CMA	0	17	2470.64	6.85	270.54	01/03/2008
+182	1	M	01M21Z	Douleurs chroniques rebelles	0	18	2983.91	7.54	296.95	01/03/2008
+183	1	M	01M22Z	Migraines et céphalées	0	11	1876.66	4.67	301.66	01/03/2008
+184	1	M	01M23Z	Convulsions hyperthermiques	0	6	1525.97	2.72	420.44	01/03/2008
+185	1	M	01M24V	Épilepsies, âge inférieur à 18 ans sans CMA	0	14	2613	3.64	537.96	01/03/2008
+186	1	M	01M24W	Épilepsies, âge inférieur à 18 ans avec CMA	0	18	3919.5	7.42	395.93	01/03/2008
+187	1	M	01M25V	Épilepsies, âge de 18 à 69 ans sans CMA	0	10	1756.11	4.19	313.99	01/03/2008
+188	1	M	01M25W	Épilepsies, âge de 18 à 69 ans avec CMA ou âge supérieur à 69 ans	0	21	3040.19	8.76	260.22	01/03/2008
+400	2	C	02C02V	Interventions sur la rétine, âge inférieur à 70 ans sans CMA	0	15	3101.47	3.31	702.47	01/03/2008
+401	2	C	02C02W	Interventions sur la rétine, âge supérieur à 69 ans et/ou CMA	0	15	4235.06	5.66	561.06	01/03/2008
+402	2	C	02C03Z	Interventions sur l'orbite	0	15	3410.04	4.93	518.27	01/03/2008
+403	2	C	02C04Z	Autres interventions intraoculaires	0	15	2888.32	4.59	472.23	01/03/2008
+404	2	C	02C05Z	Interventions sur le cristallin avec ou sans vitrectomie	0	5	1637.35	2.15	571.75	01/03/2008
+405	2	C	02C06Z	Interventions primaires sur l'iris	0	15	2537.58	4.4	432.99	01/03/2008
+406	2	C	02C07Z	Autres interventions extraoculaires, âge inférieur à 18 ans	0	4	1657.03	2.07	601.77	01/03/2008
+407	2	C	02C08V	Autres interventions extraoculaires, âge de 18 à 69 ans sans CMA	0	13	1858.78	2.43	574.79	01/03/2008
+408	2	C	02C08W	Autres interventions extraoculaires, âge de 18 à 69 ans avec CMA, ou âge supérieur à 69 ans	0	16	3765.58	6.72	420.4	01/03/2008
+409	2	C	02C09Z	Allogreffes de cornée	0	15	4455.2	4.32	773.35	01/03/2008
+500	2	M	02M02Z	Hyphéma	0	15	1759.72	4.24	311.4	01/03/2008
+501	2	M	02M03Z	Infections oculaires aiguës sévères	0	17	3135.85	6.89	341.27	01/03/2008
+502	2	M	02M04Z	Affections oculaires d'origine neurologique	0	15	2184.73	5.25	311.97	01/03/2008
+503	2	M	02M05Z	Autres affections oculaires, âge inférieur à 18 ans	0	15	1961.05	3.57	411.93	01/03/2008
+504	2	M	02M06V	Autres affections oculaires, âge supérieur à 17 ans sans CMA	0	17	2020.33	4.8	315.72	01/03/2008
+505	2	M	02M06W	Autres affections oculaires, âge supérieur à 17 ans avec CMA	3	21	3487.69	8.59	304.36	01/03/2008
+600	3	C	03C02V	Interventions majeures sur la tête et le cou sans CMA	0	50	8223.63	14.73	418.74	01/03/2008
+601	3	C	03C02W	Interventions majeures sur la tête et le cou avec CMA	7	62	13497.2	25	404.99	01/03/2008
+602	3	C	03C03Z	Exérèses de glandes salivaires	0	12	3049.7	4.04	566.31	01/03/2008
+603	3	C	03C04Z	Interventions sur les glandes salivaires autres que les exérèses	0	15	3118.99	4.81	486.2	01/03/2008
+604	3	C	03C05Z	Réparations de fissures labiale et palatine	0	15	3465.43	4.84	537.04	01/03/2008
+605	3	C	03C06Z	Interventions sur les sinus et l'apophyse mastoïde, âge inférieur à 18 ans	0	15	3532.27	4.81	551.08	01/03/2008
+606	3	C	03C07V	Interventions sur les sinus et l'apophyse mastoïde, âge de 18 à 69 ans sans CMA	0	13	2706.25	3.04	667.66	01/03/2008
+607	3	C	03C07W	Interventions sur les sinus et l'apophyse mastoïde, âge de 18 à 69 ans avec CMA, ou âge supérieur à 69 ans	0	16	4278.29	6.42	499.86	01/03/2008
+610	3	C	03C09Z	Rhinoplasties	0	6	2117.66	2.75	577.52	01/03/2008
+611	3	C	03C10Z	Amygdalectomies et/ou adénoïdectomies isolées, âge inférieur à 18 ans	0	5	879.8	2.24	294	01/03/2008
+612	3	C	03C11Z	Amygdalectomies et/ou adénoïdectomies isolées, âge supérieur à 17 ans	0	6	1604.69	2.87	419.97	01/03/2008
+613	3	C	03C12Z	Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies isolées, âge inférieur à 18 ans	0	11	2029.69	2.78	546.79	01/03/2008
+614	3	C	03C13Z	Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies isolées, âge supérieur à 17 ans	0	15	2099	3.79	414.86	01/03/2008
+615	3	C	03C14Z	Drains transtympaniques, âge inférieur à 18 ans	0	15	2115.68	3.37	471.41	01/03/2008
+616	3	C	03C15Z	Drains transtympaniques, âge supérieur à 17 ans	0	15	2122.95	4.03	395.15	01/03/2008
+617	3	C	03C16V	Autres interventions chirurgicales portant sur les oreilles, le nez, la gorge ou le cou, âge inférieur à 70 ans sans CMA	0	23	2982.81	4.14	540.82	01/03/2008
+618	3	C	03C16W	Autres interventions chirurgicales portant sur les oreilles, le nez, la gorge ou le cou, âge supérieur à 69 ans et/ou CMA	0	29	5968.46	11.63	384.9	01/03/2008
+619	3	C	03C17Z	Interventions sur la bouche	0	15	2758.03	4.01	515.34	01/03/2008
+620	3	C	03C18Z	Pose d'implants cochléaires	0	11	3160.55	4	592.83	01/03/2008
+621	3	C	03C19Z	Ostéotomies de la face	0	15	4197.5	4.98	632.78	01/03/2008
+622	3	C	03C20Z	Interventions de reconstruction de l'oreille moyenne	0	6	2212.68	2.78	597.38	01/03/2008
+623	3	C	03C21Z	Interventions pour oreilles décollées	0	5	1725.72	2.36	548.66	01/03/2008
+800	3	C	03K02Z	Affections de la bouche et des dents avec certaines extractions, réparations et prothèses dentaires	0	6	1033.52	2.21	351.27	01/03/2008
+801	3	C	03M02Z	Traumatismes et déformations du nez	0	15	1629.59	3.33	367.32	01/03/2008
+802	3	M	03M03Z	Otites moyennes et infections des voies aériennes supérieures, âge inférieur à 18 ans	0	10	1647.69	3.09	400.21	01/03/2008
+803	3	M	03M04V	Otites moyennes et infections des voies aériennes supérieures, âge de 18 à 69 ans sans CMA	0	16	1478.73	3.38	328.03	01/03/2008
+804	3	M	03M04W	Otites moyennes et infections des voies aériennes supérieures, âge de 18 à 69 ans avec CMA, ou âge supérieur à 69 ans	0	20	3160.52	8.11	292.2	01/03/2008
+805	3	M	03M05Z	Troubles de l'équilibre	0	15	2025.61	5.47	277.51	01/03/2008
+806	3	C	03M06Z	Épistaxis	0	15	1763.8	4.26	310.4	01/03/2008
+807	3	M	03M07V	Tumeurs malignes des oreilles, du nez, de la gorge ou de la bouche,âge inférieur à 70 ans sans CMA	0	24	2489.95	5.02	372	01/03/2008
+808	3	M	03M07W	Tumeurs malignes des oreilles, du nez, de la gorge ou de la bouche, âge supérieur à 69 ans et/ou CMA	0	30	5228.13	12.23	320.54	01/03/2008
+809	3	M	03M08Z	Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge inférieur à 18 ans	0	15	2485.54	3.94	473.28	01/03/2008
+810	3	M	03M09V	Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge supérieur à 17 ans sans CMA	0	19	1982.59	4.15	358.73	01/03/2008
+811	3	M	03M09W	Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge supérieur à 17 ans avec CMA	0	24	4253.04	9.61	331.97	01/03/2008
+812	3	M	03M10Z	Affections de la bouche et des dents sans certaines extractions, réparations ou prothèses dentaires, âge inférieur à 18 ans	0	13	1941.59	3.33	437.69	01/03/2008
+813	3	M	03M11V	Affections de la bouche et des dents sans certaines extractions, réparations ou prothèses dentaires, âge de 18 à 69 ans sans CMA	0	15	1692.22	3.21	395.7	01/03/2008
+814	3	M	03M11W	Affections de la bouche et des dents sans certaines extractions, réparations ou prothèses dentaires, âge de 18 à 69 ans avec CMA, ou âge supérieur à 69 ans	0	18	3050.42	7.55	303.15	01/03/2008
+1000	4	C	04C01S	Interventions pour affections de l'appareil respiratoire, avec CMAS	7	63	13401.4	25.34	396.63	01/03/2008
+1001	4	C	04C02V	Interventions majeures sur le thorax sans CMA	3	26	6295.73	9.62	490.68	01/03/2008
+1002	4	C	04C02W	Interventions majeures sur le thorax avec CMA	5	33	8097.36	13.27	457.64	01/03/2008
+1003	4	C	04C03V	Autres interventions chirurgicales sur le système respiratoire sans CMA	0	30	4529.08	8.09	419.71	01/03/2008
+1004	4	C	04C03W	Autres interventions chirurgicales sur le système respiratoire avec CMA	6	38	7197.39	15.37	351.17	01/03/2008
+1100	4	M	04M02V	Bronchites et asthme, âge inférieur à 18 ans sans CMA	0	15	2059.71	3.96	389.96	01/03/2008
+1101	4	M	04M02W	Bronchites et asthme, âge inférieur à 18 ans avec CMA	0	15	3128.2	6.07	386.26	01/03/2008
+1102	4	M	04M03V	Bronchites et asthme, âge de 18 à 69 ans sans CMA	0	20	1852.39	4.81	288.65	01/03/2008
+1103	4	M	04M03W	Bronchites et asthme, âge de 18 à 69 ans avec CMA, ou âge supérieur à 69 ans	4	25	3408.73	10.06	254.2	01/03/2008
+1104	4	M	04M04Z	Pneumonies et pleurésies banales, âge inférieur à 18 ans	0	15	2293.27	4.31	399.04	01/03/2008
+1105	4	M	04M05V	Pneumonies et pleurésies banales, âge supérieur à 17 ans sans CMA	0	25	2995.25	8.3	270.63	01/03/2008
+1106	4	M	04M05W	Pneumonies et pleurésies banales, âge supérieur à 17 ans avec CMA	4	31	4447.08	12.49	266.97	01/03/2008
+1107	4	M	04M06Z	Infections et inflammations respiratoires, âge inférieur à 18 ans	0	22	4798.24	8.95	402.28	01/03/2008
+1108	4	M	04M07V	Infections et inflammations respiratoires, âge supérieur à 17 ans sans CMA	0	34	4206.56	11.72	269.14	01/03/2008
+1109	4	M	04M07W	Infections et inflammations respiratoires, âge supérieur à 17 ans avec CMA	6	42	6197.52	17.14	271.2	01/03/2008
+1110	4	M	04M08V	Bronchopneumopathies chroniques sans CMA	0	24	2769.81	7.6	273.16	01/03/2008
+1111	4	M	04M08W	Bronchopneumopathies chroniques avec CMA	4	30	4494.79	12.17	276.93	01/03/2008
+1112	4	M	04M09V	Tumeurs de l'appareil respiratoire sans CMA	0	31	3716.8	9.46	294.72	01/03/2008
+1113	4	M	04M09W	Tumeurs de l'appareil respiratoire avec CMA	0	39	6065.77	15.61	291.46	01/03/2008
+1114	4	M	04M10V	Embolies pulmonaires sans CMA	3	26	3535.03	9.55	277.48	01/03/2008
+1115	4	M	04M10W	Embolies pulmonaires avec CMA	5	32	4526.39	12.87	263.73	01/03/2008
+1116	4	M	04M11V	Signes et symptômes respiratoires sans CMA	0	17	1942.62	4.33	336.19	01/03/2008
+1117	4	M	04M11W	Signes et symptômes respiratoires avec CMA	0	21	3450.43	8.76	295.56	01/03/2008
+1118	4	M	04M12V	Pneumothorax sans CMA	0	19	1755.35	5.18	254.14	01/03/2008
+1119	4	M	04M12W	Pneumothorax avec CMA	3	24	3483.95	9.85	265.35	01/03/2008
+1120	4	M	04M13Z	dème pulmonaire et détresse respiratoire	0	31	5303.97	12.65	314.45	01/03/2008
+1121	4	M	04M14V	Maladies pulmonaires interstitielles sans CMA	0	25	2810.36	6.87	306.71	01/03/2008
+1122	4	M	04M14W	Maladies pulmonaires interstitielles avec CMA	0	31	4742.24	12.72	279.6	01/03/2008
+1123	4	M	04M15V	Autres diagnostics portant sur le système respiratoire sans CMA	0	18	2061.48	5.45	283.66	01/03/2008
+1124	4	M	04M15W	Autres diagnostics portant sur le système respiratoire avec CMA	0	23	3366.99	9.51	265.61	01/03/2008
+1125	4	C	04M16V	Traumatismes thoraciques majeurs sans CMA	0	18	1576.26	4.18	283.11	01/03/2008
+1126	4	C	04M16W	Traumatismes thoraciques majeurs avec CMA	0	23	3771.8	9.55	296.33	01/03/2008
+1127	4	M	04M17V	Épanchements pleuraux sans CMA	0	25	2890.26	7.59	285.76	01/03/2008
+1128	4	M	04M17W	Épanchements pleuraux avec CMA	0	31	4481.73	12.45	269.91	01/03/2008
+1400	5	C	05C02Z	Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec cathétérisme cardiaque ou coronarographie	7	49	12828.69	19.91	483.24	01/03/2008
+1401	5	C	05C03V	Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cathétérisme cardiaque, ni coronarographie, sans CMA	4	39	8820.19	11.64	568.3	01/03/2008
+1402	5	C	05C03W	Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cathétérisme cardiaque, ni coronarographie, avec CMA	6	41	11869.9	16.55	538	01/03/2008
+1403	5	C	05C04V	Pontages aortocoronariens avec cathétérisme cardiaque ou coronarographie sans CMA	5	39	9474.85	12.89	551.15	01/03/2008
+1404	5	C	05C04W	Pontages aortocoronariens avec cathétérisme cardiaque ou coronarographie avec CMA	7	49	12692.82	19.68	483.72	01/03/2008
+1405	5	C	05C05V	Pontages aortocoronariens sans cathétérisme cardiaque ni coronarographie sans CMA	4	26	8534.95	10.58	605.2	01/03/2008
+1406	5	C	05C05W	Pontages aortocoronariens sans cathétérisme cardiaque ni coronarographie avec CMA	5	32	11410.64	13.11	653.02	01/03/2008
+1407	5	C	05C06V	Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, avec circulation extracorporelle, sans CMA	4	36	9628.75	10.78	669.87	01/03/2008
+1408	5	C	05C06W	Autres interventions cardiothoraciques âge supérieur à 1 an, ou vasculaires quel que soit l'âge, avec circulation extracorporelle, avec CMA	7	45	13308.87	18.34	544.15	01/03/2008
+1409	5	C	05C07Z	Autres interventions cardiothoraciques, âge inférieur à 2 ans, avec circulation extracorporelle	6	41	17283.97	16.6	781.02	01/03/2008
+1410	5	C	05C08V	Autres interventions cardiothoraciques âge supérieur à 1 an, ou vasculaires quel que soit l'âge, sans circulation extracorporelle, sans CMA	0	30	3077.23	5.91	390.23	01/03/2008
+1411	5	C	05C08W	Autres interventions cardiothoraciques âge supérieur à 1 an, ou vasculaires quel que soit l'âge, sans circulation extracorporelle, avec CMA	0	38	7189.39	15.52	347.41	01/03/2008
+1412	5	C	05C09Z	Autres interventions cardiothoraciques, âge inférieur à 2 ans, sans circulation extracorporelle	0	44	14292.39	17.96	596.97	01/03/2008
+1413	5	C	05C10V	Chirurgie majeure de revascularisation sans CMA	4	37	7269.89	12.24	445.35	01/03/2008
+1414	5	C	05C10W	Chirurgie majeure de revascularisation avec CMA	7	46	10745.81	18.66	431.93	01/03/2008
+1415	5	C	05C11V	Autres interventions de chirurgie vasculaire sans CMA	0	31	5351.17	8.83	454.47	01/03/2008
+1416	5	C	05C11W	Autres interventions de chirurgie vasculaire avec CMA	6	39	7984.13	15.81	378.67	01/03/2008
+1417	5	C	05C12V	Amputations du membre inférieur, sauf des orteils, pour troubles circulatoires, sans CMA	6	62	8356.2	20.4	307.26	01/03/2008
+1418	5	C	05C12W	Amputations du membre inférieur, sauf des orteils, pour troubles circulatoires, avec CMA	7	77	12038.35	30.81	293.06	01/03/2008
+1419	5	C	05C13V	Amputations pour troubles circulatoires portant sur le membre supérieur ou les orteils sans CMA	0	40	4488.46	11.98	281.01	01/03/2008
+1420	5	C	05C13W	Amputations pour troubles circulatoires portant sur le membre supérieur ou les orteils avec CMA	0	50	8117.97	20.4	298.48	01/03/2008
+1421	5	C	05C14Z	Pose d'un stimulateur cardiaque permanent avec insuffisance cardiaque	3	32	5469.44	13.17	311.53	01/03/2008
+1422	5	C	05C15Z	Pose d'un stimulateur cardiaque permanent sans insuffisance cardiaque	0	26	3620.26	7.51	361.31	01/03/2008
+1424	5	C	05C17V	Ligatures de veines et éveinages, âge inférieur à 70 ans sans CMA	0	12	1400.12	2.33	450.1	01/03/2008
+1425	5	C	05C17W	Ligatures de veines et éveinages, âge supérieur à 69 ans et/ou CMA	0	15	2725.37	5.27	388.13	01/03/2008
+1426	5	C	05C18Z	Autres interventions sur le système circulatoire	0	32	4941.03	12.9	287.18	01/03/2008
+1427	5	C	05C19Z	Pose d'un défibrillateur cardiaque	3	22	4867.81	9.08	401.97	01/03/2008
+1428	5	C	05C20Z	Remplacement ou ablation chirurgicale d'électrodes ou de boîtier de stimulation cardiaque permanente	0	21	3852.64	8.52	339.3	01/03/2008
+1429	5	C	05C06W	Autres interventions cardiothoraciques âge supérieur à 1 an, ou vasculaires quel que soit l'âge, avec circulation extracorporelle, avec CMA	7	100	33408.87	40	626.42	01/03/2008
+1654	5	M	05M02E	Infarctus aigu du myocarde avec décès	0	22	3312.66	8.88	279.87	01/03/2008
+1655	5	M	05M03Z	Infarctus aigu du myocarde avec complications cardiovasculaires et sortie en vie de l'établissement	4	29	3700.97	11.64	238.44	01/03/2008
+1656	5	M	05M04V	Infarctus aigu du myocarde sans complication cardiovasculaire sans CMA	0	23	2415	6.22	291.08	01/03/2008
+1657	5	M	05M04W	Infarctus aigu du myocarde sans complication cardiovasculaire avec CMA	4	25	3466.09	10.18	255.33	01/03/2008
+1658	5	M	05M05V	Syncopes et lipothymies, âge inférieur à 70 ans sans CMA	0	16	1526.4	3.48	329.4	01/03/2008
+1659	5	M	05M05W	Syncopes et lipothymies, âge supérieur à 69 ans et/ou CMA	0	20	2788	8.03	260.32	01/03/2008
+1660	5	M	05M06V	Angine de poitrine sans CMA	0	16	1640.56	4.59	267.99	01/03/2008
+1661	5	M	05M06W	Angine de poitrine avec CMA	0	20	2742.06	8.11	253.44	01/03/2008
+1662	5	M	05M07V	Thrombophlébites veineuses profondes, âge inférieur à 70 ans sans CMA	0	22	2494.34	6.95	269.34	01/03/2008
+1663	5	M	05M07W	Thrombophlébites veineuses profondes, âge supérieur à 69 ans et/ou CMA	4	27	3752.83	10.98	256.41	01/03/2008
+1664	5	M	05M08V	Arythmies et troubles de la conduction cardiaque, âge inférieur à 70 ans sans CMA	0	16	1352.54	3.43	295.95	01/03/2008
+1665	5	M	05M08W	Arythmies et troubles de la conduction cardiaque, âge supérieur à 69 ans et/ou CMA	0	20	2784.97	8.19	255.16	01/03/2008
+1666	5	M	05M09V	Insuffisances cardiaques et états de choc circulatoire sans CMA	0	22	2708.86	7.9	257.12	01/03/2008
+1667	5	M	05M09W	Insuffisances cardiaques et états de choc circulatoire avec CMA	4	28	3821.15	11.33	252.93	01/03/2008
+1668	5	M	05M10Z	Cardiopathies congénitales et valvulopathies, âge inférieur à 18 ans	0	19	3976.55	7.65	389.67	01/03/2008
+1669	5	M	05M11V	Cardiopathies congénitales et valvulopathies, âge de 18 à 69 ans sans CMA	0	20	1688.45	3.92	323.26	01/03/2008
+1670	5	M	05M11W	Cardiopathies congénitales et valvulopathies, âge de 18 à 69 ans avec CMA, ou âge supérieur à 69 ans	0	25	3570.97	10.12	264.54	01/03/2008
+1671	5	M	05M12V	Troubles vasculaires périphériques, âge inférieur à 70 ans sans CMA	0	22	2071.05	4.68	331.82	01/03/2008
+1672	5	M	05M12W	Troubles vasculaires périphériques, âge supérieur à 69 ans et/ou CMA	0	28	4161.63	11.49	271.68	01/03/2008
+1673	5	M	05M13Z	Douleurs thoraciques	0	15	1695.04	4.39	289.51	01/03/2008
+1674	5	M	05M14Z	Arrêt cardiaque	0	27	4522.46	11.07	306.47	01/03/2008
+1675	5	M	05M15Z	Hypertension artérielle	0	17	2571.58	6.97	276.67	01/03/2008
+1676	5	M	05M16V	Athérosclérose coronarienne sans CMA	0	20	2022.33	5.56	273.01	01/03/2008
+1677	5	M	05M16W	Athérosclérose coronarienne avec CMA	3	25	3622.95	10.4	261.32	01/03/2008
+1678	5	M	05M17V	Autres affections de l'appareil circulatoire sans CMA	0	19	1948.07	4.94	295.87	01/03/2008
+1679	5	M	05M17W	Autres affections de l'appareil circulatoire avec CMA	0	24	3541.13	9.74	272.75	01/03/2008
+1680	5	M	05M18Z	Endocardites aiguës et subaiguës	0	54	8029.3	21.97	274.06	01/03/2008
+1681	5	M	05K05V	Endoprothèses vasculaires et infarctus du myocarde sans CMA	0	18	3266.78	5.67	431.95	01/03/2008
+1682	5	M	05K05W	Endoprothèses vasculaires et infarctus du myocarde avec décès et/ou complications et/ou morbidités associées	3	22	4462.33	8.92	375.3	01/03/2008
+1683	5	M	05K06V	Endoprothèses vasculaires sans infarctus du myocarde sans CMA	0	16	3160.25	3.8	624	01/03/2008
+1684	5	M	05K06W	Endoprothèses vasculaires sans infarctus du myocarde avec CMA	0	20	5022.98	8.03	469.36	01/03/2008
+1685	5	M	05K07Z	Actes thérapeutiques par voie vasculaire sauf endoprothèses avec pathologie cardiovasculaire sévère en dehors de l'infarctus aigu du myocarde	0	23	4001.58	9.58	313.23	01/03/2008
+1687	5	M	05K09Z	Actes diagnostiques par voie vasculaire avec pathologie cardiovasculaire sévère en dehors d'un infarctus aigu du myocarde	0	21	3747.22	8.52	329.88	01/03/2008
+1688	5	M	05K10Z	Actes diagnostiques par voie vasculaire sans pathologie cardiovasculaire sévère	0	15	2114.37	3.92	404.53	01/03/2008
+1689	5	M	05K11Z	Traitements des troubles du rythme par voie vasculaire	0	10	3212.95	4.19	575.66	01/03/2008
+1690	5	M	05K11Z	Traitements des troubles du rythme par voie vasculaire	0	10	6815.35	4.19	1221.1	01/03/2008
+1691	5	M	05K12Z	Actes thérapeutiques par voie vasculaire sauf endoprothèses, sans pathologie cardiovasculaire sévère, âge inférieur à 18 ans	0	7	3851.65	3.05	948.54	01/03/2008
+1692	5	M	05K13Z	Actes thérapeutiques par voie vasculaire sauf endoprothèses, sans pathologie cardiovasculaire sévère,  âge supérieur à 17 ans	0	11	3242.64	4.56	533.05	01/03/2008
+1900	6	C	06C02Z	Chirurgie majeure des malformations digestives	6	68	15694.88	27.55	427.28	01/03/2008
+1901	6	C	06C03V	Résections rectales sans CMA	5	48	9422.68	14.64	482.86	01/03/2008
+1902	6	C	06C03W	Résections rectales avec CMA	7	60	13005.92	24.38	400.08	01/03/2008
+1903	6	C	06C04V	Interventions majeures sur l'intestin grêle et le côlon sans CMA	5	46	6990.91	12.83	408.81	01/03/2008
+1904	6	C	06C04W	Interventions majeures sur l'intestin grêle et le côlon avec CMA	7	57	11277.55	22.94	368.65	01/03/2008
+1905	6	C	06C05Z	Interventions sur l'oesophage, l'estomac et le duodénum, âge inférieur à 18 ans	0	18	5789.8	7.55	575.09	01/03/2008
+1908	6	C	06C07V	Interventions mineures sur l'intestin grêle et le côlon sans CMA	3	38	5159.09	9.36	413.47	01/03/2008
+1909	6	C	06C07W	Interventions mineures sur l'intestin grêle et le côlon avec CMA	6	47	9496.97	19.08	373.32	01/03/2008
+1910	6	C	06C08V	Appendicectomies compliquées, âge inférieur à 70 ans sans CMA	0	22	3366.72	5.98	422.01	01/03/2008
+1911	6	C	06C08W	Appendicectomies compliquées, âge supérieur à 69 ans et/ou CMA	4	27	5443.74	10.87	375.7	01/03/2008
+1912	6	C	06C09V	Appendicectomies non compliquées, âge inférieur à 70 ans sans CMA	0	14	2452.01	4.05	454.11	01/03/2008
+1913	6	C	06C09W	Appendicectomies non compliquées, âge supérieur à 69 ans et/ou CMA	0	18	3946.14	7.23	409.5	01/03/2008
+1914	6	C	06C10Z	Interventions réparatrices pour hernies et éventrations, âge inférieur à 18 ans	0	10	2500.86	2.51	748.04	01/03/2008
+1915	6	C	06C11V	Interventions réparatrices pour hernies et éventrations à l'exception des hernies inguinales et crurales, âge supérieur à 17 ans sans CMA	0	19	3199.64	5.69	422.11	01/03/2008
+1916	6	C	06C11W	Interventions réparatrices pour hernies et éventrations à l'exception des hernies inguinales et crurales, âge supérieur à 17 ans avec CMA	3	24	4882.23	9.92	369.03	01/03/2008
+1917	6	C	06C12V	Interventions réparatrices pour hernies inguinales et crurales, âge supérieur à 17 ans sans CMA	0	14	1924.59	3.7	390.14	01/03/2008
+1918	6	C	06C12W	Interventions réparatrices pour hernies inguinales et crurales, âge supérieur à 17 ans avec CMA	0	16	3552.2	6.66	400.19	01/03/2008
+1919	6	C	06C13V	Libérations d'adhérences péritonéales, âge inférieur à 70 ans sans CMA	0	28	3714.02	7.12	390.99	01/03/2008
+1920	6	C	06C13W	Libérations d'adhérences péritonéales, âge supérieur à 69 ans et/ou CMA	5	35	6397.68	14.15	339.21	01/03/2008
+1921	6	C	06C14V	Interventions sur le rectum et l'anus autres que les résections rectales sans CMA	0	16	2006.07	3.92	384.02	01/03/2008
+1922	6	C	06C14W	Interventions sur le rectum et l'anus autres que les résections rectales avec CMA	0	20	3944.31	8.17	362.24	01/03/2008
+1923	6	C	06C15V	Autres interventions sur le tube digestif sans CMA	0	39	4320.18	8.13	398.32	01/03/2008
+1924	6	C	06C15W	Autres interventions sur le tube digestif avec CMA	7	49	9069.66	19.7	345.29	01/03/2008
+1925	6	C	06C16V	Interventions sur l'sophage, l'estomac et le duodénum pour tumeurs malignes, âge supérieur à 17 ans sans CMA	7	56	9385.68	18.22	386.25	01/03/2008
+1926	6	C	06C16W	Interventions sur l'sophage, l'estomac et le duodénum pour tumeurs malignes, âge supérieur à 17 ans avec CMA	7	70	15087.57	28.01	403.95	01/03/2008
+1927	6	C	06C17V	Interventions sur l'oesophage, l'estomac et le duodénum pour affections non malignes, âge supérieur à 17 ans sans CMA	0	38	4535.06	7.03	484.17	01/03/2008
+1928	6	C	06C17W	Interventions sur l'oesophage, l'estomac et le duodénum pour affections non malignes, âge supérieur à 17 ans avec CMA	7	48	9130.3	19.52	350.75	01/03/2008
+1929	6	C	06C14V	Interventions sur le rectum et l'anus autres que les résections rectales sans CMA	0	16	2312.76	3.92	442.73	01/03/2008
+1930	6	C	06C14W	Interventions sur le rectum et l'anus autres que les résections rectales avec CMA	0	20	4251	8.17	390.4	01/03/2008
+2100	6	M	06M01S	Affections du tube digestif avec CMAS	0	35	5644.86	14.03	301.76	01/03/2008
+2101	6	M	06M02V	Gastroentérites et maladies diverses du tube digestif, âge inférieur à 18 ans sans CMA	0	12	1570.82	2.92	403.13	01/03/2008
+2102	6	M	06M02W	Gastroentérites et maladies diverses du tube digestif, âge inférieur à 18 ans avec CMA	0	15	3679.88	5.98	461.61	01/03/2008
+2103	6	M	06M03V	Gastroentérites et maladies diverses du tube digestif, âge de 18 à 69 ans sans CMA	0	15	1563.09	3.72	315.45	01/03/2008
+2104	6	M	06M03W	Gastroentérites et maladies diverses du tube digestif, âge de 18 à 69 ans avec CMA, ou âge supérieur à 69 ans	0	19	2930.83	7.99	274.96	01/03/2008
+2105	6	M	06M04V	Hémorragies digestives, âge inférieur à 70 ans sans CMA	0	18	1875.61	3.74	376.09	01/03/2008
+2106	6	M	06M04W	Hémorragies digestives, âge supérieur à 69 ans et/ou CMA	3	22	3672.87	8.86	310.98	01/03/2008
+2107	6	M	06M05V	Tumeurs malignes du tube digestif, âge inférieur à 70 ans sans CMA	0	25	2541.52	5.58	341.33	01/03/2008
+2108	6	M	06M05W	Tumeurs malignes du tube digestif, âge supérieur à 69 ans et/ou CMA	0	31	4701.15	12.43	283.64	01/03/2008
+2109	6	C	06M06V	Occlusions intestinales non dues à une hernie sans CMA	0	18	2139.69	5.64	284.41	01/03/2008
+2110	6	C	06M06W	Occlusions intestinales non dues à une hernie avec CMA	0	23	3455.51	9.38	276.43	01/03/2008
+2111	6	M	06M07V	Maladies inflammatoires de l'intestin sans CMA	0	22	3081.95	6.9	335.05	01/03/2008
+2112	6	M	06M07W	Maladies inflammatoires de l'intestin avec CMA	0	28	4687.61	11.3	311.08	01/03/2008
+2113	6	M	06M08Z	Autres affections digestives, âge inférieur à 18 ans	0	15	2259.08	3.82	443.15	01/03/2008
+2114	6	M	06M09V	Autres affections digestives, âge de 18 à 69 ans sans CMA	0	17	1576.26	3.21	368.39	01/03/2008
+2115	6	M	06M09W	Autres affections digestives, âge de 18 à 69 ans avec CMA, ou âge supérieur à 69 ans	0	21	3481.96	8.77	297.76	01/03/2008
+2116	6	M	06M10Z	Ulcères gastroduodénaux compliqués	0	20	3158.17	8.27	286.35	01/03/2008
+2117	6	M	06M11V	Ulcères gastroduodénaux non compliqués, âge inférieur à 70 ans sans CMA	0	18	1899.3	4.17	341.32	01/03/2008
+2118	6	M	06M11W	Ulcères gastroduodénaux non compliqués, âge supérieur à 69 ans et/ou CMA	0	22	3352.84	9.12	275.74	01/03/2008
+2304	7	C	07C04V	Cholécystectomies sans exploration de la voie biliaire principale sans CMA	0	22	3372.08	5.45	464.41	01/03/2008
+2305	7	C	07C04W	Cholécystectomies sans exploration de la voie biliaire principale avec CMA	3	28	5639.98	11.41	370.59	01/03/2008
+2308	7	C	07C06Z	Interventions diagnostiques sur le système hépatobiliaire et pancréatique pour des affections malignes	5	34	7384.56	13.91	398.21	01/03/2008
+2309	7	C	07C07Z	Interventions diagnostiques sur le système hépatobiliaire et pancréatique pour des affections non malignes	0	38	7001.8	15.39	341.32	01/03/2008
+2310	7	C	07C08Z	Autres interventions sur le système hépatobiliaire et pancréatique	0	58	9087.15	23.56	289.33	01/03/2008
+2311	7	C	07C09V	Interventions sur le foie, le pancréas et les veines porte ou cave pour tumeurs malignes sans CMA	5	42	9738.82	13.55	539.09	01/03/2008
+2312	7	C	07C09W	Interventions sur le foie, le pancréas et les veines porte ou cave pour tumeurs malignes avec CMA	7	52	13687	21.09	486.67	01/03/2008
+2313	7	C	07C10V	Interventions sur le foie, le pancréas et les veines porte ou cave pour affections non malignes sans CMA	4	56	7167.87	10.18	527.98	01/03/2008
+2314	7	C	07C10W	Interventions sur le foie, le pancréas et les veines porte ou cave pour affections non malignes avec CMA	7	70	15931.72	28.34	421.61	01/03/2008
+2315	7	C	07C11V	Dérivations biliaires sans CMA	6	47	8827.97	16.45	402.45	01/03/2008
+2316	7	C	07C11W	Dérivations biliaires avec CMA	7	59	11818.49	23.66	374.71	01/03/2008
+2317	7	C	07C12V	Autres interventions sur les voies biliaires sauf cholécystectomies isolées sans CMA	4	37	6571.47	10.91	451.82	01/03/2008
+2318	7	C	07C12W	Autres interventions sur les voies biliaires sauf cholécystectomies isolées avec CMA	7	46	8889.71	18.41	362.08	01/03/2008
+2500	7	M	07M01S	Affections du système hépatobiliaire et du pancréas avec CMAS	0	40	6326.87	16.08	295.05	01/03/2008
+2501	7	M	07M02V	Affections des voies biliaires, âge inférieur à 70 ans sans CMA	0	18	1927.49	4.03	358.86	01/03/2008
+2502	7	M	07M02W	Affections des voies biliaires, âge supérieur à 69 ans et/ou CMA	0	22	3478.66	8.91	292.68	01/03/2008
+2503	7	M	07M03V	Hépatites alcooliques et cirrhoses, âge inférieur à 70 ans sans CMA	0	24	2694.68	6.61	305.81	01/03/2008
+2504	7	M	07M03W	Hépatites alcooliques et cirrhoses, âge supérieur à 69 ans et/ou CMA	0	30	4289.41	12.01	267.95	01/03/2008
+2505	7	M	07M04V	Affections hépatiques à l'exception des tumeurs malignes, des cirrhoses, des hépatites alcooliques, sans CMA	0	21	2458.23	5.61	328.83	01/03/2008
+2506	7	M	07M04W	Affections hépatiques à l'exception des tumeurs malignes, des cirrhoses, des hépatites alcooliques, avec CMA	0	26	4153.05	10.77	289.13	01/03/2008
+2507	7	M	07M05V	Affections non malignes du pancréas sans CMA	0	21	3017.58	7.24	312.79	01/03/2008
+2508	7	M	07M05W	Affections non malignes du pancréas avec CMA	4	26	3979.1	10.69	279.27	01/03/2008
+2509	7	M	07M06V	Affections malignes du système hépatobiliaire ou du pancréas, âge inférieur à 70 ans sans CMA	0	22	2696.42	5.73	353.02	01/03/2008
+2510	7	M	07M06W	Affections malignes du système hépatobiliaire ou du pancréas, âge supérieur à 69 ans et/ou CMA	0	28	4504.19	11.41	295.96	01/03/2008
+2700	8	C	08C01S	Interventions pour affections de l'appareil musculosquelettique et du tissu conjonctif, avec CMAS non traumatiques	7	58	10956.04	23.31	352.48	01/03/2008
+2701	8	C	08C02Z	Interventions majeures multiples sur les genoux et/ou les hanches	7	46	9880.22	18.77	394.85	01/03/2008
+2704	8	C	08C04Z	Interventions sur la hanche et le fémur, autres que les interventions majeures, âge inférieur à 18 ans	3	21	5657.33	8.68	488.6	01/03/2008
+2705	8	C	08C05V	Interventions sur la hanche et le fémur, autres que les interventions majeures, âge supérieur à 17 ans sans CMA	5	34	6096.82	13.1	348.95	01/03/2008
+2706	8	C	08C05W	Interventions sur la hanche et le fémur, autres que les interventions majeures, âge supérieur à 17 ans avec CMA	6	42	7883.74	16.93	349.22	01/03/2008
+2707	8	C	08C06Z	Amputations pour affections de l'appareil musculosquelettique et du tissu conjonctif	6	60	10797.6	24.06	336.57	01/03/2008
+2710	8	C	08C08Z	Interventions sur l'humérus ou sur le membre inférieur à l'exception de la hanche, du fémur et du pied, âge inférieur à 18 ans	0	15	3041.52	4.42	515.79	01/03/2008
+2711	8	C	08C09V	Interventions sur l'humérus ou sur le membre inférieur à l'exception de la hanche, du fémur et du pied, âge supérieur à 17 ans sans CMA	0	24	3774.98	7.18	394.55	01/03/2008
+2712	8	C	08C09W	Interventions sur l'humérus ou sur le membre inférieur à l'exception de la hanche, du fémur et du pied, âge supérieur à 17 ans avec CMA	4	30	5933.57	12.4	359	01/03/2008
+2713	8	C	08C10V	Interventions sur le genou, âge inférieur à 70 ans sans CMA	0	22	3411.3	6.02	424.88	01/03/2008
+2714	8	C	08C10W	Interventions sur le genou, âge supérieur à 69 ans et/ou CMA	4	28	5342.96	11.44	350.43	01/03/2008
+2715	8	C	08C11V	Interventions sur le membre supérieur à l'exception de l'humérus et de la main, âge inférieur à 70 ans sans CMA	0	14	2368.2	3.4	521.65	01/03/2008
+2716	8	C	08C11W	Interventions sur le membre supérieur à l'exception de l'humérus et de la main, âge supérieur à 69 ans et/ou CMA	0	17	3555.71	7.04	378.91	01/03/2008
+2717	8	C	08C12Z	Biopsies ostéoarticulaires	0	18	4112.13	7.41	416.13	01/03/2008
+2718	8	C	08C13Z	Résections osseuses localisées et/ou ablations de matériel de fixation interne au niveau de la hanche et du fémur	0	15	2079.95	4.33	360.43	01/03/2008
+2719	8	C	08C14Z	Résections osseuses localisées et/ou ablations de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur	0	13	1586.81	3.06	388.54	01/03/2008
+2720	8	C	08C15V	Interventions sur le pied sans CMA	0	25	2841.37	4.4	484.37	01/03/2008
+2721	8	C	08C15W	Interventions sur le pied avec CMA	3	31	5525.76	12.73	325.49	01/03/2008
+2724	8	C	08C17Z	Interventions sur la main et le poignet pour kyste synovial	0	7	1418.9	2.33	456.59	01/03/2008
+2725	8	C	08C18V	Interventions sur la main et le poignet pour une affection autre qu'un kyste synovial sans CMA	0	15	2028.52	3.01	505.75	01/03/2008
+2726	8	C	08C18W	Interventions sur la main et le poignet pour une affection autre qu'un kyste synovial avec CMA	0	18	4203.32	7.44	423.72	01/03/2008
+2727	8	C	08C19Z	Arthroscopies	0	15	1728.09	2.81	461.02	01/03/2008
+2728	8	C	08C20Z	Greffes de peau pour maladie de l'appareil musculosquelettique ou du tissu conjonctif	0	22	5022.74	9.06	415.79	01/03/2008
+2729	8	C	08C21V	Autres interventions portant sur l'appareil musculosquelettique et le tissu conjonctif sans CMA	0	24	3125.04	4.95	473.19	01/03/2008
+2730	8	C	08C21W	Autres interventions portant sur l'appareil musculosquelettique et le tissu conjonctif avec CMA	0	30	6579.75	12.22	403.71	01/03/2008
+2731	8	C	08C22Z	Interventions pour reprise de prothèses articulaires	6	37	7908.97	15.15	391.45	01/03/2008
+2732	8	C	08C23V	Prothèses de hanche sans CMA	5	31	5786.2	12.64	343.36	01/03/2008
+2733	8	C	08C23W	Prothèses de hanche avec CMA	6	38	6986.35	15.5	338.01	01/03/2008
+2734	8	C	08C24Z	Prothèses de genou	4	29	5518.74	11.82	350.2	01/03/2008
+2735	8	C	08C25Z	Prothèses d'épaule	4	27	5180.65	10.97	354.34	01/03/2008
+2736	8	C	08C26Z	Interventions majeures sur le rachis	4	29	9654.41	11.84	611.53	01/03/2008
+2737	8	C	08C27V	Autres interventions sur le rachis sans CMA	0	20	3800.01	6.19	460.72	01/03/2008
+2738	8	C	08C27W	Autres interventions sur le rachis avec CMA	4	25	6024.56	10.06	449.18	01/03/2008
+2739	8	C	08C28Z	Interventions maxillofaciales	0	17	5516.65	7.19	575.39	01/03/2008
+2740	8	C	08C29Z	Interventions sur le tissu mou pour tumeurs malignes	0	20	4848.49	8.35	435.27	01/03/2008
+2741	8	C	08C30V	Interventions sur les tissus mous pour affections non malignes sans CMA	0	27	2613.51	4.24	462.77	01/03/2008
+2742	8	C	08C30W	Interventions sur les tissus mous pour affections non malignes avec CMA	0	34	6776.45	13.94	364.49	01/03/2008
+3000	8	M	08M01S	Affections de l'appareil musculosquelettique et du tissu conjonctif, avec CMAS non traumatiques	0	43	6583.43	17.58	280.79	01/03/2008
+3001	8	C	08M02Z	Fractures, entorses, luxations et dislocations de l'avant-bras, de la main, du pied ou multiples ou mal précisées, âge inférieur à 18 ans	0	5	1469.94	2.24	491.51	01/03/2008
+3002	8	C	08M03V	Fractures, entorses, luxations et dislocations de l'avant-bras, de la main, du pied ou multiples ou mal précisées, âge de 18 à 69 ans sans CMA	0	15	1476.03	2.8	394.91	01/03/2008
+3003	8	C	08M03W	Fractures, entorses, luxations et dislocations de l'avant-bras, de la main, du pied ou multiples ou mal précisées, âge de 18 à 69 ans avec CMA, ou âge supérieur à 69 ans	0	19	2931.17	7.98	275.37	01/03/2008
+3004	8	C	08M04V	Fractures de la hanche et du bassin sans CMA	0	27	3499.95	10.2	257.26	01/03/2008
+3005	8	C	08M04W	Fractures de la hanche et du bassin avec CMA	3	34	4755.97	13.96	255.48	01/03/2008
+3006	8	C	08M05Z	Fractures de la diaphyse, de l'épiphyse ou d'une partie non précisée du fémur	0	29	5272.61	11.62	340.31	01/03/2008
+3007	8	C	08M06Z	Fractures, entorses, luxations et dislocations du bras, de la jambe à l'exception du pied,âge inférieur à 18 ans	0	15	1795.3	3.15	427.64	01/03/2008
+3008	8	C	08M07V	Fractures, entorses, luxations et dislocations du bras, de la jambe à l'exception du pied, âge de 18 à 69 ans sans CMA	0	18	1738.82	4.06	321.58	01/03/2008
+3009	8	C	08M07W	Fractures, entorses, luxations et dislocations du bras, de la jambe à l'exception du pied, âge de 18 à 69 ans avec CMA, ou âge supérieur à 69 ans	0	22	3142.65	8.96	262.93	01/03/2008
+3010	8	C	08M08Z	Entorses et luxations du bassin et de la hanche	0	23	3574.44	9.31	288.08	01/03/2008
+3011	8	M	08M09Z	Arthropathies non spécifiques	0	18	3034.83	7.22	315.36	01/03/2008
+3012	8	M	08M10V	Maladies osseuses et arthropathies spécifiques, âge inférieur à 70 ans sans CMA	0	21	2256.74	5.27	321.13	01/03/2008
+3013	8	M	08M10W	Maladies osseuses et arthropathies spécifiques, âge supérieur à 69 ans et/ou CMA	3	26	3700.44	10.5	264.36	01/03/2008
+3014	8	M	08M11V	Fractures pathologiques et affections malignes de l'appareil musculosquelettique et du tissu conjonctif sans CMA	0	30	3871.15	10.63	273.08	01/03/2008
+3015	8	M	08M11W	Fractures pathologiques et affections malignes de l'appareil musculosquelettique et du tissu conjonctif avec CMA	5	37	5322.45	14.88	268.27	01/03/2008
+3016	8	M	08M12V	Pathologies rachidiennes relevant d'un traitement médical, âge inférieur à 70 ans sans CMA	0	20	2188.44	5.98	274.62	01/03/2008
+3017	8	M	08M12W	Pathologies rachidiennes relevant d'un traitement médical, âge supérieur à 69 ans et/ou CMA	3	25	3513.9	10.23	257.59	01/03/2008
+3018	8	M	08M13Z	Signes et symptômes concernant l'appareil musculosquelettique et le tissu conjonctif	0	15	2279.25	6.07	281.69	01/03/2008
+3019	8	M	08M14V	Affections du tissu conjonctif, âge inférieur à 70 ans sans CMA	0	21	2403.27	5.36	336.47	01/03/2008
+3020	8	M	08M14W	Affections du tissu conjonctif, âge supérieur à 69 ans et/ou CMA	3	26	3991.06	10.49	285.44	01/03/2008
+3021	8	M	08M15V	Tendinites, myosites et bursites, âge inférieur à 70 ans sans CMA	0	20	1970.45	4.54	325.21	01/03/2008
+3022	8	M	08M15W	Tendinites, myosites et bursites, âge supérieur à 69 ans et/ou CMA	3	25	3505.89	10.2	257.77	01/03/2008
+3023	8	M	08M16Z	Ostéomyélites	0	31	5286.06	12.66	313.16	01/03/2008
+3024	8	C	08M17Z	Arthrites septiques	0	32	5263.17	12.91	305.67	01/03/2008
+3025	8	M	08M18Z	Suites de traitement après une affection de l'appareil musculosquelettique ou du tissu conjonctif	0	15	2297.74	5.39	319.46	01/03/2008
+3026	8	M	08M19V	Autres pathologies de l'appareil musculosquelettique et du tissu conjonctif sans CMA	0	23	2558.88	6.24	307.61	01/03/2008
+3027	8	M	08M19W	Autres pathologies de l'appareil musculosquelettique et du tissu conjonctif avec CMA	0	29	4473.55	11.99	279.79	01/03/2008
+3300	9	C	09C02V	Greffes de peau et/ou parages de plaie pour ulcère cutané ou cellulite sans CMA	4	65	8542.51	20.1	318.76	01/03/2008
+3301	9	C	09C02W	Greffes de peau et/ou parages de plaie pour ulcère cutané ou cellulite avec CMA	4	81	13851.53	32.59	318.75	01/03/2008
+3302	9	C	09C03V	Greffes de peau et/ou parages de plaie à l'exception des ulcères cutanés et cellulites sans CMA	0	35	3599.54	5.97	452.01	01/03/2008
+3303	9	C	09C03W	Greffes de peau et/ou parages de plaie à l'exception des ulcères cutanés et cellulites avec CMA	0	44	9553.41	17.64	406.27	01/03/2008
+3304	9	C	09C04V	Mastectomies totales pour tumeur maligne sans CMA	0	22	3884.9	6.9	422.35	01/03/2008
+3305	9	C	09C04W	Mastectomies totales pour tumeur maligne avec CMA	4	28	5432.56	11.36	358.66	01/03/2008
+3306	9	C	09C05V	Mastectomies subtotales pour tumeur maligne sans CMA	0	15	2999.5	4.48	502.47	01/03/2008
+3307	9	C	09C05W	Mastectomies subtotales pour tumeur maligne avec CMA	0	19	4448.45	7.84	425.46	01/03/2008
+3308	9	C	09C06Z	Interventions sur le sein pour des affections non malignes autres que les actes de biopsie et d'excision locale	0	12	2674.77	3.6	558.02	01/03/2008
+3309	9	C	09C07Z	Biopsies et excisions locales pour des affections non malignes du sein	0	8	1607.68	2.56	470.83	01/03/2008
+3310	9	C	09C08Z	Interventions sur la région anale et périanale	0	10	1718.5	3.06	420.93	01/03/2008
+3311	9	C	09C09Z	Interventions plastiques en dehors de la chirurgie esthétique	0	15	3361.21	4.91	513.12	01/03/2008
+3312	9	C	09C10V	Autres interventions sur la peau, les tissus sous-cutanés ou les seins sans CMA	0	35	2573.13	4.95	390.22	01/03/2008
+3313	9	C	09C10W	Autres interventions sur la peau, les tissus sous-cutanés ou les seins avec CMA	0	44	7069.52	17.9	296.2	01/03/2008
+3500	9	C	09M02Z	Traumatismes de la peau et des tissus sous-cutanés, âge inférieur à 18 ans	0	15	1754.68	3.19	413.12	01/03/2008
+3501	9	C	09M03V	Traumatismes de la peau et des tissus sous-cutanés, âge de 18 à 69 ans sans CMA	0	17	1522.02	3.29	347.2	01/03/2008
+3502	9	C	09M03W	Traumatismes de la peau et des tissus sous-cutanés, âge de 18 à 69 ans avec CMA, ou âge supérieur à 69 ans	0	21	2970.12	8.5	262.14	01/03/2008
+3503	9	M	09M04Z	Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge inférieur à 18 ans	0	15	2123.22	3.97	400.68	01/03/2008
+3504	9	M	09M05V	Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge de 18 à 69 ans sans CMA	0	22	2136.24	5.47	292.99	01/03/2008
+3505	9	M	09M05W	Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge de 18 à 69 ans avec CMA, ou âge supérieur à 69 ans	4	28	4013.32	11.49	261.97	01/03/2008
+3506	9	M	09M06Z	Ulcères cutanés	3	41	5559.55	16.55	251.91	01/03/2008
+3507	9	M	09M07V	Autres affections dermatologiques, âge inférieur à 70 ans sans CMA	0	20	2014.48	4.27	354.16	01/03/2008
+3508	9	M	09M07W	Autres affections dermatologiques, âge supérieur à 69 ans et/ou CMA	3	25	3851.15	10.12	285.34	01/03/2008
+3509	9	M	09M08V	Affections dermatologiques sévères, âge inférieur à 70 ans sans CMA	0	23	2594.3	6.03	322.91	01/03/2008
+3510	9	M	09M08W	Affections dermatologiques sévères, âge supérieur à 69 ans et/ou CMA	3	29	4622.33	11.98	289.5	01/03/2008
+3511	9	M	09M09Z	Affections non malignes des seins	0	15	1902.16	4.39	325.09	01/03/2008
+3512	9	M	09M10V	Tumeurs malignes des seins sans CMA	0	30	3839.43	9.25	311.2	01/03/2008
+3513	9	M	09M10W	Tumeurs malignes des seins avec CMA	0	37	6404.02	14.94	321.44	01/03/2008
+3700	10	C	10C01S	Interventions pour affections endocriniennes, métaboliques et nutritionnelles, avec CMAS	0	45	10365.28	18.22	426.7	01/03/2008
+3701	10	C	10C02Z	Interventions sur l'hypophyse	3	20	6204.07	8.17	569.73	01/03/2008
+3702	10	C	10C03Z	Interventions sur les surrénales	3	20	5226.13	8.03	488.17	01/03/2008
+3704	10	C	10C05Z	Interventions sur les parathyroïdes	0	15	3607.48	4.12	656.33	01/03/2008
+3707	10	C	10C07Z	Interventions sur le tractus thyréoglosse	0	7	2265.41	3.33	510.76	01/03/2008
+3708	10	C	10C08Z	Autres interventions pour troubles endocriniens, métaboliques ou nutritionnels	3	29	6271.46	11.83	397.67	01/03/2008
+3709	10	C	10C09Z	Gastroplasties pour obésité	0	15	4452.24	4.98	670.88	01/03/2008
+3711	10	C	10C11V	Interventions sur la thyroïde pour tumeurs malignes, âge inférieur à 70 ans sans CMA	0	12	3336.69	3.83	653.69	01/03/2008
+3712	10	C	10C11W	Interventions sur la thyroïde pour tumeurs malignes, âge supérieur à 69 ans et/ou CMA	0	15	4558.28	5.6	610.96	01/03/2008
+3713	10	C	10C12V	Interventions sur la thyroïde pour affections non malignes, âge inférieur à 70 ans sans CMA	0	11	2634.2	3.63	544.86	01/03/2008
+3714	10	C	10C12W	Interventions sur la thyroïde pour affections non malignes, âge supérieur à 69 ans et/ou CMA	0	14	3077.66	4.57	505	01/03/2008
+3715	10	C	10C10Z	Autres interventions pour obésité	0	15	3349.71	5.53	454.26	01/03/2008
+3716	10	C	10C13Z	Interventions digestives autres que les gastroplasties, pour obésité	0	15	5329.99	5.53	722.81	01/03/2008
+3900	10	M	10M01S	Affections endocriniennes, métaboliques et nutritionnelles, avec CMAS	3	34	4928.27	13.86	266.7	01/03/2008
+3901	10	M	10M02V	Diabète, âge de 36 à 69 ans sans CMA	0	18	2115.08	5.96	266.33	01/03/2008
+3902	10	M	10M02W	Diabète, âge de 36 à 69 ans avec CMA, ou âge supérieur à 69 ans	3	22	3194.63	9.19	260.62	01/03/2008
+3903	10	M	10M03Z	Diabète, âge inférieur à 36 ans	0	15	2577.18	6.27	308.31	01/03/2008
+3904	10	M	10M04V	Troubles métaboliques ou nutritionnels divers, âge inférieur à 18 ans sans CMA	0	18	2117.33	3.49	455.31	01/03/2008
+3905	10	M	10M04W	Troubles métaboliques ou nutritionnels divers, âge inférieur à 18 ans avec CMA	0	22	5703.45	8.94	478.33	01/03/2008
+3906	10	M	10M05V	Troubles métaboliques ou nutritionnels divers, âge de 18 à 69 ans sans CMA	0	20	1911.38	4.67	307.11	01/03/2008
+3907	10	M	10M05W	Troubles métaboliques ou nutritionnels divers, âge de 18 à 69 ans avec CMA, ou âge supérieur à 69 ans	3	25	3563.22	10.32	258.83	01/03/2008
+3908	10	M	10M06Z	Maladies métaboliques congénitales	0	15	3214.87	5.85	412.28	01/03/2008
+3909	10	M	10M07V	Autres troubles endocriniens, âge inférieur à 70 ans sans CMA	0	18	1875.23	3.75	374.63	01/03/2008
+3910	10	M	10M07W	Autres troubles endocriniens, âge supérieur à 69 ans et/ou CMA	3	23	3444.82	9.3	277.82	01/03/2008
+4100	11	C	11C01S	Interventions pour affections des reins et des voies urinaires, avec CMAS	0	48	9759.03	19.49	375.48	01/03/2008
+4101	11	C	11C02V	Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection tumorale, sans CMA	4	32	7600.68	11.7	487.28	01/03/2008
+4102	11	C	11C02W	Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection tumorale, avec CMA	6	40	9675.23	16.26	446.39	01/03/2008
+4103	11	C	11C03V	Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection non tumorale, sans CMA	0	25	4783.31	6.81	526.48	01/03/2008
+4104	11	C	11C03W	Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection non tumorale, avec CMA	5	31	7404.11	12.59	441.04	01/03/2008
+4105	11	C	11C04Z	Autres interventions sur la vessie à l'exception des interventions transurétrales	0	17	4232.17	7.07	449.08	01/03/2008
+4106	11	C	11C05V	Interventions transurétrales ou par voie transcutanée sans CMA	0	16	2558.91	4.15	462.15	01/03/2008
+4107	11	C	11C05W	Interventions transurétrales ou par voie transcutanée avec CMA	0	20	4106.31	8.24	373.82	01/03/2008
+4108	11	C	11C06Z	Interventions sur l'urètre, âge inférieur à 18 ans	0	15	3107.15	4.58	508.76	01/03/2008
+4109	11	C	11C07Z	Interventions sur l'urètre, âge supérieur à 17 ans	0	16	3044.58	6.4	356.62	01/03/2008
+4110	11	C	11C08V	Autres interventions sur les reins et les voies urinaires sans CMA	0	27	2783.11	4.49	464.42	01/03/2008
+4111	11	C	11C08W	Autres interventions sur les reins et les voies urinaires avec CMA	0	34	6944.64	13.99	372.39	01/03/2008
+4250	11	M	11M01S	Affections des reins et des voies urinaires, avec CMAS	3	35	5597.77	14.11	297.49	01/03/2008
+4251	11	M	11M02V	Lithiases urinaires, âge inférieur à 70 ans sans CMA	0	12	1310.75	2.95	332.78	01/03/2008
+4252	11	M	11M02W	Lithiases urinaires, âge supérieur à 69 ans et/ou CMA	0	15	2227.42	5.54	301.52	01/03/2008
+4253	11	M	11M03V	Infections des reins et des voies urinaires, âge inférieur à 18 ans sans CMA	0	14	1979.62	3.77	394.29	01/03/2008
+4254	11	M	11M03W	Infections des reins et des voies urinaires, âge inférieur à 18 ans avec CMA	0	15	3053.73	5.39	424.95	01/03/2008
+4255	11	M	11M04V	Infections des reins et des voies urinaires, âge de 18 à 69 ans sans CMA	0	18	1664.04	4.01	311.26	01/03/2008
+4256	11	M	11M04W	Infections des reins et des voies urinaires, âge de 18 à 69 ans avec CMA, ou âge supérieur à 69 ans	3	23	3215.62	9.26	260.4	01/03/2008
+4259	11	M	11M06V	Insuffisance rénale, sans dialyse, âge inférieur à 70 ans sans CMA	0	21	2039.66	4.33	353.48	01/03/2008
+4260	11	M	11M06W	Insuffisance rénale, sans dialyse, âge supérieur à 69 ans et/ou CMA	0	26	4079.97	10.61	288.52	01/03/2008
+4261	11	M	11M07V	Tumeurs des reins et des voies urinaires sans CMA	0	26	3003.69	7.43	303.36	01/03/2008
+4262	11	M	11M07W	Tumeurs des reins et des voies urinaires avec CMA	0	32	4998.86	12.93	290.04	01/03/2008
+4263	11	M	11M08Z	Autres affections des reins et des voies urinaires, âge inférieur à 18 ans	0	15	3150.68	5.07	466.36	01/03/2008
+4264	11	M	11M09V	Autres affections des reins et des voies urinaires, âge supérieur à 17 ans sans CMA	0	17	2053.57	4.67	329.67	01/03/2008
+4265	11	M	11M09W	Autres affections des reins et des voies urinaires, âge supérieur à 17 ans avec CMA	3	21	3610.98	8.77	308.78	01/03/2008
+4266	11	C	11M10V	Rétrécissement urétral, âge inférieur à 70 ans sans CMA	0	15	1733.03	3.25	400.32	01/03/2008
+4267	11	C	11M10W	Rétrécissement urétral, âge supérieur à 69 ans et/ou CMA	0	15	2703.67	6.11	331.95	01/03/2008
+4268	11	M	11M11Z	Signes et symptômes concernant les reins et les voies urinaires, âge inférieur à 18 ans	0	15	2846.88	5.08	420.63	01/03/2008
+4269	11	M	11M12V	Signes et symptômes concernant les reins et les voies urinaires, âge de 18 à 69 ans sans CMA	0	15	1421.53	3.45	308.79	01/03/2008
+4270	11	M	11M12W	Signes et symptômes concernant les reins et les voies urinaires, âge de 18 à 69 ans avec CMA, ou âge supérieur à 69 ans	0	19	2762.15	7.6	272.46	01/03/2008
+4271	11	M	11K02V	Insuffisance rénale, avec dialyse, âge inférieur à 70 ans sans CMA	0	28	2622.86	5.64	349.03	01/03/2008
+4272	11	M	11K02W	Insuffisance rénale, avec dialyse, âge supérieur à 69 ans et/ou CMA	0	35	5841.93	14.04	312.16	01/03/2008
+4500	12	C	12C01S	Interventions pour affections de l'appareil génital masculin, avec CMAS	3	43	8430.11	17.48	361.69	01/03/2008
+4502	12	C	12C03Z	Interventions sur le pénis	0	15	3444.65	4.76	542.78	01/03/2008
+4503	12	C	12C04V	Prostatectomies transurétrales sans CMA	0	18	2976.75	5.85	381.67	01/03/2008
+4504	12	C	12C04W	Prostatectomies transurétrales avec CMA	3	22	4090.33	8.87	345.79	01/03/2008
+4505	12	C	12C05Z	Interventions sur les testicules pour des tumeurs malignes	0	15	2765.63	4.53	458.33	01/03/2008
+4506	12	C	12C06Z	Interventions sur les testicules pour des affections non malignes, âge inférieur à 18 ans	0	8	1412.2	2.54	416.69	01/03/2008
+4507	12	C	12C07Z	Interventions sur les testicules pour des affections non malignes, âge supérieur à 17 ans	0	15	2136.73	3.41	469.95	01/03/2008
+4508	12	C	12C08Z	Circoncisions	0	15	1047.04	2.79	281.31	01/03/2008
+4509	12	C	12C09Z	Autres interventions pour tumeurs malignes de l'appareil génital masculin	0	20	4724.08	8.36	423.86	01/03/2008
+4510	12	C	12C10Z	Autres interventions pour des affections non malignes de l'appareil génital masculin	0	15	2827.78	5.31	399.69	01/03/2008
+4511	12	C	12C11Z	Interventions pelviennes majeures chez l'homme pour tumeurs malignes	3	21	6513.07	8.59	568.92	01/03/2008
+4512	12	C	12C12Z	Interventions pelviennes majeures chez l'homme pour affections non malignes	4	26	5074.79	10.74	354.41	01/03/2008
+4750	12	M	12M02V	Infections et inflammations de l'appareil génital masculin, âge inférieur à 70 ans sans CMA	0	16	1562.96	3.81	307.85	01/03/2008
+4751	12	M	12M02W	Infections et inflammations de l'appareil génital masculin, âge supérieur à 69 ans et/ou CMA	3	20	3041.69	8.14	280.15	01/03/2008
+4752	12	M	12M03V	Tumeurs malignes de l'appareil génital masculin sans CMA	0	26	3044.58	7.74	295.21	01/03/2008
+4753	12	M	12M03W	Tumeurs malignes de l'appareil génital masculin avec CMA	3	32	4863.19	13.08	278.84	01/03/2008
+4754	12	M	12M04V	Hypertrophie prostatique bénigne, âge inférieur à 70 ans sans CMA	0	15	1345	2.85	353.91	01/03/2008
+4755	12	M	12M04W	Hypertrophie prostatique bénigne, âge supérieur à 69 ans et/ou CMA	0	19	2824.9	7.61	278.28	01/03/2008
+4756	12	M	12M05Z	Autres affections de l'appareil génital masculin	0	15	1659.61	3.59	346.74	01/03/2008
+4900	13	C	13C01S	Interventions pour affections de l'appareil génital féminin, avec CMAS	0	42	8581.65	16.89	381.02	01/03/2008
+4903	13	C	13C03V	Hystérectomies, âge inférieur à 70 ans sans CMA	0	14	3371.16	5.78	437.08	01/03/2008
+4904	13	C	13C03W	Hystérectomies, âge supérieur à 69 ans et/ou CMA	0	18	4612.29	7.43	465.73	01/03/2008
+4905	13	C	13C04V	Interventions réparatrices sur l'appareil génital féminin, âge inférieur à 70 ans sans CMA	0	15	2905.49	3.92	556.46	01/03/2008
+4906	13	C	13C04W	Interventions réparatrices sur l'appareil génital féminin, âge supérieur à 69 ans et/ou CMA	0	15	3807.62	6.08	469.42	01/03/2008
+4907	13	C	13C05Z	Interventions sur le système utéroannexiel pour des tumeurs malignes	0	21	4883.5	8.7	421.19	01/03/2008
+4908	13	C	13C06Z	Interruptions tubaires pour des affections non malignes	0	15	2318.63	3.05	570.77	01/03/2008
+4909	13	C	13C07V	Interventions sur le système utéroannexiel pour des affections non malignes, autres que les interruptions tubaires, âge inférieur à 70 ans sans CMA	0	15	2635.3	3.98	496.52	01/03/2008
+4910	13	C	13C07W	Interventions sur le système utéroannexiel pour des affections non malignes, autres que les interruptions tubaires, âge supérieur à 69 ans et/ou CMA	0	16	3794.43	6.61	430.66	01/03/2008
+4911	13	C	13C08V	Interventions sur la vulve, le vagin ou le col utérin, âge inférieur à 70 ans sans CMA	0	17	1179.7	2.74	322.64	01/03/2008
+4912	13	C	13C08W	Interventions sur la vulve, le vagin ou le col utérin, âge supérieur à 69 ans et/ou CMA	0	21	3753.49	8.49	331.39	01/03/2008
+4913	13	C	13C09Z	Laparoscopies ou clioscopies diagnostiques	0	12	1920.96	3.11	463.88	01/03/2008
+4914	13	C	13C10Z	Ligatures tubaires par laparoscopie ou clioscopie	0	6	1377.31	2.4	430.18	01/03/2008
+4915	13	C	13C11Z	Dilatations et curetages, conisations pour tumeurs malignes	0	15	1561.96	2.68	437.93	01/03/2008
+4916	13	C	13C12Z	Dilatations et curetages, conisations pour des affections non malignes	0	6	1076.1	2.34	344.34	01/03/2008
+4917	13	C	13C13Z	Autres interventions sur l'appareil génital féminin	0	20	4574.93	8.34	411.41	01/03/2008
+4918	13	C	13C14V	Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour tumeurs malignes sans CMA	3	33	5884.3	8.83	499.98	01/03/2008
+4919	13	C	13C14W	Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour tumeurs malignes avec CMA	6	41	9735.49	16.71	436.9	01/03/2008
+4920	13	C	13C15V	Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour affections non malignes sans CMA	0	22	3901.57	7.02	416.57	01/03/2008
+4921	13	C	13C15W	Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour affections non malignes avec CMA	4	27	5589.33	11.18	374.82	01/03/2008
+5200	13	M	13M02Z	Infections de l'appareil génital féminin	0	15	1647.38	4.28	288.64	01/03/2008
+5201	13	M	13M03V	Tumeurs malignes de l'appareil génital féminin sans CMA	0	31	3035.86	7.26	313.83	01/03/2008
+5202	13	M	13M03W	Tumeurs malignes de l'appareil génital féminin avec CMA	3	39	6224.24	15.72	296.94	01/03/2008
+5203	13	M	13M04V	Autres affections de l'appareil génital féminin, âge inférieur à 70 ans sans CMA	0	14	1514.65	2.76	410.98	01/03/2008
+5204	13	M	13M04W	Autres affections de l'appareil génital féminin, âge supérieur à 69 ans et/ou CMA	0	17	2617.27	7.09	276.74	01/03/2008
+5300	14	O	14C02A	Césariennes sans complication significative	0	22	2983.3	6.93	322.99	01/03/2008
+5301	14	O	14C02B	Césariennes avec autres complications	4	26	4208.05	10.56	298.89	01/03/2008
+5302	14	O	14C02C	Césariennes avec complications majeures	4	28	4900.37	11.55	318.07	01/03/2008
+5303	14	O	14C03Z	Accouchements par voie basse avec autres interventions	0	16	6391.79	6.66	720.22	01/03/2008
+5304	14	O	14C04Z	Affections du post-partum ou du post abortum avec intervention chirurgicale	0	15	2250.93	4.12	409.4	01/03/2008
+5305	14	O	14C05Z	Avortements avec aspiration ou curetage ou hystérotomie	0	12	1448.81	2.77	392.06	01/03/2008
+5450	14	O	14M02Z	Affections médicales du post-partum ou du post abortum	0	15	1536.02	4.31	267.44	01/03/2008
+5451	14	O	14Z02A	Accouchements par voie basse sans complication significative	0	14	2164.31	4.56	356.07	01/03/2008
+5452	14	O	14Z02B	Accouchements par voie basse avec autres complications	0	15	2615.3	5.35	366.36	01/03/2008
+5453	14	O	14Z02C	Accouchements par voie basse avec complications majeures	0	18	3347.42	7.26	346.05	01/03/2008
+5454	14	O	14Z03A	Affections de l'ante partum, avec ou sans intervention chirurgicale, sans complications	0	15	1413.97	4	265.11	01/03/2008
+5455	14	O	14Z03B	Affections de l'ante partum, avec ou sans intervention chirurgicale, avec complications	0	16	2069.16	6.51	238.42	01/03/2008
+5456	14	O	14Z04Z	Avortements sans aspiration, ni curetage, ni hystérotomie	0	12	1453.06	2.91	374.75	01/03/2008
+5457	14	O	14Z05Z	Grossesses ectopiques	0	10	2126.91	3.36	475.37	01/03/2008
+5458	14	O	14Z06Z	Menaces d'avortement	0	15	1200.77	3.5	257.31	01/03/2008
+5459	14	O	14Z07Z	Faux travail	0	15	1403.83	4.02	261.71	01/03/2008
+5800	15	M	15Z02Z	Autres problèmes postnéonatals précoces	0	35	4038.47	14.3	211.82	01/03/2008
+5801	15	M	15Z03Z	Transferts précoces de nouveau-nés vers un autre établissement	0	3	588.68	2.41	183.5	01/03/2008
+5802	15	M	15Z04E	Nouveau-nés de 1500 g et plus, décédés	0	32	4975.91	13.06	285.81	01/03/2008
+5803	15	M	15Z05A	Nouveau-nés de 2500 g et plus, sans problème significatif	0	8	1010.8	4.33	175.22	01/03/2008
+5804	15	M	15Z05B	Nouveau-nés de 2500 g et plus, avec autre problème significatif	0	11	1495.47	5.76	194.58	01/03/2008
+5805	15	M	15Z05C	Nouveau-nés de 2500 g et plus, avec problème sévère	0	18	1989.4	7.53	198.08	01/03/2008
+5806	15	M	15Z05D	Nouveau-nés de 2500 g et plus, avec problème majeur	4	31	3028.11	12.54	181.17	01/03/2008
+5807	15	M	15Z06A	Nouveau-nés de 2000 g à 2499 g, sans problème significatif	0	17	1637.45	6.95	176.8	01/03/2008
+5808	15	M	15Z06B	Nouveau-nés de 2000 g à 2499 g, avec autre problème significatif	4	25	2389.65	10.26	174.66	01/03/2008
+5809	15	M	15Z06C	Nouveau-nés de 2000 g à 2499 g, avec problème sévère	5	33	2895.98	13.27	163.68	01/03/2008
+5810	15	M	15Z06D	Nouveau-nés de 2000 g à 2499 g, avec problème majeur	5	49	4990.75	19.98	187.34	01/03/2008
+5811	15	M	15Z07A	Nouveau-nés de 1500 g à 1999 g, sans problème significatif	6	42	3698.92	16.89	164.21	01/03/2008
+5812	15	M	15Z07B	Nouveau-nés de 1500 g à 1999 g, avec autre problème significatif	7	56	4358.09	22.56	144.91	01/03/2008
+5813	15	M	15Z07C	Nouveau-nés de 1500 g à 1999 g, avec problème majeur ou sévère	7	77	7024.14	30.92	170.37	01/03/2008
+5814	15	M	15Z08A	Nouveau-nés de 1000 g à 1499 g, sortis en vie	7	93	5260.33	37.29	105.81	01/03/2008
+5815	15	M	15Z08E	Nouveau-nés de 1000 g à 1499 g, décédés	0	41	2684.06	16.74	120.26	01/03/2008
+5816	15	M	15Z09A	Nouveau-nés de moins de 1000 g, sortis en vie	0	155	6784.59	62.08	81.96	01/03/2008
+5817	15	M	15Z09E	Nouveau-nés de moins de 1000 g, décédés	0	44	3453.17	17.94	144.4	01/03/2008
+6100	16	C	16C01S	Interventions pour affections du sang et des organes hématopoïétiques, avec CMAS	7	51	13708.28	20.65	497.78	01/03/2008
+6101	16	C	16C02Z	Interventions sur la rate	3	24	5661.19	9.6	442.26	01/03/2008
+6102	16	C	16C03V	Autres interventions pour affections du sang et des organes hématopoïétiques sans CMA	0	23	2458.49	3.97	464.83	01/03/2008
+6103	16	C	16C03W	Autres interventions pour affections du sang et des organes hématopoïétiques avec CMA	0	29	6387.08	11.9	402.54	01/03/2008
+6150	16	M	16M01S	Affections du sang et des organes hématopoïétiques, avec CMAS	5	33	6342.72	13.59	350.11	01/03/2008
+6151	16	M	16M02V	Affections du système réticuloendothélial ou immunitaire sans CMA	0	19	2479.87	5.45	341.08	01/03/2008
+6152	16	M	16M02W	Affections du système réticuloendothélial ou immunitaire avec CMA	0	24	4288.9	9.69	331.92	01/03/2008
+6153	16	M	16M03V	Troubles de la lignée érythrocytaire, âge inférieur à 18 ans sans CMA	0	15	2918.88	4.66	469.71	01/03/2008
+6154	16	M	16M03W	Troubles de la lignée érythrocytaire, âge inférieur à 18 ans avec CMA	0	18	6093.79	7.58	602.88	01/03/2008
+6155	16	M	16M04V	Troubles de la lignée érythrocytaire, âge de 18 à 69 ans sans CMA	0	18	2176.36	4.45	366.61	01/03/2008
+6156	16	M	16M04W	Troubles de la lignée érythrocytaire, âge de 18 à 69 ans avec CMA, ou âge supérieur à 69 ans	0	23	3930.08	9.43	312.59	01/03/2008
+6157	16	M	16M05V	Troubles de la coagulation, âge inférieur à 70 ans sans CMA	0	18	2401.47	4.34	415.25	01/03/2008
+6158	16	M	16M05W	Troubles de la coagulation, âge supérieur à 69 ans et/ou CMA	0	23	3935.8	9.44	312.68	01/03/2008
+6300	17	C	17C01S	Interventions pour affections myéloprolifératives et tumeurs de siège imprécis ou diffus, avec CMAS	7	73	16386.45	29.4	417.98	01/03/2008
+6301	17	C	17C02V	Interventions majeures au cours de lymphomes ou de leucémies sans CMA	0	31	4721.85	7.73	458.37	01/03/2008
+6302	17	C	17C02W	Interventions majeures au cours de lymphomes ou de leucémies avec CMA	5	39	9827.5	15.65	471.11	01/03/2008
+6303	17	C	17C03V	Autres interventions au cours de lymphomes ou de leucémies sans CMA	0	33	3509.46	6.03	436.66	01/03/2008
+6304	17	C	17C03W	Autres interventions au cours de lymphomes ou de leucémies avec CMA	0	41	9949.92	16.48	452.89	01/03/2008
+6305	17	C	17C04V	Interventions majeures pour affections myéloprolifératives ou tumeurs de siège imprécis ou diffus, sans CMA	4	32	7018.35	10.03	524.61	01/03/2008
+6306	17	C	17C04W	Interventions majeures pour affections myéloprolifératives ou tumeurs de siège imprécis ou diffus, avec CMA	6	40	9841.95	16.37	450.81	01/03/2008
+6307	17	C	17C05V	Autres interventions au cours d'affections myéloprolifératives ou de tumeurs de siège imprécis ou diffus sans CMA	0	26	3396.35	5.54	459.6	01/03/2008
+6308	17	C	17C05W	Autres interventions au cours d'affections myéloprolifératives ou de tumeurs de siège imprécis ou diffus avec CMA	0	32	6940.91	13.16	395.52	01/03/2008
+6450	17	M	17K02Z	Antécédents ou suspicion d'affections tumorales, avec exploration endoscopique	0	15	1796.79	3.14	429.36	01/03/2008
+6452	17	M	17K04Z	Autres irradiations	0	17	3219.72	7.06	341.96	01/03/2008
+6453	17	M	17M01S	Affections myéloprolifératives et tumeurs de siège imprécis ou diffus, avec CMAS	0	46	10684.78	18.57	431.58	01/03/2008
+6457	17	M	17M04Z	Antécédents ou suspicion d'affections tumorales, sans exploration endoscopique	0	15	2367.71	4.59	387.07	01/03/2008
+6458	17	M	17M05Z	Chimiothérapie pour leucémie aiguë	0	19	5605.31	7.65	549.34	01/03/2008
+6459	17	M	17M06V	Chimiothérapie pour autre tumeur, sans CMA	0	12	1773.25	3.14	423.78	01/03/2008
+6460	17	M	17M06W	Chimiothérapie pour autre tumeur, avec CMA	0	15	2903.99	5.77	377.29	01/03/2008
+6461	17	M	17M07V	Autres affections myéloprolifératives et tumeurs de siège imprécis ou diffus, âge inférieur à 70 ans sans CMA	0	21	2407.15	4.6	392.85	01/03/2008
+6462	17	M	17M07W	Autres affections myéloprolifératives et tumeurs de siège imprécis ou diffus, âge supérieur à 69 ans et/ou CMA	0	26	4190.7	10.54	298.16	01/03/2008
+6463	17	M	17K05Z	Curiethérapies de la prostate	0	3	1640.21	2.14	576.03	01/03/2008
+6464	17	M	17K06Z	Autres curiethérapies et irradiations internes	0	12	2191.71	4.37	375.95	01/03/2008
+6465	17	M	17M08Z	Leucémies aiguës, âge inférieur à 18 ans	0	43	16445.37	17.37	710	01/03/2008
+6466	17	M	17M09V	Leucémies aiguës, âge supérieur à 17 ans sans CMA	0	41	8205.4	11.34	542.75	01/03/2008
+6467	17	M	17M09W	Leucémies aiguës, âge supérieur à 17 ans avec CMA	0	51	14642.62	20.61	532.74	01/03/2008
+6468	17	M	17M10V	Lymphomes ou autres leucémies sans CMA	0	27	3650.6	7.24	378.18	01/03/2008
+6469	17	M	17M10W	Lymphomes ou autres leucémies avec CMA	3	34	6044.63	13.67	331.63	01/03/2008
+6700	18	C	18C02V	Interventions pour maladies infectieuses ou parasitaires sans CMA	0	42	4757.48	9.56	373.3	01/03/2008
+6701	18	C	18C02W	Interventions pour maladies infectieuses ou parasitaires avec CMA	6	52	9862.78	21.09	350.77	01/03/2008
+6750	18	M	18M02V	Maladies virales et fièvres d'étiologie indéterminée, âge inférieur à 18 ans sans CMA	0	15	1669.74	3.1	403.58	01/03/2008
+6751	18	M	18M02W	Maladies virales et fièvres d'étiologie indéterminée, âge inférieur à 18 ans avec CMA	0	15	3382.93	5.38	471.88	01/03/2008
+6752	18	M	18M03Z	Maladies virales, âge supérieur à 17 ans	0	15	2682.1	6.22	323.37	01/03/2008
+6753	18	M	18M04V	Fièvres d'étiologie indéterminée, âge supérieur à 17 ans sans CMA	0	17	2294.3	5.56	309.58	01/03/2008
+6754	18	M	18M04W	Fièvres d'étiologie indéterminée, âge supérieur à 17 ans avec CMA	0	21	4015.61	8.62	349.27	01/03/2008
+6755	18	C	18M05V	Infections postopératoires et posttraumatiques sans CMA	0	22	2673.15	6.72	298.39	01/03/2008
+6756	18	C	18M05W	Infections postopératoires et posttraumatiques avec CMA	3	28	4387.11	11.32	290.77	01/03/2008
+6757	18	M	18M06Z	Septicémies, âge inférieur à 18 ans	0	17	4558.26	7.12	480.26	01/03/2008
+6758	18	M	18M07V	Septicémies, âge supérieur à 17 ans sans CMA	0	28	3557.66	9.92	268.86	01/03/2008
+6759	18	M	18M07W	Septicémies, âge supérieur à 17 ans avec CMA	5	35	5280.22	14.2	278.84	01/03/2008
+6760	18	M	18M08V	Autres maladies infectieuses ou parasitaires, âge inférieur à 70 ans sans CMA	0	19	2185.73	4.74	346.04	01/03/2008
+6761	18	M	18M08W	Autres maladies infectieuses ou parasitaires, âge supérieur à 69 ans et/ou CMA	0	24	3945.45	9.9	298.78	01/03/2008
+6762	18	M	18Z01S	Maladies infectieuses et parasitaires, avec CMAS, avec ou sans acte	3	47	7638.97	19.03	301.07	01/03/2008
+7000	19	C	19C02Z	Interventions chirurgicales avec un diagnostic principal de maladie mentale	0	38	6159.18	15.42	299.49	01/03/2008
+7050	19	M	19M02V	Troubles aigus de l'adaptation et du fonctionnement psychosocial, âge inférieur à 70 ans sans CMA	0	21	2083.88	5.49	284.67	01/03/2008
+7051	19	M	19M02W	Troubles aigus de l'adaptation et du fonctionnement psychosocial, âge supérieur à 69 ans et/ou CMA	0	26	3380.11	10.43	243.16	01/03/2008
+7052	19	M	19M03Z	Troubles de la personnalité et du comportement avec réactions impulsives	0	34	5439.07	13.9	293.58	01/03/2008
+7053	19	M	19M04Z	Psychoses, âge supérieur à 80 ans	5	33	4376.06	13.39	245.05	01/03/2008
+7054	19	M	19M05Z	Psychoses, âge inférieur à 81 ans	0	22	3093.98	9.1	255.09	01/03/2008
+7055	19	M	19M06V	Troubles mentaux d'origine organique et retards mentaux, âge supérieur à 80 ans sans CMA	0	31	3847.96	11.82	244.16	01/03/2008
+7056	19	M	19M06W	Troubles mentaux d'origine organique et retards mentaux, âge supérieur à 80 ans avec CMA	6	39	5117.47	15.9	241.32	01/03/2008
+7057	19	M	19M07V	Troubles mentaux d'origine organique et retards mentaux, âge inférieur à 81 ans sans CMA	0	30	3582.9	10.42	257.98	01/03/2008
+7058	19	M	19M07W	Troubles mentaux d'origine organique et retards mentaux, âge inférieur à 81 ans avec CMA	3	38	5288.9	15.29	259.5	01/03/2008
+7059	19	M	19M08Z	Maladies et troubles mentaux de l'enfance	0	15	3284.21	6.18	398.78	01/03/2008
+7060	19	M	19M09Z	Autres troubles mentaux	0	17	2618.13	6.96	282.06	01/03/2008
+7061	19	M	19M10Z	Névroses autres que les névroses dépressives	0	18	2562.25	7.25	265.11	01/03/2008
+7062	19	M	19M11V	Névroses dépressives, âge inférieur à 70 ans sans CMA	0	22	2277.06	6.92	246.95	01/03/2008
+7063	19	M	19M11W	Névroses dépressives, âge supérieur à 69 ans et/ou CMA	4	27	3587.42	11.16	241.01	01/03/2008
+7250	20	M	20Z02Z	Toxicomanies non éthyliques avec dépendance	3	20	2395.34	8.15	220.42	01/03/2008
+7251	20	M	20Z03Z	Abus de drogues non éthyliques sans dépendance	0	15	1974.09	5.78	256.22	01/03/2008
+7252	20	M	20Z04Z	Éthylisme avec dépendance	0	22	2395.34	9.14	196.58	01/03/2008
+7253	20	M	20Z05Z	Éthylisme aigu	0	15	1750.54	4.87	269.66	01/03/2008
+7254	20	M	20Z06V	Troubles mentaux organiques induits par l'alcool ou d'autres substances, âge inférieur à 70 ans sans CMA	0	23	2710.09	8.09	251.23	01/03/2008
+7255	20	M	20Z06W	Troubles mentaux organiques induits par l'alcool ou d'autres substances, âge supérieur à 69 ans et/ou CMA	4	29	3888.71	11.89	245.19	01/03/2008
+7256	20	M	20Z04Z	Éthylisme avec dépendance	0	22	4643.1	9.14	381.04	01/03/2008
+7257	20	M	20Z02Z	Toxicomanies non éthyliques avec dépendance	3	20	4643.1	8.15	427.25	01/03/2008
+7400	21	C	21C01S	Interventions pour traumatismes, allergies et empoisonnements, avec CMAS	7	83	18517.79	33.54	414.14	01/03/2008
+7401	21	C	21C02Z	Greffes de peau pour lésions autres que des brûlures	0	24	5274.32	9.75	405.66	01/03/2008
+7402	21	C	21C03Z	Parages de plaies pour lésions autres que des brûlures	0	55	10207.51	22.16	345.44	01/03/2008
+7403	21	C	21C04Z	Interventions sur la main ou le poignet à la suite de blessures	0	15	3472.36	4.64	561.72	01/03/2008
+7404	21	C	21C05V	Autres interventions pour blessures ou complications d'acte sans CMA	0	35	4985.66	9.46	395.3	01/03/2008
+7405	21	C	21C05W	Autres interventions pour blessures ou complications d'acte avec CMA	3	44	9481.38	17.98	395.51	01/03/2008
+7550	21	M	21M01S	Traumatismes, allergies et empoisonnements, avec CMAS	0	30	5028.16	12.22	308.48	01/03/2008
+7551	21	M	21M02Z	Effets toxiques des médicaments et autres produits, âge inférieur à 18 ans	0	15	2111.38	4.39	360.93	01/03/2008
+7552	21	M	21M03V	Effets toxiques des médicaments et autres produits, âge de 18 à 69 ans sans CMA	0	15	1176.34	3.1	284.64	01/03/2008
+7553	21	M	21M03W	Effets toxiques des médicaments et autres produits, âge de 18 à 69 ans avec CMA, ou âge supérieur à 69 ans	0	19	2749.07	7.93	259.94	01/03/2008
+7554	21	M	21M04Z	Réactions allergiques non classées ailleurs, âge inférieur à 18 ans	0	11	2279.76	2.77	617	01/03/2008
+7555	21	M	21M05Z	Réactions allergiques non classées ailleurs, âge supérieur à 17 ans	0	15	1432.47	3.76	285.84	01/03/2008
+7556	21	C	21M06Z	Traumatismes complexes, âge inférieur à 18 ans	0	15	1853.98	3.68	377.79	01/03/2008
+7557	21	C	21M07V	Traumatismes complexes, âge de 18 à 69 ans sans CMA	0	17	1638.1	3.85	319.17	01/03/2008
+7558	21	C	21M07W	Traumatismes complexes, âge de 18 à 69 ans avec CMA, ou âge supérieur à 69 ans	0	21	3045.1	8.56	266.82	01/03/2008
+7559	21	M	21M08V	Autres traumatismes et effets nocifs autres que les intoxications, âge inférieur à 70 ans sans CMA	0	18	2179.05	4.69	348.31	01/03/2008
+7560	21	M	21M08W	Autres traumatismes et effets nocifs autres que les intoxications, âge supérieur à 69 ans et/ou CMA	0	22	3163.23	8.89	266.99	01/03/2008
+7561	21	M	21M09V	Complications iatrogéniques non classées ailleurs sans CMA	0	21	2631.25	6.06	325.54	01/03/2008
+7562	21	M	21M09W	Complications iatrogéniques non classées ailleurs avec CMA	0	26	4490.82	10.58	318.23	01/03/2008
+7800	22	C	22C02Z	Brûlures non étendues avec greffe cutanée	0	54	15140.14	21.82	520.34	01/03/2008
+7801	22	C	22C03Z	Brûlures non étendues avec parages de plaie ou autres interventions chirurgicales	0	36	8214.04	14.73	418.3	01/03/2008
+7850	22	C	22M02Z	Brûlures non étendues sans intervention chirurgicale	0	20	3565.45	8.08	330.82	01/03/2008
+7851	22	C	22Z02Z	Brûlures étendues	0	92	49868.38	36.97	1011.78	01/03/2008
+7900	23	C	23C02Z	Interventions chirurgicales avec autres motifs de recours aux services de santé	0	22	4980.51	8.92	418.83	01/03/2008
+7950	23	M	23M02Z	Rééducation	0	23	3659.57	9.43	290.92	01/03/2008
+7951	23	M	23M03V	Signes et symptômes sans CMA	0	22	2329.88	6.06	288.3	01/03/2008
+7952	23	M	23M03W	Signes et symptômes avec CMA	0	28	4158.21	11.24	277.51	01/03/2008
+7953	23	M	23M04Z	Suivi thérapeutique avec diagnostic associé d'antécédent d'affection maligne	0	15	2238.73	5.65	297.18	01/03/2008
+7954	23	M	23M05Z	Suivi thérapeutique sans diagnostic associé d'antécédent d'affection maligne	0	15	2124.86	4.9	324.96	01/03/2008
+7955	23	M	23M06Z	Autres facteurs influant sur l'état de santé	0	15	2247.15	5.11	329.66	01/03/2008
+7956	23	M	23Z02Z	Soins palliatifs, avec ou sans acte	0	35	6357.21	16.48	289.23	01/03/2008
+7957	23	M	23Z02Z	Soins palliatifs, avec ou sans acte	0	35	8900.09	16.48	404.92	01/03/2008
+7958	23	M	23Z02Z	Soins palliatifs, avec ou sans acte	0	35	8264.37	16.48	376	01/03/2008
+8001	24	C	24C02Z	Affections de la CMD 01 : séjours de moins de 2 jours, avec autre acte opératoire de la CMD 01	0	0	1699.35	0	0	01/03/2008
+8002	24	C	24C03Z	Interventions sur le cristallin : séjours de moins de 2 jours	0	0	1602.88	0	0	01/03/2008
+8003	24	C	24C04Z	Affections de la CMD 02 : séjours de moins de 2 jours, avec autre acte opératoire de la CMD 02	0	0	948.05	0	0	01/03/2008
+8004	24	C	24C05Z	Amygdalectomies et/ou adénoïdectomies : séjours de moins de 2 jours	0	0	842.75	0	0	01/03/2008
+8005	24	C	24C06Z	Drains transtympaniques : séjours de moins de 2 jours	0	0	682.26	0	0	01/03/2008
+8006	24	C	24C07Z	Affections de la CMD 03 : séjours de moins de 2 jours, avec autre acte opératoire de la CMD 03	0	0	1151.58	0	0	01/03/2008
+8007	24	C	24C08Z	Affections de la CMD 04 : séjours de moins de 2 jours, avec acte opératoire de la CMD 04	0	0	971.74	0	0	01/03/2008
+8008	24	C	24C09Z	Ligatures de veines et éveinages : séjours de moins de 2 jours	0	0	1355.91	0	0	01/03/2008
+8009	24	C	24C10Z	Affections de la CMD 05 : séjours de moins de 2 jours, avec autre acte opératoire de la CMD 05	0	0	1208.4	0	0	01/03/2008
+8010	24	C	24C11Z	Interventions réparatrices pour hernies abdominales : séjours de moins de 2 jours	0	0	1620.71	0	0	01/03/2008
+8011	24	C	24C12Z	Interventions sur le rectum et l'anus : séjours de moins de 2 jours	0	0	849.8	0	0	01/03/2008
+8012	24	C	24C13Z	Affections de la CMD 06 : séjours de moins de 2 jours, avec autre acte opératoire de la CMD 06	0	0	1582.41	0	0	01/03/2008
+8013	24	C	24C14Z	Affections de la CMD 07 : séjours de moins de 2 jours, avec acte opératoire de la CMD 07	0	0	1844.54	0	0	01/03/2008
+8014	24	C	24C15Z	Résections osseuses localisées et ablations de matériel de fixation : séjours de moins de 2 jours	0	0	1132.5	0	0	01/03/2008
+8016	24	C	24C17Z	Arthroscopies : séjours de moins de 2 jours	0	0	1377.09	0	0	01/03/2008
+8017	24	C	24C18Z	Affections de la CMD 08 : séjours de moins de 2 jours, avec autre acte opératoire de la CMD 08	0	0	1161.06	0	0	01/03/2008
+8019	24	C	24C20Z	Affections de la CMD 10 : séjours de moins de 2 jours, avec acte opératoire de la CMD 10	0	0	1529.73	0	0	01/03/2008
+8020	24	C	24C21Z	Interventions transurétrales, sauf prostatectomie : séjours de moins de 2 jours	0	0	1241.64	0	0	01/03/2008
+8021	24	C	24C22Z	Affections de la CMD 11 : séjours de moins de 2 jours, avec autre acte opératoire de la CMD 11	0	0	1076.28	0	0	01/03/2008
+8022	24	C	24C23Z	Interventions sur les testicules : séjours de moins de 2 jours	0	0	1337.87	0	0	01/03/2008
+8023	24	C	24C24Z	Circoncisions : séjours de moins de 2 jours	0	0	892.74	0	0	01/03/2008
+8024	24	C	24C25Z	Affections de la CMD 12 : séjours de moins de 2 jours, avec autre acte opératoire de la CMD 12	0	0	1201.62	0	0	01/03/2008
+8026	24	C	24C27Z	Interventions sur la vulve, le vagin et le col utérin : séjours de moins de 2 jours	0	0	791.98	0	0	01/03/2008
+8027	24	C	24C28Z	Dilatations et curetages en dehors de la grossesse, conisations : séjours de moins de 2 jours	0	0	827.51	0	0	01/03/2008
+8028	24	C	24C29Z	Affections de la CMD 13 : séjours de moins de 2 jours, avec autre acte opératoire de la CMD 13	0	0	1314.09	0	0	01/03/2008
+8029	24	O	24C30Z	Dilatations et curetages au cours de la grossesse, en dehors des interruptions volontaires : séjours de moins de 2 jours	0	0	645	0	0	01/03/2008
+8030	24	O	24C31Z	Affections de la CMD 14 : séjours de moins de 2 jours, avec autre acte opératoire de la CMD 14	0	0	988.78	0	0	01/03/2008
+8031	24	C	24C32Z	Affections de la CMD 16 : séjours de moins de 2 jours, avec acte opératoire de la CMD 16	0	0	938.36	0	0	01/03/2008
+8032	24	C	24C33Z	Affections de la CMD 17 : séjours de moins de 2 jours, avec acte opératoire	0	0	955.35	0	0	01/03/2008
+8033	24	C	24C34Z	Affections de la CMD 18 : séjours de moins de 2 jours, avec acte opératoire	0	0	900.58	0	0	01/03/2008
+8034	24	C	24C35Z	Affections de la CMD 19 : séjours de moins de 2 jours, avec acte opératoire	0	0	1008.82	0	0	01/03/2008
+8036	24	C	24C37Z	Affections de la CMD 22 : séjours de moins de 2 jours, avec acte opératoire de la CMD 22	0	0	1300.91	0	0	01/03/2008
+8037	24	C	24C38Z	Motifs de recours de la CMD 23 : séjours de moins de 2 jours, avec acte opératoire	0	0	1084.1	0	0	01/03/2008
+8038	24	C	24C39Z	Créations  et réfections des fistules artérioveineuses, séjours de moins de 2 jours	0	0	1307.83	0	0	01/03/2008
+8039	24	C	24C40Z	Interventions pour traumatismes de l'oeil, séjours de moins de 2 jours	0	0	1143.43	0	0	01/03/2008
+8040	24	C	24C41Z	Actes non mineurs de la CMD 02, séjours de moins de 2 jours	0	0	1507.29	0	0	01/03/2008
+8041	24	C	24C42Z	Actes non mineurs de la CMD 03, séjours de moins de 2 jours	0	0	1406.4	0	0	01/03/2008
+8042	24	C	24C43Z	Pose d'un défibrillateur cardiaque : séjours de moins de 2 jours	0	0	967.26	0	0	01/03/2008
+8043	24	C	24C44Z	Pose d'un stimulateur cardiaque permanent : séjours de moins de 2 jours	0	0	820.02	0	0	01/03/2008
+8044	24	C	24C45Z	Hémorroïdectomies : séjours de moins de 2 jours	0	0	959.26	0	0	01/03/2008
+8045	24	C	24C46Z	Actes non mineurs sur la main : séjours de moins de 2 jours	0	0	1657.62	0	0	01/03/2008
+8046	24	C	24C47Z	Interventions sur le sein : séjours de moins de 2 jours	0	0	963.76	0	0	01/03/2008
+8047	24	C	24C48Z	Interventions sur la peau et les tissus sous-cutanés : séjours de moins de 2 jours	0	0	868.48	0	0	01/03/2008
+8048	24	C	24C49Z	Prélèvements d'ovocytes : séjours de moins de 2 jours	0	0	1181.24	0	0	01/03/2008
+8049	24	C	24C50Z	Interventions et explorations sur le système utéroannexiel : séjours de moins de 2 jours	0	0	1288.98	0	0	01/03/2008
+8050	24	C	24C51Z	Interventions sur la main ou le poignet à la suite de blessures : séjours de moins de 2 jours	0	0	1428.55	0	0	01/03/2008
+8051	24	C	24C52Z	Allogreffes de cornée : séjours de moins de 2 jours	0	0	2725.49	0	0	01/03/2008
+8052	24	C	24C53Z	Autres affections de la CMD 21 : séjours de moins de 2 jours, avec acte opératoire de la CMD 21	0	0	1098.36	0	0	01/03/2008
+8053	24	C	24C54Z	Libérations du canal carpien et autres actes sur les nerfs périphériques : séjours de moins de 2 jours	0	0	745.21	0	0	01/03/2008
+8054	24	C	24C55Z	Autres interventions sur la main  : séjours de moins de 2 jours	0	0	1134.44	0	0	01/03/2008
+8055	24	C	24C45Z	Hémorroïdectomies : séjours de moins de 2 jours	0	0	1265.95	0	0	01/03/2008
+8056	24	C	24C25Z	Affections de la CMD 12 : séjours de moins de 2 jours, avec autre acte opératoire de la CMD 13	0	0	2141.97	0	0	01/03/2008
+8057	24	C	24C28Z	Dilatations et curetages en dehors de la grossesse, conisations : séjours de moins de 2 jours	0	0	1083.9	0	0	01/03/2008
+8250	24	M	24K01Z	Greffes de cellules souches hématopoïétiques : séjours de moins de 2 jours	0	0	1203.3	0	0	01/03/2008
+8253	24	C	24K04Z	Mise en place de certains accès vasculaires : séjours de moins de 2 jours	0	0	593.99	0	0	01/03/2008
+8254	24	M	24K05Z	Polysomnographies et autres explorations de longue durée : séjours de moins de 2 jours	0	0	554.5	0	0	01/03/2008
+8257	24	C	24K08Z	Affections de la CMD 08 : séjours de moins de 2 jours, sans acte opératoire de la CMD 08, avec anesthésie	0	0	863.26	0	0	01/03/2008
+8258	24	M	24K09Z	Affections de la CMD 09 : séjours de moins de 2 jours, sans acte opératoire de la CMD 09, avec anesthésie	0	0	868.39	0	0	01/03/2008
+8259	24	M	24K10Z	Lithotritie extracorporelle de l'appareil urinaire : séjours de moins de 2 jours	0	0	1460.98	0	0	01/03/2008
+8260	24	C	24K11Z	Affections de la CMD 13 : séjours de moins de 2 jours, sans acte opératoire de la CMD 13, avec anesthésie	0	0	695.93	0	0	01/03/2008
+8261	24	C	24K12Z	Affections de la CMD 17 : séjours de moins de 2 jours, sans acte opératoire, avec anesthésie	0	0	577.34	0	0	01/03/2008
+8264	24	C	24M02Z	Commotions cérébrales : séjours de moins de 2 jours	0	0	558.38	0	0	01/03/2008
+8265	24	M	24M03Z	Affections de la CMD 01 : séjours de moins de 2 jours, sans acte opératoire de la CMD 01	0	0	521.49	0	0	01/03/2008
+8266	24	M	24M04Z	Affections de la CMD 02 : séjours de moins de 2 jours, sans acte opératoire de la CMD 02	0	0	534.97	0	0	01/03/2008
+8267	24	M	24M05Z	Otites moyennes et infections des voies aériennes supérieures : séjours de moins de 2 jours	0	0	558.22	0	0	01/03/2008
+8268	24	M	24M06Z	Affections de la CMD 03 : séjours de moins de 2 jours, sans acte opératoire de la CMD 03	0	0	557.29	0	0	01/03/2008
+8269	24	M	24M07Z	Bronchites et asthme : séjours de moins de 2 jours	0	0	553.39	0	0	01/03/2008
+8270	24	M	24M08Z	Affections de la CMD 04 : séjours de moins de 2 jours, sans acte opératoire de la CMD 04	0	0	533.49	0	0	01/03/2008
+8271	24	M	24M09Z	Arythmies et troubles de la conduction cardiaque : séjours de moins de 2 jours	0	0	525.52	0	0	01/03/2008
+8272	24	M	24M10Z	Affections de la CMD 05 : séjours de moins de 2 jours, sans acte opératoire de la CMD 05	0	0	551.41	0	0	01/03/2008
+8273	24	M	24M11Z	Gastroentérites et maladies diverses du tube digestif : séjours de moins de 2 jours	0	0	536.45	0	0	01/03/2008
+8274	24	M	24M12Z	Affections de la CMD 06 : séjours de moins de 2 jours, sans acte opératoire de la CMD 06	0	0	537.25	0	0	01/03/2008
+8275	24	M	24M13Z	Affections de la CMD 07 : séjours de moins de 2 jours, sans acte opératoire de la CMD 07	0	0	563.97	0	0	01/03/2008
+8276	24	M	24M14Z	Pathologies rachidiennes relevant d'un traitement médical : séjours de moins de 2 jours	0	0	505.4	0	0	01/03/2008
+8277	24	C	24M15Z	Fractures, entorses et luxations : séjours de moins de 2 jours, sans anesthésie	0	0	602.7	0	0	01/03/2008
+8278	24	M	24M16Z	Affections de la CMD 08 : séjours de moins de 2 jours, sans acte opératoire de la CMD 08	0	0	563.13	0	0	01/03/2008
+8279	24	C	24M17Z	Traumatismes de la peau et des tissus sous-cutanés : séjours de moins de 2 jours	0	0	581.29	0	0	01/03/2008
+8280	24	M	24M18Z	Affections de la CMD 09 : séjours de moins de 2 jours, sans acte opératoire de la CMD 09	0	0	525.55	0	0	01/03/2008
+8281	24	M	24M19Z	Affections de la CMD 10 : séjours de moins de 2 jours, sans acte opératoire de la CMD 10	0	0	589.7	0	0	01/03/2008
+8282	24	M	24M20Z	Lithiases urinaires : séjours de moins de 2 jours	0	0	550.91	0	0	01/03/2008
+8283	24	M	24M21Z	Affections de la CMD 11 : séjours de moins de 2 jours, sans acte opératoire de la CMD 11	0	0	515.57	0	0	01/03/2008
+8284	24	M	24M22Z	Affections de la CMD 12 : séjours de moins de 2 jours, sans acte opératoire de la CMD 12	0	0	504.53	0	0	01/03/2008
+8285	24	M	24M23Z	Affections de la CMD 13 : séjours de moins de 2 jours, sans acte opératoire de la CMD 13	0	0	427.64	0	0	01/03/2008
+8286	24	O	24M24Z	Affections de l'ante partum : séjours de moins de 2 jours	0	0	357.57	0	0	01/03/2008
+8287	24	O	24M25Z	Affections de la CMD 14 : séjours de moins de 2 jours, sans acte opératoire de la CMD 14	0	0	383.41	0	0	01/03/2008
+8288	24	M	24M26Z	Affections de la CMD 16 : séjours de moins de 2 jours, sans acte opératoire de la CMD 16	0	0	668.54	0	0	01/03/2008
+8289	24	M	24M27Z	Affections de la CMD 17 : séjours de moins de 2 jours, sans acte opératoire	0	0	576.54	0	0	01/03/2008
+8290	24	M	24M28Z	Affections de la CMD 18 : séjours de moins de 2 jours, sans acte opératoire	0	0	574.64	0	0	01/03/2008
+8291	24	M	24M29Z	Troubles aigus de l'adaptation et du fonctionnement psychosocial : séjours de moins de 2 jours	0	0	523.77	0	0	01/03/2008
+8292	24	M	24M30Z	Affections de la CMD 19 : séjours de moins de 2 jours, sans acte opératoire	0	0	448.82	0	0	01/03/2008
+8293	24	M	24M31Z	Effets toxiques des médicaments et autres produits : séjours de moins de 2 jours	0	0	555.04	0	0	01/03/2008
+8294	24	M	24M32Z	Affections de la CMD 21 : séjours de moins de 2 jours, sans acte opératoire de la CMD 21	0	0	576.09	0	0	01/03/2008
+8295	24	C	24M33Z	Affections de la CMD 22 : séjours de moins de 2 jours, sans acte opératoire de la CMD 22	0	0	568.44	0	0	01/03/2008
+8296	24	M	24M34Z	Autres motifs de recours pour infection à VIH : séjours de moins de 2 jours	0	0	443.59	0	0	01/03/2008
+8297	24	M	24M35Z	Autres motifs de recours chez un patient diabétique : séjours de moins de 2 jours	0	0	423.45	0	0	01/03/2008
+8298	24	M	24M36Z	Autres motifs de recours de la CMD 23 : séjours de moins de 2 jours, sans acte opératoire	0	0	447.27	0	0	01/03/2008
+8299	24	M	24M36Z	Autres motifs de recours de la CMD 23 : séjours de moins de 2 jours, sans acte opératoire 	0	0	301.5	0	0	01/03/2008
+8307	24	M	24Z09E	Infarctus du myocarde avec décès : séjours de moins de 2 jours	0	0	1032.14	0	0	01/03/2008
+8308	24	M	24Z10E	Nouveau-nés décédés : séjours de moins de 2 jours	0	0	432.13	0	0	01/03/2008
+8309	24	M	24Z11E	Autres décès : séjours de moins de 2 jours	0	0	1125.5	0	0	01/03/2008
+8315	24	M	24Z17Z	Éthylisme aigu : séjours de moins de 2 jours	0	0	527.65	0	0	01/03/2008
+8316	24	M	24Z18Z	Affections de la CMD 20 : séjours de moins de 2 jours	0	0	482.1	0	0	01/03/2008
+8317	24	M	24K14Z	Autres séjours de moins de 2 jours sans acte opératoire, avec anesthésie	0	0	735.06	0	0	01/03/2008
+8318	24	C	24K15Z	Affections de la CMD  03 : séjours de moins de 2 jours, sans acte opératoire de la CMD 03, avec anesthésie	0	0	1016.04	0	0	01/03/2008
+8319	24	M	24K16Z	Endoprothèses coronariennes et vasculaires périphériques : séjours de moins de 2 jours	0	0	2010.91	0	0	01/03/2008
+8320	24	M	24K17Z	Actes thérapeutiques par voie vasculaire sauf endoprothèses et embolisations : séjours de moins de 2 jours	0	0	1331.7	0	0	01/03/2008
+8321	24	M	24K18Z	Affections de la CMD  05 : séjours de moins de 2 jours, sans acte opératoire de la CMD 05, avec anesthésie	0	0	588.09	0	0	01/03/2008
+8322	24	M	24K19Z	Affections de la CMD  06 : séjours de moins de 2 jours, sans acte opératoire de la CMD 06, avec anesthésie	0	0	775.24	0	0	01/03/2008
+8323	24	M	24K20Z	Évacuation d'ascite : séjours de moins de 2 jours	0	0	416.51	0	0	01/03/2008
+8324	24	C	24K21Z	Affections de la CMD  21 : séjours de moins de 2 jours, sans acte opératoire de la CMD 21, avec anesthésie	0	0	814.27	0	0	01/03/2008
+8325	24	C	24K22Z	Affections de la CMD  22 : séjours de moins de 2 jours, sans acte opératoire de la CMD 22, avec anesthésie	0	0	850.06	0	0	01/03/2008
+8326	24	M	24K23Z	Surveillances de greffes de coeur avec acte diagnostique par voie vasculaire : séjours de moins de 2 jours	0	0	1056.41	0	0	01/03/2008
+8327	24	M	24K24Z	Endoscopies biliaires thérapeutiques et anesthésie : séjours de moins de 2 jours	0	0	1255.91	0	0	01/03/2008
+8328	24	M	24K25Z	Autres endoscopies biliaires : séjours de moins de 2 jours	0	0	946.38	0	0	01/03/2008
+8329	24	M	24K26Z	Endoscopies digestives thérapeutiques avec anesthésie : séjours de moins de 2 jours	0	0	890.81	0	0	01/03/2008
+8330	24	M	24K27Z	Endoscopies digestives thérapeutiques sans anesthésie : séjours de moins de 2 jours	0	0	746.41	0	0	01/03/2008
+8331	24	M	24K28Z	Endoscopies digestives diagnostiques et anesthésie : séjours de moins de 2 jours	0	0	763.24	0	0	01/03/2008
+8332	24	M	24K29Z	Endoscopies digestives diagnostiques sans anesthésie : séjours de moins de 2 jours	0	0	238.69	0	0	01/03/2008
+8333	24	M	24K30Z	Endoscopies urinaires thérapeutiques et anesthésie : séjours de moins de 2 jours	0	0	910.46	0	0	01/03/2008
+8334	24	M	24K31Z	Endoscopies urinaires thérapeutiques sans anesthésie : séjours de moins de 2 jours	0	0	756.92	0	0	01/03/2008
+8335	24	M	24K32Z	Endoscopies urinaires diagnostiques et anesthésie : séjours de moins de 2 jours	0	0	729.04	0	0	01/03/2008
+8336	24	M	24K33Z	Endoscopies urinaires diagnostiques sans anesthésie : séjours de moins de 2 jours	0	0	177.98	0	0	01/03/2008
+8337	24	M	24K34Z	Endoscopies oto-rhino-laryngologiques : séjours de moins de 2 jours	0	0	1018.73	0	0	01/03/2008
+8338	24	M	24K35Z	Endoscopies bronchiques : séjours de moins de 2 jours	0	0	736.35	0	0	01/03/2008
+8339	24	M	24K36Z	Traitements des troubles du rythme par voie vasculaire : séjours de moins de 2 jours	0	0	1256.95	0	0	01/03/2008
+8340	24	M	24K37Z	Embolisations : séjours de moins de 2 jours	0	0	1711.33	0	0	01/03/2008
+8341	24	C	24K38Z	Affections de la bouche et des dents avec certaines extractions, réparations et prothèses dentaires sans anesthésie : séjours de moins de 2 jours	0	0	1000.88	0	0	01/03/2008
+8342	24	M	24K39Z	Actes diagnostiques par voie vasculaire de la CMD 05 : séjours de moins de 2 jours	0	0	1109.51	0	0	01/03/2008
+8343	24	M	24M37Z	Douleurs chroniques rebelles : séjours de moins de 2 jours	0	0	409.96	0	0	01/03/2008
+8344	24	M	24M38Z	Affections des seins : séjours de moins de 2 jours	0	0	611.14	0	0	01/03/2008
+8345	24	M	24M39Z	Surveillances de greffes de rein : séjours de moins de 2 jours	0	0	678.07	0	0	01/03/2008
+8346	24	M	24M40Z	Surveillances de greffes de cur sans acte diagnostique par voie vasculaire : séjours de moins de 2 jours	0	0	789.58	0	0	01/03/2008
+8348	24	O	24Z20Z	Accouchements : séjours de moins de 2 jours	0	0	1097.5	0	0	01/03/2008
+8349	24	M	24Z21Z	Nouveau-nés et nourrissons de 5 jours à 120 jours : séjours de moins de 2 jours	0	0	542.19	0	0	01/03/2008
+8350	24	M	24Z22Z	Autres transferts vers MCO : séjours de moins de 2 jours	0	0	785.67	0	0	01/03/2008
+8351	24	M	24Z23Z	Nouveau-nés de moins de 5 jours : séjours de moins de 2 jours	0	0	345.79	0	0	01/03/2008
+8352	24	M	24Z24Z	Transferts de nouveau-nés vers un autre établissement : séjours de moins de 2 jours	0	0	445.3	0	0	01/03/2008
+8353	24	C	24Z25Z	Brûlures avec transfert vers un autre établissement : séjours de moins de 2 jours	0	0	870.22	0	0	01/03/2008
+8354	24	M	24M41Z	Migraines et céphalées : séjours de moins de 2 jours	0	0	402	0	0	01/03/2008
+8355	24	M	24M42Z	Convulsions hyperthermiques : séjours de moins de 2 jours	0	0	417.08	0	0	01/03/2008
+8356	24	M	24M43Z	Épilepsies : séjours de moins de 2 jours	0	0	753.75	0	0	01/03/2008
+8700	25	C	25C02Z	Interventions pour maladie due au VIH	0	55	10398.67	22.09	353.03	01/03/2008
+8750	25	M	25M02A	Autres maladies dues au VIH	0	37	4264.2	10.13	315.79	01/03/2008
+8751	25	M	25M02B	Maladies dues au VIH, avec une seule complication infectieuse	0	30	5173.53	12.09	321	01/03/2008
+8752	25	M	25M02C	Maladies dues au VIH, avec plusieurs complications infectieuses	6	46	7543.36	18.78	301.32	01/03/2008
+8753	25	M	25Z02E	Maladies dues au VIH, avec décès	0	72	11903.57	28.84	309.53	01/03/2008
+8754	25	M	25Z03Z	Maladies dues au VIH, âge inférieur à 13 ans	0	44	12109.21	17.89	507.68	01/03/2008
+8800	26	C	26C01S	Interventions pour traumatismes multiples graves, avec CMAS non traumatiques	7	93	18354.16	37.47	367.34	01/03/2008
+8801	26	C	26C02Z	Interventions pour traumatismes multiples graves, sans CMAS	7	53	10959.89	21.4	384.06	01/03/2008
+8850	26	C	26M01S	Traumatismes multiples graves, avec CMAS non traumatiques	0	65	10754.22	26.09	309.11	01/03/2008
+8851	26	C	26M02Z	Traumatismes multiples graves, sans CMAS	5	35	5102.17	14.32	267.24	01/03/2008
+8900	27	C	27C02Z	Transplantations hépatiques	7	98	37774.34	39.5	717.2	01/03/2008
+8901	27	C	27C03Z	Transplantations pancréatiques	7	51	20402.41	20.6	742.65	01/03/2008
+8902	27	C	27C04Z	Transplantations pulmonaires	7	106	47116.7	42.73	827.06	01/03/2008
+8903	27	C	27C05Z	Transplantations cardiaques	7	124	38220.39	49.97	573.67	01/03/2008
+8904	27	C	27C06Z	Transplantations rénales	7	46	15275.48	18.64	614.71	01/03/2008
+8905	27	C	27C04Z	Transplantations pulmonaires	7	106	61870.41	42.73	1086.04	01/03/2008
+9050	27	M	27Z02Z	Allogreffes de cellules souches hématopoïétiques	11	110	56041.51	44.27	949.33	01/03/2008
+9051	27	M	27Z03Z	Autogreffes de cellules souches hématopoïétiques	0	11	6275.97	4.9	961.11	01/03/2008
+9052	27	M	27Z03Z	Autogreffes de cellules souches hématopoïétiques	0	43	21191.4	21.36	743.93	01/03/2008
+9053	27	C	27C07Z	Autres transplantations	7	170	58699.41	68.31	644.5	01/03/2008
+9054	27	C	27C05Z	Transplantations cardiaques	7	170	58320.39	68	643.24	01/03/2008
+9500	28	M	28Z01Z	Entraînements à la dialyse péritonéale automatisée, en séances	0	0	424.41	0	0	01/03/2008
+9501	28	M	28Z02Z	Entraînements à la dialyse péritonéale continue ambulatoire, en séances	0	0	397.7	0	0	01/03/2008
+9502	28	M	28Z03Z	Entraînements à l'hémodialyse, en séances	0	0	408.2	0	0	01/03/2008
+9503	28	M	28Z04Z	Hémodialyse, en séances	0	0	375.17	0	0	01/03/2008
+9506	28	M	28Z07Z	Chimiothérapie pour tumeur, en séances	0	0	408.85	0	0	01/03/2008
+9507	28	M	28Z08Z	Préparations à une irradiation externe avec une dosimétrie tridimensionnelle	0	0	832.98	0	0	01/03/2008
+9508	28	M	28Z09Z	Autres préparations à une irradiation externe	0	0	324.49	0	0	01/03/2008
+9509	28	M	28Z10Z	Curiethérapie, en séances	0	0	929.28	0	0	01/03/2008
+9510	28	M	28Z11Z	Techniques spéciales d'irradiation externe, en séances	0	0	536.84	0	0	01/03/2008
+9511	28	M	28Z12Z	Techniques complexes d'irradiation externe, en séances	0	0	180.4	0	0	01/03/2008
+9512	28	M	28Z13Z	Autres techniques d'irradiation externe, en séances	0	0	151.33	0	0	01/03/2008
+9513	28	M	28Z14Z	Transfusion, en séances	0	0	657.95	0	0	01/03/2008
+9514	28	M	28Z15Z	Caisson d'oxygénothérapie hyperbare, en séances	0	0	116.83	0	0	01/03/2008
+9515	28	M	28Z11Z	Techniques spéciales d'irradiation externe, en séances	0	0	1046.32	0	0	01/03/2008
+9520	28	M	28Z04Z	Hémodialyse, en séances	0	0	375.17	0	0	01/03/2008
+9521	28	M	28Z04Z	Hémodialyse, en séances	0	0	420.54	0	0	01/03/2008
+9522	28	M	28Z04Z	Hémodialyse, en séances	0	0	269.83	0	0	01/03/2008
+9523	28	M	28Z16Z	Aphérèses sanguines, en séances	0	0	850.95	0	0	01/03/2008
+9524	28	M	28Z11Z	Techniques spéciales d'irradiation externe, en séances	0	0	804	0	0	01/03/2008
+9900	90	C	90H02Z	Actes sans relation avec le diagnostic principal : séjours de 2 jours et plus	0	37	5577.39	15.05	277.87	01/03/2008
+9901	90	C	90H03Z	Actes sans relation avec le diagnostic principal : séjours de moins de 2 jours	0	0	613.78	0	0	01/03/2008

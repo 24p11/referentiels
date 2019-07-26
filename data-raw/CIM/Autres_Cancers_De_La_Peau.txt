@@ -1,0 +1,12 @@
+CODE	LIBELLE
+C44	autres tumeurs malignes de la peau
+C440	face cutanée de la lèvre
+C441	peau de la paupière, y compris le canthus
+C442	peau de l'oreille et du conduit auditif externe
+C443	peau de la face, parties autres et non précisées
+C444	peau du cuir chevelu et du cou
+C445	peau du tronc
+C446	peau du membre supérieur, y compris l'épaule
+C447	peau du membre inférieur, y compris la hanche
+C448	lésion à localisations contiguës de la peau
+C449	tumeur maligne de la peau, sans précision

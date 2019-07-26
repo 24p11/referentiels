@@ -1,0 +1,25 @@
+CODE	LIBELLE
+J40	bronchite, non précisée comme aiguë ou chronique
+J41	bronchite chronique simple et mucopurulente
+J410	bronchite chronique simple
+J411	bronchite chronique mucopurulente
+J418	bronchite chronique simple et mucopurulente
+J42	bronchite chronique, sans précision
+J43	emphysème
+J430	syndrome de MacLeod
+J431	emphysème panlobulaire
+J432	emphysème centro-lobulaire
+J438	autres emphysèmes
+J439	emphysème, sans précision
+J44	autres maladies pulmonaires obstructives chroniques
+J440	maladie pulmonaire obstructive chronique avec infection aiguë des voies respiratoires inférieures
+J441	maladie pulmonaire obstructive chronique avec épisodes aigus, sans précision
+J448	autres maladies pulmonaires obstructives chroniques précisées
+J449	maladie pulmonaire obstructive chronique, sans précision
+J45	asthme
+J450	asthme à prédominance allergique
+J451	asthme non allergique
+J458	asthme associé
+J459	asthme, sans précision
+J46	état de mal asthmatique
+J47	bronchectasie

@@ -1,0 +1,139 @@
+﻿ACTE	LIBELLE
+NEJA001	Nettoyage de l'articulation coxofémorale, par arthrotomie
+NEJC001	Nettoyage de l'articulation coxofémorale, par arthroscopie
+NFJA001	Nettoyage de l'articulation du genou, par arthrotomie
+NFJC001	Nettoyage de l'articulation du genou, par arthroscopie
+NEKA010	Remplacement de l'articulation coxofémorale par prothèse totale, avec renfort métallique acétabulaire et reconstruction fémorale par greffe
+NEKA012	Remplacement de l'articulation coxofémorale par prothèse totale, avec reconstruction acétabulaire ou fémorale par greffe
+NEKA014	Remplacement de l'articulation coxofémorale par prothèse totale, avec renfort métallique acétabulaire
+NEKA016	Remplacement de l'articulation coxofémorale par prothèse totale, avec ostéotomie de la diaphyse du fémur
+NEKA017	Remplacement de l'articulation coxofémorale par prothèse totale, avec abaissement de la tête du fémur dans le paléoacétabulum [paléocotyle]
+NEKA020	Remplacement de l'articulation coxofémorale par prothèse totale
+NEKA021	Remplacement de l'articulation coxofémorale par prothèse totale, avec abaissement de la tête du fémur dans le paléoacétabulum [paléocotyle] et ostéotomie de réaxation ou d'alignement du fémur
+NEMA018	Arthroplastie coxofémorale par cupule fémorale
+NEKA018	Remplacement de l'articulation coxofémorale par prothèse fémorale cervicocéphalique
+NEKA011	Remplacement de l'articulation coxofémorale par prothèse fémorale cervicocéphalique et cupule mobile
+NEKA001	Changement des pièces acétabulaire et fémorale d'une prothèse totale de hanche, avec reconstruction par greffes compactées sans ostéosynthèse
+NEKA002	Changement de la pièce acétabulaire ou fémorale d'une prothèse totale de hanche, avec reconstruction osseuse de l'acétabulum ou du fémur
+NEKA003	Changement des pièces acétabulaire et fémorale d'une prothèse totale de hanche, sans reconstruction osseuse
+NEKA004	Changement de l'insert acétabulaire d'une prothèse totale de hanche
+NEKA005	Changement de la pièce acétabulaire ou fémorale d'une prothèse totale de hanche, avec ostéosynthèse de l'acétabulum ou du fémur
+NEKA006	Changement des pièces acétabulaire et fémorale d'une prothèse totale de hanche, avec reconstruction et ostéosynthèse de l'acétabulum et/ou du fémur
+NEKA007	Changement de la pièce acétabulaire ou fémorale d'une prothèse totale de hanche, avec reconstruction osseuse par greffes compactées sans ostéosynthèse
+NEKA008	Changement des pièces acétabulaire et fémorale d'une prothèse totale de hanche, avec reconstruction ou ostéosynthèse de l'acétabulum ou du fémur
+NEKA009	Changement de la pièce acétabulaire ou fémorale d'une prothèse totale de hanche, sans reconstruction osseuse
+NEKA013	Remplacement de l'articulation coxofémorale par prothèse totale après arthrodèse coxofémorale
+NEKA015	Remplacement de l'articulation coxofémorale par prothèse totale après ostéosynthèse, ostéotomie ou prothèse cervicocéphalique du fémur
+NEKA019	Remplacement de l'articulation coxofémorale par prothèse totale après arthrodèse coxofémorale, avec renfort métallique acétabulaire
+NEKA022	Changement d'une prothèse fémorale cervicocéphalique pour une prothèse totale de hanche
+NELA001	Repose d'une prothèse totale de l'articulation coxofémorale, avec reconstruction osseuse
+NELA002	Repose d'une prothèse totale de l'articulation coxofémorale, sans reconstruction osseuse
+NELA003	Pose d'une pièce acétabulaire chez un patient porteur d'une prothèse fémorale cervicocéphalique homolatérale
+NEDA002	Stabilisation d'une prothèse totale de l'articulation coxofémorale par pose de butée supraacétabulaire en matériau inerte, abaissement du grand trochanter et/ou changement de la tête ou du col amovible
+NEGA001	Ablation d'une prothèse totale de hanche avec reconstruction osseuse de l'acétabulum et/ou du fémur
+NEGA004	Ablation de l'insert intermédiaire d'une prothèse de l'articulation coxofémorale, avec pose d'une pièce acétabulaire
+NFKA001	Changement d'une prothèse tricompartimentaire du genou, sans reconstruction osseuse
+NFKA002	Changement d'une prothèse tricompartimentaire du genou, avec reconstruction osseuse
+NFKA003	Changement d'une prothèse unicompartimentaire du genou
+NFKA004	Changement de l'insert d’une prothèse unicompartimentaire ou tricompartimentaire du genou
+NFKA005	Changement d'une prothèse unicompartimentaire du genou pour une prothèse tricompartimentaire
+NFKA006	Remplacement de l'articulation du genou par prothèse unicompartimentaire fémorotibiale ou fémoropatellaire
+NFKA007	Remplacement de l'articulation du genou par prothèse tricompartimentaire sur une déformation inférieure ou égale à 10° dans le plan frontal
+NFKA008	Remplacement de l'articulation du genou par prothèse tricompartimentaire sur une déformation supérieure à 10° dans le plan frontal
+NFKA009	Remplacement de l'articulation du genou par prothèse à charnière fixe ou rotatoire
+NFLA001	Repose d'une prothèse articulaire du genou, avec reconstruction osseuse
+NFLA002	Repose d'une prothèse articulaire du genou, sans reconstruction osseuse
+NFMA006	Reconstruction de l'articulation du genou par prothèse massive ou sur mesure, après perte de substance segmentaire
+KCFA002	Thyroïdectomie totale avec résection partielle de cartilage du larynx, par cervicotomie
+KCFA003	Thyroïdectomie totale avec résection non interruptrice de la trachée, par cervicotomie
+KCFA005	Thyroïdectomie totale, par cervicotomie
+KCFA006	Thyroïdectomie totale avec résection interruptrice et anastomose de la trachée, par cervicotomie
+KCFA007	Thyroïdectomie totale, par cervicothoracotomie
+KCFA009	Thyroïdectomie subtotale, par cervicothoracotomie
+KCFA010	Thyroïdectomie subtotale, par cervicotomie
+KCMA001	Totalisation secondaire de thyroïdectomie, par cervicotomie
+BFGA004	Extraction extracapsulaire du cristallin par phakoémulsification, avec implantation de cristallin artificiel dans la chambre postérieure de l'oeil
+ABCB001	Dérivation externe du liquide cérébrospinal ventriculaire ou subdural, par voie transcrânienne
+HMFC001	Cholécystectomie avec ablation transcystique de calcul de la voie biliaire principale, par coelioscopie
+HMFC002	Cholécystectomie avec ablation de calcul de la voie biliaire principale par cholédochotomie, par coelioscopie
+HMFC003	Cholécystectomie avec cholédochogastrostomie ou cholédochoduodénostomie, par coelioscopie
+HMFC004	Cholécystectomie, par coelioscopie
+HMFC005	Cholécystectomie avec cholédochojéjunostomie, par coelioscopie
+JQGA002	Accouchement par césarienne programmée, par laparotomie
+JQGA003	Accouchement par césarienne au cours du travail, par laparotomie
+JQGA004	Accouchement par césarienne en urgence en dehors du travail, par laparotomie
+JQGA005	Accouchement par césarienne, par abord vaginal
+LMMA012	Cure unilatérale d'une hernie de l'aine avec pose de prothèse, par abord inguinal
+LMMA017	Cure unilatérale d'une hernie de l'aine sans pose de prothèse sous anesthésie générale ou locorégionale, par abord inguinal
+LMMC002	Cure unilatérale d'une hernie de l'aine avec pose de prothèse, par vidéochirurgie
+QEDA001	Mastopexie unilatérale, avec pose d'implant prothétique
+QEDA002	Mastopexie unilatérale, sans pose d'implant prothétique
+QEDA003	Mastopexie bilatérale, avec pose d'implant prothétique
+QEDA004	Mastopexie bilatérale, sans pose d'implant prothétique
+QEFA001	Tumorectomie du sein avec curage lymphonodal axillaire
+QEFA002	Exérèse bilatérale de gynécomastie
+QEFA003	Mastectomie totale avec curages lymphonodaux axillaire et parasternal [mammaire interne]
+QEFA004	Tumorectomie du sein
+QEFA005	Mastectomie totale avec exérèse des pectoraux et curage lymphonodal axillaire
+QEFA006	Exérèse de tissu mammaire ectopique ou de glande mammaire aberrante [sein surnuméraire]
+QEFA007	Mastectomie souscutanée avec exérèse de la plaque aréolomamelonnaire
+QEFA008	Mastectomie partielle avec curage lymphonodal axillaire
+QEFA010	Mastectomie totale avec curages lymphonodaux axillaire et supraclaviculaire
+QEFA011	Exérèse unilatérale de gynécomastie
+QEFA012	Mastectomie totale élargie en surface, avec autogreffe cutanée
+QEFA013	Mastectomie totale élargie en surface, avec lambeau pédiculé de muscle grand dorsal ou lambeau parascapulaire
+QEFA015	Mastectomie totale élargie en surface, avec lambeau libre musculocutané
+QEFA016	Exérèse de conduit lactifère [Exérèse de canal galactophore] [Pyramidectomie mammaire]
+QEFA017	Mastectomie partielle
+QEFA019	Mastectomie totale
+QEFA020	Mastectomie totale avec conservation des pectoraux et curage lymphonodal axillaire
+QEGA001	Ablation unilatérale d'implant prothétique mammaire, sans capsulectomie
+QEGA002	Ablation bilatérale d'implant prothétique mammaire, sans capsulectomie
+QEGA003	Ablation unilatérale d'implant prothétique mammaire, avec capsulectomie
+QEGA004	Ablation bilatérale d'implant prothétique mammaire, avec capsulectomie
+QEJA001	Évacuation de collection de la glande mammaire, par abord direct
+QEJB001	Évacuation de collection de la glande mammaire, par voie transcutanée sans guidage
+QEJH001	Évacuation de collection de la glande mammaire, par voie transcutanée avec guidage échographique et/ou radiologique
+QEJH002	Drainage de collection de la glande mammaire, par voie transcutanée avec guidage échographique et/ou radiologique
+QEKA001	Changement d'implant prothétique mammaire, avec capsulectomie
+QEKA002	Changement d'implant prothétique mammaire, sans capsulectomie
+QEMA001	Reconstruction du sein par lambeau unipédiculé de muscle droit de l'abdomen
+QEMA002	Reconstruction du sein par lambeau musculocutané libre de muscle droit de l'abdomen, avec anastomoses vasculaires
+QEMA003	Mastoplastie unilatérale d'augmentation, avec pose d'implant prothétique
+QEMA004	Mastoplastie bilatérale d'augmentation, avec pose d'implant prothétique
+QEMA005	Mastoplastie unilatérale de réduction, avec reconstruction de la plaque aréolomamelonnaire par lambeau local et autogreffe cutanée
+QEMA006	Reconstruction du sein par pose d'implant prothétique
+QEMA008	Reconstruction du sein par lambeau musculocutané pédiculé autre que du muscle droit de l'abdomen
+QEMA011	Reconstruction du sein par dédoublement du sein restant
+QEMA012	Mastoplastie unilatérale de réduction
+QEMA013	Mastoplastie bilatérale de réduction
+QEMA014	Reconstruction du sein par lambeau bipédiculé de muscle droit de l'abdomen
+QEPA001	Capsulotomie mammaire avec changement de loge de l'implant prothétique
+ACFA001	Exérèse de tumeur de l'étage antérieur de la base du crâne, par craniotomie frontale unilatérale
+ACFA002	Exérèse de tumeur extraparenchymateuse de la convexité du cerveau sans atteinte de sinus veineux dural, par craniotomie
+ACFA003	Exérèse de tumeur de la pointe du rocher, par abord translabyrinthique
+ACFA004	Exérèse de tumeur du clivus, par craniotomie
+ACFA005	Exérèse de tumeur de l'angle pontocérébelleux et/ou du méat acoustique interne [conduit auditif interne], par abord rétrolabyrinthique présigmoïdien
+ACFA006	Exérèse de tumeur de la pointe du rocher sans déroutement du nerf facial, par abord transpétreux
+ACFA007	Exérèse de tumeur de l'angle pontocérébelleux et/ou du méat acoustique interne [conduit auditif interne], par abord translabyrinthique
+ACFA008	Exérèse de tumeur extraparenchymateuse de la convexité du cervelet sans atteinte de sinus veineux dural, par craniotomie
+ACFA009	Exérèse de tumeur de la pointe du rocher, par abord suprapétreux
+ACFA010	Exérèse de tumeur de l'angle pontocérébelleux et/ou du méat acoustique interne [conduit auditif interne], par abord infraoccipital rétrosigmoïdien
+ACFA011	Exérèse de tumeur de l'étage moyen de la base du crâne, par craniotomie
+ACFA012	Exérèse de tumeur de l'angle pontocérébelleux et/ou du méat acoustique interne [conduit auditif interne], par abord suprapétreux
+ACFA013	Exérèse de tumeur du tiers interne de l'étage moyen de la base du crâne intéressant l'angle sphénoorbitaire, par craniotomie
+ACFA014	Exérèse de tumeur de l'angle pontocérébelleux et/ou du méat acoustique interne [conduit auditif interne], par deux abords
+ACFA015	Exérèse de tumeur de l'étage antérieur de la base du crâne, par craniotomie frontale bilatérale
+ACFA016	Exérèse de tumeur de la région pétroclivale sans déroutement du nerf facial, par abord transpétreux
+ACFA018	Exérèse de tumeur extraparenchymateuse de la convexité du cervelet envahissant un sinus veineux dural, par craniotomie
+ACFA019	Exérèse de tumeur du foramen magnum avec déroutement de l'artère vertébrale, par craniotomie
+ACFA020	Exérèse de tumeur du clivus, par abord transoral ou nasosphénoïdal
+ACFA022	Exérèse de tumeur de la région optochiasmatique et/ou hypothalamique, par craniotomie
+ACFA023	Exérèse de tumeur du foramen jugulaire, par craniotomie
+ACFA024	Exérèse de tumeur du foramen magnum sans déroutement de l'artère vertébrale, par craniotomie
+ACFA025	Exérèse de tumeur de la région pétroclivale avec déroutement du nerf facial, par abord transpétreux
+ACFA026	Exérèse de tumeur de l'étage antérieur de la base du crâne, par craniotomie frontale bilatérale et abord ethmoïdal
+ACFA027	Exérèse de tumeur de l'angle pontocérébelleux et/ou du méat acoustique interne [conduit auditif interne], par abord transotique
+ACFA028	Exérèse de tumeur extraparenchymateuse de la convexité du cerveau envahissant un sinus veineux dural, par craniotomie
+ACFA029	Exérèse de tumeur de la pointe du rocher avec déroutement du nerf facial, par abord transpétreux
+ABSA012	Fermeture d'une brèche ostéodurale ou d'une méningocèle de l'étage antérieur de la base du crâne, par endoscopie

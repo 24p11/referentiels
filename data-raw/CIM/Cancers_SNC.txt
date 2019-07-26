@@ -1,0 +1,33 @@
+CODE	LIBELLE
+C700	méninges cérébrales
+C701	méninges rachidiennes
+C709	méninges, sans précision
+C710	cerveau, sauf lobes et ventricules
+C711	lobe frontal
+C712	lobe temporal
+C713	lobe pariétal
+C714	lobe occipital
+C715	ventricule cérébral
+C716	cervelet
+C717	tronc cérébral
+C718	lésion à localisations contiguës de l'encéphale
+C719	encéphale, sans précision
+C720	moelle épinière
+C721	queue de cheval
+C722	nerf olfactif
+C723	nerf optique
+C724	nerf auditif
+C725	nerfs crâniens, autres et non précisés
+C728	lésion à localisations contiguës de l'encéphale et d'autres parties du système nerveux central
+C729	système nerveux central, sans précision
+D420	méninges cérébrales
+D421	méninges rachidiennes
+D429	méninges, sans précision
+D430	encéphale, supratentoriel
+D431	encéphale, infratentoriel
+D432	encéphale, sans précision
+D433	nerfs crâniens
+D434	moelle épinière
+D437	autres parties du système nerveux central
+D439	système nerveux central, sans précision
+D482	nerfs périphériques et du système nerveux autonome

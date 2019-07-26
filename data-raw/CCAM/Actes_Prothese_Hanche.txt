@@ -1,0 +1,30 @@
+ACTE	LIBELLE
+NEKA010	Remplacement de l'articulation coxofémorale par prothèse totale, avec renfort métallique acétabulaire et reconstruction fémorale par greffe
+NEKA012	Remplacement de l'articulation coxofémorale par prothèse totale, avec reconstruction acétabulaire ou fémorale par greffe
+NEKA014	Remplacement de l'articulation coxofémorale par prothèse totale, avec renfort métallique acétabulaire
+NEKA016	Remplacement de l'articulation coxofémorale par prothèse totale, avec ostéotomie de la diaphyse du fémur
+NEKA017	Remplacement de l'articulation coxofémorale par prothèse totale, avec abaissement de la tête du fémur dans le paléoacétabulum [paléocotyle]
+NEKA020	Remplacement de l'articulation coxofémorale par prothèse totale
+NEKA021	Remplacement de l'articulation coxofémorale par prothèse totale, avec abaissement de la tête du fémur dans le paléoacétabulum [paléocotyle] et ostéotomie de réaxation ou d'alignement du fémur
+NEMA018	Arthroplastie coxofémorale par cupule fémorale
+NEKA018	Remplacement de l'articulation coxofémorale par prothèse fémorale cervicocéphalique
+NEKA011	Remplacement de l'articulation coxofémorale par prothèse fémorale cervicocéphalique et cupule mobile
+NEKA001	Changement des pièces acétabulaire et fémorale d'une prothèse totale de hanche, avec reconstruction par greffes compactées sans ostéosynthèse
+NEKA002	Changement de la pièce acétabulaire ou fémorale d'une prothèse totale de hanche, avec reconstruction osseuse de l'acétabulum ou du fémur
+NEKA003	Changement des pièces acétabulaire et fémorale d'une prothèse totale de hanche, sans reconstruction osseuse
+NEKA004	Changement de l'insert acétabulaire d'une prothèse totale de hanche
+NEKA005	Changement de la pièce acétabulaire ou fémorale d'une prothèse totale de hanche, avec ostéosynthèse de l'acétabulum ou du fémur
+NEKA006	Changement des pièces acétabulaire et fémorale d'une prothèse totale de hanche, avec reconstruction et ostéosynthèse de l'acétabulum et/ou du fémur
+NEKA007	Changement de la pièce acétabulaire ou fémorale d'une prothèse totale de hanche, avec reconstruction osseuse par greffes compactées sans ostéosynthèse
+NEKA008	Changement des pièces acétabulaire et fémorale d'une prothèse totale de hanche, avec reconstruction ou ostéosynthèse de l'acétabulum ou du fémur
+NEKA009	Changement de la pièce acétabulaire ou fémorale d'une prothèse totale de hanche, sans reconstruction osseuse
+NEKA013	Remplacement de l'articulation coxofémorale par prothèse totale après arthrodèse coxofémorale
+NEKA015	Remplacement de l'articulation coxofémorale par prothèse totale après ostéosynthèse, ostéotomie ou prothèse cervicocéphalique du fémur
+NEKA019	Remplacement de l'articulation coxofémorale par prothèse totale après arthrodèse coxofémorale, avec renfort métallique acétabulaire
+NEKA022	Changement d'une prothèse fémorale cervicocéphalique pour une prothèse totale de hanche
+NELA001	Repose d'une prothèse totale de l'articulation coxofémorale, avec reconstruction osseuse
+NELA002	Repose d'une prothèse totale de l'articulation coxofémorale, sans reconstruction osseuse
+NELA003	Pose d'une pièce acétabulaire chez un patient porteur d'une prothèse fémorale cervicocéphalique homolatérale
+NEDA002	Stabilisation d'une prothèse totale de l'articulation coxofémorale par pose de butée supraacétabulaire en matériau inerte, abaissement du grand trochanter et/ou changement de la tête ou du col amovible
+NEGA001	Ablation d'une prothèse totale de hanche avec reconstruction osseuse de l'acétabulum et/ou du fémur
+NEGA004	Ablation de l'insert intermédiaire d'une prothèse de l'articulation coxofémorale, avec pose d'une pièce acétabulaire

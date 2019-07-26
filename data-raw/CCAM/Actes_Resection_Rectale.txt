@@ -1,0 +1,12 @@
+ACTE	LIBELLE
+HJFC031	Résection rectosigmoïdienne dépassant le cul-de-sac de Douglas, sans rétablissement de la continuité, par cœlioscopie
+HJFA011	Résection rectosigmoïdienne dépassant le cul-de-sac de Douglas, sans rétablissement de la continuité, par laparotomie
+HJFA002	Résection rectosigmoïdienne avec anastomose colorectale infrapéritonéale, par laparotomie
+HJFA004	Résection rectosigmoïdienne avec anastomose colorectale infrapéritonéale, par cœlioscopie ou par laparotomie avec préparation par cœlioscopie
+HJFA006	Résection rectosigmoïdienne par laparotomie, avec anastomose coloanale par voie anale ou par abord transsphinctérien
+HJFA017	Résection rectosigmoïdienne par cœlioscopie ou par laparotomie avec préparation par cœlioscopie, avec anastomose coloanale par voie anale
+HJFA001	Résection rectocolique avec abaissement colique rétrorectal par laparotomie, avec anastomose colorectale par voie anale
+HJFA014	Exérèse de moignon rectal résiduel, par abord périnéal
+HJFC023	Proctectomie secondaire par cœlioscopie avec anastomose iléoanale par voie transanale, après colectomie totale initiale
+HJFA012	Proctectomie secondaire par laparotomie avec anastomose iléoanale par voie transanale, après colectomie totale initiale
+

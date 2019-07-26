@@ -1,0 +1,16 @@
+ACTE	LIBELLE
+HNFC027	Nécrosectomie pancréatique, par cœlioscopie
+HNFA012	Nécrosectomie pancréatique, par laparotomie
+HNFC001	Exérèse de tumeur du pancréas, par cœlioscopie
+HNFA005	Exérèse de tumeur du pancréas, par laparotomie
+HNFC028	Pancréatectomie gauche avec conservation de la rate, par cœlioscopie
+HNFA008	Pancréatectomie gauche avec conservation de la rate, par laparotomie
+HNFA002	Pancréatectomie gauche avec conservation de la rate, avec anastomose pancréatojéjunale ou pancréaticojéjunale, par laparotomie
+HNFC002	Pancréatectomie gauche avec splénectomie [Splénopancréatectomie gauche], par cœlioscopie
+HNFA013	Pancréatectomie gauche avec splénectomie [Splénopancréatectomie gauche], par laparotomie
+HNFA010	Pancréatectomie gauche avec splénectomie [Splénopancréatectomie gauche] avec anastomose pancréatojéjunale ou pancréaticojéjunale, par laparotomie
+HNFA001	Isthmectomie pancréatique avec rétablissement de continuité du conduit pancréatique, par laparotomie
+HNFA011	Pancréatectomie totale ou subtotale avec conservation du duodénum, sans splénectomie, par laparotomie
+HNFA006	Pancréatectomie totale ou subtotale avec conservation du duodénum et splénectomie, par laparotomie
+HNFA007	Duodénopancréatectomie céphalique, par laparotomie
+HNFA004	Duodénopancréatectomie totale avec splénectomie [Splénopancréatectomie totale], par laparotomie

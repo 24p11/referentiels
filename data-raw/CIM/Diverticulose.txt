@@ -1,0 +1,10 @@
+CODE	LIBELLE
+K57	diverticulose de l'intestin
+K570	diverticulose de l'intestin grêle, avec perforation et abcès
+K571	diverticulose de l'intestin grêle, sans perforation ni abcès
+K572	diverticulose du côlon, avec perforation et abcès
+K573	diverticulose du côlon, sans perforation ni abcès
+K574	diverticulose du côlon et de l'intestin grêle, avec perforation et abcès
+K575	diverticulose du côlon et de l'intestin grêle, sans perforation ni abcès
+K578	diverticulose de l'intestin, siège non précisé, avec perforation et abcès
+K579	diverticulose du côlon et de l'intestin, siège non précisé, sans perforation ni abcès

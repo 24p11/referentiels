@@ -1,0 +1,3 @@
+﻿ACTE	LIBELLE
+FEJF002	Séance non programmée de soustraction thérapeutique de plasma avec perfusion de produit de substitution [échange plasmatique] pour affection aigüe
+FEJF009	Séance d'ultrafiltration plasmatique

@@ -1,0 +1,43 @@
+CODE	LIBELLE
+A15	Tuberculose de l"'"appareil respiratoire, avec confirmation bactériologique et histologique
+A150	Tuberculose pulmonaire, confirmée par examen microscopique de l"'"expectoration, avec ou sans culture
+A151	Tuberculose pulmonaire, confirmée par culture seulement
+A152	Tuberculose pulmonaire, avec confirmation histologique
+A153	Tuberculose pulmonaire, avec confirmation, moyen non précisé
+A154	Tuberculose des ganglions intrathoraciques, avec confirmation bactériologique et histologique
+A155	Tuberculose du larynx, de la trachée et des bronches, avec confirmation bactériologique et histologique
+A156	Pleurésie tuberculeuse, avec confirmation bactériologique et histologique
+A157	Primo-infection tuberculeuse de l"'"appareil respiratoire, avec confirmation bactériologique et histologique
+A158	Autres formes de tuberculose de l"'"appareil respiratoire, avec confirmation bactériologique et histologique
+A159	Tuberculose de l"'"appareil respiratoire sans précision, avec confirmation bactériologique et histologique
+A16	Tuberculose de l"'"appareil respiratoire, sans confirmation bactériologique ou histologique
+A160	Tuberculose pulmonaire, avec examens bactériologique et histologique négatifs
+A161	Tuberculose pulmonaire, sans examen bactériologique et histologique
+A162	Tuberculose pulmonaire, (sans mention de confirmation bactériologique ou histologique)
+A163	Tuberculose des ganglions intrathoraciques, (sans mention de confirmation bactériologique ou histologique)
+A164	Tuberculose du larynx, de la trachée et des bronches, (sans mention de confirmation bactériologique ou histologique)
+A165	Pleurésie tuberculeuse, (sans mention de confirmation bactériologique ou histologique)
+A167	Primo-infection tuberculeuse de l"'"appareil respiratoire, (sans mention de confirmation bactériologique ou histologique)
+A168	Autres formes de tuberculose de l"'"appareil respiratoire, (sans mention de confirmation bactériologique ou histologique)
+A169	Tuberculose de l"'"appareil respiratoire sans précision, (sans mention de confirmation bactériologique ou histologique)
+A17	Tuberculose du système nerveux
+A170	Méningite tuberculeuse (G01*)
+A171	Tuberculome méningé (G07*)
+A178	Autres formes de tuberculose du système nerveux
+A179	Tuberculose du système nerveux, sans précision (G99.8*)
+A18	Tuberculose d"'"autres organes
+A180	Tuberculose des os et des articulations
+A181	Tuberculose de l"'"appareil génito-urinaire
+A182	Adénopathie tuberculeuse périphérique
+A183	Tuberculose de l"'"intestin, du péritoine et des ganglions mésentériques
+A184	Tuberculose de la peau et du tissu cellulaire sous-cutané
+A185	Tuberculose de l"'"oeil
+A186	Tuberculose de l"'"oreille
+A187	Tuberculose des surrénales (E35.1*)
+A188	Tuberculose d"'"autres organes précisés
+A19	Tuberculose miliaire
+A190	Tuberculose miliaire aiguë, localisation unique et précisée
+A191	Tuberculose miliaire aiguë, sièges multiples
+A192	Tuberculose miliaire aiguë, sans précision
+A198	Autres tuberculoses miliaires
+A199	Tuberculose miliaire, sans précision

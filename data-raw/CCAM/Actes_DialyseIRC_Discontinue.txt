@@ -1,0 +1,5 @@
+CODE	LIBELLE
+JVJF003	Séance d'épuration extrarénale par hémoperfusion
+JVJF004	Séance d'épuration extrarénale par hémodialyse pour insuffisance rénale chronique
+JVJF008	Séance d'épuration extrarénale par hémodiafiltration, hémofiltration ou biofiltration sans acétate pour insuffisance rénale chronique
+

@@ -1,0 +1,9 @@
+CODE	LIBELLE
+B45	Cryptococcose
+B450	Cryptococcose pulmonaire
+B451	Cryptococcose cérébrale
+B452	Cryptococcose cutanée
+B453	Cryptococcose osseuse
+B457	Cryptococcose disséminée
+B458	Autres formes de cryptococcose [Cryptococcose septicémique]
+B459	Cryptococcose, sans précision

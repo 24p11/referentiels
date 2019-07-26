@@ -1,0 +1,5 @@
+CODE	LIBELLE
+C530	Tumeur maligne de l’endocol
+C531	Tumeur maligne de l’exocol
+C539	Tumeur maligne du col de l’uterus, sans précision
+

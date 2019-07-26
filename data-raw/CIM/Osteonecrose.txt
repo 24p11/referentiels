@@ -1,0 +1,12 @@
+CODE	LIBELLE
+M879	Ostéonécrose, sans précision
+M8790	Ostéonécrose, sans précision
+M8791	Ostéonécrose, sans précision
+M8792	Ostéonécrose, sans précision
+M8793	Ostéonécrose, sans précision
+M8794	Ostéonécrose, sans précision
+M8795	Ostéonécrose, sans précision
+M8796	Ostéonécrose, sans précision
+M8797	Ostéonécrose, sans précision
+M8798	Ostéonécrose, sans précision
+M8799	Ostéonécrose, sans précision

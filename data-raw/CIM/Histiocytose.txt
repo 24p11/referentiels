@@ -1,0 +1,7 @@
+DIAG	LIBELLE
+C960	maladie de Letterer-Siwe
+C961	histiocytose maligne
+C965	histiocytose à cellules de Langerhans multifocale et unisystémique
+C966	Histiocytose à cellules de Langerhans unifocale
+D760	histiocytose des cellules de Langerhans, non classée ailleurs
+D763	autres syndromes histiocytaires

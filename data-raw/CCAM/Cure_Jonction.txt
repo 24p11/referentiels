@@ -1,0 +1,10 @@
+ACTE	LIBELLE
+JBFC001	Résection-anastomose du bassinet et de la jonction pyélo-urétérale, par cœlioscopie ou par rétropéritonéoscopie
+JBFA002	Résection-anastomose du bassinet et de la jonction pyélo-urétérale, par abord direct
+JBMA001	Plastie du bassinet et de la jonction pyélo-urétérale, par abord direct
+JBMC001	Plastie du bassinet et de la jonction pyélo-urétérale, par cœlioscopie ou par rétropéritonéoscopie
+JCFA002	Urétérectomie segmentaire lombo-iliaque avec rétablissement de la continuité de l'uretère, par abord direct
+JCFA003	Urétérectomie segmentaire pelvienne avec rétablissement de la continuité de l'uretère, par abord direct
+JCFA009	Urétérectomie segmentaire pelvienne avec réimplantation urétérovésicale, par abord direct
+JCFA008	Urétérectomie segmentaire pelvienne avec réimplantation urétérovésicale et montage antireflux, par abord direct
+

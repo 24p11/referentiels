@@ -1,0 +1,16 @@
+CODE	LIBELLE
+C500	mamelon et aréole
+C501	partie centrale du sein
+C502	quadrant supéro-interne du sein
+C503	quadrant inféro-interne du sein
+C504	quadrant supéro-externe du sein
+C505	quadrant inféro-externe du sein
+C506	prolongement axillaire du sein
+C508	lésion à localisations contiguës du sein
+C509	sein, sans précision
+D050	carcinome in situ lobulaire
+D051	carcinome in situ intracanalaire
+D057	autres carcinomes in situ du sein
+D059	carcinome in situ du sein, sans précision
+D486	sein
+

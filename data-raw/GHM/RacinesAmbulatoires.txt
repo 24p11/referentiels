@@ -1,0 +1,8 @@
+GHM	Libelle
+03K02	Affections de la bouche et des dents avec certaines extractions, réparations et prothèses dentaires
+05K14	Mise en place de certains accès vasculaires pour des affections de la CMD 05, séjours de moins de 2 jours
+11K07	Séjours de la CMD 11 comprenant la mise en place de certains accès vasculaires, en ambulatoire
+12K06	Séjours comprenant une biopsie prostatique, en ambulatoire
+09Z02	Chirurgie esthétique
+14Z08	Interruptions volontaires de grossesse : séjours de moins de 3 jours
+23Z03	Interventions de confort et autres interventions non prises en charge par l'assurance maladie obligatoire 

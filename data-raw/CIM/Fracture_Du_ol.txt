@@ -1,0 +1,11 @@
+CODE	LIBELLE
+S720	fracture du col du fémur
+S721	fracture du trochanter
+S722	fracture sous-trochantérienne
+S7200	fracture du col du fémur | fracture fermée
+S7210	fracture du trochanter | fracture fermée
+S7220	fracture sous-trochantérienne | fracture fermée
+S7201	fracture du col du fémur | fracture ouverte
+S7211	fracture du trochanter | fracture ouverte
+S7221	fracture sous-trochantérienne | fracture ouverte
+

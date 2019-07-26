@@ -1,0 +1,5 @@
+﻿ACTE	LIBELLE
+NEJA001	Nettoyage de l'articulation coxofémorale, par arthrotomie 
+NEJC001 Nettoyage de l'articulation coxofémorale, par arthroscopie 
+NFJA001 Nettoyage de l'articulation du genou, par arthrotomie
+NFJC001 Nettoyage de l'articulation du genou, par arthroscopie

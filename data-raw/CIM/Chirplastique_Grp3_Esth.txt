@@ -1,0 +1,11 @@
+DIAG	LIBELLE
+E65	Adiposité localisée
+E881	Lipodystrophie, non classée ailleurs
+H023	Blépharochalasis
+J342	Déviation de la cloison (nasale)
+M950	Déformation du nez
+N642	Atrophie mammaire
+Q175	Oreilles proéminentes
+Q523	Imperforation de l'hymen
+Z411	Autres opérations plastiques pour raisons esthétiques
+Z429	Soins de contrôle comprenant une opération plastique, sans précision

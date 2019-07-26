@@ -1,0 +1,87 @@
+CODE	LIBELLE
+C000	Tumeur maligne de la lèvre supérieure, (bord libre)
+C001	Tumeur maligne de la lèvre inférieure, (bord libre)
+C002	Tumeur maligne de la lèvre, sans précision, bord libre
+C003	Tumeur maligne de la lèvre supérieure, face interne
+C004	Tumeur maligne de la lèvre inférieure, face interne
+C005	Tumeur maligne de la lèvre, sans précision, face interne
+C006	Tumeur maligne de la commissure des lèvres
+C008	Tumeur maligne à localisations contiguës de la lèvre
+C009	Tumeur maligne de la lèvre, sans précision
+C01	Tumeur maligne de la base de la langue
+C020	Tumeur maligne de la face dorsale de la langue
+C021	Tumeur maligne de la pointe et du bord latéral de la langue
+C022	Tumeur maligne de la face antérieure de la langue
+C023	Tumeur maligne des deux tiers antérieurs de la langue, sans précision
+C024	Tumeur maligne d'une amygdale linguale
+C028	Tumeur maligne à localisations contiguës de la langue
+C029	Tumeur maligne de la langue, sans précision
+C030	Tumeur maligne de la gencive supérieure
+C031	Tumeur maligne de la gencive inférieure
+C039	Tumeur maligne de la gencive, sans précision
+C040	Tumeur maligne du plancher antérieur de la bouche
+C041	Tumeur maligne du plancher latéral de la bouche
+C048	Tumeur maligne à localisations contiguës du plancher de la bouche
+C049	Tumeur maligne du plancher de la bouche, sans précision
+C050	Tumeur maligne de la voûte palatine
+C051	Tumeur maligne du voile du palais
+C052	Tumeur maligne de la luette
+C058	Tumeur maligne à localisations contiguës du palais
+C059	Tumeur maligne du palais, sans précision
+C060	Tumeur maligne de la muqueuse de la joue
+C061	Tumeur maligne du vestibule de la bouche
+C062	Tumeur maligne de la région rétromolaire
+C068	Tumeur maligne à localisations contiguës de la bouche, parties autres et non précisées
+C069	Tumeur maligne de la bouche, sans précision
+C07	Tumeur maligne de la glande parotide
+C080	Tumeur maligne de la glande sous-maxillaire
+C081	Tumeur maligne de la glande sublinguale
+C088	Tumeur maligne à localisations contiguës des glandes salivaires principales
+C089	Tumeur maligne de la glande salivaire (principale), sans précision
+C090	Tumeur maligne de la fosse amygdalienne
+C091	Tumeur maligne du pilier de l'amygdale (antérieur) (postérieur)
+C098	Tumeur maligne à localisations contiguës de l'amygdale
+C099	Tumeur maligne de l'amygdale, sans précision
+C100	Tumeur maligne du sillon glosso-épiglottique
+C101	Tumeur maligne de la face antérieure de l'épiglotte
+C102	Tumeur maligne de la paroi latérale de l'oropharynx
+C103	Tumeur maligne de la paroi postérieure de l'oropharynx
+C104	Tumeur maligne de la fente branchiale
+C108	Tumeur maligne à localisations contiguës de l'oropharynx
+C109	Tumeur maligne de l'oropharynx, sans précision
+C110	Tumeur maligne de la paroi supérieure du rhinopharynx
+C111	Tumeur maligne de la paroi postérieure du rhinopharynx
+C112	Tumeur maligne de la paroi latérale du rhinopharynx
+C113	Tumeur maligne de la paroi antérieure du rhinopharynx
+C118	Tumeur maligne à localisations contiguës de rhinopharynx
+C119	Tumeur maligne du rhinopharynx, sans précision
+C12	Tumeur maligne du sinus piriforme
+C130	Tumeur maligne de la région rétro-cricoïdienne
+C131	Tumeur maligne du repli ary-épiglottique, (versant hypopharyngé)
+C132	Tumeur maligne de la paroi postérieure de l'hypopharynx
+C138	Tumeur maligne à localisations contiguës de l'hypopharynx
+C139	Tumeur maligne de l'hypopharynx, sans précision
+C140	Tumeur maligne du pharynx, sans précision
+C142	Tumeur maligne de l'anneau de Waldeyer
+C148	Tumeur maligne à localisations contiguës de la lèvre, de la cavité buccale et du pharynx
+C300	Tumeur maligne des fosses nasales
+C301	Tumeur maligne de l'oreille moyenne
+C310	Tumeur maligne du sinus maxillaire
+C311	Tumeur maligne du sinus ethmoïdal
+C312	Tumeur maligne du sinus frontal
+C313	Tumeur maligne du sinus sphénoïdal
+C318	Tumeur maligne à localisations contiguës des sinus de la face
+C319	Tumeur maligne des sinus de la face, sans précision
+C320	Tumeur maligne de la glotte
+C321	Tumeur maligne de l'étage sus-glottique
+C322	Tumeur maligne de l'étage sous-glottique
+C323	Tumeur maligne du cartilage laryngé
+C328	Tumeur maligne à localisations contiguës du larynx
+C329	Tumeur maligne du larynx, sans précision
+C462	Sarcome de Kaposi du palais
+C4670	Sarcome de Kaposi de la sphère O.R.L.
+C770	Tumeur maligne secondaire et non précisée des ganglions lymphatiques de la tête, de la face et du cou
+D000	Carcinome in situ de la lèvre, de la cavité buccale et du pharynx
+D020	Carcinome in situ du larynx
+D370	Tumeur à évolution imprévisible ou inconnue de la lèvre, de la cavité buccale et du pharynx
+D380	Tumeur à évolution imprévisible ou inconnue du larynx

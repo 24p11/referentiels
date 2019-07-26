@@ -1,0 +1,6 @@
+CODE	LIBELLE
+C920	leucémie myéloïde aiguë
+C924	leucémie promyélocytaire aiguë
+C925	leucémie myélomonocytaire aiguë
+C926	Leucémie myéloïde aigüe avec anomalies 11q23
+C928	Leucémie myéloïde aigüe avec dysplasie de plusieurs lignées cellulaires

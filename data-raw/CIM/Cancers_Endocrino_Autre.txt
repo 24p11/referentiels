@@ -1,0 +1,21 @@
+CODE	LIBELLE
+C740	cortex de la surrénale
+C741	médullosurrénale
+C749	surrénale, sans précision
+C750	parathyroïde
+C751	hypophyse
+C752	tractus cranio-pharyngien
+C753	épiphyse
+C754	corpuscule carotidien
+C755	glomus aortique et autres paraganglions
+C758	atteinte pluriglandulaire, sans précision
+C759	glande endocrine, sans précision
+D441	surrénale
+D442	parathyroïde
+D443	hypophyse
+D444	canal cranio-pharyngien
+D445	épiphyse
+D446	corpuscule carotidien
+D447	glomus aortique et autres paraganglions
+D448	atteinte pluriglandulaire
+D449	glande endocrine, sans précision

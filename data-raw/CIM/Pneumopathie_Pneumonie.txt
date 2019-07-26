@@ -1,0 +1,36 @@
+CODE	LIBELLE
+J12	Pneumopathies virales, non classées ailleurs
+J120	Pneumopathie adénovirale
+J121	Pneumopathie due au virus respiratoire syncytial [VRS]
+J122	Pneumopathie due au virus paragrippaux
+J128	Autres pneumopathies virales
+J129	Pneumopathie virale, sans précision
+J123	Pneumonie due à métapneumovirus humain
+J13	Pneumonie due à Streptococcus pneumoniae
+J14	Pneumopathie due à Haemophilus influenzae
+J15	Pneumopathies bactériennes, non classées ailleurs
+J150	Pneumopathie due à Klebsiella pneumoniae
+J151	Pneumopathie due à Pseudomonas
+J152	Pneumopathie due à des staphylocoques
+J153	Pneumopathie due à des streptocoques, groupe B
+J154	Pneumopathie due à d'autres streptocoques
+J155	Pneumopathie due à Escherichia coli
+J156	Pneumopathie due à d'autres bactéries à Gram négatif
+J157	Pneumopathie due à Mycoplasma pneumoniae
+J158	Autres pneumopathies bactériennes
+J159	Pneumopathie bactérienne, sans précision
+J16	Pneumopathie due à d'autres micro-organismes infectieux, non classée ailleurs
+J160	Pneumopathie due à Chlamydia
+J168	Pneumopathie due à d'autres micro-organismes infectieux
+J17	Pneumopathie au cours de maladies classées ailleurs
+J170	Pneumopathie au cours de maladies bactériennes classées ailleurs
+J171	Pneumopathie au cours de maladies virales classées ailleurs
+J172	Pneumopathie au cours de mycoses
+J173	Pneumopathie au cours de maladies parasitaires
+J178	Pneumopathie au cours d'autres maladies classées ailleurs
+J18	Pneumopathie à micro-organisme non précisé
+J180	Bronchopneumopathie, sans précision
+J181	Pneumopathie lobaire, sans précision
+J182	Pneumopathie hypostatique, sans précision
+J188	Autres pneumopathies, micro-organisme non précisé
+J189	Pneumopathie, sans précision

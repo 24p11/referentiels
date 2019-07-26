@@ -1,0 +1,38 @@
+CODE	LIBELLE
+L400	Psoriasis vulgaris
+L401	Psoriasis pustulaire généralisé
+L402	Acrodermatite continue de Hallopeau
+L403	Pustulose palmaire et plantaire
+L404	Psoriasis en goutte
+L405	Psoriasis arthropathique
+L408	Autres psoriasis
+L409	Psoriasis, sans précision
+M070	Arthropathie psoriasique distale interphalangienne
+M0700	Arthropathie psoriasique distale interphalangienne - Sièges multiples
+M0704	Arthropathie psoriasique distale interphalangienne - Articulations de la main
+M0707	Arthropathie psoriasique distale interphalangienne - Articulations de la cheville et du pied
+M0709	Arthropathie psoriasique distale interphalangienne - Siège non précisé
+M072	Spondylite psoriasique
+M0728	Spondylite psoriasique - Autres articulations
+M073	Autres arthropathies psoriasiques
+M0730	Autres arthropathies psoriasiques - Sièges multiples
+M0731	Autres arthropathies psoriasiques - Articulations acromio-claviculaire, scapulo-humérale, et sterno-claviculaire
+M0732	Autres arthropathies psoriasiques - Articulation du coude
+M0733	Autres arthropathies psoriasiques - Articulation du poignet
+M0734	Autres arthropathies psoriasiques - Articulations de la main
+M0735	Autres arthropathies psoriasiques - Articulations de la hanche et sacro-iliaque
+M0736	Autres arthropathies psoriasiques - Articulation du genou
+M0737	Autres arthropathies psoriasiques - Articulations de la cheville et du pied
+M0738	Autres arthropathies psoriasiques - Autres articulations
+M0739	Autres arthropathies psoriasiques - Siège non précisé
+M090	Polyarthrite juvénile au cours de psoriasis
+M0900	Polyarthrite juvénile au cours de psoriasis - Sièges multiples
+M0901	Polyarthrite juvénile au cours de psoriasis - Articulations acromio-claviculaire, scapulo-humérale, et sterno-claviculaire
+M0902	Polyarthrite juvénile au cours de psoriasis - Articulation du coude
+M0903	Polyarthrite juvénile au cours de psoriasis - Articulation du poignet
+M0904	Polyarthrite juvénile au cours de psoriasis - Articulations de la main
+M0905	Polyarthrite juvénile au cours de psoriasis - Articulations de la hanche et sacro-iliaque
+M0906	Polyarthrite juvénile au cours de psoriasis - Articulation du genou
+M0907	Polyarthrite juvénile au cours de psoriasis - Articulations de la cheville et du pied
+M0908	Polyarthrite juvénile au cours de psoriasis - Autres articulations
+M0909	Polyarthrite juvénile au cours de psoriasis - Siège non précisé

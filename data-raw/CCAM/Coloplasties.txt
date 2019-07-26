@@ -1,0 +1,7 @@
+ACTE	LIBELLE
+HEFA016	Œsophagectomie avec œsophagocoloplastie, par thoraco-phréno-laparotomie
+HEFA009	Œsophagectomie avec œsophagocoloplastie, par thoracotomie et par laparotomie
+HEFA007	Œsophagectomie avec œsophagocoloplastie, par cervicotomie, thoracotomie et laparotomie
+HEMA005	Œsophagocoloplastie rétrosternale sans œsophagectomie, avec anastomose pharyngocolique, par cervicotomie et par laparotomie
+HEMA001	Œsophagocoloplastie rétrosternale sans œsophagectomie, avec anastomose œsophagocolique cervicale, par cervicotomie et par laparotomie
+HEMA006	Reconstruction de l'œsophage par lambeau libre de segment digestif, avec anastomoses vasculaires et digestives

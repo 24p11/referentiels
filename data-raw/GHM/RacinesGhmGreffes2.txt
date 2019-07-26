@@ -1,0 +1,15 @@
+ORGANE	RACINE_GHM	LIBELLE
+Cornee	02C09	Allogreffes de cornee
+Peau	08C20	Greffes de peau pour maladie de l'appareil musculosquelettique ou du tissu conjonctif
+Peau	09C02	Greffes de peau et/ou parages de plaie pour ulcere cutane ou cellulite
+Peau	09C03	Greffes de peau et/ou parages de plaie a l'exception des ulceres cutanes et cellulites
+Peau	22C02	Brulures non etendues avec greffe cutanee
+Poumon	27C04	Transplantations pulmonaires
+Coeur	27C05	Transplantations cardiaques
+Rein	27C06	Transplantations renales
+Pancreas	27C03	Transplantations pancreatiques
+Foie	27C02	Transplantations hepatiques
+Autre	27C07	Autres transplantations
+AllogreffeCellulesSouches	27Z02	Allogreffes de cellules souches hematopoietiques
+AutreGreffeHemato	27Z04J	Greffes de cellules souches hematopoietiques, en ambulatoire
+AutoGreffeCellulesSouches	27Z03Z	Autogreffes de cellules souches hematopoietiques

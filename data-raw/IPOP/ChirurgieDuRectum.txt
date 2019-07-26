@@ -1,0 +1,10 @@
+TYPE
+Amputation abdominopérinéale, coelioscopie
+Amputation abdominopérinéale, laparotomie
+Amputation du rectum, abord périnéal
+Amputation du rectum, coelioscopie + colostomie périnéale
+Amputation du rectum, laparoscopie + colostomie périnéale
+Résection rectosigmoïdienne, coelioscopie, avec anastomose coloanale
+Résection rectosigmoïdienne, coelioscopie, avec anastomose sous péritonéale
+Résection rectosigmoïdienne, laparotomie, avec anastomose coloanale
+Résection rectosigmoïdienne, laparotomie, avec anastomose sous péritonéale

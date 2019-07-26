@@ -1,0 +1,9 @@
+﻿CODE	LIBELLE
+M052	Vascularite rhumatoïde
+M053	Polyarthrite rhumatoïde avec atteinte d'autres organes et appareils
+M058	Autres polyarthrites rhumatoïdes séropositives
+M059	Polyarthrite rhumatoïde séropositive, sans précision
+M060	Polyarthrite rhumatoïde séronégative
+M063	Nodule rhumatoïde
+M068	Autres polyarthrites rhumatoïdes précisées
+M069	Polyarthrite rhumatoïde, sans précision

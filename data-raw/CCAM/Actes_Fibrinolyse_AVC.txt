@@ -1,0 +1,4 @@
+ACTE	LIBELLE
+EBNF001	Fibrinolyse in situ sélective ou hypersélective d'une artère extracrânienne à destination cervicocéphalique, par voie artérielle transcutanée
+EBNF002	Fibrinolyse in situ suprasélective d'une artère extracrânienne à destination cervicocéphalique, par voie artérielle transcutanée
+EANF002	Fibrinolyse in situ suprasélective d'artère intracrânienne, par voie artérielle transcutanée

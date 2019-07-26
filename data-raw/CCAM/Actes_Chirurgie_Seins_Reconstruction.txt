@@ -1,0 +1,25 @@
+ACTE	LIBELLE
+QEEA001	Transposition du mamelon
+QEMA012	Mastoplastie unilatérale de réduction
+QEMA005	Mastoplastie unilatérale de réduction, avec reconstruction de la plaque aréolomamelonnaire par lambeau local et autogreffe cutanée
+QEMA003	Mastoplastie unilatérale d'augmentation, avec pose d'implant prothétique
+QEMA006	Reconstruction du sein par pose d'implant prothétique
+QEMA001	Reconstruction du sein par lambeau unipédiculé de muscle droit de l'abdomen
+QEMA014	Reconstruction du sein par lambeau bipédiculé de muscle droit de l'abdomen
+QEMA002	Reconstruction du sein par lambeau musculocutané libre de muscle droit de l'abdomen, avec anastomoses vasculaires
+QEMA008	Reconstruction du sein par lambeau musculocutané pédiculé autre que du muscle droit de l'abdomen
+QEMA011	Reconstruction du sein par dédoublement du sein restant
+QEGA001	Ablation unilatérale d'implant prothétique mammaire, sans capsulectomie
+QEGA003	Ablation unilatérale d'implant prothétique mammaire, avec capsulectomie
+QEGA002	Ablation bilatérale d'implant prothétique mammaire, sans capsulectomie
+QEGA004	Ablation bilatérale d'implant prothétique mammaire, avec capsulectomie
+QEKA002	Changement d'implant prothétique mammaire, sans capsulectomie
+QEKA001	Changement d'implant prothétique mammaire, avec capsulectomie
+QEPA001	Capsulotomie mammaire avec changement de loge de l'implant prothétique
+QEBA001	Réduction de volume du mamelon
+QEMA007	Plastie d'augmentation ou de réduction de la plaque aréolomamelonnaire
+QEMB001	Séance de réfection de l'aspect de la plaque aréolomamelonnaire par dermopigmentation
+QEMA009	Reconstruction de la plaque aréolomamelonnaire par autogreffe de mamelon, avec dermopigmentation
+QEMA010	Reconstruction de la plaque aréolomamelonnaire par autogreffe de mamelon ou lambeau local, et autogreffe cutanée
+QEMA020	Reconstruction du sein par lambeau cutanéograisseux libre à pédicule perforant de l'abdomen [lambeau DIEP [deep inferior epigastric perforator]] avec anastomoses vasculaires 
+	

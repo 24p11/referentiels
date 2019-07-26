@@ -1,0 +1,8 @@
+GHS	GHM	LIBELLE	BB	BH	TARIF	FORF_EXB	TARIF_EXB	TARIF_EXH	V.Tarifs
+9999	14Z08Z	Interruptions volontaires de grossesse : séjours de moins de 3 jours	0	0	0	0	0	0	all
+9999	09Z02Z	Chirurgie esthetique	0	0	0	0	0	0	all
+9999	Non valorises	Non valorises	0	0		0	0	0	all
+9999	90Z00Z	Erreur	0	0		0	0	0	all
+9999	15Z10E	Mort-nés	0	0	0	0	0	0	all
+9999	24Z15Z	Interruption volontaire de grossesse : séjours de moins de 2 jours	0	0	0	0	0	0	all
+9999	24Z19Z	Interventions à visée esthétique et de confort, séjours de moins de 2 jours	0	0	0	0	0	0	all

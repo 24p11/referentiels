@@ -1,0 +1,22 @@
+CODE	LIBELLE
+Z94	Greffe d'organe et de tissu
+Z940	Greffe de rein
+Z941	Greffe du coeur
+Z942	Greffe de poumon
+Z943	Greffe de coeur et poumon
+Z944	Greffe de foie
+Z945	Greffe de peau
+Z946	Greffe d'os
+Z947	Greffe de cornee
+Z948	Autres greffes d'organes et de tissus
+Z9480	Greffe de moelle osseuse
+Z94800	Autogreffe de cellules souches hematopoïetiques
+Z94801	Presence d'allogreffe de cellules souches hematopoïetiques
+Z9481	Greffe de pancreas
+Z9482	Greffe d'intestin
+Z9488	Greffe d'organes et de tissus, autres
+Z949	Greffe d'organe et de tissu, sans precision
+Z94802	Allogreffe de cellules souches hematopoïetiques, greffon de moelle osseuse, de cellules souches peripheriques ou d'unite de sang placentaire de donneur apparente
+Z94803	Allogreffe de cellules souches hematopoïetiques, greffon de moelle osseuse ou de cellules souches peripheriques de donneur non apparente
+Z94804	Allogreffe de cellules souches hematopoïetiques, greffon d'unite de sang placentaire de donneur non apparente
+Z94809	Allogreffe de cellules souches hematopoïetiques, autres et sans precision

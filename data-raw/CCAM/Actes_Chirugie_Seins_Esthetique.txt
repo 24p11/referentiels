@@ -1,0 +1,30 @@
+QEFA006	Exérèse de tissu mammaire ectopique ou de glande mammaire aberrante [sein surnuméraire]
+QEFA011	Exérèse unilatérale de gynécomastie
+QEFA002	Exérèse bilatérale de gynécomastie
+QEMA012	Mastoplastie unilatérale de réduction
+QEMA005	Mastoplastie unilatérale de réduction, avec reconstruction de la plaque aréolomamelonnaire par lambeau local et autogreffe cutanée
+QEMA013	Mastoplastie bilatérale de réduction
+QEMA003	Mastoplastie unilatérale d'augmentation, avec pose d'implant prothétique
+QEMA004	Mastoplastie bilatérale d'augmentation, avec pose d'implant prothétique
+QEDA002	Mastopexie unilatérale, sans pose d'implant prothétique
+QEDA001	Mastopexie unilatérale, avec pose d'implant prothétique
+QEDA004	Mastopexie bilatérale, sans pose d'implant prothétique
+QEDA003	Mastopexie bilatérale, avec pose d'implant prothétique
+QEGA001	Ablation unilatérale d'implant prothétique mammaire, sans capsulectomie
+QEGA003	Ablation unilatérale d'implant prothétique mammaire, avec capsulectomie
+QEGA002	Ablation bilatérale d'implant prothétique mammaire, sans capsulectomie
+QEGA004	Ablation bilatérale d'implant prothétique mammaire, avec capsulectomie
+QEKA002	Changement d'implant prothétique mammaire, sans capsulectomie
+QEKA001	Changement d'implant prothétique mammaire, avec capsulectomie
+QEPA001	Capsulotomie mammaire avec changement de loge de l'implant prothétique
+QEBA001	Réduction de volume du mamelon
+QEFA009	Exérèse du mamelon
+QEFA014	Exérèse de mamelon surnuméraire
+QEEA002	Désinvagination unilatérale du mamelon ombiliqué
+QEEA003	Désinvagination bilatérale du mamelon ombiliqué
+QEEA001	Transposition du mamelon
+QEFA018	Exérèse de la plaque aréolomamelonnaire
+QEMA007	Plastie d'augmentation ou de réduction de la plaque aréolomamelonnaire
+QEMB001	Séance de réfection de l'aspect de la plaque aréolomamelonnaire par dermopigmentation
+QEMA009	Reconstruction de la plaque aréolomamelonnaire par autogreffe de mamelon, avec dermopigmentation
+QEMA010	Reconstruction de la plaque aréolomamelonnaire par autogreffe de mamelon ou lambeau local, et autogreffe cutanée

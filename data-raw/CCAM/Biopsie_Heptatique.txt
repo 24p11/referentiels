@@ -1,0 +1,11 @@
+ACTE	LIBELLE
+HLHJ004	Ponction de collection hépatique, par voie transcutanée avec guidage échographique
+HLHH002	Ponction de collection hépatique, par voie transcutanée avec guidage scanographique
+HLHB001	Biopsie du foie, par voie transcutanée sans guidage
+HLHJ003	Biopsie non ciblée du foie, par voie transcutanée avec guidage échographique
+HLHJ006	Biopsie du foie sur une cible, par voie transcutanée avec guidage échographique
+HLHH006	Biopsie du foie sur une cible, par voie transcutanée avec guidage scanographique
+HLHJ005	Biopsie du foie sur plusieurs cibles, par voie transcutanée avec guidage échographique
+HLHH007	Biopsie du foie sur plusieurs cibles, par voie transcutanée avec guidage scanographique
+HLHH001	Biopsie du foie par voie jugulaire avec guidage échographique et/ou radiologique, sans prise de pression intraveineuse
+HLHH005	Biopsie du foie par voie jugulaire avec guidage échographique et/ou radiologique, avec prise de pression intraveineuse

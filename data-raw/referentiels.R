@@ -419,4 +419,6 @@ devtools::use_data(AM,internal = FALSE, overwrite = TRUE)
 
 ##Typologie des structures
 nomenclature_uma<-readxl::read_excel(paste(path,"nomenclature_uma.xlsx",sep=''))
+names(nomenclature_uma) <- c('typeaut','libelle_typeaut','mode_hospitalisation',
+                               'discipline','historique')
 devtools::use_data(nomenclature_uma,internal = FALSE, overwrite = TRUE)

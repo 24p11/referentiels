@@ -418,5 +418,5 @@ AM<-c("FAFA001","FAFA002","FAFA008","FAFA013","NFPC002","NFFC002","NFEC001","NFE
 devtools::use_data(AM,internal = FALSE, overwrite = TRUE)
 
 ##Typologie des structures
-nomenclatureum_uf<-readxl::read_excel(paste(path,"nomenclatureum_uf.xlsx",sep=''))
-devtools::use_data(nomenclatureum_uf,internal = FALSE, overwrite = TRUE)
+nomenclature_uma<-readxl::read_excel(paste(path,"nomenclature_uma.xlsx",sep=''))
+devtools::use_data(nomenclature_uma,internal = FALSE, overwrite = TRUE)

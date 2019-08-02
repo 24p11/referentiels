@@ -3,7 +3,7 @@
 # Réfentiels
 #--------------------------------------------------------------------------------------------------------------
 #--------------------------------------------------------------------------------------------------------------
-
+library(devtools)
 path = paste0(dirname(rstudioapi::getSourceEditorContext()$path),"/")
 #Ensemble des listes disponibles sur referime
 #listes <- dplyr::as_tibble(fromJSON( getURL("http://referime.aphp.fr:8000/v0.2/listes/dictionnaire",.encoding =  "UTF-8" ),
@@ -99,6 +99,8 @@ for (file in files){
   tmp<-read.table(file=paste(folder,file,sep=''),sep='\t',header=T,
                   quote="\"", dec=".", na.strings = "NULL",fill = TRUE,fileEncoding = "latin1",stringsAsFactors = F)
 
+  names(tmp)<-tolower(names(tmp))
+
   assign( tolower(nom_liste) , tmp )
 
   do.call("use_data", list( as.name( tolower(nom_liste) ), internal = FALSE, overwrite = TRUE))
@@ -120,6 +122,8 @@ for (file in files){
 
   tmp<-read.table(file=paste(folder,file,sep=''),sep='\t',header=T,
                   quote="\"", dec=".", na.strings = "NULL",fill = TRUE,fileEncoding = "latin1",stringsAsFactors = F)
+
+  names(tmp)<-tolower(names(tmp))
 
   assign( tolower(nom_liste) , tmp )
 
@@ -144,6 +148,8 @@ for (file in files){
   tmp<-read.table(file=paste(folder,file,sep=''),sep='\t',header=T,
                   quote="\"", dec=".", na.strings = "NULL",fill = TRUE,fileEncoding = "latin1",stringsAsFactors = F)
 
+  names(tmp)<-tolower(names(tmp))
+
   assign( tolower(nom_liste) , tmp )
 
   do.call("use_data", list( as.name( tolower(nom_liste) ), internal = FALSE, overwrite = TRUE))
@@ -162,12 +168,13 @@ files<-list.files(folder)
 
 for (file in files){
   nom_liste<-substr(file,1,(nchar(file)-5))
-  tmp<-readxl::read_excel(paste(folder,file,sep=''))
-  names(tmp)<-tolower(names(tmp))
-  assign( tolower(nom_liste) , tmp )
+  if(stringr::str_sub(file,-4) == "xlsx"){
+    tmp<-readxl::read_excel(paste(folder,file,sep=''))
+    names(tmp)<-tolower(names(tmp))
+    assign( tolower(nom_liste) , tmp )
 
-  do.call("use_data", list( as.name( tolower(nom_liste) ), internal = FALSE, overwrite = TRUE))
-
+    do.call("use_data", list( as.name( tolower(nom_liste) ), internal = FALSE, overwrite = TRUE))
+  }
 }
 
 #########################################################################################
@@ -181,13 +188,16 @@ files<-list.files(folder)
 
 for (file in files){
 
-  nom_liste<-substr(file,1,(nchar(file)-5))
-  tmp<-readxl::read_excel(paste(folder,file,sep=''))
-  names(tmp)<-tolower(names(tmp))
+  if(stringr::str_sub(file,-4) == "xlsx"){
 
-  assign( tolower(nom_liste) , tmp )
+    nom_liste<-substr(file,1,(nchar(file)-5))
+    tmp<-readxl::read_excel(paste(folder,file,sep=''))
+    names(tmp)<-tolower(names(tmp))
 
-  do.call("use_data", list( as.name( tolower(nom_liste) ), internal = FALSE, overwrite = TRUE))
+    assign( tolower(nom_liste) , tmp )
+
+    do.call("use_data", list( as.name( tolower(nom_liste) ), internal = FALSE, overwrite = TRUE))
+  }
 }
 
 #########################################################################################
@@ -221,6 +231,8 @@ for (file in files){
 
   tmp<-read.table(file=paste(folder,file,sep=''),sep='\t',header=T,
                   quote="\"", dec=".", na.strings = "NULL",fill = TRUE,fileEncoding = "latin1",stringsAsFactors = F)
+
+  names(tmp)<-tolower(names(tmp))
 
   assign( tolower(nom_liste) , tmp )
 

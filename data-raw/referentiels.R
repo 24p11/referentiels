@@ -3,7 +3,6 @@
 # Réfentiels
 #--------------------------------------------------------------------------------------------------------------
 #--------------------------------------------------------------------------------------------------------------
-library(devtools)
 path = paste0(dirname(rstudioapi::getSourceEditorContext()$path),"/")
 #Ensemble des listes disponibles sur referime
 #listes <- dplyr::as_tibble(fromJSON( getURL("http://referime.aphp.fr:8000/v0.2/listes/dictionnaire",.encoding =  "UTF-8" ),
@@ -156,50 +155,6 @@ for (file in files){
 
 }
 
-
-#########################################################################################
-# Listes REFERIME
-#
-##########################################################################################
-
-listes_referime<-list()
-folder<-paste0(path,"REFERIME_LISTES/")
-files<-list.files(folder)
-
-for (file in files){
-  nom_liste<-substr(file,1,(nchar(file)-5))
-  if(stringr::str_sub(file,-4) == "xlsx"){
-    tmp<-readxl::read_excel(paste(folder,file,sep=''))
-    names(tmp)<-tolower(names(tmp))
-    assign( tolower(nom_liste) , tmp )
-
-    do.call("use_data", list( as.name( tolower(nom_liste) ), internal = FALSE, overwrite = TRUE))
-  }
-}
-
-#########################################################################################
-# Référentiels REFERIME
-#
-##########################################################################################
-
-refs_referime<-list()
-folder<-paste0(path,"REFERIME_REFERENTIELS/")
-files<-list.files(folder)
-
-for (file in files){
-
-  if(stringr::str_sub(file,-4) == "xlsx"){
-
-    nom_liste<-substr(file,1,(nchar(file)-5))
-    tmp<-readxl::read_excel(paste(folder,file,sep=''))
-    names(tmp)<-tolower(names(tmp))
-
-    assign( tolower(nom_liste) , tmp )
-
-    do.call("use_data", list( as.name( tolower(nom_liste) ), internal = FALSE, overwrite = TRUE))
-  }
-}
-
 #########################################################################################
 #
 #       Listes CMA: COMPLICATIONS ET MORBIDITÉS ASSOCIÉES
@@ -303,31 +258,6 @@ GhmGhs$BB[ which(substr(GhmGhs$GHM,6,6)==4 & GhmGhs$BB == 0) ] = 4
 
 
 #########################################################################################
-#
-#DMS
-#Intégration DMS siège
-#
-#########################################################################################
-load(path("data", "ghm_dms_nationales", ext = "rda"))
-df <- ghm_dms_nationales
-df<- df[!duplicated(df[,c('ghm','anseqta')]),]
-names(df)<-c('GHM','GHS','BB','BH','DMS','VC','NUM','anseqta')
-annee=as.numeric(format(Sys.Date()-55,'%Y'));
-if(!annee%in%unique(df$anseqta)){
-  tmp<-df[which(df$anseqta==annee-1),]
-  tmp$anseqta=annee
-  df<-rbind(df,tmp)
-
-}
-tmp <- GhmGhs[which(is.na(GhmGhs$anseqta)),]
-tmp2 <- GhmGhs[- which(is.na(GhmGhs$anseqta)),]
-tmp2<- merge(tmp2,df[,c('GHM','anseqta','DMS')],by.x=c('GHM','anseqta'),by.y=c('GHM','anseqta'),all.x=T)
-tmp[,names(tmp2)[!names(tmp2)%in%names(tmp)]]<-NA
-GhmGhs<-rbind(tmp2,tmp[names(tmp2)])
-
-
-
-#########################################################################################
 # Table des supplements  : Supp
 #  Valeur des supplements
 #	1 seule fichier pour l'ensemble des annee
@@ -369,9 +299,9 @@ o<-intersect(grep('11',GhmGhs$version),o)
 Racines<-GhmGhs[o,]
 Racines<-Racines[!duplicated(Racines[,c('V.Tarifs','Racine')]),c('V.Tarifs','Racine')]
 for(i in 1:4){
-  a<-GhmGhs[which(substr(GhmGhs$GHM,6,6)==i),c('V.Tarifs','Racine',"DMS","BB","BH")]
+  a<-GhmGhs[which(substr(GhmGhs$GHM,6,6)==i),c('V.Tarifs','Racine',"BB","BH")]
   a<-a[!duplicated(a[,c('V.Tarifs','Racine')]),]
-  names(a)<-c('V.Tarifs','Racine',paste(c("DMS_NS","BB_NS","BH_NS"),i,sep=''))
+  names(a)<-c('V.Tarifs','Racine',paste(c("BB_NS","BH_NS"),i,sep=''))
   Racines<-merge(Racines,a,
                  by=c('V.Tarifs','Racine')
   )
@@ -379,14 +309,10 @@ for(i in 1:4){
 GhmGhs<-merge(GhmGhs,Racines,by=c('V.Tarifs','Racine'),all.x=T)
 
 
-GhmGhs$TarifJourMoy=GhmGhs$TARIF
-GhmGhs$TarifJourMoy[which(GhmGhs$DMS>0)]<- GhmGhs$TARIF[which(GhmGhs$DMS>0)] / GhmGhs$DMS[which(GhmGhs$DMS>0)]
-GhmGhs$TarifJourMoy[which(is.na(GhmGhs$DMS))]<-NA
-
-referentiel_ghm_tarfis<-as_tibble(GhmGhs)
-names(referentiel_ghm_tarfis)<-tolower(names(referentiel_ghm_tarfis))
-referentiel_ghm_tarfis<-referentiel_ghm_tarfis%>%distinct(ghm,ghs,anseqta,.keep_all = T)
-devtools::use_data(referentiel_ghm_tarfis,internal = FALSE, overwrite = TRUE)
+referentiel_ghm_tarifs<-dplyr::as_tibble(GhmGhs)
+names(referentiel_ghm_tarifs)<-tolower(names(referentiel_ghm_tarifs))
+referentiel_ghm_tarifs<-referentiel_ghm_tarifs%>%dplyr::distinct(ghm,ghs,anseqta,.keep_all = T)
+use_data(referentiel_ghm_tarifs,internal = FALSE, overwrite = TRUE)
 
 
 #Actes de radiothérapie donnant lieu à facturation d'un supplément
@@ -400,7 +326,7 @@ actessdc <- "DEKA002|DELA004|DELA007|DELF013|DELF014|DELF016|DELF020|DELF900"
 devtools::use_data(actessdc,internal = FALSE, overwrite = TRUE)
 #Actes d'aphérère donnant lieu à facturation d'un supplément
 actesapherese <- "FEFF001|FEFF002|FEJF001|FEJF002|FEJF004|FEJF005|FEJF007|FEJF009|FEPF001|FEPF002|FEPF003|FEPF004|FEPF005|FERP001"
-devtools::use_data(actesapherese,internal = FALSE, overwrite = TRUE)
+use_data(actesapherese,internal = FALSE, overwrite = TRUE)
 
 
 
@@ -427,10 +353,10 @@ AM<-c("FAFA001","FAFA002","FAFA008","FAFA013","NFPC002","NFFC002","NFEC001","NFE
       "JNMD001","ELSA001","ELSC001","JHEA001","JHFA013","JHFA019","GBPE001","GBPE003","GBPA004","GBGD001","BGFA014",
       "BGFA005","CBMA008","CBMA009","HAFA021","HAFA034","HASA018","HASA025","HASA013","QZMA006","QZPA008","HCFA007",
       "HCPA001","HCGA001","HAMA027","HAMA028","QZMA001","QZMA004","BGPA002","BGFA001")
-devtools::use_data(AM,internal = FALSE, overwrite = TRUE)
+use_data(AM,internal = FALSE, overwrite = TRUE)
 
 ##Typologie des structures
 nomenclature_uma<-readxl::read_excel(paste(path,"nomenclature_uma.xlsx",sep=''))
 names(nomenclature_uma) <- c('typeaut','libelle_typeaut','mode_hospitalisation',
                                'discipline','historique')
-devtools::use_data(nomenclature_uma,internal = FALSE, overwrite = TRUE)
+use_data(nomenclature_uma,internal = FALSE, overwrite = TRUE)
